@@ -1,37 +1,19 @@
-## ML for Systems
+## Overview
 
-You can use the [editor on GitHub](https://github.com/mlforsystems/mlforsystems.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Designing specialized hardware for deep learning is a topic that has received significant research attention, both in industrial and academic settings, leading to exponential increases in compute capability in GPUs and accelerators. However, using machine learning to optimize and accelerate software and hardware systems is a lightly explored but promising field, with broad implications for computing as a whole. Very recent work has outlined a broad scope where deep learning vastly outperforms traditional heuristics including topics such as: scheduling, data structure design, microarchitecture, compilers, and control of warehouse scale computing systems.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The focus of this workshop is to expand upon this recent work and build a community focused on using machine learning in computer systems problems. We seek to improve the state of the art in the areas where learning has already proven to perform better than traditional heuristics, as well as expand to new areas throughout the system stack such as hardware/circuit design and operating/runtime systems.
 
-### Markdown
+By forming a community of academic and industrial researchers who are excited about this area, we seek to build towards intelligent, self optimizing systems and answer questions such as: How do we generate and share high quality datasets that span the layers of the system stack? Which learned representations best represent code performance and runtime? Which simulators and simulation methodologies provide a tractable proving ground techniques like reinforcement learning?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+To this end, the target audience for this workshop includes a wide variety of attendees from state-of-the-art researchers in machine learning to domain experts in computer systems design. We have invited a broad set of expert speakers to present the potential for impact of combining deep learning research with computer systems. We hope that by providing a formal venue for researchers from both fields to meet and interact, that the result will include both fundamental research in ML as well as real-world impact to computer systems design and implementation.
 
-```markdown
-Syntax highlighted code block
+The workshop will host 6 speakers and we will invite researchers to submit relevant papers through our [call for papers](mlforsystems.org/call_for_papers.html). The speakers, and potentially other relevant stakeholders, will be invited to participate in a panel discussion to end the workshop. See the [schedule](mlforsystems.org/schedule.html) for details.
 
-# Header 1
-## Header 2
-### Header 3
+## Organizing Committee
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mlforsystems/mlforsystems.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* Anna Goldie, Google Brain
+* Azalia Mirhoseini, Google Brain
+* Jonathan Raiman, OpenAI
+* Kevin Swersky, Google Brain
+* Milad Hashemi, Google
