@@ -21,7 +21,8 @@
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
         <div class="navigation">
         {% for page in site.pages %}
-          <span class="navigation-link"><a href="{{ page.url }}" alt="{{ page.title }}">{{ page.title }}</a></span>\
+          {{ page }}
+          <span class="navigation-link"><a href="{{ page.url }}" alt="{{ page.title }}">{{ page.title }}</a></span>
         {% endfor %}
         </div>
       </div>
