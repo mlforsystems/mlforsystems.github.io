@@ -8,7 +8,7 @@ By forming a community of academic and industrial researchers who are excited ab
 
 To this end, the target audience for this workshop includes a wide variety of attendees from state-of-the-art researchers in machine learning to domain experts in computer systems design. We have invited a broad set of expert speakers to present the potential for impact of combining deep learning research with computer systems. We hope that by providing a formal venue for researchers from both fields to meet and interact, that the result will include both fundamental research in ML as well as real-world impact to computer systems design and implementation.
 
-The workshop will host 6 speakers and we will invite researchers to submit relevant papers through our [call for papers](mlforsystems.org/call_for_papers.html). The speakers, and potentially other relevant stakeholders, will be invited to participate in a panel discussion to end the workshop. See the [schedule](mlforsystems.org/schedule.html) for details.
+The workshop will host 6 speakers and we will invite researchers to submit relevant papers through our [call for papers](/call_for_papers.html). The speakers, and potentially other relevant stakeholders, will be invited to participate in a panel discussion to end the workshop. See the [schedule](/schedule.html) for details.
 
 <sup>1</sup> [Device Placement Optimization with Reinforcement Learning](https://arxiv.org/pdf/1706.04972.pdf)
 
