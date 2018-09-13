@@ -1,0 +1,29 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+header a {
+    color: white
+}
+
+header a:hover {
+    color: white;
+    color: #8BD3FF
+}
+
+.navigation {
+    font-size: 22px;
+    padding-top: 20px
+}
+
+.navigation-link {
+    padding-right: 8px;
+    padding-left: 8px;
+    border-right: 1px solid #8BD3FF
+}
+
+.navigation-link:last-child {
+    padding-right: 8px;
+    padding-left: 8px
+}
