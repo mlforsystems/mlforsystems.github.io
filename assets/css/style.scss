@@ -29,7 +29,7 @@ header a:hover {
 }
 
 @media only screen and (min-width: 800px) {
-    header h1 {
+    header h1, header h2 {
         width: 800px;
     }
 }
