@@ -21,7 +21,7 @@
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
         <div class="navigation">
         {% for page in site.pages %}
-          {% if not page.url.end_with? "css" %}
+          {% if !(page.url.end_with? "css") %}
             <span class="navigation-link"><a href="{{ page.url }}" alt="{{ page.title }}">{{ page.title }}</a></span>
           {% endif %}
         {% endfor %}
