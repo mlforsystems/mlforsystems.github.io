@@ -24,6 +24,10 @@ header {
     content: none;
 }
 
+#content-wrapper {
+    border-top: none;
+}
+
 #main-content h2, #main-content h1, #main-content h3 {
 font-family: -apple-system, BlinkMacSystemFont, "Oxygen","Ubuntu", "Cantarell", "Fira Sans", "Open Sans", "Droid Sans", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
 text-indent: 0;
