@@ -10,21 +10,26 @@ To this end, the target audience for this workshop includes a wide variety of at
 
 The workshop will host 6 speakers and we will invite researchers to submit relevant papers through our [call for papers](/call_for_papers.html). The speakers, and potentially other relevant stakeholders, will be invited to participate in a panel discussion to end the workshop. See the [schedule](/schedule.html) for details.
 
-<sup>1</sup> [Device Placement Optimization with Reinforcement Learning](https://arxiv.org/abs/1706.04972)
+<ul class="footnotes">
+<li><sup>1</sup> <a href="https://arxiv.org/abs/1706.04972">Device Placement Optimization with Reinforcement Learning</a></li>
+<li><sup>2</sup> <a href="https://openreview.net/forum?id=Hkc-TeZ0W">A Hierarchical Model for Device Placement</a></li>
+<li><sup>3</sup> <a href="https://arxiv.org/abs/1712.01208">The Case for Learned Index Structures</a></li>
+<li><sup>4</sup> <a href="https://arxiv.org/abs/1803.02329">Learning Memory Access Patterns</a></li>
+<li><sup>5</sup> <a href="https://ieeexplore.ieee.org/document/8091247/?reload=true">End to End Deep Learning of Optimization Heuristics</a></li>
+<li><sup>6</sup> <a href="https://deepmind.com/blog/deepmind-ai-reduces-google-data-centre-cooling-bill-40/">Deepmind AI Reduces Google Data Centre Cooling Bill</a></li>
+<li><sup>7</sup> <a href="https://www.youtube.com/watch?v=YhNl468S8CI">Bayesian optimization for tuning the JVM</a></li>
+<li><sup>8</sup> <a href="https://arxiv.org/abs/1711.11165">Safe Exploration for Identifying Linear Systems via Robust Optimization</a></li>
+</ul>
 
-<sup>2</sup> [A Hierarchical Model for Device Placement](https://openreview.net/forum?id=Hkc-TeZ0W)
 
-<sup>3</sup> [The Case for Learned Index Structures](https://arxiv.org/abs/1712.01208)
 
-<sup>4</sup> [Learning Memory Access Patterns](https://arxiv.org/abs/1803.02329)
 
-<sup>5</sup> [End to End Deep Learning of Optimization Heuristics](https://ieeexplore.ieee.org/document/8091247/?reload=true)
 
-<sup>6</sup> [Deepmind AI Reduces Google Data Centre Cooling Bill](https://deepmind.com/blog/deepmind-ai-reduces-google-data-centre-cooling-bill-40/)
 
-<sup>7</sup> [Bayesian optimization for tuning the JVM](https://www.youtube.com/watch?v=YhNl468S8CI)
 
-<sup>8</sup> [Safe Exploration for Identifying Linear Systems via Robust Optimization](https://arxiv.org/abs/1711.11165)
+
+
+
 
 ## Organizing Committee
 

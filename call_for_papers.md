@@ -4,11 +4,21 @@ We invite submissions of extended abstracts to the Machine Learning for Systems 
 
 ### Overview
 
-Designing specialized hardware for deep learning is a topic that has received significant research attention, both in industrial and academic settings, leading to exponential increases in compute capability in GPUs and accelerators. However, using machine learning to optimize and accelerate software and hardware systems is a lightly explored but promising field, with broad implications for computing as a whole. Very recent work has outlined a broad scope where deep learning vastly outperforms traditional heuristics including topics such as: scheduling, data structure design, microarchitecture, compilers, control of warehouse scale computing systems, and auto-tuned software infrastructure6.
+Designing specialized hardware for deep learning is a topic that has received significant research attention, both in industrial and academic settings, leading to exponential increases in compute capability in GPUs and accelerators. However, using machine learning to optimize and accelerate software and hardware systems is a lightly explored but promising field, with broad implications for computing as a whole. Very recent work has outlined a broad scope where deep learning vastly outperforms traditional heuristics including topics such as: scheduling, data structure design, microarchitecture, compilers, control of warehouse scale computing systems, and auto-tuned software infrastructure<sup>1</sup>.
 
 The focus of this workshop is to expand upon this recent work and build a community focused on using machine learning in computer systems problems. We seek to improve the state of the art in the areas where learning has already proven to perform better than traditional heuristics, as well as expand to new areas throughout the system stack such as hardware/circuit design and operating/runtime systems.
 
-We welcome submission of up to 4-page extended abstracts in the broad area of using machine learning to accelerate, design, or architect computer systems and software. Areas of interest include:
+We welcome submission of up to 4-page extended abstracts in the broad area of using machine learning to accelerate, design, or architect computer systems and software.
+
+The workshop will include invited talks from industry and academia as well as oral and poster presentations by participants.
+
+
+<ul class="footnotes">
+<li><sup>1</sup> <a href="https://www.youtube.com/watch?v=YhNl468S8CI">Bayesian optimization for tuning the JVM</a></li>
+<li><sup>2</sup> <a href="https://arxiv.org/abs/1711.11165">Safe Exploration for Identifying Linear Systems via Robust Optimization</a></li>
+</ul>
+
+### Areas of interest:
 
 * Supervised, unsupervised, and reinforcement learning research with applications to:
     - Systems Software
@@ -21,14 +31,11 @@ We welcome submission of up to 4-page extended abstracts in the broad area of us
     - Interconnects and Networking
     - Storage
     - Datacenters
-
 * Representation learning for hardware and software
 * Optimization of computer systems and software
 * Systems modeling and simulation
 * Implementations of ML for Systems and challenges
 * High quality datasets for ML for Systems problems
-
-The workshop will include invited talks from industry and academia as well as oral and poster presentations by participants.
 
 ## Submission Instructions
 

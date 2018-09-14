@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" media="screen" type="text/css">
     <link rel="stylesheet" href="{{ '/assets/css/print.css' | relative_url }}" media="print" type="text/css">
 
+
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
@@ -14,20 +15,39 @@
   </head>
   <body>
     <header>
-      <div class="inner">
-        <a href="{{ '/' | absolute_url }}">
-          <h1>{{ site.title | default: site.github.repository_name }}</h1>
-        </a>
-        <h2>{{ site.description | default: site.github.project_tagline }}</h2>
-        <div class="navigation">
-        {% for page in site.pages %}
-          {% if page.title %}
-          <span class="navigation-link"><a href="{{ page.url }}" alt="{{ page.title }}">{{ page.title }}</a></span>
+      <div class="title_bar">
+        <ul class="navigation">
+            <li class="navigation-link navigation-link-title"><a href="{{ '/' | absolute_url }}">
+              {{ site.title | default: site.github.repository_name }}
+            </a></li>
+        {% for site_page in site.pages %}
+          {% if site_page.title %}
+          {% assign class = "navigation-link hide-on-mobile" %}
+          {% if page.url == site_page.url %}
+              {% assign class = "navigation-link hide-on-mobile navigation-link-active" %}
+          {% endif %}
+
+          <li class="{{ class }}"><a href="{{ site_page.url }}" alt="{{ site_page.title }}">{{ site_page.title }}</a></span>
           {% endif %}
         {% endfor %}
-        </div>
+        </ul>
       </div>
+      <svg id="surface" width="100%" height="100%">
+      </svg>
+      <div class="floating-description">{{ site.description | default: site.github.project_tagline }}</div>
     </header>
+    <ul class="mobile-navigation">
+    {% for site_page in site.pages %}
+      {% if site_page.title %}
+      {% assign class = "mobile-navigation-link" %}
+      {% if page.url == site_page.url %}
+          {% assign class = "mobile-navigation-link mobile-navigation-link-active" %}
+      {% endif %}
+
+      <li class="{{ class }}"><a href="{{ site_page.url }}" alt="{{ site_page.title }}">{{ site_page.title }}</a></span>
+      {% endif %}
+    {% endfor %}
+    </ul>
 
     <div id="content-wrapper">
       <div class="inner clearfix">
@@ -47,5 +67,115 @@
         ga('send', 'pageview');
       </script>
     {% endif %}
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.7.0/d3.min.js"></script>
+    <script src="https://unpkg.com/d3-3d/build/d3-3d.min.js"></script>
+    <script>
+    var origin = [500, 200], width=50, height=50, points = [], alpha = 0, beta = 0, startAngleY = Math.PI/5, startAngleX = Math.PI / 9;
+    // drag support:
+    // .call(d3.drag().on('drag', dragged).on('start', dragStart).on('end', dragEnd))
+    var svg = d3.select('#surface').append('g');
+    var mx, my, mouseX, mouseY;
+
+    var surface = d3._3d()
+        .scale(10)
+        .x(function(d){ return d.x; })
+        .y(function(d){ return d.y; })
+        .z(function(d){ return d.z; })
+        .origin(origin)
+        .rotateY(startAngleY)
+        .rotateX(startAngleX)
+        .shape('SURFACE', Math.max(width, height)*2);
+
+    var color = d3.scaleLinear();
+
+    function processData(data, tt){
+
+        var planes = svg.selectAll('path').data(data, function(d){ return d.plane; });
+
+        planes
+            .enter()
+            .append('path')
+            .attr('class', '_3d')
+            .attr('fill', colorize)
+            .attr('opacity', 0)
+            .attr('stroke-opacity', 1)
+            .merge(planes)
+            .attr('stroke', "rgba(255, 255, 255, 0.2)")
+            .transition().duration(tt)
+            .attr('opacity', 1)
+            .attr('fill', colorize)
+            .attr('d', surface.draw);
+
+        planes.exit().remove();
+
+        d3.selectAll('._3d').sort(surface.sort);
+
+    }
+
+    function colorize(d) {
+        // color interpolation:
+        // var _y = (d[0].y + d[1].y + d[2].y + d[3].y)/4;
+        //d.ccw ? d3.interpolateSpectral(color(_y)) : d3.color(d3.interpolateSpectral(color(_y))).darker(2.5);
+        return "transparent";
+    }
+
+    function dragStart(){
+        mx = d3.event.x;
+        my = d3.event.y;
+    }
+
+    function dragged(){
+        mouseX = mouseX || 0;
+        mouseY = mouseY || 0;
+        beta   = (d3.event.x - mx + mouseX) * Math.PI / 230 ;
+        alpha  = (d3.event.y - my + mouseY) * Math.PI / 230  * (-1);
+        processData(surface.rotateY(beta + startAngle).rotateX(alpha - startAngle)(points), 0);
+    }
+
+    function dragEnd(){
+        mouseX = d3.event.x - mx + mouseX;
+        mouseY = d3.event.y - my + mouseY;
+    }
+
+    function init(eq){
+        points = [];
+        for(var z = -width; z < width; z++){
+            for(var x = -height; x < height; x++){
+                points.push({x: x, y: eq(x, z), z: z});
+            }
+        }
+        // var yMin = d3.min(points, function(d){ return d.y; });
+        // var yMax = d3.max(points, function(d){ return d.y; });
+        // color.domain([yMin, yMax]);
+        processData(surface(points), 1000);
+    }
+
+
+    function exp_decay(maxval, center_x, center_y, x, y) {
+      var x_norm = x - center_x;
+      var y_norm = y - center_y;
+      return maxval * Math.exp(-Math.sqrt(x_norm * x_norm + y_norm * y_norm) / 10.0) * Math.sin(Math.exp(-x_norm / 1.5) + Math.exp(-y_norm) );
+    }
+
+    function change(){
+        var amplitude = 1.0;
+        var frequency = 10.0;
+        var octaves = 3;
+        var persistence = 0.5;
+        var eqa = function(x, y){
+            var value = 0.0
+            for (let octave = 0; octave < octaves; octave++) {
+              var freq = frequency * Math.pow(2, octave);
+              value += Math.random() * (amplitude * Math.pow(persistence, octave))
+            }
+            return 0.1 * (value / (2 - (1 / Math.pow(2, octaves - 1)))) + exp_decay(10.0, 0, 0, x, y) + exp_decay(8.0, 30.0, 40.0, x, y) + exp_decay(8.0, -10.0, -50.0, x, y);
+        };
+        init(eqa);
+    }
+
+    d3.selectAll('button').on('click', change);
+
+    change();
+    </script>
   </body>
 </html>

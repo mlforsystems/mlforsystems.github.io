@@ -3,33 +3,146 @@
 
 @import "{{ site.theme }}";
 
-header a {
-    color: white
+header {
+    padding: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Oxygen","Ubuntu", "Cantarell", "Fira Sans", "Open Sans", "Droid Sans", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    background: #1978f7; /* Old browsers */
+    background: -moz-linear-gradient(-45deg, #1978f7 0%, #4aa8df 9%, #63bdb5 24%, #be968b 48%, #be968b 62%, #fe935f 75%, #fda422 90%, #f9c505 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(-45deg, #1978f7 0%,#4aa8df 9%,#63bdb5 24%,#be968b 48%,#be968b 62%,#fe935f 75%,#fda422 90%,#f9c505 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(135deg, #1978f7 0%,#4aa8df 9%,#63bdb5 24%,#be968b 48%,#be968b 62%,#fe935f 75%,#fda422 90%,#f9c505 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1978f7', endColorstr='#f9c505',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+    margin: 0;
+    margin-top: 36px;
+    position: relative;
+    border-bottom: none;
+    box-shadow: 0 0 4px rgba(0,0,0,.14),0 2px 4px rgba(0,0,0,.17);
+    overflow: hidden;
+    height: 210px;
 }
 
-header a:hover {
+#main-content h2:before, #main-content h1:before, #main-content h3:before {
+    content: none;
+}
+
+#main-content h2, #main-content h1, #main-content h3 {
+font-family: -apple-system, BlinkMacSystemFont, "Oxygen","Ubuntu", "Cantarell", "Fira Sans", "Open Sans", "Droid Sans", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+text-indent: 0;
+}
+
+.floating-description {
+    position: absolute;
+    left: 50px;
+    top: 50%;
+    transform: translateY(-50%);
     color: white;
-    color: #8BD3FF
+    font-size: 27px;
+    max-width: 500px;
 }
 
-.navigation {
+.title_bar {
+    position: fixed;
+    top: 0;
+    background: white;
+    width: 100%;
+    z-index: 100;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.title_bar h1 {
+    font-size: 24px;
+}
+
+ul.navigation, ul.mobile-navigation {
+    list-style-type: none;
+    list-style: none;
+}
+
+ul.navigation {
     font-size: 22px;
-    padding-top: 20px
+    padding-top: 20px;
+    padding: 0;
+    display: inline-block;
+    -ms-flex-align: center;
+    align-items: center;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    margin: 0;
+    margin-left: 50px;
+}
+li.navigation-link, li.mobile-navigation-link {
+    display: inline-block;
+    -ms-flex-align: center;
+    align-items: center;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+}
+li.navigation-link, li.mobile-navigation-link {
+    color: rgba(0, 0, 0, 0.5);
+    transition: color 0.1s ease-in-out;
+    white-space: nowrap;
 }
 
-.navigation-link {
-    padding-right: 8px;
-    padding-left: 8px;
-    border-right: 1px solid #8BD3FF
+li.navigation-link {
+    padding-right: 16px;
+    padding-left: 0;
+    font-size: 18px;
+}
+li.navigation-link a, li.mobile-navigation-link a {
+    color: inherit;
+}
+li.navigation-link:hover, li.mobile-navigation-link:hover {
+    color: rgba(0, 0, 0, 1.0);
+}
+li.navigation-link-active, li.mobile-navigation-link-active {
+    color: #1B66F1;
+}
+li.navigation-link-active:hover, .mobile-navigation-active:hover {
+    color: #165ADC;
+}
+li.navigation-link-title, {
+    margin-right: 50px;
+    font-size: 24px;
+    color: black;
+}
+.mobile-navigation {
+    display: none;
 }
 
-.navigation-link:last-child {
-    padding-right: 8px;
-    padding-left: 8px
+.mobile-navigation-link {
+    border-radius: 4px;
+    font-size: 15px;
+    font-weight: 600;
+    padding: 0 14px;
+    height: 40px;
+    line-height: 40px;
+    letter-spacing: .025em;
+    -webkit-box-shadow: 0 4px 6px rgba(50,50,93,.11),0 1px 3px rgba(0,0,0,.08);
+    box-shadow: 0 4px 6px rgba(50,50,93,.11),0 1px 3px rgba(0,0,0,.08);
+    margin-right: 16px;
 }
 
-@media only screen and (min-width: 800px) {
-    header h1, header h2 {
-        width: 800px;
+@media only screen and (max-width: 700px) {
+    .hide-on-mobile {
+        visibility: hidden;
     }
+    .mobile-navigation {
+        display: block;
+    }
+}
+
+.schedule-table {
+    font-size: 20px;
+    line-height: 1.5;
+    cellpadding: 10;
+}
+.schedule-table td, .schedule-table th {
+    padding: 5px 10px 5px 10px;
+}
+
+ul.footnotes {
+    list-style-type: none;
+    list-style: none;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    font-size: 14px;
+    padding-top: 5px;
 }
