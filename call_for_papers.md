@@ -43,15 +43,15 @@ We welcome submissions of up to 4 pages (not including references).
 All submissions must be in PDF format and should follow the [NIPS 2018 format](https://nips.cc/Conferences/2018/PaperInformation/StyleFiles).
 
 * Submissions do not have to be anonymized
-* Please submit your paper no later than ... using CMT
+* Please submit your paper no later than October 19th, 2018 using CMT (Link to be announced)
 
 ## Important Dates
-* Submission Deadline: ...
-* Acceptance Notifications: ...
-* Final File Upload: ...
+* Submission Deadline: October 19th, 2018
+* Acceptance Notifications: November 9th, 2018
+* Final File Upload: To be Announced
 * Workshop: December 8th, 2018
 
 ## Contact Us
 
-Contact us at ...
+Contact us at [organizers@mlforsystems.org](mailto:organizers@mlforsystems.org).
 

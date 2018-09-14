@@ -22,15 +22,6 @@ The workshop will host 6 speakers and we will invite researchers to submit relev
 </ul>
 
 
-
-
-
-
-
-
-
-
-
 ## Organizing Committee
 
 * Anna Goldie, Google Brain
