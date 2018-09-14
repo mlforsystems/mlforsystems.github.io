@@ -24,8 +24,8 @@ The workshop will host 6 speakers and we will invite researchers to submit relev
 
 ## Organizing Committee
 
-* Anna Goldie, Google Brain
-* Azalia Mirhoseini, Google Brain
-* Jonathan Raiman, OpenAI
-* Kevin Swersky, Google Brain
-* Milad Hashemi, Google
+* Anna Goldie, Google Brain, [@annadgoldie](https://twitter.com/annadgoldie)
+* Azalia Mirhoseini, Google Brain, [@Azaliamirh](https://twitter.com/Azaliamirh)
+* Jonathan Raiman, OpenAI, [@jonathanrraiman](https://twitter.com/jonathanrraiman)
+* Kevin Swersky, Google Brain, [@kswersk](https://twitter.com/kswersk)
+* Milad Hashemi, Google, [website](https://hps.ece.utexas.edu/people/miladh/)
