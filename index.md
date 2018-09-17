@@ -22,6 +22,20 @@ The workshop will host 6 speakers and we will invite researchers to submit relev
 </ul>
 
 
+## Speakers
+
+### Jeff Dean
+
+### Song Han
+
+### Oriol Vinyals
+
+### Partha Ranganathan
+
+### Sanjay Krishnan
+
+### Eric Schkufza
+
 ## Organizing Committee
 
 * Anna Goldie, Google Brain, [@annadgoldie](https://twitter.com/annadgoldie)
