@@ -29,3 +29,7 @@ The workshop will host 6 speakers and we will invite researchers to submit relev
 * Jonathan Raiman, OpenAI, [@jonathanrraiman](https://twitter.com/jonathanrraiman)
 * Kevin Swersky, Google Brain, [@kswersk](https://twitter.com/kswersk)
 * Milad Hashemi, Google, [website](https://hps.ece.utexas.edu/people/miladh/)
+
+## Contact Us
+
+Contact us at [mlforsystems@googlegroups.com](mailto:mlforsystems@googlegroups.com).

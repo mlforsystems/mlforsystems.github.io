@@ -53,5 +53,5 @@ All submissions must be in PDF format and should follow the [NIPS 2018 format](h
 
 ## Contact Us
 
-Contact us at [organizers@mlforsystems.org](mailto:organizers@mlforsystems.org).
+Contact us at [mlforsystems@googlegroups.com](mailto:mlforsystems@googlegroups.com).
 
