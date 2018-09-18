@@ -28,13 +28,13 @@ The workshop will host 6 speakers and we will invite researchers to submit relev
 
 ### Song Han
 
-### Oriol Vinyals
+### Sanjay Krishnan
 
 ### Partha Ranganathan
 
-### Sanjay Krishnan
-
 ### Eric Schkufza
+
+### Oriol Vinyals
 
 ## Organizing Committee
 

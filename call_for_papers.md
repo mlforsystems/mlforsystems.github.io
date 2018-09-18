@@ -12,6 +12,7 @@ We welcome submission of up to 4-page extended abstracts in the broad area of us
 
 The workshop will include invited talks from industry and academia as well as oral and poster presentations by participants.
 
+**The workshop has a pool of NIPS registrations that will be awarded to the authors of accepted submissions.**
 
 <ul class="footnotes">
 <li><sup>1</sup> <a href="https://www.youtube.com/watch?v=YhNl468S8CI">Bayesian optimization for tuning the JVM</a></li>
@@ -39,11 +40,11 @@ The workshop will include invited talks from industry and academia as well as or
 
 ## Submission Instructions
 
-We welcome submissions of up to 4 pages (not including references).
+We welcome submissions of up to 4 pages (not including references). This is not a strict limit, but authors are encouraged to adhere to it if possible.
 All submissions must be in PDF format and should follow the [NIPS 2018 format](https://nips.cc/Conferences/2018/PaperInformation/StyleFiles).
 
 * Submissions do not have to be anonymized
-* Please submit your paper no later than October 19th, 2018 using CMT (Link to be announced)
+* Please submit your paper no later than October 19th, 2018 to CMT at [https://cmt3.research.microsoft.com/NIPSMLforSystems2018](https://cmt3.research.microsoft.com/NIPSMLforSystems2018)
 
 ## Important Dates
 * Submission Deadline: October 19th, 2018
