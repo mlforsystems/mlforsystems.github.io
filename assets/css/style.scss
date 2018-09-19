@@ -125,6 +125,22 @@ li.navigation-link-title, {
     margin-right: 16px;
 }
 
+.speaker-bio .img-holder {
+    width: 150px;
+    height: 150px;
+    position: relative;
+    overflow: hidden;
+    display: inline-block;
+}
+.speaker-bio .img {
+    height: 100%;
+    width: auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
 @media only screen and (max-width: 700px) {
     .hide-on-mobile {
         visibility: hidden;

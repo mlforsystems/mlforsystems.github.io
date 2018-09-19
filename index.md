@@ -26,15 +26,57 @@ The workshop will host 6 speakers and we will invite researchers to submit relev
 
 ### Jeff Dean
 
+<div class="speaker-bio">
+<div class="img-holder"><img src="/assets/images/speakers/jeff_dean.jpg"></div>
+<p>
+    Senior Fellow, Google AI. Google Brain lead and co-founder. Co-designer and implementor of Tensorflow, MapReduce, BigTable, Spanner.
+</p>
+</div>
+
 ### Song Han
+
+<div class="speaker-bio">
+<div class="img-holder"><img src="/assets/images/speakers/song_han.jpg"></div>
+<p>
+    Song Han is an assistant professor in the Electrical Engineering and Computer Science Department of the Massachusetts Institute of Technology (MIT). Dr. Han received the Ph.D. degree in Electrical Engineering from Stanford University advised by Prof. Bill Dally. Dr. Han co-founded DeePhi Tech in 2016, a startup offering efficient solutions for deep learning computing (deep compression and hardware acceleration).
+</p>
+</div>
 
 ### Sanjay Krishnan
 
+<div class="speaker-bio">
+<div class="img-holder"><img src="/assets/images/speakers/sanjay_krishnan.png"></div>
+<p>
+    Assistant Professor of Computer Science at the University of Chicago.
+</p>
+</div>
+
 ### Partha Ranganathan
+
+<div class="speaker-bio">
+<div class="img-holder"><img src="/assets/images/speakers/partha_ranganathan.jpg"></div>
+<p>
+    Parthasarathy (Partha) Ranganathan  is currently at Google designing their next-generation systems. Before this, he was a HP Fellow and Chief Technologist at Hewlett Packard Labs where he led their research on systems and datacenters. Dr. Ranganathan's research interests are in systems architecture and manageability, energy-efficiency, and systems modeling and evaluation. He has done extensive work in these areas including key contributions around energy-aware user interfaces, heterogeneous multi-core processors, power capping and power-aware server designs, federated enterprise power management, energy modeling and benchmarking, disaggregated blade server architectures, and most recently, storage hierarchy and systems redesign for non-volatile memory. He was also one of the primary developers of the publicly distributed Rice Simulator for ILP Multiprocessors (RSIM).
+</p>
+</div>
 
 ### Eric Schkufza
 
+<div class="speaker-bio">
+<div class="img-holder"><img src="/assets/images/speakers/eric_schkufza.jpg"></div>
+<p>
+    Researcher at VMWare applying data analysis and machine learning to the design of optimizing compilers. His work focuses on optimization of low-level machine code in the absence of its original source, and FPGA development.
+</p>
+</div>
+
 ### Oriol Vinyals
+
+<div class="speaker-bio">
+<div class="img-holder"><img src="/assets/images/speakers/oriol_vinyals.jpg"></div>
+<p>
+    Oriol Vinyals is a Research Scientist at Google DeepMind, working in Deep Learning. Prior to joining DeepMind, Oriol was part of the Google Brain team. He holds a Ph.D. in EECS from University of California, Berkeley and is a recipient of the 2016 MIT TR35 innovator award. His research has been featured multiple times at the New York Times, BBC, etc., and his articles have been cited over 17000 times. His academic involvement includes program chair for the International Conference on Learning Representations (ICLR) of 2017, and 2018. He has also been an area chair for many editions of the NIPS and ICML conferences. At DeepMind he continues working on his areas of interest, which include artificial intelligence, with particular emphasis on machine learning, deep learning and reinforcement learning.
+</p>
+</div>
 
 ## Organizing Committee
 

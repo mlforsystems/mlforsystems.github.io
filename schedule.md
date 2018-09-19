@@ -14,11 +14,11 @@
     </tr>
     <tr>
       <td style="text-align: right">8:40</td>
-      <td style="text-align: left">Invited Speaker 1</td>
+      <td style="text-align: left"><b>Invited Speaker 1: Oriol Vinyals</b></td>
     </tr>
     <tr>
       <td style="text-align: right">9:10</td>
-      <td style="text-align: left">Invited Speaker 2</td>
+      <td style="text-align: left"><b>Invited Speaker 2: Eric Schkufza</b></td>
     </tr>
     <tr>
       <td style="text-align: right">9:40</td>
@@ -30,11 +30,11 @@
     </tr>
     <tr>
       <td style="text-align: right">11:00</td>
-      <td style="text-align: left">Invited Speaker 3</td>
+      <td style="text-align: left"><b>Invited Speaker 3: Partha Ranganathan</b></td>
     </tr>
     <tr>
       <td style="text-align: right">11:30</td>
-      <td style="text-align: left">Invited Speaker 4</td>
+      <td style="text-align: left"><b>Invited Speaker 4: Song Han</b></td>
     </tr>
     <tr>
       <td style="text-align: right">12:00</td>
@@ -42,7 +42,7 @@
     </tr>
     <tr>
       <td style="text-align: right">13:30</td>
-      <td style="text-align: left">Invited Speaker 5</td>
+      <td style="text-align: left"><b>Invited Speaker 5: Sanjay Krishnan</b></td>
     </tr>
     <tr>
       <td style="text-align: right">14:00</td>
@@ -58,7 +58,7 @@
     </tr>
     <tr>
       <td style="text-align: right">15:30</td>
-      <td style="text-align: left">Invited Speaker 6</td>
+      <td style="text-align: left"><b>Invited Speaker 6: Jeff Dean</b></td>
     </tr>
     <tr>
       <td style="text-align: right">16:00</td>
