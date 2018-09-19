@@ -51,6 +51,7 @@ text-indent: 0;
     z-index: 100;
     padding-top: 5px;
     padding-bottom: 5px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
 }
 .title_bar h1 {
     font-size: 24px;
@@ -125,12 +126,34 @@ li.navigation-link-title, {
     margin-right: 16px;
 }
 
+.speaker-bio {
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
 .speaker-bio .img-holder {
     width: 150px;
     height: 150px;
     position: relative;
     overflow: hidden;
-    display: inline-block;
+    display: block;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 5px;
+    flex-grow: 0;
+    flex-shrink: 0;
+    margin-right: 30px;
 }
 .speaker-bio .img {
     height: 100%;
@@ -139,15 +162,6 @@ li.navigation-link-title, {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-}
-
-@media only screen and (max-width: 700px) {
-    .hide-on-mobile {
-        visibility: hidden;
-    }
-    .mobile-navigation {
-        display: block;
-    }
 }
 
 .schedule-table {
@@ -166,3 +180,63 @@ ul.footnotes {
     font-size: 14px;
     padding-top: 5px;
 }
+
+/* slight gray/blue tinge */
+.speaker_section, .areas_of_interest_section {
+    background: #f6f9fc;
+}
+.speaker_section h2, .speaker_section h3,
+.areas_of_interest_section h2, .areas_of_interest_section h3 {
+    color: #32325d;
+}
+.overview_section h2 {
+    color: black;
+}
+
+.speaker_section h2, .overview_section h2, .schedule_section h2, .areas_of_interest_section h2, .submission_section h2 {
+    font-size: 36px;
+    text-align: center;
+}
+body {
+    background: white;
+}
+
+.areas_of_interest_section li {
+    color: rgb(104, 116, 130);
+}
+
+.areas_of_interest_section li ul {
+    list-style-type:square;
+}
+.areas_of_interest_section li li {
+    color: #5959a6;
+}
+
+.organizers-section, .contact-us-section {
+    color: #8898aa;
+    background: #f6f9fc;
+    border-top: 2px solid rgba(207,215,223,.25);
+}
+
+.organizers-section li b, .contact-us-section li b {
+    color: rgb(136, 152, 170);
+}
+
+
+.speaker_section, .areas_of_interest_section, .schedule_section, .organizers-section, .contact-us-section {
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+@media only screen and (max-width: 700px) {
+    .hide-on-mobile {
+        visibility: hidden;
+    }
+    .mobile-navigation {
+        display: block;
+    }
+    .speaker_section, .areas_of_interest_section .schedule_section, .organizers-section, .contact-us-section {
+        padding-bottom: 20px;
+        padding-top: 20px;
+    }
+}
+
