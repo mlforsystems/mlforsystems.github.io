@@ -8,7 +8,7 @@ Designing specialized hardware for deep learning is a topic that has received si
 
 The focus of this workshop is to expand upon this recent work and build a community focused on using machine learning in computer systems problems. We seek to improve the state of the art in the areas where learning has already proven to perform better than traditional heuristics, as well as expand to new areas throughout the system stack such as hardware/circuit design and operating/runtime systems.
 
-We welcome submission of up to 4-page extended abstracts in the broad area of using machine learning to accelerate, design, or architect computer systems and software.
+We welcome submission of up to 4-page extended abstracts in the broad area of using machine learning to accelerate, design, or architect computer systems and software. Accepted papers will be made available on the workshop website, but there will be no formal proceedings. Authors may therefore publish their work in other journals or conferences.
 
 The workshop will include invited talks from industry and academia as well as oral and poster presentations by participants.
 
