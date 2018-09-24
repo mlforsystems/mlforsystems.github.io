@@ -87,7 +87,7 @@ title: Overview
 				<div>
 					<h3>Neeraja J. Yadwadkar</h3>
 					<p>
-					    Neeraja Yadwadkar is a sixth year PhD student in the Computer Science Department at University of California, Berkeley. She is part of the AMP Lab and now the RISE Lab, and her advisor is Prof. Randy Katz, and was more recently also co-advised by Prof. Joseph E. Gonzalez.
+					    Neeraja recently graduated with a PhD in Computer Science from University of California, Berkeley. Her thesis was on automatic resource management in the datacenter and the cloud. She is now a post-doctoral researcher in the Computer Science Department at Stanford University where she continues to work on distributed systems, cloud computing, and machine learning.
 					</p>
 				</div>
 			</div>
