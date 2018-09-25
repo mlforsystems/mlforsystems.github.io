@@ -117,13 +117,13 @@ li.navigation-link-title, {
     border-radius: 4px;
     font-size: 15px;
     font-weight: 600;
-    padding: 0 14px;
+    padding: 0 10px;
     height: 40px;
     line-height: 40px;
     letter-spacing: .025em;
     -webkit-box-shadow: 0 4px 6px rgba(50,50,93,.11),0 1px 3px rgba(0,0,0,.08);
     box-shadow: 0 4px 6px rgba(50,50,93,.11),0 1px 3px rgba(0,0,0,.08);
-    margin-right: 16px;
+    margin-right: 10px;
 }
 
 .speaker-bio {
@@ -239,4 +239,13 @@ body {
         padding-top: 20px;
     }
 }
+
+@media only screen and (max-width: 500px) {
+    .speaker-bio .img-holder {
+        width: 100px;
+        height: 100px;
+        margin-right: 10px;
+    }
+}
+
 
