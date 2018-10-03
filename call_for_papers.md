@@ -74,7 +74,7 @@ title: Call for Papers
             </ul>
             <h2>Important Dates</h2>
             <ul>
-                <li>Submission Deadline: October 19th, 2018</li>
+                <li>Submission Deadline: October 26th, 2018</li>
                 <li>Acceptance Notifications: November 9th, 2018</li>
                 <li>Final File Upload: To be Announced</li>
                 <li>Workshop: December 8th, 2018</li>
