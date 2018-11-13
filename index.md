@@ -105,6 +105,26 @@ title: Overview
 				<li><b>Kevin Swersky</b>, Google Brain, <a href="https://twitter.com/kswersk">@kswersk</a></li>
 				<li><b>Milad Hashemi</b>, Google, <a href="https://hps.ece.utexas.edu/people/miladh/">website</a></li>
 			</ul>
+			<h2>Program Comittee</h2>
+			<ul>
+				<li><b>Anna Goldie</b>, Google Brain</li>
+				<li><b>Azalia Mirhoseini</b>, Google Brain</li>
+				<li><b>Jonathan Raiman</b>, OpenAI</li>
+				<li><b>Kevin Swersky</b>, Google Brain</li>
+				<li><b>Milad Hashemi</b>, Google</li>
+				<li><b>Simon Kornblith</b>, Google</li>
+				<li><b>Nicholas Frosst</b>, Google</li>
+				<li><b>Zhan Shi</b>, University of Texas at Austin</li>
+				<li><b>Will Hang</b>, Stanford</li>
+				<li><b>Amir Yazdanbakhsh</b>, Google</li>
+				<li><b>Azade Nazi</b>, Google</li>
+				<li><b>Alex Ray</b>, OpenAI</li>
+				<li><b>Andrew Gibiansky</b>, Voicery</li>
+				<li><b>James Bradbury</b>, Google</li>
+				<li><b>Sharan Narang</b>, Google Brain</li>
+				<li><b>Martin Maas</b>, Google</li>
+				<li><b>Carlos Villavieja</b>, Google</li>
+			</ul>
 			<h2>Contact Us</h2>
 			<p>
 				Contact us at <a href="mailto:mlforsystems@googlegroups.com">mlforsystems@googlegroups.com</a>.
