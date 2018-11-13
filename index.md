@@ -105,7 +105,7 @@ title: Overview
 				<li><b>Kevin Swersky</b>, Google Brain, <a href="https://twitter.com/kswersk">@kswersk</a></li>
 				<li><b>Milad Hashemi</b>, Google, <a href="https://hps.ece.utexas.edu/people/miladh/">website</a></li>
 			</ul>
-			<h2>Program Comittee</h2>
+			<h2>Program Committee</h2>
 			<ul>
 				<li><b>Anna Goldie</b>, Google Brain</li>
 				<li><b>Azalia Mirhoseini</b>, Google Brain</li>
