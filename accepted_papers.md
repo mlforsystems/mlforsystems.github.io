@@ -19,7 +19,7 @@ title: Accepted Papers
         <p><b>Chasing the Signal: Statistically Separating Multi-Tenant I/O Workloads</b>. Si Chen and Avani Wildani.</p>
         <p><b>Controlling Data Center Congestion with Reinforcement Learning</b>. Fabian NT Ruffy, Michael Przystupa, and Ivan Beschastnikh.</p>
         <p><b>Learning to Optimize Tensor Programs</b>. Tianqi Chen, Lianmin Zheng, Eddie Yan, Ziheng Jiang, Thierry Moreau, Luis Ceze, Carlos Guestrin, and Arvind Krishnamurthy.</p>
-        <p><b>Learning to Design Circuits</b>. Hanrui Wang (MIT); Jiacheng Yang, Hae-Seung Lee, and Song Han.</p>
+        <p><b>Learning to Design Circuits</b>. Hanrui Wang, Jiacheng Yang, Hae-Seung Lee, and Song Han.</p>
         <p><b>End-to-end Learning for Distributed Circuit Design</b>. Hao He, Guo Zhang, Jack Holloway, and Dina Katabi.</p>
         <p><b>Dali: Lazy Compilation & Kernel Fusion in Dynamic Computation Graphs</b>. Jonathan Raiman.</p>
         <p><b>ReLeQ: A Reinforcement Learning Approach for Deep Quantization of Neural Networks</b>. Ahmed Youssef, Prannoy Pilligundla, Amir Yazdanbakhsh, Sean Kinzer, and Hadi Esmaeilzadeh.</p>
