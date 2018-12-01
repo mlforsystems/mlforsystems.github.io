@@ -14,7 +14,7 @@ title: Accepted Papers
         <p><b>DeepConf: Automating Data Center Network Topologies Management with Machine Learning</b>. Saim Salman, Theophilus Benson, and Asim Kadav.</p>
         <p><b>Cache Miss Rate Predictability via Neural Networks</b>. Rishikesh Jha, Saket Tiwari, and Arjun Karuvally.</p>
         <p><b>Placeto: Efficient Progressive Device Placement Optimization</b>. Ravichandra Addanki, Shaileshh Venkatakrishnan, Shreyan Gupta, Hongzi Mao, and Dr. Mohammad Alizadeh.</p>
-        <p><b>Lifting the Curse of Multidimensional Data with Learned Existence Indexes</b>. Stephen Macke, Alex Beutel, and Tim Kraska.</p>
+        <p><b>Lifting the Curse of Multidimensional Data with Learned Existence Indexes</b>. Stephen Macke, Alex Beutel, Tim Kraska, Maheswaran Sathiamoorthy, Derek Zhiyuan Cheng, and Ed H. Chi</p>
         <p><b>PeCC: Prediction-error Correcting Cache</b>. Vaishnav Janardhan and Adit Bhardwaj.</p>
         <p><b>Chasing the Signal: Statistically Separating Multi-Tenant I/O Workloads</b>. Si Chen and Avani Wildani.</p>
         <p><b>Controlling Data Center Congestion with Reinforcement Learning</b>. Fabian NT Ruffy, Michael Przystupa, and Ivan Beschastnikh.</p>
