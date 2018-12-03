@@ -27,19 +27,19 @@ title: Schedule
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">10:00 AM</td>
-            <td style="text-align: left">Poster Session 1<br/><span class="session-authors">(Margaritov, Addanki, Mahyar, Zhang, Wildani, Esmaeilzadeh, Ustiugov, Bojja Venkatakrishnan, Ruffy, Bhardwaj)</span></td>
+            <td style="text-align: left">Poster Session 1<br/></td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">11:00 AM</td>
-            <td style="text-align: left">Contributed Talk 1</td>
+            <td style="text-align: left">Neural Inference of API Functions from Input–Output Examples</td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">11:15 AM</td>
-            <td style="text-align: left">Contributed Talk 2</td>
+            <td style="text-align: left">Placeto: Efficient Progressive Device Placement Optimization</td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">11:30 AM</td>
-            <td style="text-align: left">Contributed Talk 3</td>
+            <td style="text-align: left">Iroko: A Framework to Prototype Reinforcement Learning for Data Center Traffic Control</td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">11:45 AM</td>
@@ -55,19 +55,19 @@ title: Schedule
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">2:10 PM</td>
-            <td style="text-align: left">Contributed Talk 4</td>
+            <td style="text-align: left">Learning to Optimize Tensor Programs</td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">2:25 PM</td>
-            <td style="text-align: left">Contributed Talk 5</td>
+            <td style="text-align: left">Learning to Design Circuits</td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">2:40 PM</td>
-            <td style="text-align: left">Contributed Talk 6</td>
+            <td style="text-align: left">ReLeQ: A Reinforcement Learning Approach for Deep Quantization of Neural Networks</td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">2:55 PM</td>
-            <td style="text-align: left">Poster Session 2<br/><span class="session-authors">(Macke, Mao, Lemieux, Salman, Jha, Wang, Palkar, Chen, Pumir, Janardhan, Bhardwaj, Chi)</span></td>
+            <td style="text-align: left">Poster Session 2<br/></td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">4:00 PM</td>
