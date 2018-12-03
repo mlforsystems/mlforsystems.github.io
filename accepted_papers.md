@@ -23,6 +23,7 @@ title: Accepted Papers
         <p><b>End-to-end Learning for Distributed Circuit Design</b>. Hao He, Guo Zhang, Jack Holloway, and Dina Katabi.</p>
         <p><b>Dali: Lazy Compilation & Kernel Fusion in Dynamic Computation Graphs</b>. Jonathan Raiman.</p>
         <p><b>ReLeQ: A Reinforcement Learning Approach for Deep Quantization of Neural Networks</b>. Ahmed Youssef, Prannoy Pilligundla, Amir Yazdanbakhsh, Sean Kinzer, and Hadi Esmaeilzadeh.</p>
+        <p><b>Automated Testing of Graphics Units by Deep-Learning Detection of Visual Anomalies</b>. Lev Faivishevsky.</p>
     </section>
 </div>
 <div class="contact-us-section">
