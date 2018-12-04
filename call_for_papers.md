@@ -6,7 +6,7 @@ title: Call for Papers
     <section class="main-content call_for_papers_section">
         <h2>Call for Papers</h2>
         <p>
-            We invite submissions of extended abstracts to the Machine Learning for Systems Workshop which will be held in conjunction with NIPS 2018 on December 8th 2018.
+            We invite submissions of extended abstracts to the Machine Learning for Systems Workshop which will be held in conjunction with NeurIPS 2018 on December 8th 2018.
         </p>
         <h3>Overview</h3>
         <p>
@@ -22,7 +22,7 @@ title: Call for Papers
             The workshop will include invited talks from industry and academia as well as oral and poster presentations by participants.
         </p>
         <p>
-            <b>The workshop has a pool of NIPS registrations that will be awarded to the authors of accepted submissions.</b>
+            <b>The workshop has a pool of NeurIPS registrations that will be awarded to the authors of accepted submissions.</b>
         </p>
         <ul class="footnotes">
         <li><sup>1</sup> <a href="https://www.youtube.com/watch?v=YhNl468S8CI">Bayesian optimization for tuning the JVM</a></li>
