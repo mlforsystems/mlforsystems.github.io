@@ -22,8 +22,8 @@ title: Accepted Papers
         <p><a href="https://drive.google.com/file/d/1vZ9IW1BQ4emsp4yc6E-Otu5QpoDdMSjv/view?usp=sharing"><b>Learning to Design Circuits</b></a>. Hanrui Wang*, Jiacheng Yang*, Hae-Seung Lee, and Song Han.</p>
         <p><a href="https://drive.google.com/file/d/1FJJSNATYUI2IfFAz4xHFDdHNg0ZftSg0/view?usp=sharing"><b>End-to-end Learning for Distributed Circuit Design</b></a>. Hao He*, Guo Zhang*, Jack Holloway, and Dina Katabi.</p>
         <p><a href=""><b>Dali: Lazy Compilation & Kernel Fusion in Dynamic Computation Graphs</b></a>. Jonathan Raiman.</p>
-        <p><a href="https://drive.google.com/file/d/1TT4SAXD0ExhIKBMvsVYiezfWNhjVEcPG/view?usp=sharing"><b>ReLeQ: An Automatic Reinforcement Learning Approach for Deep Quantization of Neural Networks</b></a>. Amir Yazdanbakhsh*, Ahmed T. Elthakeb*, Prannoy Pilligundla, FatemehSadatMireshghallah, and HadiEsmaeilzadeh.</p>
-        <p><a href=""><b>Automated Testing of Graphics Units by Deep-Learning Detection of Visual Anomalies</b></a>. Lev Faivishevsky,  Ashwin K Muppalla, Ravid Shwartz-Ziv, Ronen Laperdon, Benjamin Melloul, Tahi Hollander, Amitai Armon.</p>
+        <p><a href="https://drive.google.com/file/d/1TT4SAXD0ExhIKBMvsVYiezfWNhjVEcPG/view?usp=sharing"><b>ReLeQ: An Automatic Reinforcement Learning Approach for Deep Quantization of Neural Networks</b></a>. Amir Yazdanbakhsh*, Ahmed T. Elthakeb*, Prannoy Pilligundla, Fatemeh Sadat Mireshghallah, and Hadi Esmaeilzadeh.</p>
+        <p><a href="https://drive.google.com/file/d/1nAEDjIR9t31V-o_SnbCZveOF5wQpIeCH/view?usp=sharing"><b>Automated Testing of Graphics Units by Deep-Learning Detection of Visual Anomalies</b></a>. Lev Faivishevsky, Ashwin K Muppalla, Ravid Shwartz-Ziv, Ronen Laperdon, Benjamin Melloul, Tahi Hollander, and Amitai Armon.</p>
         <div class="footnote_box">
             <span class="footnote">* Equal Contribution</span>
         </div>
