@@ -66,7 +66,7 @@ title: Call for Papers
                 We welcome submissions of up to 4 pages (not including references). This is not a strict limit, but authors are encouraged to adhere to it if possible.
             </p>
             <p>
-                All submissions must be in PDF format and should follow the <a href="https://nips.cc/Conferences/2018/PaperInformation/StyleFiles">NIPS 2018 format</a>.
+                All submissions must be in PDF format and should follow the <a href="https://nips.cc/Conferences/2018/PaperInformation/StyleFiles">NeurIPS 2018 format</a>.
             </p>
             <ul>
                 <li>Submissions do not have to be anonymized.</li>
