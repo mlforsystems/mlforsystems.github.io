@@ -23,7 +23,7 @@ title: Schedule
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">9:35 AM</td>
-            <td style="text-align: left"><b>Invited Speaker 2: Song Han</b></td>
+            <td style="text-align: left"><a href="#song_han_talk"><b>Invited Speaker 2: Song Han</b><br/><i>Efficient deep learning computing: a learning-based approach</i></a></td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">10:00 AM</td>
@@ -51,7 +51,7 @@ title: Schedule
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">1:45 PM</td>
-            <td style="text-align: left"><b>Invited Speaker 4: Neeraja J. Yadwadkar</b></td>
+            <td style="text-align: left"><a href="#neeraja_talk"><b>Invited Speaker 4: Neeraja J. Yadwadkar</b><br/><i>Machine Learning for resource management in Distributed Systems</i></a></td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">2:10 PM</td>
@@ -71,7 +71,7 @@ title: Schedule
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">4:00 PM</td>
-            <td style="text-align: left"><b>Invited Speaker 5: Sanjay Krishnan</b></td>
+            <td style="text-align: left"><a href="#sanjay_talk"><b>Invited Speaker 5: Sanjay Krishnan</b><br/><i>Learning to Optimize SQL Joins With Deep Reinforcement Learning</i></a></td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">4:25 PM</td>
@@ -87,6 +87,27 @@ title: Schedule
           </tr>
         </tbody>
       </table>
+      <div class="speaker_section">
+        <h2>Talk Abstracts</h2>
+        <h3 id="song_han_talk">Efficient deep learning computing: a learning-based approach</h3>
+        <h5 clas="talk_speaker">Song Han</h5>
+        <p>
+          In the post-Moore's Law era, the amount of computation per unit cost and power is no longer increasing at its historic rate. In the post-ImageNet era, researchers are solving more complicated AI problems using larger data sets which drives the demand for more computation.  This mismatch between supply and demand for computation highlights the need for co-designing efficient machine learning algorithms and domain-specific hardware architectures. Such algorithm-hardware co-design opens up a much larger design space, which requires domain experts on both sides (ML+systems), and human heuristics might be sub-optimal to explore the vast design space. We introduce three of our recent work of using machine learning to optimize the machine learning system: learning the optimal pruning strategy (<a href="https://arxiv.org/pdf/1802.03494.pdf">AMC</a>) and quantization strategy (<a href="https://arxiv.org/pdf/1811.08886.pdf">HAQ</a>) on the target hardware, rather than relying on rule-based strategies;  learning the optimal neural network architecture that is specialized for a target hardware architecture, optimizing both accuracy and latency (<a href="https://openreview.net/pdf?id=HylVB3AqYm">ProxylessNAS</a>), rather than using a generic neural network architecture across all hardware architectures; learning to optimize analog circuit parameters, rather than relying on experienced analog engineers to tune those transistors. On the other side of the loop (design hardware-friendly machine learning algorithms), I'll introduce the temporal shift module (<a href="https://hanlab.mit.edu/projects/tsm/">TSM</a>) that offers 8x lower latency, 12x higher throughput than 3D convolution-based methods, while ranking the first on both Something-Something V1 and V2 leaderboards. I'll conclude the talk by giving an outlook of the design automation for efficient machine learning system.
+        </p>
+        <h3 id="neeraja_talk">Machine Learning for resource management in Distributed Systems</h3>
+        <h5 class="talk_speaker">Neeraja Yadwadkar</h5>
+        <p>
+          Traditional resource management techniques that rely on simple heuristics often fail to achieve predictable performance in contemporary complex systems that span physical servers, virtual servers, private and/or public clouds. My research aims to bring the benefits of Machine Learning (ML) models to optimize and manage such complex systems by deriving actionable insights from the performance and utilization data these systems generate. To realize this vision of model-based resource management, we need to deal with the following key challenges data-driven ML models raise: uncertainty in predictions, cost of training, generalizability from benchmark datasets to real-world systems datasets, and interpretability of the models. 
+        </p>
+        <p>
+          In this talk, I will present our the ML formulations to demonstrate how to handle these challenges for two main problem domains in distributed systems: (I) Scheduling in parallel data-intensive computational frameworks for improved tail latencies, and (II) Performance-aware resource allocation in the public cloud environments for meeting user-specified performance and cost goals. Along the way, I will also share a list of guidelines for leveraging ML for solving problems in systems, based on my experience.
+        </p>
+        <h3 id="sanjay_talk">Learning to Optimize SQL Joins With Deep Reinforcement Learning</h3>
+        <h5 class="talk_speaker">Sanjay Krishnan</h5>
+        <p>
+          To integrate information from more than two tables, a SQL query optimizer must identify the most efficient nesting of two-way table join operations to answer the query. Recent advances in AI may provide an unexpected new perspective on this classical problem that has been studied for over 40 years. Join optimization can be posed as a Markov Decision Process where the state is a graph that represents the join conditions in a query and actions are edge contractions on this graph; thereby, allowing us to apply ideas from deep reinforcement learning and imitation learning to facilitate an improved query optimizer that learns from experience, handles uncertainty, and incorporates execution feedback. I describe how our group built a full-featured  query  optimizer  based on this MDP architecture, and we present results across a variety of database designs and query workloads in Postgres SQL and Apache Spark. I conclude by highlighting some of the under-appreciated RL research challenges in exploration, parametrization, and policy evaluation unearthed by this application.
+        </p>
+      </div>
     </section>
   </div>
 </div>
