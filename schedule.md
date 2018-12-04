@@ -87,10 +87,16 @@ title: Schedule
           </tr>
         </tbody>
       </table>
+    </section>
+  </div>
+</div>
+<div class="schedule_section">
+  <div class="inner clearfix">
+    <section class="main-content">
       <div class="speaker_section">
         <h2>Talk Abstracts</h2>
         <h3 id="song_han_talk">Efficient deep learning computing: a learning-based approach</h3>
-        <h5 clas="talk_speaker">Song Han</h5>
+        <h5 class="talk_speaker">Song Han</h5>
         <p>
           In the post-Moore's Law era, the amount of computation per unit cost and power is no longer increasing at its historic rate. In the post-ImageNet era, researchers are solving more complicated AI problems using larger data sets which drives the demand for more computation.  This mismatch between supply and demand for computation highlights the need for co-designing efficient machine learning algorithms and domain-specific hardware architectures. Such algorithm-hardware co-design opens up a much larger design space, which requires domain experts on both sides (ML+systems), and human heuristics might be sub-optimal to explore the vast design space. We introduce three of our recent work of using machine learning to optimize the machine learning system: learning the optimal pruning strategy (<a href="https://arxiv.org/pdf/1802.03494.pdf">AMC</a>) and quantization strategy (<a href="https://arxiv.org/pdf/1811.08886.pdf">HAQ</a>) on the target hardware, rather than relying on rule-based strategies;  learning the optimal neural network architecture that is specialized for a target hardware architecture, optimizing both accuracy and latency (<a href="https://openreview.net/pdf?id=HylVB3AqYm">ProxylessNAS</a>), rather than using a generic neural network architecture across all hardware architectures; learning to optimize analog circuit parameters, rather than relying on experienced analog engineers to tune those transistors. On the other side of the loop (design hardware-friendly machine learning algorithms), I'll introduce the temporal shift module (<a href="https://hanlab.mit.edu/projects/tsm/">TSM</a>) that offers 8x lower latency, 12x higher throughput than 3D convolution-based methods, while ranking the first on both Something-Something V1 and V2 leaderboards. I'll conclude the talk by giving an outlook of the design automation for efficient machine learning system.
         </p>
