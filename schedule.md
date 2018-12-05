@@ -19,7 +19,7 @@ title: Schedule
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">9:10 AM</td>
-            <td style="text-align: left"><b>Invited Speaker 1: Eric Schkufza</b></td>
+            <td style="text-align: left"><a href="#schkufza_talk"><b>Invited Speaker 1: Eric Schkufza</b><br/><i>A Crash Course in Stochastic Program Optimization</i></a></td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">9:35 AM</td>
@@ -111,6 +111,11 @@ title: Schedule
       <h5 class="talk_speaker">Sanjay Krishnan</h5>
       <p>
         To integrate information from more than two tables, a SQL query optimizer must identify the most efficient nesting of two-way table join operations to answer the query. Recent advances in AI may provide an unexpected new perspective on this classical problem that has been studied for over 40 years. Join optimization can be posed as a Markov Decision Process where the state is a graph that represents the join conditions in a query and actions are edge contractions on this graph; thereby, allowing us to apply ideas from deep reinforcement learning and imitation learning to facilitate an improved query optimizer that learns from experience, handles uncertainty, and incorporates execution feedback. I describe how our group built a full-featured  query  optimizer  based on this MDP architecture, and we present results across a variety of database designs and query workloads in Postgres SQL and Apache Spark. I conclude by highlighting some of the under-appreciated RL research challenges in exploration, parametrization, and policy evaluation unearthed by this application.
+      </p>
+      <h3 id="schkufza_talk">A Crash Course in Stochastic Program Optimization</h3>
+      <h5 class="talk_speaker">Eric Schkufza</h5>
+      <p>
+        Traditional compiler use expert-written rules to prove the correctness of program transformations, and hope for the best in terms of performance. Stochastic program optimizers turn that model on its head. They use machine learning techniques to search for aggressive performance-improving transformations, and state-of-the-art verification techniques to prove correctness after the fact. The results are novel, often inscrutable, and in many cases outperform expertly tuned code. In this talk I'll present an overview of the core technique, describe current work, and discuss directions for future research.
       </p>
     </section>
   </div>
