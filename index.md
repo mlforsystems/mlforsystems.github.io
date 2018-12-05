@@ -70,7 +70,7 @@ title: Overview
 				<div>
 					<h3>Eric Schkufza</h3>
 					<p>
-					    Researcher at VMWare applying data analysis and machine learning to the design of optimizing compilers. His work focuses on optimization of low-level machine code in the absence of its original source, and FPGA development.
+					    Eric Schkufza is a researcher with the VMware Research Group. He is interested in applying the tools of large-scale data analysis and machine learning to the design of optimizing compilers. His work focuses on the analysis and optimization of low-level machine code in the absence of its original source, most recently in the context of hardware accelerators.
 					</p>
 				</div>
 			</div>
