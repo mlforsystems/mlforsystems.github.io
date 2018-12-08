@@ -79,7 +79,7 @@ title: Schedule
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">4:50 PM</td>
-            <td style="text-align: left">Panel Discussion</td>
+            <td style="text-align: left">Panel Discussion (Jeff Dean,  Partha Ranganathan, Song Han, and Ion Stoica)</td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">5:50 PM</td>
