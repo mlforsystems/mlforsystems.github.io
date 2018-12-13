@@ -23,7 +23,7 @@ title: Accepted Papers
         <p><a href="https://drive.google.com/file/d/1FJJSNATYUI2IfFAz4xHFDdHNg0ZftSg0/view?usp=sharing"><b>End-to-end Learning for Distributed Circuit Design</b></a>. Hao He<span title="Equal contribution" class="equal_contribution">*</span>, Guo Zhang<span title="Equal contribution" class="equal_contribution">*</span>, Jack Holloway, and Dina Katabi.</p>
         <p><a href=""><b>Dali: Lazy Compilation & Kernel Fusion in Dynamic Computation Graphs</b></a>. Jonathan Raiman.</p>
         <p><a href="https://drive.google.com/file/d/1TT4SAXD0ExhIKBMvsVYiezfWNhjVEcPG/view?usp=sharing"><b>ReLeQ: An Automatic Reinforcement Learning Approach for Deep Quantization of Neural Networks</b></a>. Amir Yazdanbakhsh<span title="Equal contribution" class="equal_contribution">*</span>, Ahmed T. Elthakeb<span title="Equal contribution" class="equal_contribution">*</span>, Prannoy Pilligundla, Fatemeh Sadat Mireshghallah, and Hadi Esmaeilzadeh.</p>
-        <p><a href="https://drive.google.com/file/d/1nAEDjIR9t31V-o_SnbCZveOF5wQpIeCH/view?usp=sharing"><b>Automated Testing of Graphics Units by Deep-Learning Detection of Visual Anomalies</b></a>. Lev Faivishevsky, Ashwin K Muppalla, Ravid Shwartz-Ziv, Ronen Laperdon, Benjamin Melloul, Tahi Hollander, and Amitai Armon.</p>
+        <p><a href="https://drive.google.com/file/d/1Or6gve9_qR9UJDTXkhdJR0o2HuBPrnQG/view?usp=sharing"><b>Automated Testing of Graphics Units by Deep-Learning Detection of Visual Anomalies</b></a>. Lev Faivishevsky, Ashwin K Muppalla, Ravid Shwartz-Ziv, Ronen Laperdon, Benjamin Melloul, Tahi Hollander, and Amitai Armon.</p>
         <div class="footnote_box">
             <span class="footnote">* Equal Contribution</span>
         </div>
