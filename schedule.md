@@ -31,7 +31,7 @@ title: Schedule
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">11:00 AM</td>
-            <td style="text-align: left">Neural Inference of API Functions from Input–Output Examples</td>
+            <td style="text-align: left"><b>Caroline Lemieux</b><br/><i>Neural Inference of API Functions from Input–Output Examples</i> <a href="https://drive.google.com/file/d/1Gob8ePBJ9bkupFFiyEDJ7CED7Bupsvi9/view?usp=sharing">(slides)</a></td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">11:15 AM</td>
@@ -39,7 +39,7 @@ title: Schedule
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">11:30 AM</td>
-            <td style="text-align: left">Iroko: A Framework to Prototype Reinforcement Learning for Data Center Traffic Control</td>
+            <td style="text-align: left"><b>Fabian Ruffy</b><br/><i>Iroko: A Framework to Prototype Reinforcement Learning for Data Center Traffic Control</i> <a href="https://drive.google.com/file/d/14XnfsyhTISJWsquyVy-UoOgI08VwG0wa/view?usp=sharing">(slides)</a></td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">11:45 AM</td>
@@ -71,11 +71,11 @@ title: Schedule
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">4:00 PM</td>
-            <td style="text-align: left"><a href="#sanjay_talk"><b>Invited Speaker 5: Sanjay Krishnan</b><br/><i>Learning to Optimize SQL Joins With Deep Reinforcement Learning</i></a></td>
+            <td style="text-align: left"><a href="#sanjay_talk"><b>Invited Speaker 5: Sanjay Krishnan</b><br/><i>Learning to Optimize SQL Joins With Deep Reinforcement Learning</i></a> <a href="https://youtu.be/BZwDTKogS7U?t=2392">(recording)</a></td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">4:25 PM</td>
-            <td style="text-align: left"><b>Keynote Speaker: Jeff Dean</b></td>
+            <td style="text-align: left"><b>Keynote Speaker: Jeff Dean</b><br/><i>Machine Learning for Systems</i> <a href="https://youtu.be/BZwDTKogS7U?t=3793">(recording)</a></td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">4:50 PM</td>
@@ -112,12 +112,12 @@ title: Schedule
       <h3 id="neeraja_talk">Machine Learning for resource management in Distributed Systems</h3>
       <h5 class="talk_speaker">Neeraja Yadwadkar</h5>
       <p>
-        Traditional resource management techniques that rely on simple heuristics often fail to achieve predictable performance in contemporary complex systems that span physical servers, virtual servers, private and/or public clouds. My research aims to bring the benefits of Machine Learning (ML) models to optimize and manage such complex systems by deriving actionable insights from the performance and utilization data these systems generate. To realize this vision of model-based resource management, we need to deal with the following key challenges data-driven ML models raise: uncertainty in predictions, cost of training, generalizability from benchmark datasets to real-world systems datasets, and interpretability of the models. 
+        Traditional resource management techniques that rely on simple heuristics often fail to achieve predictable performance in contemporary complex systems that span physical servers, virtual servers, private and/or public clouds. My research aims to bring the benefits of Machine Learning (ML) models to optimize and manage such complex systems by deriving actionable insights from the performance and utilization data these systems generate. To realize this vision of model-based resource management, we need to deal with the following key challenges data-driven ML models raise: uncertainty in predictions, cost of training, generalizability from benchmark datasets to real-world systems datasets, and interpretability of the models.
       </p>
       <p>
         In this talk, I will present our the ML formulations to demonstrate how to handle these challenges for two main problem domains in distributed systems: (I) Scheduling in parallel data-intensive computational frameworks for improved tail latencies, and (II) Performance-aware resource allocation in the public cloud environments for meeting user-specified performance and cost goals. Along the way, I will also share a list of guidelines for leveraging ML for solving problems in systems, based on my experience.
       </p>
-      <h3 id="sanjay_talk">Learning to Optimize SQL Joins With Deep Reinforcement Learning</h3>
+      <h3 id="sanjay_talk">Learning to Optimize SQL Joins With Deep Reinforcement Learning <a href="https://youtu.be/BZwDTKogS7U?t=2392">(recording)</a></h3>
       <h5 class="talk_speaker">Sanjay Krishnan</h5>
       <p>
         To integrate information from more than two tables, a SQL query optimizer must identify the most efficient nesting of two-way table join operations to answer the query. Recent advances in AI may provide an unexpected new perspective on this classical problem that has been studied for over 40 years. Join optimization can be posed as a Markov Decision Process where the state is a graph that represents the join conditions in a query and actions are edge contractions on this graph; thereby, allowing us to apply ideas from deep reinforcement learning and imitation learning to facilitate an improved query optimizer that learns from experience, handles uncertainty, and incorporates execution feedback. I describe how our group built a full-featured  query  optimizer  based on this MDP architecture, and we present results across a variety of database designs and query workloads in Postgres SQL and Apache Spark. I conclude by highlighting some of the under-appreciated RL research challenges in exploration, parametrization, and policy evaluation unearthed by this application.
