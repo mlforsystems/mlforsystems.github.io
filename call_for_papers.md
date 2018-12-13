@@ -77,7 +77,7 @@ title: Call for Papers
                 <li><del>Submission Deadline: <b>October 26th, 2018 by midnight Anywhere in the World</b>.</del></li>
                 <li><del>Acceptance Notifications: November 9th, 2018</del></li>
                 <li><del>Final File Upload: November 28th, 2018</del></li>
-                <li>Workshop: December 8th, 2018, 8:30 AM - 6:00 PM, Room 510 AC</li>
+                <li><del>Workshop: December 8th, 2018, 8:30 AM - 6:00 PM, Room 510 AC</del></li>
             </ul>
         </section>
     </div>
