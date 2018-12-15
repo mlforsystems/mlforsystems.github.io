@@ -19,7 +19,7 @@ title: Schedule
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">9:10 AM</td>
-            <td style="text-align: left"><a href="#schkufza_talk"><b>Invited Speaker 1: Eric Schkufza</b><br/><i>A Crash Course in Stochastic Program Optimization</i></a></td>
+            <td style="text-align: left"><a href="#schkufza_talk"><b>Invited Speaker 1: Eric Schkufza</b><br/><i>A Crash Course in Stochastic Program Optimization</i></a> <a href="https://drive.google.com/file/d/1vq8IQERMKc9xmZWLh5rZRNHYWG8DAjAz/view?usp=sharing">(slides)</a></td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">9:35 AM</td>
@@ -94,7 +94,7 @@ title: Schedule
   <div class="inner clearfix">
     <section class="main-content">
       <h2>Talk Abstracts</h2>
-      <h3 id="schkufza_talk">A Crash Course in Stochastic Program Optimization</h3>
+      <h3 id="schkufza_talk">A Crash Course in Stochastic Program Optimization <a href="https://drive.google.com/file/d/1vq8IQERMKc9xmZWLh5rZRNHYWG8DAjAz/view?usp=sharing">(slides)</a></h3>
       <h5 class="talk_speaker">Eric Schkufza</h5>
       <p>
         Traditional compiler use expert-written rules to prove the correctness of program transformations, and hope for the best in terms of performance. Stochastic program optimizers turn that model on its head. They use machine learning techniques to search for aggressive performance-improving transformations, and state-of-the-art verification techniques to prove correctness after the fact. The results are novel, often inscrutable, and in many cases outperform expertly tuned code. In this talk I'll present an overview of the core technique, describe current work, and discuss directions for future research.
