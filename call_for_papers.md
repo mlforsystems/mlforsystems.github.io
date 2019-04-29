@@ -66,16 +66,10 @@ title: Call for Papers
     <div class="inner clearfix">
         <section class="main-content">
             <h2>Submission Instructions</h2>
-            <p>
-                We welcome submissions of up to 4 pages (not including references). This is not a strict limit, but authors are encouraged to adhere to it if possible.
-            </p>
-            <p>
-                All submissions must be in PDF format and should follow the <a href="https://iscaconf.org/isca2019/docs/ISCA2019-latex-template.zip">ISCA'19 Latex Template</a>.
-            </p>
-            <p>
-            Please follow the guidelines provided at <a href="https://iscaconf.org/isca2019/paper_submission.html">ISCA 2019 Paper Submission Guidelines.</a>
-            </p>
             <ul>
+                <li>We welcome submissions of up to 4 pages (not including references). This is not a strict limit, but authors are encouraged to adhere to it if possible.</li>
+                <li>All submissions must be in PDF format and should follow the <a href="https://iscaconf.org/isca2019/docs/ISCA2019-latex-template.zip">ISCA'19 Latex Template</a>.</li>
+                <li>Please follow the guidelines provided at <a href="https://iscaconf.org/isca2019/paper_submission.html">ISCA 2019 Paper Submission Guidelines.</a></li>
                 <li>Submissions do not have to be anonymized.</li>
                 <!-- <li><del>Please submit your paper no later than October 26th, 2018 midnight anywhere in the world to CMT <a href="https://cmt3.research.microsoft.com/NIPSMLforSystems2018">here</a>.</del></li> -->
             </ul>
