@@ -1,7 +1,7 @@
 ---
-title: Overview
+title: Organizing Committee
 ---
-<div class="inner clearfix">
+<!-- <div class="inner clearfix">
 	<section class="main-content overview_section">
 		<h2>Overview</h2>
 			<p>Designing specialized hardware for deep learning is a topic that has received significant research attention, both in industrial and academic settings, leading to exponential increases in compute capability in GPUs and accelerators. However, using machine learning to optimize and accelerate software and hardware systems is a lightly explored but promising field, with broad implications for computing as a whole. Very recent work has outlined a broad scope where deep learning vastly outperforms traditional heuristics including topics such as: scheduling<sup>1,2</sup>, data structure design<sup>3</sup>, microarchitecture<sup>4</sup>, compilers<sup>5</sup>, and control of warehouse scale computing systems<sup>6</sup>.
@@ -23,7 +23,7 @@ title: Overview
 		<li><sup>8</sup> <a href="https://arxiv.org/abs/1711.11165">Safe Exploration for Identifying Linear Systems via Robust Optimization</a></li>
 		</ul>
 	</section>
-</div>
+</div> -->
 <div class="organizers-section">
 	<div class="inner clearfix">
 		<section class="main-content">
