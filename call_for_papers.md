@@ -73,13 +73,13 @@ title: Call for Papers
                 <li>Submissions do not have to be anonymized.</li>
                 <!-- <li><del>Please submit your paper no later than October 26th, 2018 midnight anywhere in the world to CMT <a href="https://cmt3.research.microsoft.com/NIPSMLforSystems2018">here</a>.</del></li> -->
             </ul>
-            <!-- <h2>Important Dates</h2>
+            <h2>Important Dates</h2>
             <ul>
-                <li><del>Submission Deadline: <b>October 26th, 2018 by midnight Anywhere in the World</b>.</del></li>
-                <li><del>Acceptance Notifications: November 9th, 2018</del></li>
-                <li><del>Final File Upload: November 28th, 2018</del></li>
-                <li><del>Workshop: December 8th, 2018, 8:30 AM - 6:00 PM, Room 510 AC</del></li>
-            </ul> -->
+                <li><del>Submission Deadline: <b>May 31st, 2019 by midnight Anywhere in the World</b>.</del></li>
+                <li><del>Acceptance Notifications: June 10th, 2019</del></li>
+<!--                 <li><del>Final File Upload: November 28th, 2018</del></li> -->
+                <li><del>Workshop: June 23rd, 2019</del></li>
+            </ul>
         </section>
     </div>
 </div>
