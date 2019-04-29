@@ -4,22 +4,19 @@ title: Call for Papers
 
 <div class="inner clearfix">
     <section class="main-content call_for_papers_section">
-        <h2>Call for Papers</h2>
-        <p>
-            We invite submissions of extended abstracts to the Machine Learning for Systems Workshop which will be held in conjunction with ISCA on June 23rd, 2019.
-        </p>
-        <h3>Overview</h3>
+        <h2>Overview</h2>
         <p>
             Designing specialized hardware for deep learning is a topic that has received significant research attention, both in industrial and academic settings, leading to exponential increases in compute capability in GPUs and accelerators. However, using machine learning to optimize and accelerate software and hardware systems is rather a less-explored but promising field, with broad implications for computing as a whole. Very recent work has outlined a broad scope where deep learning vastly outperforms traditional heuristics including topics such as: scheduling<sup>1</sup>, data structure design<sup>2</sup>, microarchitecture<sup>3</sup>, compilers<sup>4</sup>, control of warehouse scale computing systems, and auto-tuned software infrastructure<sup>5</sup>.
         </p>
         <p>
             The main objective of this workshop is to expand upon this recent work and build a community focused on using machine learning in computer architecture and systems problems. We seek to improve the state of the art in the areas where learning has already proven to perform better than traditional heuristics, as well as expand to new areas throughout the system stack such as hardware/circuit design and operating/runtime systems.
         </p>
+        <h2>Call for Papers</h2>
         <p>
             Machine Learning for Systems is an interdisciplinary workshop that brings together researchers in computer architecture and systems and machine learning. This workshop is meant to serve as a platform to promote discussions between researchers in the workshops target areas.
         </p>
         <p>
-            We welcome submission of up to 4-page extended abstracts in the broad area of using machine learning to accelerate, design, or architect computer systems and software. Accepted papers will be made available on the workshop website, but there will be no formal proceedings. Authors may therefore publish their work in other journals or conferences.
+            We invite submission of up to 4-page extended abstracts in the broad area of using machine learning to accelerate, design, or architect computer systems and software. Accepted papers will be made available on the workshop website, but there will be no formal proceedings. Authors may therefore publish their work in other journals or conferences.
         </p>
         <p>
             The workshop will include invited talks from industry and academia as well as oral and poster presentations by participants.
