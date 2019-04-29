@@ -41,7 +41,7 @@ title: Call for Papers
                 <li>Supervised, unsupervised, and reinforcement learning research with applications to:
                     <ul>
                         <li>Computer architecture, microarchitecture, and accelerators</li>
-                        <li>Hardware-Software co-design</li>
+                        <li>Hardware-software co-design</li>
                         <li>Security</li>
                         <li>Compilers, data structures, and code optimization</li>
                         <li>Reconfigurable architecture</li>
