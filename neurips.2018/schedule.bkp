@@ -1,6 +1,3 @@
----
-title: Schedule
----
 <div class="schedule_section">
   <div class="inner clearfix">
     <section class="main-content">
