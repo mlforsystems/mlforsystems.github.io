@@ -1,5 +1,6 @@
 ---
 title: Organizing Committee
+workshop_name: isca2019
 ---
 <!-- <div class="inner clearfix">
 	<section class="main-content overview_section">

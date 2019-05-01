@@ -1,3 +1,6 @@
+---
+workshop_name: isca2019
+---
 <div class="inner clearfix">
     <section class="main-content accepted_papers_section">
         <h2>TBD</h2>

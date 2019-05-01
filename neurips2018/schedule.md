@@ -1,3 +1,10 @@
+---
+title: Schedule
+workshop_name: neurips2018
+site_description: Workshop on ML for Systems at NeurIPS 2018, December 8th, 8:30AM-6:00PM, Room 510 AC
+site_title: ML For Systems
+---
+
 <div class="schedule_section">
   <div class="inner clearfix">
     <section class="main-content">

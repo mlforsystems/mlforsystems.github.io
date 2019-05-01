@@ -1,8 +1,14 @@
+---
+title: Call for Papers
+workshop_name: neurips2018
+site_description: Workshop on ML for Systems at NeurIPS 2018, December 8th, 8:30AM-6:00PM, Room 510 AC
+site_title: ML For Systems
+---
 <div class="inner clearfix">
     <section class="main-content call_for_papers_section">
         <h2>Call for Papers</h2>
         <p>
-            We invite submissions of extended abstracts to the Machine Learning for Systems Workshop which will be held in conjunction with NeurIPS 2018 on December 8th 2018.
+            We invited submissions of extended abstracts to the Machine Learning for Systems Workshop which was be held in conjunction with NeurIPS 2018 on December 8th 2018.
         </p>
         <h3>Overview</h3>
         <p>
@@ -12,13 +18,13 @@
             The focus of this workshop is to expand upon this recent work and build a community focused on using machine learning in computer systems problems. We seek to improve the state of the art in the areas where learning has already proven to perform better than traditional heuristics, as well as expand to new areas throughout the system stack such as hardware/circuit design and operating/runtime systems.
         </p>
         <p>
-            We welcome submission of up to 4-page extended abstracts in the broad area of using machine learning to accelerate, design, or architect computer systems and software. Accepted papers will be made available on the workshop website, but there will be no formal proceedings. Authors may therefore publish their work in other journals or conferences.
+            We welcomed submission of up to 4-page extended abstracts in the broad area of using machine learning to accelerate, design, or architect computer systems and software. Accepted papers were made available on the <a href="/neurips2018/accepted_papers.html">workshop website</a>, but there are no formal proceedings. Authors may therefore publish their work in other journals or conferences.
         </p>
         <p>
-            The workshop will include invited talks from industry and academia as well as oral and poster presentations by participants.
+            The workshop included invited talks from industry and academia as well as oral and poster presentations by participants.
         </p>
         <p>
-            <b>The workshop has a pool of NeurIPS registrations that will be awarded to the authors of accepted submissions.</b>
+            <b>The workshop had a pool of NeurIPS registrations that was awarded to the authors of accepted submissions.</b>
         </p>
         <ul class="footnotes">
         <li><sup>1</sup> <a href="https://www.youtube.com/watch?v=YhNl468S8CI">Bayesian optimization for tuning the JVM</a></li>
@@ -59,7 +65,7 @@
         <section class="main-content">
             <h2>Submission Instructions</h2>
             <p>
-                We welcome submissions of up to 4 pages (not including references). This is not a strict limit, but authors are encouraged to adhere to it if possible.
+                We welcomed submissions of up to 4 pages (not including references). This is not a strict limit, but authors are encouraged to adhere to it if possible.
             </p>
             <p>
                 All submissions must be in PDF format and should follow the <a href="https://neurips.cc/Conferences/2018/PaperInformation/StyleFiles">NeurIPS 2018 format</a>.

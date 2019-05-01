@@ -1,3 +1,10 @@
+---
+title: Annoucement
+workshop_name: neurips2018
+site_description: Workshop on ML for Systems at NeurIPS 2018, December 8th, 8:30AM-6:00PM, Room 510 AC
+site_title: ML For Systems
+---
+
 <div class="inner clearfix">
 	<section class="main-content overview_section">
 		<h2>Overview</h2>
@@ -8,7 +15,7 @@
 		</p>
 		<p>By forming a community of academic and industrial researchers who are excited about this area, we seek to build towards intelligent, self optimizing systems and answer questions such as: How do we generate and share high quality datasets that span the layers of the system stack? Which learned representations best represent code performance and runtime? Which simulators and simulation methodologies provide a tractable proving ground techniques like reinforcement learning?</p>
 		<p>To this end, the target audience for this workshop includes a wide variety of attendees from state-of-the-art researchers in machine learning to domain experts in computer systems design. We have invited a <a href="#speakers">broad set of expert speakers</a> to present the potential for impact of combining deep learning research with computer systems. We hope that by providing a formal venue for researchers from both fields to meet and interact, that the result will include both fundamental research in ML as well as real-world impact to computer systems design and implementation.</p>
-		<p>The workshop will host 6 speakers and we will invite researchers to submit relevant papers through our <a href="/call_for_papers.html">call for papers</a>. The speakers, and potentially other relevant stakeholders, will be invited to participate in a panel discussion to end the workshop. See the <a href="/schedule.html">schedule</a> for details and recordings of the last 2 talks, and you will find the <a href="/accepted_papers.html">accepted papers here</a>.</p>
+		<p>The workshop hosted 6 speakers and we invited researchers to submit relevant papers through our <a href="/neurips2018/call_for_papers.html">call for papers</a>. The speakers, and potentially other relevant stakeholders, were invited to participate in a panel discussion to end the workshop. See the <a href="/neurips2018/schedule.html">schedule</a> for details and recordings of the last 2 talks, and you will find the <a href="/neurips2018/accepted_papers.html">accepted papers here</a>.</p>
 		<ul class="footnotes">
 		<li><sup>1</sup> <a href="https://arxiv.org/abs/1706.04972">Device Placement Optimization with Reinforcement Learning</a></li>
 		<li><sup>2</sup> <a href="https://openreview.net/forum?id=Hkc-TeZ0W">A Hierarchical Model for Device Placement</a></li>

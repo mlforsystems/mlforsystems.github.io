@@ -1,5 +1,6 @@
 ---
 title: Call for Papers
+workshop_name: isca2019
 ---
 
 <div class="inner clearfix">
