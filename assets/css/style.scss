@@ -272,4 +272,17 @@ body {
     }
 }
 
-
+li.navigation-home {
+    padding: 0 6px;
+    border-radius: 10px;
+    line-height: 16px;
+    font-size: 12px;
+    background: #257EC6;
+    opacity: 0.9;
+    color: #fff;
+    height: auto;
+}
+li.navigation-home:hover {
+    opacity: 1;
+    color: #fff;
+}

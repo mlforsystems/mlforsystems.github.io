@@ -17,35 +17,67 @@
   <body>
     <header>
       <div class="title_bar">
+        {% assign temp_title = site.title %}
+        {% assign description = site.description %}
+        {% assign root = '/' %}
+        {% assign workshops = 'neurips2018,isca2019' | split: ',' %}
+        {% if page.workshop_name != site.workshop_name %}
+        {% assign temp_title = page.site_title %}
+        {% assign description = page.site_description %}
+        {% assign root = page.url | slice: 1, 1000 | split: '/' | first | prepend: '/' %}
+        {% endif %}
         <ul class="navigation">
-            <li class="navigation-link navigation-link-title"><a href="{{ '/' | absolute_url }}">
-              {{ site.title | default: site.github.repository_name }}
+            <li class="navigation-link navigation-link-title"><a href="{{ root | absolute_url }}">
+              {{ temp_title | default: site.github.repository_name }}
             </a></li>
         {% for site_page in site.pages %}
-          {% if site_page.title %}
+          {% if site_page.title and site_page.workshop_name == page.workshop_name %}
           {% assign class = "navigation-link hide-on-mobile" %}
           {% if page.url == site_page.url %}
               {% assign class = "navigation-link hide-on-mobile navigation-link-active" %}
           {% endif %}
-
           <li class="{{ class }}"><a href="{{ site_page.url }}" alt="{{ site_page.title }}">{{ site_page.title }}</a></span>
+          {% endif %}
+        {% endfor %}
+        {% for workshop in workshops %}
+          {% assign workshop_url = workshop | prepend: '/' %}
+          {% assign workshop_title = workshop %}
+          {% if workshop == site.workshop_name %}
+          {% assign workshop_url = '/' %}
+          {% assign workshop_title = site.mini_title %}
+          {% endif %}
+          {% if page.workshop_name != workshop %}
+            {% assign class = "navigation-link hide-on-mobile navigation-home" %}
+            <li class="{{ class }}"><a href="{{ workshop_url | absolute_url }}" alt="{{ workshop_title }}">{{ workshop_title }}</a></span>
           {% endif %}
         {% endfor %}
         </ul>
       </div>
       <svg id="surface" width="100%" height="100%">
       </svg>
-      <div class="floating-description">{{ site.description | default: site.github.project_tagline }}</div>
+      <div class="floating-description">{{ description | default: site.github.project_tagline }}</div>
     </header>
     <ul class="mobile-navigation">
     {% for site_page in site.pages %}
-      {% if site_page.title %}
+      {% if site_page.title and site_page.workshop_name == page.workshop_name %}
       {% assign class = "mobile-navigation-link" %}
       {% if page.url == site_page.url %}
           {% assign class = "mobile-navigation-link mobile-navigation-link-active" %}
       {% endif %}
 
       <li class="{{ class }}"><a href="{{ site_page.url }}" alt="{{ site_page.title }}">{{ site_page.title }}</a></span>
+      {% endif %}
+    {% endfor %}
+    {% for workshop in workshops %}
+      {% assign workshop_url = workshop | prepend: '/' %}
+      {% assign workshop_title = workshop %}
+      {% if workshop == site.workshop_name %}
+      {% assign workshop_url = '/' %}
+      {% assign workshop_title = site.mini_title %}
+      {% endif %}
+      {% if page.workshop_name != workshop %}
+        {% assign class = "mobile-navigation-link navigation-home" %}
+        <li class="{{ class }}"><a href="{{ workshop_url | absolute_url }}" alt="{{ workshop_title }}">{{ workshop_title }}</a></span>
       {% endif %}
     {% endfor %}
     </ul>
