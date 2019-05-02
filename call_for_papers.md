@@ -69,7 +69,7 @@ workshop_name: isca2019
                 <li>All submissions must be in PDF format and should follow the <a href="https://iscaconf.org/isca2019/docs/ISCA2019-latex-template.zip">ISCA'19 Latex Template</a>.</li>
                 <li>Please follow the guidelines provided at <a href="https://iscaconf.org/isca2019/paper_submission.html">ISCA 2019 Paper Submission Guidelines.</a></li>
                 <li>Submissions do not have to be anonymized.</li>
-                <li>Please submit your paper no later than May 31st, 2019 midnight anywhere on earth to CMT <a href="https://cmt3.research.microsoft.com/MLSYSTEMS2019">here</a>.</li>
+                <li>Please submit your paper no later than May 31st, 2019 midnight anywhere on earth <a href="https://cmt3.research.microsoft.com/MLSYSTEMS2019">here</a>.</li>
             </ul>
             <h2>Important Dates</h2>
             <ul>
