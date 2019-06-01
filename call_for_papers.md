@@ -73,8 +73,8 @@ workshop_name: isca2019
             </ul>
             <h2>Important Dates</h2>
             <ul>
-                <li>Submission Deadline: <b>May 31st, 2019 - Midnight Anywhere on Earth</b>.</li>
-                <li>Acceptance Notifications: June 7th, 2019.</li>
+                <li>Submission Deadline: <b>June 7st, 2019 - Midnight Anywhere on Earth</b>.</li>
+                <li>Acceptance Notifications: June 14th, 2019.</li>
 <!--                 <li><del>Final File Upload: November 28th, 2018</del></li> -->
                 <li>Workshop: June 23rd, 2019.</li>
             </ul>
