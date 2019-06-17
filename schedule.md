@@ -19,7 +19,7 @@ site_title: ML For Systems
         <tbody>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">9:00 AM</td>
-            <td style="text-align: left">Opening Remarks</td>
+            <td style="text-align: left"><b>Opening Remarks</b></td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">9:10-9:40 AM</td>
@@ -61,6 +61,42 @@ site_title: ML For Systems
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">11:50-12:10 PM</td>
             <td style="text-align: left"><b>Zhihao Jia (Stanford University)</b><br/></td>
           </tr>	
+		<tr>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">12:10-2:00 PM</td>
+            <td style="text-align: left">Lunch<br/></td>
+          </tr>
+	  <tr>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">2:00-2:30 PM</td>
+		  <td style="text-align: left"><b>Nathan Bechmann (CMU)</b><br/></td>
+          </tr>
+	  <tr>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">2:30-3:00 PM</td>
+		  <td style="text-align: left"><b>Summer Deng (Facebook)</b><br/></td>
+          </tr>
+	  <tr>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">3:00-3:10 PM</td>
+		  <td style="text-align: left"><b>Talk 6</b><br/></td>
+          </tr>
+	<tr>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">3:10-3:20 PM</td>
+		  <td style="text-align: left"><b>Talk 7</b><br/></td>
+          </tr>
+		<tr>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">3:20-3:45 PM</td>
+		  <td style="text-align: left"><b>Break</b><br/></td>
+          </tr>
+		<tr>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">3:45-4:15 PM</td>
+		  <td style="text-align: left"><b>David Patterson</b><br/></td>
+          </tr>
+		<tr>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">4:15-4:50 PM</td>
+		  <td style="text-align: left"><b>Panel Discussion</b><br/></td>
+          </tr>
+		<tr>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">5:15 PM</td>
+		  <td style="text-align: left">Turing Award Lecture (Symphony Hall)<br/></td>
+          </tr>
         </tbody>
       </table>
     </section>
