@@ -109,7 +109,7 @@ site_title: ML For Systems
 resulting tiles into the arrays for processing. We discuss an ongoing effort on the development of a parallel computing system composed of multiple memory and logic blocks as well as their switching structure in support of the “tile and pipe” computation model.
 					</p>
 				</div>
-	    </div>
+	</div>
 	<div class="speaker-bio">
 				<div class="img-holder" style="background-image: url(/assets/images/speakers/zhan_shi.jpeg)"></div>
 				<div>
@@ -120,9 +120,6 @@ resulting tiles into the arrays for processing. We discuss an ongoing effort on 
 					</p>
 				</div>
 	</div>    
-	    
- </div>
-</div>
 <div class="contact-us-section">
     <div class="inner clearfix">
         <section class="main-content">
