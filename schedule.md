@@ -109,7 +109,7 @@ site_title: ML For Systems
 	    <div class="speaker-bio">
 				<div class="img-holder" style="background-image: url(/assets/images/speakers/dave_patterson.jpg)"></div>
 				<div>
-					<h3>David Patterson (Google Brain)</h3>
+					<h4>David Patterson (Google Brain)</h4>
 <!-- 					<h5 class="keynote-speaker">Don’t Use a Single Large Systolic Array, Use Many Small Ones Instead</h5> -->
 <!-- 					<p>
 					    It is known that systolic arrays can efficiently implement matrix multiplications in deep learning computations. For high array utilization, we describe how we can (1) pack sparse filter matrices for small systolic arrays [ASPLOS 2019], and (2) employ small arrays to accommodate heterogeneous workloads [ASAP 2019], such as the Transformer for NLP.  Scheduling-wise, we will tile matrices according to the dimensions of the given systolic arrays and then pipe the
@@ -131,7 +131,7 @@ resulting tiles into the arrays for processing. We discuss an ongoing effort on 
  <div class="speaker-bio">
 				<div class="img-holder" style="background-image: url(/assets/images/speakers/farinaz_koushanfar.jpeg)"></div>
 				<div>
-					<h3>Farinaz Koushanfar (UCSD)</h3>
+					<h4>Farinaz Koushanfar (UCSD)</h4>
 <!-- 					<h5 class="keynote-speaker">Don’t Use a Single Large Systolic Array, Use Many Small Ones Instead</h5> -->
 <!-- 					<p>
 					    It is known that systolic arrays can efficiently implement matrix multiplications in deep learning computations. For high array utilization, we describe how we can (1) pack sparse filter matrices for small systolic arrays [ASPLOS 2019], and (2) employ small arrays to accommodate heterogeneous workloads [ASAP 2019], such as the Transformer for NLP.  Scheduling-wise, we will tile matrices according to the dimensions of the given systolic arrays and then pipe the
@@ -143,7 +143,7 @@ resulting tiles into the arrays for processing. We discuss an ongoing effort on 
  <div class="speaker-bio">
 				<div class="img-holder" style="background-image: url(/assets/images/speakers/nathan_beckmann.jpg)"></div>
 				<div>
-					<h3>Nathan Beckmann (CMU)</h3>
+					<h4>Nathan Beckmann (CMU)</h4>
 <!-- 					<h5 class="keynote-speaker">Don’t Use a Single Large Systolic Array, Use Many Small Ones Instead</h5> -->
 <!-- 					<p>
 					    It is known that systolic arrays can efficiently implement matrix multiplications in deep learning computations. For high array utilization, we describe how we can (1) pack sparse filter matrices for small systolic arrays [ASPLOS 2019], and (2) employ small arrays to accommodate heterogeneous workloads [ASAP 2019], such as the Transformer for NLP.  Scheduling-wise, we will tile matrices according to the dimensions of the given systolic arrays and then pipe the
@@ -154,7 +154,7 @@ resulting tiles into the arrays for processing. We discuss an ongoing effort on 
 <div class="speaker-bio">
 				<div class="img-holder" style="background-image: url(/assets/images/speakers/summer_deng.jpg)"></div>
 				<div>
-					<h3>Zhaoxia (Summer) Deng (Facebook)</h3>
+					<h4>Zhaoxia (Summer) Deng (Facebook)</h4>
 <!-- 					<h5 class="keynote-speaker">Don’t Use a Single Large Systolic Array, Use Many Small Ones Instead</h5> -->
 <!-- 					<p>
 					    It is known that systolic arrays can efficiently implement matrix multiplications in deep learning computations. For high array utilization, we describe how we can (1) pack sparse filter matrices for small systolic arrays [ASPLOS 2019], and (2) employ small arrays to accommodate heterogeneous workloads [ASAP 2019], such as the Transformer for NLP.  Scheduling-wise, we will tile matrices according to the dimensions of the given systolic arrays and then pipe the
@@ -165,8 +165,8 @@ resulting tiles into the arrays for processing. We discuss an ongoing effort on 
 	<div class="speaker-bio">
 				<div class="img-holder" style="background-image: url(/assets/images/speakers/zhan_shi.jpeg)"></div>
 				<div>
-					<h3>Zhan Shi (University of Texas at Austin)</h3>
-					<h5 class="keynote-speaker">Learning Execution through Neural Code Fusion</h5>
+					<h3 class="keynote-speaker">Learning Execution through Neural Code Fusion</h3>
+					<h4>Zhan Shi (University of Texas at Austin)</h4>
 					<p>
 					    As the performance of computer systems stagnates due to the end of Moore’s Law, there is a need for new models that can understand and optimize the execution of general purpose code. While there is a growing body of work on using Graph Neural Networks (GNNs) to learn representations of source code, these representations do not understand how code dynamically executes. In this work, we propose a new approach to use GNNs to learn fused representations of general source code and its execution. Our approach defines a multi-task GNN over low-level representations of source code and program state (i.e., assembly code and dynamic memory states), converting complex source code constructs and complex data structures into a simpler, more uniform format. We show that this leads to improved performance over similar methods that do not use execution and it opens the door to applying GNN models to new tasks that would not be feasible from static code alone.  As an illustration of this, we apply the new model to challenging dynamic tasks (branch prediction and prefetching) from the SPEC CPU benchmark suite, outperforming the state-of-the-art by 26% and 45% respectively. Moreover, we use the learned fused graph embeddings to demonstrate transfer learning with high performance
 on an indirectly related task (algorithm classification).
@@ -176,8 +176,8 @@ on an indirectly related task (algorithm classification).
 	<div class="speaker-bio">
 				<div class="img-holder" style="background-image: url(/assets/images/speakers/zhihao.png)"></div>
 				<div>
-					<h3>Zhihao Jia (Stanford University)</h3>
-					<h5 class="keynote-speaker">Search-Based Approaches to Accelerate Deep Learning</h5>
+					<h3 class="keynote-speaker">Search-Based Approaches to Accelerate Deep Learning</h3>
+					<h4>Zhihao Jia (Stanford University)</h4>
 					<p>
 					    Current deep learning (DL) frameworks accelerate DL computation by applying a sequence of heuristic optimizations designed for common DNN models and hardware architectures. These frameworks generally miss subtle optimization opportunities that are specific to particular models and hardware. To address this limitation, I will present our recent work on designing search-based approaches to accelerate deep learning. To automatically optimize DNN computation on a specific hardware platform, we first design a comprehensive search space of possible deployment strategies, and use efficient search algorithms to discover optimized strategies in the search space. I will present two search-based DL systems: (1) FlexFlow automatically discovers fast strategies to parallelize DNN training, and outperforms existing data/model parallelism by up to 3.3x; and (2) XFlow is a DNN computation graph optimizer with automatically generated graph substitutions, which outperforms existing rule-based graph optimizers by up to 2.9x. I will conclude the talk by discussing the challenges and research opportunities in building end-to-end automated deep learning frameworks.
 					</p>
