@@ -109,7 +109,18 @@ site_title: ML For Systems
 resulting tiles into the arrays for processing. We discuss an ongoing effort on the development of a parallel computing system composed of multiple memory and logic blocks as well as their switching structure in support of the “tile and pipe” computation model.
 					</p>
 				</div>
-	</div>
+	    </div>
+	<div class="speaker-bio">
+				<div class="img-holder" style="background-image: url(/assets/images/speakers/zhan_shi.jpeg)"></div>
+				<div>
+					<h3>Zhan Shi</h3>
+					<h5 class="keynote-speaker">Abstract</h5>
+					<p>
+					    As the performance of computer systems stagnates due to the end of Moore’s Law, there is a need for new models that can understand and optimize the execution of general purpose code. While there is a growing body of work on using Graph Neural Networks (GNNs) to learn representations of source code, these representations do not understand how code dynamically executes. In this work, we propose a new approach to use GNNs to learn fused representations of general source code and its execution. Our approach defines a multi-task GNN over low-level representations of source code and program state (i.e., assembly code and dynamic memory states), converting complex source code constructs and complex data structures into a simpler, more uniform format. We show that this leads to improved performance over similar methods that do not use execution and it opens the door to applying GNN models to new tasks that would not be feasible from static code alone.
+					</p>
+				</div>
+	</div>    
+	    
  </div>
 </div>
 <div class="contact-us-section">
