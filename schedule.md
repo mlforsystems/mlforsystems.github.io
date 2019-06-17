@@ -46,7 +46,7 @@ site_title: ML For Systems
             <td style="text-align: left"><b>Talk 5</b><br/></td>
           </tr>
 	  <tr>
-            <td style="text-align: right; white-space: nowrap; font-size: 15px;">9:10-9:40 AM</td>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">10:30-11:00 AM</td>
             <td style="text-align: left"><b>H.T. Kung (Harvard University)</b><br/></td>
           </tr>
 		<tr>
