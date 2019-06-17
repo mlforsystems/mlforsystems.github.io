@@ -119,8 +119,7 @@ resulting tiles into the arrays for processing. We discuss an ongoing effort on 
 	</div>	    
       <div class="speaker-bio">
 				<div class="img-holder" style="background-image: url(/assets/images/speakers/htkungphoto.png)"></div>
-				<div>
-					
+				<div>					
 					<h3 class="keynote-speaker">Don’t Use a Single Large Systolic Array, Use Many Small Ones Instead</h3>
 					<h4>H. T. Kung (Harvard University)</h4>
 					<p>
