@@ -121,6 +121,19 @@ resulting tiles into the arrays for processing. We discuss an ongoing effort on 
 					</p>
 				</div>
 	</div>
+ <div class="speaker-bio">
+				<div class="img-holder" style="background-image: url(/assets/images/speakers/nathan_beckmann.jpg)"></div>
+				<div>
+					<h3>Nathan Beckmann (CMU)</h3>
+<!-- 					<h5 class="keynote-speaker">Don’t Use a Single Large Systolic Array, Use Many Small Ones Instead</h5> -->
+<!-- 					<p>
+					    It is known that systolic arrays can efficiently implement matrix multiplications in deep learning computations. For high array utilization, we describe how we can (1) pack sparse filter matrices for small systolic arrays [ASPLOS 2019], and (2) employ small arrays to accommodate heterogeneous workloads [ASAP 2019], such as the Transformer for NLP.  Scheduling-wise, we will tile matrices according to the dimensions of the given systolic arrays and then pipe the
+resulting tiles into the arrays for processing. We discuss an ongoing effort on the development of a parallel computing system composed of multiple memory and logic blocks as well as their switching structure in support of the “tile and pipe” computation model.
+					</p> -->
+				</div>
+	</div>		    
+	    
+	    
 	<div class="speaker-bio">
 				<div class="img-holder" style="background-image: url(/assets/images/speakers/zhan_shi.jpeg)"></div>
 				<div>
