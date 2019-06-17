@@ -18,7 +18,7 @@ site_title: ML For Systems
         </thead>
         <tbody>
           <tr>
-            <td style="text-align: right; white-space: nowrap; font-size: 15px;">9:00 AM</td>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">9:00-9:10 AM</td>
             <td style="text-align: left"><b>Opening Remarks</b></td>
           </tr>
           <tr>
