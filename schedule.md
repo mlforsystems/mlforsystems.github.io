@@ -122,7 +122,7 @@ resulting tiles into the arrays for processing. We discuss an ongoing effort on 
 				</div>
 	</div>
  <div class="speaker-bio">
-				<div class="img-holder" style="background-image: url(/assets/images/speakers/farinaz_koushanfar.jpg)"></div>
+				<div class="img-holder" style="background-image: url(/assets/images/speakers/farinaz_koushanfar.jpeg)"></div>
 				<div>
 					<h3>Farinaz Koushanfar (UCSD)</h3>
 <!-- 					<h5 class="keynote-speaker">Don’t Use a Single Large Systolic Array, Use Many Small Ones Instead</h5> -->
