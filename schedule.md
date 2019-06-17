@@ -5,7 +5,6 @@ site_description: Workshop on ML for Systems at ISCA 2019, June 23rd, 9:00AM-5:0
 site_title: ML For Systems
 ---
 
-<!--
 <div class="schedule_section">
   <div class="inner clearfix">
     <section class="main-content">
@@ -23,78 +22,50 @@ site_title: ML For Systems
             <td style="text-align: left">Opening Remarks</td>
           </tr>
           <tr>
-            <td style="text-align: right; white-space: nowrap; font-size: 15px;">9:10 AM</td>
-            <td style="text-align: left"><a href="#schkufza_talk"><b>Invited Speaker 1: Eric Schkufza</b><br/><i>A Crash Course in Stochastic Program Optimization</i></a> <a href="https://drive.google.com/file/d/1vq8IQERMKc9xmZWLh5rZRNHYWG8DAjAz/view?usp=sharing">(slides)</a></td>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">9:10-9:40 AM</td>
+            <td style="text-align: left"><b>Farinaz Koushanfar (UCSD)</b><br/></td>
           </tr>
           <tr>
-            <td style="text-align: right; white-space: nowrap; font-size: 15px;">9:35 AM</td>
-            <td style="text-align: left"><a href="#song_han_talk"><b>Invited Speaker 2: Song Han</b><br/><i>Efficient deep learning computing: a learning-based approach</i></a></td>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">9:40-9:50 AM</td>
+            <td style="text-align: left"><b>Talk 1</b><br/></td>
           </tr>
-          <tr>
-            <td style="text-align: right; white-space: nowrap; font-size: 15px;">10:00 AM</td>
-            <td style="text-align: left">Poster Session 1<br/></td>
+	  <tr>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">9:50-10:00 AM</td>
+            <td style="text-align: left"><b>Talk 2</b><br/></td>
           </tr>
-          <tr>
-            <td style="text-align: right; white-space: nowrap; font-size: 15px;">11:00 AM</td>
-            <td style="text-align: left"><b>Caroline Lemieux</b><br/><i>Neural Inference of API Functions from Input–Output Examples</i> <a href="https://drive.google.com/file/d/1Gob8ePBJ9bkupFFiyEDJ7CED7Bupsvi9/view?usp=sharing">(slides)</a></td>
+		<tr>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">10:00-10:10 AM</td>
+            <td style="text-align: left"><b>Talk 3</b><br/></td>
           </tr>
-          <tr>
-            <td style="text-align: right; white-space: nowrap; font-size: 15px;">11:15 AM</td>
-            <td style="text-align: left">Placeto: Efficient Progressive Device Placement Optimization</td>
+		<tr>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">10:10-10:20 AM</td>
+            <td style="text-align: left"><b>Talk 4</b><br/></td>
           </tr>
-          <tr>
-            <td style="text-align: right; white-space: nowrap; font-size: 15px;">11:30 AM</td>
-            <td style="text-align: left"><b>Fabian Ruffy</b><br/><i>Iroko: A Framework to Prototype Reinforcement Learning for Data Center Traffic Control</i> <a href="https://drive.google.com/file/d/14XnfsyhTISJWsquyVy-UoOgI08VwG0wa/view?usp=sharing">(slides)</a></td>
+		<tr>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">10:20-10:30 AM</td>
+            <td style="text-align: left"><b>Talk 5</b><br/></td>
           </tr>
-          <tr>
-            <td style="text-align: right; white-space: nowrap; font-size: 15px;">11:45 AM</td>
-            <td style="text-align: left"><a href="#partha_talk"><b>Invited Speaker 3: Partha Ranganathan</b><br/><i>ML for ML: Machine Learning to drive Moore's Law</i></a></td>
+	  <tr>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">9:10-9:40 AM</td>
+            <td style="text-align: left"><b>H.T. Kung (Harvard University)</b><br/></td>
           </tr>
-          <tr>
-            <td style="text-align: right; white-space: nowrap; font-size: 15px;">12:10 PM</td>
-            <td style="text-align: left">Lunch Break</td>
+		<tr>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">11-11:30 AM</td>
+            <td style="text-align: left"><b>Break</b><br/></td>
           </tr>
-          <tr>
-            <td style="text-align: right; white-space: nowrap; font-size: 15px;">1:45 PM</td>
-            <td style="text-align: left"><a href="#neeraja_talk"><b>Invited Speaker 4: Neeraja J. Yadwadkar</b><br/><i>Machine Learning for resource management in Distributed Systems</i></a></td>
+		<tr>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">11:30-11:50 AM</td>
+            <td style="text-align: left"><b>Zhan Shi (University of Texas at Austin)</b><br/></td>
           </tr>
-          <tr>
-            <td style="text-align: right; white-space: nowrap; font-size: 15px;">2:10 PM</td>
-            <td style="text-align: left">Learning to Optimize Tensor Programs</td>
-          </tr>
-          <tr>
-            <td style="text-align: right; white-space: nowrap; font-size: 15px;">2:25 PM</td>
-            <td style="text-align: left">Learning to Design Circuits</td>
-          </tr>
-          <tr>
-            <td style="text-align: right; white-space: nowrap; font-size: 15px;">2:40 PM</td>
-            <td style="text-align: left">ReLeQ: A Reinforcement Learning Approach for Deep Quantization of Neural Networks</td>
-          </tr>
-          <tr>
-            <td style="text-align: right; white-space: nowrap; font-size: 15px;">2:55 PM</td>
-            <td style="text-align: left">Poster Session 2<br/></td>
-          </tr>
-          <tr>
-            <td style="text-align: right; white-space: nowrap; font-size: 15px;">4:00 PM</td>
-            <td style="text-align: left"><a href="#sanjay_talk"><b>Invited Speaker 5: Sanjay Krishnan</b><br/><i>Learning to Optimize SQL Joins With Deep Reinforcement Learning</i></a> <a href="https://youtu.be/BZwDTKogS7U?t=2392">(recording)</a></td>
-          </tr>
-          <tr>
-            <td style="text-align: right; white-space: nowrap; font-size: 15px;">4:25 PM</td>
-            <td style="text-align: left"><b>Keynote Speaker: Jeff Dean</b><br/><i>Machine Learning for Systems</i> <a href="https://youtu.be/BZwDTKogS7U?t=3793">(recording)</a></td>
-          </tr>
-          <tr>
-            <td style="text-align: right; white-space: nowrap; font-size: 15px;">4:50 PM</td>
-            <td style="text-align: left"><b>Panel Discussion (Jeff Dean,  Partha Ranganathan, Song Han, and Ion Stoica)</b></td>
-          </tr>
-          <tr>
-            <td style="text-align: right; white-space: nowrap; font-size: 15px;">5:50 PM</td>
-            <td style="text-align: left">Closing Remarks (10mn)</td>
-          </tr>
+	  <tr>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">11:50-12:10 PM</td>
+            <td style="text-align: left"><b>Zhihao Jia (Stanford University)</b><br/></td>
+          </tr>	
         </tbody>
       </table>
     </section>
   </div>
-</div> -->
+</div>
 <div class="speaker_section">
   <div class="inner clearfix">
     <section class="main-content">
