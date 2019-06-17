@@ -1,3 +1,11 @@
+---
+title: Schedule
+workshop_name: isca2019
+site_description: Workshop on ML for Systems at ISCA 2019, June 23rd, 9:00AM-5:00PM, Room 101A
+site_title: ML For Systems
+---
+
+<!--
 <div class="schedule_section">
   <div class="inner clearfix">
     <section class="main-content">
@@ -86,40 +94,22 @@
       </table>
     </section>
   </div>
-</div>
+</div> -->
 <div class="speaker_section">
   <div class="inner clearfix">
     <section class="main-content">
-      <h2>Talk Abstracts</h2>
-      <h3 id="schkufza_talk">A Crash Course in Stochastic Program Optimization <a href="https://drive.google.com/file/d/1vq8IQERMKc9xmZWLh5rZRNHYWG8DAjAz/view?usp=sharing">(slides)</a></h3>
-      <h5 class="talk_speaker">Eric Schkufza</h5>
-      <p>
-        Traditional compiler use expert-written rules to prove the correctness of program transformations, and hope for the best in terms of performance. Stochastic program optimizers turn that model on its head. They use machine learning techniques to search for aggressive performance-improving transformations, and state-of-the-art verification techniques to prove correctness after the fact. The results are novel, often inscrutable, and in many cases outperform expertly tuned code. In this talk I'll present an overview of the core technique, describe current work, and discuss directions for future research.
-      </p>
-      <h3 id="song_han_talk">Efficient deep learning computing: a learning-based approach</h3>
-      <h5 class="talk_speaker">Song Han</h5>
-      <p>
-        In the post-Moore's Law era, the amount of computation per unit cost and power is no longer increasing at its historic rate. In the post-ImageNet era, researchers are solving more complicated AI problems using larger data sets which drives the demand for more computation.  This mismatch between supply and demand for computation highlights the need for co-designing efficient machine learning algorithms and domain-specific hardware architectures. Such algorithm-hardware co-design opens up a much larger design space, which requires domain experts on both sides (ML+systems), and human heuristics might be sub-optimal to explore the vast design space. We introduce three of our recent work of using machine learning to optimize the machine learning system: learning the optimal pruning strategy (<a href="https://arxiv.org/pdf/1802.03494.pdf">AMC</a>) and quantization strategy (<a href="https://arxiv.org/pdf/1811.08886.pdf">HAQ</a>) on the target hardware, rather than relying on rule-based strategies;  learning the optimal neural network architecture that is specialized for a target hardware architecture, optimizing both accuracy and latency (<a href="https://openreview.net/pdf?id=HylVB3AqYm">ProxylessNAS</a>), rather than using a generic neural network architecture across all hardware architectures; learning to optimize analog circuit parameters, rather than relying on experienced analog engineers to tune those transistors. On the other side of the loop (design hardware-friendly machine learning algorithms), I'll introduce the temporal shift module (<a href="https://hanlab.mit.edu/projects/tsm/">TSM</a>) that offers 8x lower latency, 12x higher throughput than 3D convolution-based methods, while ranking the first on both Something-Something V1 and V2 leaderboards. I'll conclude the talk by giving an outlook of the design automation for efficient machine learning system.
-      </p>
-      <h3 id="partha_talk">ML for ML: Machine Learning to drive Moore's Law</h3>
-      <h5 class="talk_speaker">Partha Ranganathan</h5>
-      <p>
-        The computer architecture is facing an important and exciting challenge. The slowing of Moore's law (at the same time demand continues to grow) has led to new approaches to thinking about future system design including accelerators and software-defined hardware. In this talk we will discuss how machine learning has the potential to amplify these opportunities. We will discuss some specific case studies and end with some key insights specific to applying machine learning to improve computer architecture.
-      </p>
-      <h3 id="neeraja_talk">Machine Learning for resource management in Distributed Systems</h3>
-      <h5 class="talk_speaker">Neeraja Yadwadkar</h5>
-      <p>
-        Traditional resource management techniques that rely on simple heuristics often fail to achieve predictable performance in contemporary complex systems that span physical servers, virtual servers, private and/or public clouds. My research aims to bring the benefits of Machine Learning (ML) models to optimize and manage such complex systems by deriving actionable insights from the performance and utilization data these systems generate. To realize this vision of model-based resource management, we need to deal with the following key challenges data-driven ML models raise: uncertainty in predictions, cost of training, generalizability from benchmark datasets to real-world systems datasets, and interpretability of the models.
-      </p>
-      <p>
-        In this talk, I will present our the ML formulations to demonstrate how to handle these challenges for two main problem domains in distributed systems: (I) Scheduling in parallel data-intensive computational frameworks for improved tail latencies, and (II) Performance-aware resource allocation in the public cloud environments for meeting user-specified performance and cost goals. Along the way, I will also share a list of guidelines for leveraging ML for solving problems in systems, based on my experience.
-      </p>
-      <h3 id="sanjay_talk">Learning to Optimize SQL Joins With Deep Reinforcement Learning <a href="https://youtu.be/BZwDTKogS7U?t=2392">(recording)</a></h3>
-      <h5 class="talk_speaker">Sanjay Krishnan</h5>
-      <p>
-        To integrate information from more than two tables, a SQL query optimizer must identify the most efficient nesting of two-way table join operations to answer the query. Recent advances in AI may provide an unexpected new perspective on this classical problem that has been studied for over 40 years. Join optimization can be posed as a Markov Decision Process where the state is a graph that represents the join conditions in a query and actions are edge contractions on this graph; thereby, allowing us to apply ideas from deep reinforcement learning and imitation learning to facilitate an improved query optimizer that learns from experience, handles uncertainty, and incorporates execution feedback. I describe how our group built a full-featured  query  optimizer  based on this MDP architecture, and we present results across a variety of database designs and query workloads in Postgres SQL and Apache Spark. I conclude by highlighting some of the under-appreciated RL research challenges in exploration, parametrization, and policy evaluation unearthed by this application.
-      </p>
-    </section>
+      <h2 id="speakers">Speakers</h2>
+      <div class="speaker-bio">
+				<div class="img-holder" style="background-image: url(/assets/images/speakers/htkungphoto.png)"></div>
+				<div>
+					<h3>H. T. Kung</h3>
+					<h5 class="keynote-speaker">Abstract</h5>
+					<p>
+					    It is known that systolic arrays can efficiently implement matrix multiplications in deep learning computations. For high array utilization, we describe how we can (1) pack sparse filter matrices for small systolic arrays [ASPLOS 2019], and (2) employ small arrays to accommodate heterogeneous workloads [ASAP 2019], such as the Transformer for NLP.  Scheduling-wise, we will tile matrices according to the dimensions of the given systolic arrays and then pipe the
+resulting tiles into the arrays for processing. We discuss an ongoing effort on the development of a parallel computing system composed of multiple memory and logic blocks as well as their switching structure in support of the “tile and pipe” computation model.
+					</p>
+				</div>
+			</div>
   </div>
 </div>
 <div class="contact-us-section">
