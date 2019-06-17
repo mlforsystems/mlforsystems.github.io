@@ -110,8 +110,6 @@ resulting tiles into the arrays for processing. We discuss an ongoing effort on 
 					</p>
 				</div>
 			</div>
-  </div>
-</div>
 <div class="contact-us-section">
     <div class="inner clearfix">
         <section class="main-content">
