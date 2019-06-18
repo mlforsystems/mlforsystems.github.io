@@ -67,7 +67,7 @@ site_title: ML For Systems
           </tr>
 	  <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">2:00-2:30 PM</td>
-		  <td style="text-align: left"><b>Nathan Bechmann (CMU)</b><br/></td>
+		  <td style="text-align: left"><b>Nathan Beckmann (CMU)</b><br/></td>
           </tr>
 	  <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">2:30-3:00 PM</td>
@@ -109,12 +109,11 @@ site_title: ML For Systems
 	    <div class="speaker-bio">
 				<div class="img-holder" style="background-image: url(/assets/images/speakers/dave_patterson.jpg)"></div>
 				<div>
+					<h3 class="keynote-speaker">Domain-Specific Architectures for Deep Neural Networks</h3>
 					<h4>David Patterson - Google Brain</h4>
-<!-- 					<h5 class="keynote-speaker">Don’t Use a Single Large Systolic Array, Use Many Small Ones Instead</h5> -->
-<!-- 					<p>
-					    It is known that systolic arrays can efficiently implement matrix multiplications in deep learning computations. For high array utilization, we describe how we can (1) pack sparse filter matrices for small systolic arrays [ASPLOS 2019], and (2) employ small arrays to accommodate heterogeneous workloads [ASAP 2019], such as the Transformer for NLP.  Scheduling-wise, we will tile matrices according to the dimensions of the given systolic arrays and then pipe the
-resulting tiles into the arrays for processing. We discuss an ongoing effort on the development of a parallel computing system composed of multiple memory and logic blocks as well as their switching structure in support of the “tile and pipe” computation model.
-					</p> -->
+					<p>
+					    With the ending of Moore's Law, many computer architects believe that major improvements in cost-energy-performance must now come from domain-specific hardware. The Tensor Processing Unit (TPU), deployed in Google datacenters since 2015, is a custom chip that accelerates deep neural networks (DNNs).  We compare the TPU to contemporary server-class CPUs and GPUs deployed in the same datacenters. Our benchmark workload, written using the high-level TensorFlow framework, uses production DNN applications that represent 95% of our datacenters’ DNN demand. The TPU is  an order of magnitude faster than contemporary CPUs and GPUs and its relative performance per Watt is even larger. We also describe the next two generations of TPUs, which are designed for training.
+					</p>
 				</div>
 	</div>	    
       <div class="speaker-bio">
@@ -143,12 +142,14 @@ resulting tiles into the arrays for processing. We discuss an ongoing effort on 
  <div class="speaker-bio">
 				<div class="img-holder" style="background-image: url(/assets/images/speakers/nathan_beckmann.jpg)"></div>
 				<div>
+					<h3 class="keynote-speaker">Learn to Cache</h3>
 					<h4>Nathan Beckmann - CMU</h4>
 <!-- 					<h5 class="keynote-speaker">Don’t Use a Single Large Systolic Array, Use Many Small Ones Instead</h5> -->
-<!-- 					<p>
-					    It is known that systolic arrays can efficiently implement matrix multiplications in deep learning computations. For high array utilization, we describe how we can (1) pack sparse filter matrices for small systolic arrays [ASPLOS 2019], and (2) employ small arrays to accommodate heterogeneous workloads [ASAP 2019], such as the Transformer for NLP.  Scheduling-wise, we will tile matrices according to the dimensions of the given systolic arrays and then pipe the
-resulting tiles into the arrays for processing. We discuss an ongoing effort on the development of a parallel computing system composed of multiple memory and logic blocks as well as their switching structure in support of the “tile and pipe” computation model.
-					</p> -->
+					<p>
+					    Caches are pervasive in computer systems and often determine overall system performance. Unfortunately, finding a caching policy that performs well is hard because applications vary so much in how they access data. Since traditional heuristics like recency and frequency leave too much performance on the table, caching policies are often hand-tuned in practice. But hand-tuning is unattractive because it takes significant effort and also makes caches fragile to changes in application behavior.
+
+This talk will cover recent work on caching policies that learn & improve themselves online, without any hand-tuning or heuristics. Unsupervised reinforcement learning is not very effective in caching. To make a success of machine learning, caching systems must combine learning with the structure of caching problems. We will discuss two approaches: our recent work based on Bayesian inference, and policies that learn to imitate optimal cache replacement. We will show that these policies outperform the state-of-the-art by a large margin.
+					</p>
 				</div>
 	    </div>
 <div class="speaker-bio">
