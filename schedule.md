@@ -47,7 +47,7 @@ site_title: ML For Systems
           </tr>
 	  <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">10:30-11:00 AM</td>
-            <td style="text-align: left"><b>H.T. Kung (Harvard University)</b><br/></td>
+            <td style="text-align: left"><b>Don’t Use a Single Large Systolic Array, Use Many Small Ones Instead</b><br/>H.T. Kung - Harvard University</td>
           </tr>
 		<tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">11-11:30 AM</td>
@@ -55,11 +55,11 @@ site_title: ML For Systems
           </tr>
 		<tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">11:30-11:50 AM</td>
-            <td style="text-align: left"><b>Zhan Shi (University of Texas at Austin)</b><br/></td>
+            <td style="text-align: left"><b>Learning Execution through Neural Code Fusion</b><br/>Zhan Shi - University of Texas at Austin</td>
           </tr>
 	  <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">11:50-12:10 PM</td>
-            <td style="text-align: left"><b>Zhihao Jia (Stanford University)</b><br/></td>
+            <td style="text-align: left"><b>Search-Based Approaches to Accelerate Deep Learning</b><br/>Zhihao Jia - Stanford University</td>
           </tr>	
 		<tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">12:10-2:00 PM</td>
@@ -75,7 +75,7 @@ site_title: ML For Systems
           </tr>
 	  <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">3:00-3:10 PM</td>
-		  <td style="text-align: left"><b>SinReQ: Generalized Sinusoidal Regularization for Low-Bitwidth Deep Quantized Training (Speaker: Ahmed Youssef) - UCSD</b><br/></td>
+		  <td style="text-align: left"><b>SinReQ: Generalized Sinusoidal Regularization for Low-Bitwidth Deep Quantized Training</b><br/>Speaker: Ahmed Youssef - UCSD</td>
           </tr>
 	<tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">3:10-3:20 PM</td>
@@ -87,7 +87,7 @@ site_title: ML For Systems
           </tr>
 		<tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">3:45-4:15 PM</td>
-		  <td style="text-align: left"><b>David Patterson</b><br/></td>
+		  <td style="text-align: left"><b>Domain-Specific Architectures for Deep Neural Networks</b><br/>David Patterson - Google Brain</td>
           </tr>
 		<tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">4:15-4:50 PM</td>
