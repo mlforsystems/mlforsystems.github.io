@@ -27,7 +27,7 @@ site_title: ML For Systems
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">9:40-9:50 AM</td>
-		  <td style="text-align: left"><b>Ithemal: Accurate, Portable and Fast Basic Block Throughput Estimation using Deep Neural Networks</b><br/>Speaker: Charith Mendis - MIT</td>  
+		  <td style="text-align: left"><b>Ithemal: Accurate, Portable and Fast Basic Block Throughput Estimation using Deep Neural Networks</b><br/><i>Speaker</i>: Charith Mendis - MIT</td>  
           </tr>
 	  <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">9:50-10:00 AM</td>
@@ -35,19 +35,19 @@ site_title: ML For Systems
           </tr>
 		<tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">10:00-10:10 AM</td>
-            <td style="text-align: left"><b>AutoRank: Automated Rank Selection for Effective Neural Network Customization</b><br/>Speaker: Mohammad Samragh - UCSD</td>
+            <td style="text-align: left"><b>AutoRank: Automated Rank Selection for Effective Neural Network Customization</b><br/><i>Speaker</i>: Mohammad Samragh - UCSD</td>
           </tr>
 		<tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">10:10-10:20 AM</td>
-            <td style="text-align: left"><b>Towards Automated Network Management: Learning the Optimal Protocol Selection for Network Flows</b><br/> Speaker: Xiaoxi Zhang - CMU</td>
+            <td style="text-align: left"><b>Towards Automated Network Management: Learning the Optimal Protocol Selection for Network Flows</b><br/><i>Speaker</i>: Xiaoxi Zhang - CMU</td>
           </tr>
 		<tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">10:20-10:30 AM</td>
-            <td style="text-align: left"><b>Coda: An End-to-End Neural Program Decompiler</b><br/>Speaker: Jishen Zhao - UCSD</td>
+            <td style="text-align: left"><b>Coda: An End-to-End Neural Program Decompiler</b><br/><i>Speaker</i>: Jishen Zhao - UCSD</td>
           </tr>
 	  <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">10:30-11:00 AM</td>
-            <td style="text-align: left"><b>Don’t Use a Single Large Systolic Array, Use Many Small Ones Instead</b><br/>H.T. Kung - Harvard University</td>
+            <td style="text-align: left"><b>Don’t Use a Single Large Systolic Array, Use Many Small Ones Instead</b><br/><i>Speaker</i>H.T. Kung - Harvard University</td>
           </tr>
 		<tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">11-11:30 AM</td>
@@ -55,11 +55,11 @@ site_title: ML For Systems
           </tr>
 		<tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">11:30-11:50 AM</td>
-            <td style="text-align: left"><b>Learning Execution through Neural Code Fusion</b><br/>Zhan Shi - University of Texas at Austin</td>
+            <td style="text-align: left"><b>Learning Execution through Neural Code Fusion</b><br/><i>Speaker</i>: Zhan Shi - University of Texas at Austin</td>
           </tr>
 	  <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">11:50-12:10 PM</td>
-            <td style="text-align: left"><b>Search-Based Approaches to Accelerate Deep Learning</b><br/>Zhihao Jia - Stanford University</td>
+            <td style="text-align: left"><b>Search-Based Approaches to Accelerate Deep Learning</b><br/><i>Speaker</i>: Zhihao Jia - Stanford University</td>
           </tr>	
 		<tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">12:10-2:00 PM</td>
@@ -75,7 +75,7 @@ site_title: ML For Systems
           </tr>
 	  <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">3:00-3:10 PM</td>
-		  <td style="text-align: left"><b>SinReQ: Generalized Sinusoidal Regularization for Low-Bitwidth Deep Quantized Training</b><br/>Speaker: Ahmed Youssef - UCSD</td>
+		  <td style="text-align: left"><b>SinReQ: Generalized Sinusoidal Regularization for Low-Bitwidth Deep Quantized Training</b><br/><i>Speaker</i>: Ahmed Youssef - UCSD</td>
           </tr>
 	<tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">3:10-3:20 PM</td>
@@ -87,7 +87,7 @@ site_title: ML For Systems
           </tr>
 		<tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">3:45-4:15 PM</td>
-		  <td style="text-align: left"><b>Domain-Specific Architectures for Deep Neural Networks</b><br/>David Patterson - Google Brain</td>
+		  <td style="text-align: left"><b>Domain-Specific Architectures for Deep Neural Networks</b><br/><i>Speaker</i>: David Patterson - Google Brain</td>
           </tr>
 		<tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">4:15-4:50 PM</td>
