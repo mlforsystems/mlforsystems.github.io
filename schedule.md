@@ -27,23 +27,23 @@ site_title: ML For Systems
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">9:40-9:50 AM</td>
-            <td style="text-align: left"><b>Talk 1</b><br/></td>
+            <td style="text-align: left"><b>Reinforcement Learning and Adaptive Sampling for Optimized DNN Compilation (Speaker: Byung Hoon Ahn) - UCSD</b><br/></td>
           </tr>
 	  <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">9:50-10:00 AM</td>
-            <td style="text-align: left"><b>Talk 2</b><br/></td>
+            <td style="text-align: left"><b>Ithemal: Accurate, Portable and Fast Basic Block Throughput Estimation using Deep Neural Networks (Speaker: Charith Mendis) - MIT</b><br/></td>
           </tr>
 		<tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">10:00-10:10 AM</td>
-            <td style="text-align: left"><b>Talk 3</b><br/></td>
+            <td style="text-align: left"><b>AutoRank: Automated Rank Selection for Effective Neural Network Customization (Speaker: Mohammad Samragh) - UCSD</b><br/></td>
           </tr>
 		<tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">10:10-10:20 AM</td>
-            <td style="text-align: left"><b>Talk 4</b><br/></td>
+            <td style="text-align: left"><b>Towards Automated Network Management: Learning the Optimal Protocol Selection for Network Flows (Speaker: Xiaoxi Zhang) - CMU</b><br/></td>
           </tr>
 		<tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">10:20-10:30 AM</td>
-            <td style="text-align: left"><b>Talk 5</b><br/></td>
+            <td style="text-align: left"><b>Coda: An End-to-End Neural Program Decompiler (Speaker: Jishen Zhao) - UCSD</b><br/></td>
           </tr>
 	  <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">10:30-11:00 AM</td>
@@ -75,7 +75,7 @@ site_title: ML For Systems
           </tr>
 	  <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">3:00-3:10 PM</td>
-		  <td style="text-align: left"><b>Talk 6</b><br/></td>
+		  <td style="text-align: left"><b>SinReQ: Generalized Sinusoidal Regularization for Low-Bitwidth Deep Quantized Training (Speaker: Ahmed Youssef) - UCSD</b><br/></td>
           </tr>
 	<tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">3:10-3:20 PM</td>
