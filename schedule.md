@@ -54,15 +54,15 @@ site_title: ML For Systems
             <td style="text-align: left"><b>Break</b><br/></td>
           </tr>
 		<tr>
-            <td style="text-align: right; white-space: nowrap; font-size: 15px;">11:30-11:50 AM</td>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">11:30-11:55 AM</td>
             <td style="text-align: left"><b>Learning Execution through Neural Code Fusion</b><br/><i>Speaker</i>: Zhan Shi - University of Texas at Austin</td>
           </tr>
 	  <tr>
-            <td style="text-align: right; white-space: nowrap; font-size: 15px;">11:50-12:10 PM</td>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">11:55-12:20 PM</td>
             <td style="text-align: left"><b>Search-Based Approaches to Accelerate Deep Learning</b><br/><i>Speaker</i>: Zhihao Jia - Stanford University</td>
           </tr>	
 		<tr>
-            <td style="text-align: right; white-space: nowrap; font-size: 15px;">12:10-2:00 PM</td>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">12:20-2:00 PM</td>
             <td style="text-align: left">Lunch<br/></td>
           </tr>
 	  <tr>
@@ -90,7 +90,7 @@ site_title: ML For Systems
 		  <td style="text-align: left"><b>Domain-Specific Architectures for Deep Neural Networks</b><br/><i>Speaker</i>: David Patterson - Google Brain</td>
           </tr>
 		<tr>
-            <td style="text-align: right; white-space: nowrap; font-size: 15px;">4:15-4:50 PM</td>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">4:15-5:00 PM</td>
 		  <td style="text-align: left"><b>Panel Discussion</b><br/></td>
           </tr>
 		<tr>
