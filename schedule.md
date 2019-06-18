@@ -27,11 +27,11 @@ site_title: ML For Systems
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">9:40-9:50 AM</td>
-            <td style="text-align: left"><b>Reinforcement Learning and Adaptive Sampling for Optimized DNN Compilation (Speaker: Byung Hoon Ahn) - UCSD</b><br/></td>
+		  <td style="text-align: left"><b>Ithemal: Accurate, Portable and Fast Basic Block Throughput Estimation using Deep Neural Networks</b><br/>Speaker: Charith Mendis - MIT</td>  
           </tr>
 	  <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">9:50-10:00 AM</td>
-            <td style="text-align: left"><b>Ithemal: Accurate, Portable and Fast Basic Block Throughput Estimation using Deep Neural Networks (Speaker: Charith Mendis) - MIT</b><br/></td>
+            <td style="text-align: left"><b>Reinforcement Learning and Adaptive Sampling for Optimized DNN Compilation</b></br>Speaker: Byung Hoon Ahn - UCSD</td>
           </tr>
 		<tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">10:00-10:10 AM</td>
