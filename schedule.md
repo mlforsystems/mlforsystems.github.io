@@ -31,19 +31,19 @@ site_title: ML For Systems
           </tr>
 	  <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">9:50-10:00 AM</td>
-            <td style="text-align: left"><b>Reinforcement Learning and Adaptive Sampling for Optimized DNN Compilation</b></br>Speaker: Byung Hoon Ahn - UCSD</td>
+            <td style="text-align: left"><b>Reinforcement Learning and Adaptive Sampling for Optimized DNN Compilation</b><br/>Speaker: Byung Hoon Ahn - UCSD</td>
           </tr>
 		<tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">10:00-10:10 AM</td>
-            <td style="text-align: left"><b>AutoRank: Automated Rank Selection for Effective Neural Network Customization (Speaker: Mohammad Samragh) - UCSD</b><br/></td>
+            <td style="text-align: left"><b>AutoRank: Automated Rank Selection for Effective Neural Network Customization</b><br/>Speaker: Mohammad Samragh - UCSD</td>
           </tr>
 		<tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">10:10-10:20 AM</td>
-            <td style="text-align: left"><b>Towards Automated Network Management: Learning the Optimal Protocol Selection for Network Flows (Speaker: Xiaoxi Zhang) - CMU</b><br/></td>
+            <td style="text-align: left"><b>Towards Automated Network Management: Learning the Optimal Protocol Selection for Network Flows</b><br/> Speaker: Xiaoxi Zhang - CMU</td>
           </tr>
 		<tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">10:20-10:30 AM</td>
-            <td style="text-align: left"><b>Coda: An End-to-End Neural Program Decompiler (Speaker: Jishen Zhao) - UCSD</b><br/></td>
+            <td style="text-align: left"><b>Coda: An End-to-End Neural Program Decompiler</b><br/>Speaker: Jishen Zhao - UCSD</td>
           </tr>
 	  <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">10:30-11:00 AM</td>
