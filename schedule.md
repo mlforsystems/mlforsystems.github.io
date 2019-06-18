@@ -31,7 +31,7 @@ site_title: ML For Systems
           </tr>
 	  <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">9:50-10:00 AM</td>
-            <td style="text-align: left"><b>Reinforcement Learning and Adaptive Sampling for Optimized DNN Compilation</b><br/>Speaker: Byung Hoon Ahn - UCSD</td>
+            <td style="text-align: left"><b>Reinforcement Learning and Adaptive Sampling for Optimized DNN Compilation</b><br/><i>Speaker</i>: Byung Hoon Ahn - UCSD</td>
           </tr>
 		<tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">10:00-10:10 AM</td>
@@ -47,7 +47,7 @@ site_title: ML For Systems
           </tr>
 	  <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">10:30-11:00 AM</td>
-            <td style="text-align: left"><b>Don’t Use a Single Large Systolic Array, Use Many Small Ones Instead</b><br/><i>Speaker</i>H.T. Kung - Harvard University</td>
+            <td style="text-align: left"><b>Don’t Use a Single Large Systolic Array, Use Many Small Ones Instead</b><br/><i>Speaker</i>: H.T. Kung - Harvard University</td>
           </tr>
 		<tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">11-11:30 AM</td>
