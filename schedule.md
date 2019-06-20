@@ -71,7 +71,7 @@ site_title: ML For Systems
           </tr>
 	  <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">2:30-3:00 PM</td>
-		  <td style="text-align: left"><b>Summer Deng (Facebook)</b><br/></td>
+		  <td style="text-align: left"><b>Deep Learning Acceleration via Low Precision Computing</b><br/><i>Speaker</i>: Summer Deng - Facebook</td>			
           </tr>
 	  <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">3:00-3:10 PM</td>
