@@ -39,7 +39,7 @@ site_title: ML For Systems
           </tr>
 		<tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">10:10-10:20 AM</td>
-            <td style="text-align: left"><b>Towards Automated Network Management: Learning the Optimal Protocol Selection for Network Flows</b><br/><i>Speaker</i>: Xiaoxi Zhang - CMU</td>
+            <td style="text-align: left"><b>Optimal Learning-Based Network Protocol Selection</b><br/><i>Speaker</i>: Xiaoxi Zhang - CMU</td>
           </tr>
 		<tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">10:20-10:30 AM</td>
