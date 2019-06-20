@@ -155,12 +155,12 @@ This talk will cover recent work on caching policies that learn & improve themse
 <div class="speaker-bio">
 				<div class="img-holder" style="background-image: url(/assets/images/speakers/summer_deng.jpg)"></div>
 				<div>
+					<h3 class="keynote-speaker">Deep Learning Acceleration via Low Precision Computing</h3>
 					<h4>Zhaoxia (Summer) Deng - Facebook</h4>
 <!-- 					<h5 class="keynote-speaker">Don’t Use a Single Large Systolic Array, Use Many Small Ones Instead</h5> -->
-<!-- 					<p>
-					    It is known that systolic arrays can efficiently implement matrix multiplications in deep learning computations. For high array utilization, we describe how we can (1) pack sparse filter matrices for small systolic arrays [ASPLOS 2019], and (2) employ small arrays to accommodate heterogeneous workloads [ASAP 2019], such as the Transformer for NLP.  Scheduling-wise, we will tile matrices according to the dimensions of the given systolic arrays and then pipe the
-resulting tiles into the arrays for processing. We discuss an ongoing effort on the development of a parallel computing system composed of multiple memory and logic blocks as well as their switching structure in support of the “tile and pipe” computation model.
-					</p> -->
+					<p>
+					    Machine learning models are becoming more and more complicated and resource demanding, along with the fast growth of the deep learning area. These models are promising to achieve higher accuracies on various learning tasks, but the inference performance at realtime still needs to meet application-level latency or throughput requirements, in spite of practical constraints of available compute resources. Low-precision computing can effectively boost the inference efficiency while still maintaining similar learning accuracies. It can mitigate the memory bandwidth requirements and exploit the high performance of low-precision arithmetics on existing CPU platforms as well as future customized accelerators. In this talk, I'll present the low-precision computing techniques we have explored to optimize the deep learning workloads at facebook datacenters. Furthermore, I'll talk about opportunities for model co-design and guidance on the accelerator design exposed from numerical optimizations.
+					</p>
 				</div>
 	    </div>
 	<div class="speaker-bio">
