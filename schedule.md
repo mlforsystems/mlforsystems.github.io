@@ -79,7 +79,8 @@ site_title: ML For Systems
           </tr>
 	<tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">3:10-3:20 PM</td>
-		  <td style="text-align: left"><b>Talk 7</b><br/></td>
+		  <td style="text-align: left"><b>Learning automatic schedulers with projective
+reparameterization</b><br/><i>Speaker</i>: Ajay Jain - UC Berkeley</td>
           </tr>
 		<tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">3:20-3:45 PM</td>
