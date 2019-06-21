@@ -30,28 +30,28 @@ workshop_name: isca2019
 		<section class="main-content">
 			<h2>Organizing Committee</h2>
 			<ul>	
-				<li><b>Hadi Esmaeilzadeh</b>, UCSD, <a href="https://cseweb.ucsd.edu/~hadi/">website</a></li>
-				<li><b>Anna Goldie</b>, Google Brain, <a href="https://twitter.com/annadgoldie">@annadgoldie</a></li>
+				<li><b>Anna Goldie</b>, Google Research, <a href="https://twitter.com/annadgoldie">@annadgoldie</a></li>
 				<li><b>Milad Hashemi</b>, Google, <a href="https://hps.ece.utexas.edu/people/miladh/">website</a></li>
 				<li><b>Christos Kozyrakis</b>, Google Cloud, Stanford, <a href="https://web.stanford.edu/~kozyraki/index.html">website</a></li>
-				<li><b>Azalia Mirhosseini</b>, Google Brain, <a href="https://twitter.com/Azaliamirh">@Azaliamirh</a></li>
+				<li><b>Azalia Mirhosseini</b>, Google Research, <a href="https://twitter.com/Azaliamirh">@Azaliamirh</a></li>
 				<li><b>Jonathan Raiman</b>, OpenAI, <a href="https://twitter.com/jonathanrraiman">@jonathanrraiman</a></li>
-				<li><b>Amir Yazdanbakhsh</b>, Google Brain, <a href="https://www.cc.gatech.edu/~ayazdanb/">website</a></li>
-				<li><b>Cliff Young</b>, Google Brain </li>
+				<li><b>Amir Yazdanbakhsh</b>, Google Research, <a href="https://www.cc.gatech.edu/~ayazdanb/">website</a></li>
+				<li><b>Cliff Young</b>, Google Research</li>
+				<li><b>Hadi Esmaeilzadeh</b>, UCSD, <a href="https://cseweb.ucsd.edu/~hadi/">website</a></li>
 			</ul>
 			<h2>Program Committee</h2>
 			<ul>	
 				<li><b>Soroush Ghodrati</b>, UCSD</li>
-				<li><b>Anna Goldie</b>, Google Brain</li>
+				<li><b>Anna Goldie</b>, Google Research </li>
 				<li><b>Milad Hashemi</b>, Google</li>
 				<li><b>Christos Kozyrakis</b>, Google Cloud, Stanford</li>
-				<li><b>Azalia Mirhosseini</b>, Google Brain</li>
-				<li><b>Azade Nazi</b>, Google Brain</li>
+				<li><b>Azalia Mirhosseini</b>, Google Research</li>
+				<li><b>Azade Nazi</b>, Google Research</li>
 				<li><b>Jonathan Raiman</b>, OpenAI</li>
 				<li><b>Hardik Sharma</b>, Bigstream</li>
-				<li><b>Ebrahim Songhori</b>, Google Brain</li>
-				<li><b>Amir Yazdanbakhsh</b>, Google Brain</li>
-				<li><b>Cliff Young</b>, Google Brain </li>
+				<li><b>Ebrahim Songhori</b>, Google Research</li>
+				<li><b>Amir Yazdanbakhsh</b>, Google Research</li>
+				<li><b>Cliff Young</b>, Google Research</li>
 			</ul>
 			<h2>Contact Us</h2>
 			<p>
