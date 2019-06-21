@@ -37,7 +37,6 @@ workshop_name: isca2019
 				<li><b>Jonathan Raiman</b>, OpenAI, <a href="https://twitter.com/jonathanrraiman">@jonathanrraiman</a></li>
 				<li><b>Amir Yazdanbakhsh</b>, Google Research, <a href="https://www.cc.gatech.edu/~ayazdanb/">website</a></li>
 				<li><b>Cliff Young</b>, Google Research</li>
-				<li><b>Hadi Esmaeilzadeh</b>, UCSD, <a href="https://cseweb.ucsd.edu/~hadi/">website</a></li>
 			</ul>
 			<h2>Program Committee</h2>
 			<ul>	
