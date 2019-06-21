@@ -23,7 +23,7 @@ site_title: ML For Systems
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">9:10-9:40 AM</td>
-            <td style="text-align: left"><b>Farinaz Koushanfar (UCSD)</b><br/></td>
+            <td style="text-align: left"><b>Automated Building of Safe and Robust Intelligent Systems</b><br><i>Speaker</i>: Farinaz Koushanfar - UCSD</td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">9:40-9:50 AM</td>
@@ -130,12 +130,12 @@ resulting tiles into the arrays for processing. We discuss an ongoing effort on 
  <div class="speaker-bio">
 				<div class="img-holder" style="background-image: url(/assets/images/speakers/farinaz_koushanfar.jpeg)"></div>
 				<div>
+					<h3 class="keynote-speaker">Automated Building of Safe and Robust Intelligent Systems</h3>
 					<h4>Farinaz Koushanfar - UCSD</h4>
 <!-- 					<h5 class="keynote-speaker">Don’t Use a Single Large Systolic Array, Use Many Small Ones Instead</h5> -->
-<!-- 					<p>
-					    It is known that systolic arrays can efficiently implement matrix multiplications in deep learning computations. For high array utilization, we describe how we can (1) pack sparse filter matrices for small systolic arrays [ASPLOS 2019], and (2) employ small arrays to accommodate heterogeneous workloads [ASAP 2019], such as the Transformer for NLP.  Scheduling-wise, we will tile matrices according to the dimensions of the given systolic arrays and then pipe the
-resulting tiles into the arrays for processing. We discuss an ongoing effort on the development of a parallel computing system composed of multiple memory and logic blocks as well as their switching structure in support of the “tile and pipe” computation model.
-					</p> -->
+					<p>
+					    The fourth industrial revolution shaped by the Machine Learning (ML) algorithms is underway. However, the widescale adoption of the emerging intelligent learning methodologies is hindered by security, privacy and safety considerations in sensitive scenarios such as smart transportation, health-care, warfare, and financial systems. In this talk, I advocate automated end-to-end co-design of algorithms, hardware, software, and data for building safe and assured machine learning systems. The presentation is centered on model explainability and internal characterization of the hierarchical learning models such as deep neural networks. I discuss important applications of the extracted characteristics in IP protection, Trojan detection, and thwarting of the adversarial attacks. These applications can be systematically and automatically customized for various platforms using our holistic end-to-end co-design methodology. I summarize by outlining the challenges and opportunities ahead.
+					</p>
 				</div>
 	    </div>
 	    
