@@ -88,7 +88,7 @@ site_title: ML For Systems
           </tr>
 		<tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">3:45-4:15 PM</td>
-		  <td style="text-align: left"><b>Domain-Specific Architectures for Deep Neural Networks</b><br/><i>Speaker</i>: David Patterson - Google Brain</td>
+		  <td style="text-align: left"><b>Domain-Specific Architectures for Deep Neural Networks</b><br/><i>Speaker</i>: David Patterson - Google Brain<br/><a href="/assets/slides/isca2019/MLforSystems2019_Dave_Patterson">Slides</a></td>
           </tr>
 		<tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">4:15-5:00 PM</td>
