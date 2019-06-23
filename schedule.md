@@ -67,7 +67,7 @@ site_title: ML For Systems
           </tr>
 	  <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">2:00-2:30 PM</td>
-		  <td style="text-align: left"><b>Nathan Beckmann (CMU)</b><br/></td>
+		  <td style="text-align: left"><b><a href="/assets/slides/isca2019/MLforSystems2019_Nathan_Beckmann.pptx">Search-Based Approaches to Accelerate Deep Learning</a></b><br/><i>Speaker</i>: Nathan Beckmann - CMU</td>
           </tr>
 	  <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">2:30-3:00 PM</td>
