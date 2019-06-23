@@ -67,7 +67,7 @@ site_title: ML For Systems
           </tr>
 	  <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">2:00-2:30 PM</td>
-		  <td style="text-align: left"><b>Teaching an Old Cache New Tricks:Learning Better Caching Policies Online</b><br/><i>Speaker</i>: Nathan Beckmann - CMU<br/><a href="/assets/slides/isca2019/MLforSystems2019_Nathan_Beckmann.pptx">Slides</a></td>
+		  <td style="text-align: left"><b>Teaching an Old Cache New Tricks: Learning Better Caching Policies Online</b><br/><i>Speaker</i>: Nathan Beckmann - CMU<br/><a href="/assets/slides/isca2019/MLforSystems2019_Nathan_Beckmann.pptx">Slides</a></td>
           </tr>
 	  <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">2:30-3:00 PM</td>
