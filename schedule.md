@@ -75,7 +75,7 @@ site_title: ML For Systems
           </tr>
 	  <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">3:00-3:10 PM</td>
-		  <td style="text-align: left"><b>SinReQ: Generalized Sinusoidal Regularization for Low-Bitwidth Deep Quantized Training</b><br/><i>Speaker</i>: Ahmed Youssef - UCSD<br/><a href="/assets/slides/isca2019/MLforSystems2019_Talk_Ahmed_T_Elthakeb.pptx">Slides</a></td>
+		  <td style="text-align: left"><b><a href="/assets/papers/isca2019/MLforSystems2019_Ahmed_T_Elthakeb.pdf">SinReQ: Generalized Sinusoidal Regularization for Low-Bitwidth Deep Quantized Training</a></b><br/><i>Speaker</i>: Ahmed Youssef - UCSD<br/><a href="/assets/slides/isca2019/MLforSystems2019_Talk_Ahmed_T_Elthakeb.pptx">Slides</a></td>
           </tr>
 	<tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">3:10-3:20 PM</td>
