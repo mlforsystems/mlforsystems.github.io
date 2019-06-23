@@ -43,7 +43,7 @@ site_title: ML For Systems
           </tr>
 		<tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">10:20-10:30 AM</td>
-            <td style="text-align: left"><b>Coda: An End-to-End Neural Program Decompiler</b><br/><i>Speaker</i>: Jishen Zhao - UCSD</td>
+            <td style="text-align: left"><b>Coda: An End-to-End Neural Program Decompiler</b><br/><i>Speaker</i>: Jishen Zhao - UCSD<br/><a href="/assets/slides/isca2019/MLforSystems2019_Talk_Cheng_Fu.pptx">Slides</a></td>
           </tr>
 	  <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">10:30-11:00 AM</td>
