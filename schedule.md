@@ -79,8 +79,8 @@ site_title: ML For Systems
           </tr>
 	<tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">3:10-3:20 PM</td>
-		  <td style="text-align: left"><b>Learning Automatic Schedulers with Projective
-Reparameterization</b><br/><i>Speaker</i>: Ajay Jain - UC Berkeley<br/><a href="/assets/slides/isca2019/MLforSystems2019_Talk_Ajay_Jain.pptx">Slides</a></td>
+		  <td style="text-align: left"><b><a href="/assets/papers/isca2019/MLforSystems2019CR_Ajay_Jain.pdf.pdf">Learning Automatic Schedulers with Projective
+			  Reparameterization</a></b><br/><i>Speaker</i>: Ajay Jain - UC Berkeley<br/><a href="/assets/slides/isca2019/MLforSystems2019_Talk_Ajay_Jain.pptx">Slides</a></td>
           </tr>
 		<tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">3:20-3:45 PM</td>
