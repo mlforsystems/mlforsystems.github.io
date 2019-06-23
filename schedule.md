@@ -47,7 +47,7 @@ site_title: ML For Systems
           </tr>
 	  <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">10:30-11:00 AM</td>
-            <td style="text-align: left"><b>Don’t Use a Single Large Systolic Array, Use Many Small Ones Instead</b><br/><i>Speaker</i>: H.T. Kung - Harvard University</td>
+            <td style="text-align: left"><b><a href="/assets/papers/isca2019/MLforSystems2019_HT_Kung.pdf">Don’t Use a Single Large Systolic Array, Use Many Small Ones Instead</a></b><br/><i>Speaker</i>: H.T. Kung - Harvard University</td>
           </tr>
 		<tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">11-11:30 AM</td>
