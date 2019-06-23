@@ -35,7 +35,7 @@ site_title: ML For Systems
           </tr>
 		<tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">10:00-10:10 AM</td>
-            <td style="text-align: left"><b><a href="/assets/images/speakers/MLforSystems2019_Mohammad_Samragh.pdf">AutoRank: Automated Rank Selection for Effective Neural Network Customization</a></b><br/><i>Speaker</i>: Mohammad Samragh - UCSD</td>
+            <td style="text-align: left"><b><a href="file:////assets/images/speakers/MLforSystems2019_Mohammad_Samragh.pdf">AutoRank: Automated Rank Selection for Effective Neural Network Customization</a></b><br/><i>Speaker</i>: Mohammad Samragh - UCSD</td>
           </tr>
 		<tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">10:10-10:20 AM</td>
