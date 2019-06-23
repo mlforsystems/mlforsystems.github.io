@@ -31,7 +31,7 @@ site_title: ML For Systems
           </tr>
 	  <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">9:50-10:00 AM</td>
-            <td style="text-align: left"><b>Reinforcement Learning and Adaptive Sampling for Optimized DNN Compilation</b><br/><i>Speaker</i>: Byung Hoon Ahn - UCSD</td>
+            <td style="text-align: left"><b>Reinforcement Learning and Adaptive Sampling for Optimized DNN Compilation</b><br/><i>Speaker</i>: Byung Hoon Ahn - UCSD<br/><a href="/assets/slides/isca2019/MLforSystems2019_Talk_Byung_Hoon_Ahn.pptx">Slides</a></td>
           </tr>
 		<tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">10:00-10:10 AM</td>
@@ -75,7 +75,7 @@ site_title: ML For Systems
           </tr>
 	  <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">3:00-3:10 PM</td>
-		  <td style="text-align: left"><b>SinReQ: Generalized Sinusoidal Regularization for Low-Bitwidth Deep Quantized Training</b><br/><i>Speaker</i>: Ahmed Youssef - UCSD</td>
+		  <td style="text-align: left"><b>SinReQ: Generalized Sinusoidal Regularization for Low-Bitwidth Deep Quantized Training</b><br/><i>Speaker</i>: Ahmed Youssef - UCSD<a href="/assets/slides/isca2019/MLforSystems2019_Talk_Ahmed_T_Elthakeb.pptx">Slides</a></td>
           </tr>
 	<tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">3:10-3:20 PM</td>
