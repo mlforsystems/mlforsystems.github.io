@@ -23,7 +23,7 @@ site_title: ML For Systems
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">9:10-9:40 AM</td>
-            <td style="text-align: left"><b>Automated Building of Safe and Robust Intelligent Systems</b><br><i>Speaker</i>: Farinaz Koushanfar - UCSD</td>
+            <td style="text-align: left"><b>Automated Building of Safe and Robust Intelligent Systems</b><br><i>Keynote Speaker</i>: Farinaz Koushanfar - UCSD</td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">9:40-9:50 AM</td>
@@ -47,7 +47,7 @@ site_title: ML For Systems
           </tr>
 	  <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">10:30-11:00 AM</td>
-            <td style="text-align: left"><b>Don’t Use a Single Large Systolic Array, Use Many Small Ones Instead</b><br/><i>Speaker</i>: H.T. Kung - Harvard University<br/><a href="/assets/slides/isca2019/MLforSystems2019_HT_Kung.pdf">Slides</a></td>
+            <td style="text-align: left"><b>Don’t Use a Single Large Systolic Array, Use Many Small Ones Instead</b><br/><i>Keynote Speaker</i>: H.T. Kung - Harvard University<br/><a href="/assets/slides/isca2019/MLforSystems2019_HT_Kung.pdf">Slides</a></td>
           </tr>
 		<tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">11-11:30 AM</td>
@@ -88,7 +88,7 @@ site_title: ML For Systems
           </tr>
 		<tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">3:45-4:15 PM</td>
-		  <td style="text-align: left"><b>Domain-Specific Architectures for Deep Neural Networks</b><br/><i>Speaker</i>: David Patterson - Google Brain<br/><a href="/assets/slides/isca2019/MLforSystems2019_Dave_Patterson">Slides</a></td>
+		  <td style="text-align: left"><b>Domain-Specific Architectures for Deep Neural Networks</b><br/><i>Keynote Speaker</i>: David Patterson - Google Brain<br/><a href="/assets/slides/isca2019/MLforSystems2019_Dave_Patterson">Slides</a></td>
           </tr>
 		<tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">4:15-5:00 PM</td>
