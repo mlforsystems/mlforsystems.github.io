@@ -143,7 +143,7 @@ resulting tiles into the arrays for processing. We discuss an ongoing effort on 
  <div class="speaker-bio">
 				<div class="img-holder" style="background-image: url(/assets/images/speakers/nathan_beckmann.jpg)"></div>
 				<div>
-					<h3 class="keynote-speaker">Learn to Cache</h3>
+					<h3 class="keynote-speaker">Teaching an Old Cache New Tricks: Learning Better Caching Policies Online</h3>
 					<h4>Nathan Beckmann - CMU</h4>
 <!-- 					<h5 class="keynote-speaker">Don’t Use a Single Large Systolic Array, Use Many Small Ones Instead</h5> -->
 					<p>
