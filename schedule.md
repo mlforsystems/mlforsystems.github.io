@@ -27,7 +27,7 @@ site_title: ML For Systems
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">9:40-9:50 AM</td>
-		  <td style="text-align: left"><b>Ithemal: Accurate, Portable and Fast Basic Block Throughput Estimation using Deep Neural Networks</b><br/><i>Speaker</i>: Charith Mendis - MIT</td>  
+		  <td style="text-align: left"><b><a href="/assets/papers/isca2019/MLforSystems2019_Charith_Mendis.pdf">Ithemal: Accurate, Portable and Fast Basic Block Throughput Estimation using Deep Neural Networks</b></a><br/><i>Speaker</i>: Charith Mendis - MIT<br/><a href="/assets/slides/isca2019/MLforSystems2019_Talk_Charith_Mendis.key">Slides</a></td>  
           </tr>
 	  <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">9:50-10:00 AM</td>
