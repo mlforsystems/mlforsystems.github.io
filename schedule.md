@@ -55,7 +55,7 @@ site_title: ML For Systems
           </tr>
 		<tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">11:30-11:55 AM</td>
-            <td style="text-align: left"><b>Learning Execution through Neural Code Fusion</b><br/><i>Speaker</i>: Zhan Shi - University of Texas at Austin</td>
+            <td style="text-align: left"><b>Learning Execution through Neural Code Fusion</b><br/><i>Speaker</i>: Zhan Shi - University of Texas at Austin<br/><a href="/assets/slides/isca2019/MLforSystems2019_Zhan_Shi.pdf">Slides</a></td>
           </tr>
 	  <tr> 
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">11:55-12:20 PM</td>
