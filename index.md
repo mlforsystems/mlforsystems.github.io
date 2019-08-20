@@ -24,6 +24,12 @@ site_title: ML For Systems
 		<p>
 			The workshop hosted 6 speakers and we invited researchers to submit relevant papers through our <a href="/neurips2018/call_for_papers.html">call for papers</a>. The speakers, and potentially other relevant stakeholders, are invited to participate in a panel discussion to end the workshop. See the <a href="/schedule.html">schedule</a>.
 		</p>
+<<<<<<< HEAD
+=======
+		<p>By forming a community of academic and industrial researchers who are excited about this area, we seek to build towards intelligent, self optimizing systems and answer questions such as: How do we generate and share high quality datasets that span the layers of the system stack? Which learned representations best represent code performance and runtime? Which simulators and simulation methodologies provide a tractable proving ground techniques like reinforcement learning?</p>
+		<p>To this end, the target audience for this workshop includes a wide variety of attendees from state-of-the-art researchers in machine learning to domain experts in computer systems design. We have invited a <a href="#speakers">broad set of expert speakers</a> to present the potential for impact of combining deep learning research with computer systems. We hope that by providing a formal venue for researchers from both fields to meet and interact, that the result will include both fundamental research in ML as well as real-world impact to computer systems design and implementation.</p>
+		<p>The workshop will host 6 speakers and we invite researchers to submit relevant papers through our <a href="/call_for_papers.html">call for papers</a>. The speakers, and potentially other relevant stakeholders, are invited to participate in a panel discussion to end the workshop. See the <a href="/schedule.html">schedule</a>.</p>
+>>>>>>> b3695cc... revise wording + fix link
 		<ul class="footnotes">
       <li><sup>1</sup>sup><a href="https://openai.com/blog/ai-and-compute/">AI and Compute</a></li>
       <li><sup>2</sup>sup><a href="https://arxiv.org/pdf/1706.04972.pdf">Device Placement Optimization with Reinforcement Learning</a></li>
