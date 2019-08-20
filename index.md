@@ -61,7 +61,7 @@ site_title: ML For Systems
 				<li><b>Kevin Swersky</b>, Google Brain, <a href="https://twitter.com/kswersk">@kswersk</a></li>
 				<li><b>Milad Hashemi</b>, Google, <a href="https://hps.ece.utexas.edu/people/miladh/">website</a></li>
 				<li><b>Amir Yazdanbakhsh</b>, Google Research, <a href="https://www.cc.gatech.edu/~ayazdanb/">website</a></li>
-				<li><b>Xinlei Xu</b>, NYU, <a href="https://twitter.com/xxu?">@xxu?</a></li>
+				<li><b>Xinlei Xu</b>, NYU, <a href="https://twitter.com/MimeeXu">@MimeeXu</a></li>
 			</ul>
 			<!-- <h2>Program Committee</h2>
 			<ul>
