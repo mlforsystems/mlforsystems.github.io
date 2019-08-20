@@ -1,6 +1,8 @@
 ---
 title: Organizing Committee
 workshop_name: isca2019
+site_description: Workshop on ML for Systems at ISCA 2019, June 23rd
+site_title: ML For Systems
 ---
 <!-- <div class="inner clearfix">
 	<section class="main-content overview_section">
@@ -29,7 +31,7 @@ workshop_name: isca2019
 	<div class="inner clearfix">
 		<section class="main-content">
 			<h2>Organizing Committee</h2>
-			<ul>	
+			<ul>
 				<li><b>Anna Goldie</b>, Google Research, <a href="https://twitter.com/annadgoldie">@annadgoldie</a></li>
 				<li><b>Milad Hashemi</b>, Google, <a href="https://hps.ece.utexas.edu/people/miladh/">website</a></li>
 				<li><b>Christos Kozyrakis</b>, Google Cloud, Stanford, <a href="https://web.stanford.edu/~kozyraki/index.html">website</a></li>
@@ -39,7 +41,7 @@ workshop_name: isca2019
 				<li><b>Cliff Young</b>, Google Research</li>
 			</ul>
 			<h2>Program Committee</h2>
-			<ul>	
+			<ul>
 				<li><b>Soroush Ghodrati</b>, UCSD</li>
 				<li><b>Anna Goldie</b>, Google Research </li>
 				<li><b>Milad Hashemi</b>, Google</li>
