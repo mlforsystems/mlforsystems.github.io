@@ -3,7 +3,7 @@ workshop_name: isca2019
 ---
 <div class="inner clearfix">
     <section class="main-content accepted_papers_section">
-        <h2>TBD</h2>
+        <h2>Accepted Papers</h2>
         <p><a href="https://drive.google.com/file/d/12VQNpD0Cvf_k-2OSMsQfX8yaZ1LOlltv/view?usp=sharing"><b>Learning Scheduling Algorithms for Data Processing Clusters</b></a>. Hongzi Mao, Malte Schwarzkopf, Shaileshh Bojja Venkatakrishnan, Zili Meng, and Mohammad Alizadeh.</p>
         <p><a href="https://drive.google.com/file/d/1OIXlgou4jw32vauXtAArfHVvg2R4j2UH/view?usp=sharing"><b>Generative Adversarial Networks for Clustering Semiconductor Wafer Maps</b></a>. Hamidreza Mahyar, Elahe Ghalebi, Peter Tulala, and Radu Grusu.</p>
         <p><a href="https://drive.google.com/file/d/1WNppNDUzJx-FIEahzK5WeOl5pB8ELRhr/view?usp=sharing"><b>Virtual Address Translation via Learned Page Table Indexes</b></a>. Artemiy Margaritov, Dmitri Ustiugov, Edouard Bugnion, and Boris Grot.</p>

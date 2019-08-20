@@ -1,9 +1,8 @@
 ---
 title: Call for Papers
-workshop_name: neurips2019
-site_description: Workshop on ML for Systems at NeurIPS 2019, December 8th, 8:30AM-6:00PM, Room 510 AC
-site_title: ML For Systems
+workshop_name: isca2019
 ---
+
 <div class="inner clearfix">
     <section class="main-content call_for_papers_section">
         <h2>Overview</h2>
@@ -36,29 +35,27 @@ site_title: ML For Systems
     <div class="inner clearfix">
         <section class="main-content">
             <h2>Areas of interest:</h2>
-            <p>
-                You can find accepted papers to the previous iteration of ML for Systems from <a href="/neurips2018/accepted_papers.html">NeurIPS 2018</a> and <a href="/isca2019/accepted_papers.html">ISCA 2019</a>.
-            </p>
             <ul>
                 <li>Supervised, unsupervised, and reinforcement learning research with applications to:
                     <ul>
-                        <li>Systems Software</li>
-                        <li>Runtime Systems</li>
-                        <li>Distributed Systems</li>
+                        <li>Computer architecture, microarchitecture, and accelerators</li>
+                        <li>Hardware-software co-design</li>
                         <li>Security</li>
                         <li>Compilers, data structures, and code optimization</li>
-                        <li>Computer architecture, microarchitecture, and accelerators</li>
-                        <li>Circuit design and layout</li>
-                        <li>Interconnects and Networking</li>
+                        <li>Reconfigurable architecture</li>
+                        <li>Systems software</li>
+                        <li>Runtime systems</li>
+                        <li>Distributed systems</li>
                         <li>Storage</li>
                         <li>Datacenters</li>
+                        <li>Circuit design and layout</li>
+                        <li>Interconnects and Networking</li>
                     </ul>
                 </li>
                 <li>Representation learning for hardware and software</li>
-                <li>Optimization of computer systems and software</li>
+                <li>Optimization of computer architecture and systems</li>
                 <li>Systems modeling and simulation</li>
                 <li>Implementations of ML for Systems and challenges</li>
-                <li>High quality datasets for ML for Systems problems</li>
             </ul>
         </section>
     </div>
@@ -67,22 +64,19 @@ site_title: ML For Systems
     <div class="inner clearfix">
         <section class="main-content">
             <h2>Submission Instructions</h2>
-            <p>
-                We welcomed submissions of up to 4 pages (not including references). This is not a strict limit, but authors are encouraged to adhere to it if possible.
-            </p>
-            <p>
-                All submissions must be in PDF format and should follow the <a href="https://neurips.cc/Conferences/2019/PaperInformation/StyleFiles">NeurIPS 2019 format</a>.
-            </p>
             <ul>
-                <li>Submissions do not have to be anonymized.</li>
-                <li>Please submit your paper no later than September 23rd, 2019 midnight anywhere in the world to CMT <a href="https://cmt3.research.microsoft.com/MLFS2019">here</a>.</li>
+                <li>We welcome submissions of up to 4 pages (not including references). This is not a strict limit, but authors are encouraged to adhere to it if possible.</li>
+                <li>All submissions must be in PDF format and should follow the <a href="https://iscaconf.org/isca2019/docs/ISCA2019-latex-template.zip">ISCA'19 Latex Template</a>.</li>
+                <li>Please follow the guidelines provided at <a href="https://iscaconf.org/isca2019/paper_submission.html">ISCA 2019 Paper Submission Guidelines.</a></li>
+                <li>Submissions must be anonymized for double-blind review.</li>
+                <li>Please submit your paper no later than <b>June 7th, 2019 - Midnight Anywhere On Earth</b> <a href="https://cmt3.research.microsoft.com/MLSYSTEMS2019">here</a>.</li>
             </ul>
             <h2>Important Dates</h2>
             <ul>
-                <li>Submission Deadline: <b>September 23rd, 2019 by midnight Anywhere in the World</b>.</li>
-                <li>Acceptance Notifications: October 1st, 2019</li>
-                <li>Camera-Ready Submission: October 30th, 2019</li>
-                <li>Workshop: December 13th or 14th (TBD), 2019, 8:30 AM - 6:00 PM</li>
+                <li>Submission Deadline: <s>June 7th, 2019 - Midnight Anywhere on Earth</s>.</li>
+                <li>Acceptance Notifications: <s>June 14th, 2019</s>.</li>
+<!--                 <li><del>Final File Upload: November 28th, 2018</del></li> -->
+                <li>Workshop: <b>June 23rd, 2019</b>.</li>
             </ul>
         </section>
     </div>
@@ -97,3 +91,4 @@ site_title: ML For Systems
         </section>
     </div>
 </div>
+
