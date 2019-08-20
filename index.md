@@ -54,6 +54,11 @@ site_title: ML For Systems
 					</p>
 				</div>
 			</div>
+			<div class="speaker-bio">
+				<div>
+					<h3>Other speakers TBD</h3>
+				</div>
+			</div>
 		</section>
 	</div>
 </div>
