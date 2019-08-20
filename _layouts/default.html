@@ -20,7 +20,7 @@
         {% assign temp_title = site.title %}
         {% assign description = site.description %}
         {% assign root = '/' %}
-        {% assign workshops = 'neurips2018,isca2019' | split: ',' %}
+        {% assign workshops = 'neurips2018,isca2019,neurips2019' | split: ',' %}
         {% if page.workshop_name != site.workshop_name %}
         {% assign temp_title = page.site_title %}
         {% assign description = page.site_description %}
@@ -187,7 +187,7 @@
         init(eqa);
     }
     d3.selectAll('button').on('click', change);
-    change();
+    // change();
     </script>
   </body>
 </html>

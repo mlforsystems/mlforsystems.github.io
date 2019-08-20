@@ -1,11 +1,8 @@
 ---
-title: Annoucement
-workshop_name: neurips2019
-site_description: Workshop on ML for Systems at NeurIPS 2019, December 13-14th
-site_title: ML For Systems
+title: Organizing Committee
+workshop_name: isca2019
 ---
-
-<div class="inner clearfix">
+<!-- <div class="inner clearfix">
 	<section class="main-content overview_section">
 		<h2>Overview</h2>
 			<p>Designing specialized hardware for deep learning is a topic that has received significant research attention, both in industrial and academic settings, leading to exponential increases in compute capability in GPUs and accelerators. However, using machine learning to optimize and accelerate software and hardware systems is a lightly explored but promising field, with broad implications for computing as a whole. Very recent work has outlined a broad scope where deep learning vastly outperforms traditional heuristics including topics such as: scheduling<sup>1,2</sup>, data structure design<sup>3</sup>, microarchitecture<sup>4</sup>, compilers<sup>5</sup>, and control of warehouse scale computing systems<sup>6</sup>.
@@ -15,7 +12,7 @@ site_title: ML For Systems
 		</p>
 		<p>By forming a community of academic and industrial researchers who are excited about this area, we seek to build towards intelligent, self optimizing systems and answer questions such as: How do we generate and share high quality datasets that span the layers of the system stack? Which learned representations best represent code performance and runtime? Which simulators and simulation methodologies provide a tractable proving ground techniques like reinforcement learning?</p>
 		<p>To this end, the target audience for this workshop includes a wide variety of attendees from state-of-the-art researchers in machine learning to domain experts in computer systems design. We have invited a <a href="#speakers">broad set of expert speakers</a> to present the potential for impact of combining deep learning research with computer systems. We hope that by providing a formal venue for researchers from both fields to meet and interact, that the result will include both fundamental research in ML as well as real-world impact to computer systems design and implementation.</p>
-		<p>The workshop hosted 6 speakers and we invited researchers to submit relevant papers through our <a href="/neurips2018/call_for_papers.html">call for papers</a>. The speakers, and potentially other relevant stakeholders, are invited to participate in a panel discussion to end the workshop. See the <a href="/schedule.html">schedule</a>.</p>
+		<p>The workshop will host 6 speakers and we will invite researchers to submit relevant papers through our <a href="/call_for_papers.html">call for papers</a>. The speakers, and potentially other relevant stakeholders, will be invited to participate in a panel discussion to end the workshop. See the <a href="/schedule.html">schedule</a> for details and recordings of the last 2 talks, and you will find the <a href="/accepted_papers.html">accepted papers here</a>.</p>
 		<ul class="footnotes">
 		<li><sup>1</sup> <a href="https://arxiv.org/abs/1706.04972">Device Placement Optimization with Reinforcement Learning</a></li>
 		<li><sup>2</sup> <a href="https://openreview.net/forum?id=Hkc-TeZ0W">A Hierarchical Model for Device Placement</a></li>
@@ -27,40 +24,34 @@ site_title: ML For Systems
 		<li><sup>8</sup> <a href="https://arxiv.org/abs/1711.11165">Safe Exploration for Identifying Linear Systems via Robust Optimization</a></li>
 		</ul>
 	</section>
-</div>
-<div class="speaker_section">
-	<div class="inner clearfix">
-		<section class="main-content">
-			<h2 id="speakers">Speakers</h2>
-			<div class="speaker-bio">
-				<div class="img-holder" style="background-image: url(/assets/images/speakers/jeff_dean.jpg)"></div>
-				<div>
-					<h3>Jeff Dean</h3>
-					<h5 class="keynote-speaker">Keynote Speaker</h5>
-					<p>
-					    Senior Fellow, Google AI. Google Brain lead and co-founder. Co-designer and implementor of Tensorflow, MapReduce, BigTable, Spanner.
-					</p>
-				</div>
-			</div>
-		</section>
-	</div>
-</div>
+</div> -->
 <div class="organizers-section">
 	<div class="inner clearfix">
 		<section class="main-content">
 			<h2>Organizing Committee</h2>
-			<ul>
-				<li><b>Anna Goldie</b>, Google Brain, <a href="https://twitter.com/annadgoldie">@annadgoldie</a></li>
-				<li><b>Azalia Mirhoseini</b>, Google Brain, <a href="https://twitter.com/Azaliamirh">@Azaliamirh</a></li>
-				<li><b>Jonathan Raiman</b>, OpenAI, <a href="https://twitter.com/jonathanrraiman">@jonathanrraiman</a></li>
-				<li><b>Kevin Swersky</b>, Google Brain, <a href="https://twitter.com/kswersk">@kswersk</a></li>
+			<ul>	
+				<li><b>Anna Goldie</b>, Google Research, <a href="https://twitter.com/annadgoldie">@annadgoldie</a></li>
 				<li><b>Milad Hashemi</b>, Google, <a href="https://hps.ece.utexas.edu/people/miladh/">website</a></li>
+				<li><b>Christos Kozyrakis</b>, Google Cloud, Stanford, <a href="https://web.stanford.edu/~kozyraki/index.html">website</a></li>
+				<li><b>Azalia Mirhosseini</b>, Google Research, <a href="https://twitter.com/Azaliamirh">@Azaliamirh</a></li>
+				<li><b>Jonathan Raiman</b>, OpenAI, <a href="https://twitter.com/jonathanrraiman">@jonathanrraiman</a></li>
 				<li><b>Amir Yazdanbakhsh</b>, Google Research, <a href="https://www.cc.gatech.edu/~ayazdanb/">website</a></li>
-				<li><b>Xinlei Xu</b>, NYU, <a href="https://twitter.com/xxu?">@xxu?</a></li>
+				<li><b>Cliff Young</b>, Google Research</li>
 			</ul>
-			<!-- <h2>Program Committee</h2>
-			<ul>
-			</ul> -->
+			<h2>Program Committee</h2>
+			<ul>	
+				<li><b>Soroush Ghodrati</b>, UCSD</li>
+				<li><b>Anna Goldie</b>, Google Research </li>
+				<li><b>Milad Hashemi</b>, Google</li>
+				<li><b>Christos Kozyrakis</b>, Google Cloud, Stanford</li>
+				<li><b>Azalia Mirhosseini</b>, Google Research</li>
+				<li><b>Azade Nazi</b>, Google Research</li>
+				<li><b>Jonathan Raiman</b>, OpenAI</li>
+				<li><b>Hardik Sharma</b>, Bigstream</li>
+				<li><b>Ebrahim Songhori</b>, Google Research</li>
+				<li><b>Amir Yazdanbakhsh</b>, Google Research</li>
+				<li><b>Cliff Young</b>, Google Research</li>
+			</ul>
 			<h2>Contact Us</h2>
 			<p>
 				Contact us at <a href="mailto:mlforsystems@googlegroups.com">mlforsystems@googlegroups.com</a>.
