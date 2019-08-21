@@ -70,8 +70,6 @@ text-indent: 0;
     width: 100%;
     z-index: 100;
     padding-top: 5px;
-    padding-bottom: 5px;
-    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
 }
 .title_bar h1 {
     font-size: 24px;
@@ -107,6 +105,10 @@ li.navigation-link, li.mobile-navigation-link {
     white-space: nowrap;
 }
 
+ul.navigation-below {
+    margin-left: 0;
+}
+
 li.navigation-link {
     padding-right: 16px;
     padding-left: 0;
@@ -116,7 +118,7 @@ li.navigation-link a, li.mobile-navigation-link a {
     color: inherit;
 }
 li.navigation-link:hover, li.mobile-navigation-link:hover {
-    color: rgba(0, 0, 0, 1.0);
+    color: #5029CA;
 }
 li.navigation-link-active, li.mobile-navigation-link-active {
     color: #1B66F1;
@@ -134,16 +136,13 @@ li.navigation-link-title, {
 }
 
 .mobile-navigation-link {
-    border-radius: 4px;
     font-size: 15px;
-    font-weight: 600;
     padding: 0 10px;
     height: 40px;
     line-height: 40px;
-    letter-spacing: .025em;
-    -webkit-box-shadow: 0 4px 6px rgba(50,50,93,.11),0 1px 3px rgba(0,0,0,.08);
-    box-shadow: 0 4px 6px rgba(50,50,93,.11),0 1px 3px rgba(0,0,0,.08);
-    margin-right: 10px;
+    background: #F7FBFA;
+    margin-right: 2px;
+    border: 1px solid rgba(0,0,0,0.05);
 }
 
 .speaker-bio {
@@ -251,6 +250,38 @@ body {
     padding-bottom: 50px;
     padding-top: 50px;
 }
+
+
+
+.navigation-home-message, li.navigation-home {
+    font-size: 12px;
+    line-height: 16px;
+    color: #333;
+}
+.navigation-home-message {
+    opacity: 0.8;
+}
+
+.other-site-nav {
+    background: #f6f9fc;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+    padding-bottom: 2px;
+    padding-left: 50px;
+}
+
+li.navigation-home {
+    padding: 0 6px;
+    background: white;
+    opacity: 0.9;
+    height: auto;
+    border: 1px solid rgba(0,0,0,0.05);
+    margin-right: 2px;
+}
+li.navigation-home:hover {
+    opacity: 1;
+    color: #5029CA;
+}
+
 @media only screen and (max-width: 700px) {
     .hide-on-mobile {
         visibility: hidden;
@@ -262,6 +293,13 @@ body {
         padding-bottom: 20px;
         padding-top: 20px;
     }
+    .mobile-super-hidden {
+        display: none !important;
+    }
+    li.navigation-home {
+        padding: 12px 6px;
+        margin-top: 2px;
+    }
 }
 
 @media only screen and (max-width: 500px) {
@@ -270,19 +308,4 @@ body {
         height: 100px;
         margin-right: 10px;
     }
-}
-
-li.navigation-home {
-    padding: 0 6px;
-    border-radius: 10px;
-    line-height: 16px;
-    font-size: 12px;
-    background: #257EC6;
-    opacity: 0.9;
-    color: #fff;
-    height: auto;
-}
-li.navigation-home:hover {
-    opacity: 1;
-    color: #fff;
 }
