@@ -23,29 +23,6 @@ site_title: ML For Systems
 			To this end, the target audience for this workshop includes a wide variety of attendees from state-of-the-art researchers in machine learning to domain experts in computer systems design. We have invited a <a href="#speakers">broad set of expert speakers</a> to present the potential for impact of combining deep learning research with computer systems. We hope that by providing a formal venue for researchers from both fields to meet and interact, that the result will include both fundamental research in ML as well as real-world impact to computer systems design and implementation.
 		</p>
 		<p>
-<<<<<<< HEAD
-			The workshop hosted 6 speakers and we invited researchers to submit relevant papers through our <a href="/neurips2018/call_for_papers.html">call for papers</a>. The speakers, and potentially other relevant stakeholders, are invited to participate in a panel discussion to end the workshop. See the <a href="/schedule.html">schedule</a>.
-		</p>
-<<<<<<< HEAD
-=======
-		<p>By forming a community of academic and industrial researchers who are excited about this area, we seek to build towards intelligent, self optimizing systems and answer questions such as: How do we generate and share high quality datasets that span the layers of the system stack? Which learned representations best represent code performance and runtime? Which simulators and simulation methodologies provide a tractable proving ground techniques like reinforcement learning?</p>
-		<p>To this end, the target audience for this workshop includes a wide variety of attendees from state-of-the-art researchers in machine learning to domain experts in computer systems design. We have invited a <a href="#speakers">broad set of expert speakers</a> to present the potential for impact of combining deep learning research with computer systems. We hope that by providing a formal venue for researchers from both fields to meet and interact, that the result will include both fundamental research in ML as well as real-world impact to computer systems design and implementation.</p>
-		<p>The workshop will host 6 speakers and we invite researchers to submit relevant papers through our <a href="/call_for_papers.html">call for papers</a>. The speakers, and potentially other relevant stakeholders, are invited to participate in a panel discussion to end the workshop. See the <a href="/schedule.html">schedule</a>.</p>
->>>>>>> b3695cc... revise wording + fix link
-		<ul class="footnotes">
-      <li><sup>1</sup>sup><a href="https://openai.com/blog/ai-and-compute/">AI and Compute</a></li>
-      <li><sup>2</sup>sup><a href="https://arxiv.org/pdf/1706.04972.pdf">Device Placement Optimization with Reinforcement Learning</a></li>
-      <li><sup>3</sup>sup><a href="https://arxiv.org/abs/1712.01208">The Case for Learned Index Structures</a></li>
-      <li><sup>4</sup>sup><a href="https://arxiv.org/pdf/1803.02329.pdf">Learning Memory Access Patterns</a></li>
-      <li><sup>5</sup>sup><a href="https://ieeexplore.ieee.org/document/8091247/?reload=true">End to End Deep Learning of Optimization Heuristics</a></li>
-      <li><sup>6</sup>sup><a href="https://deepmind.com/blog/deepmind-ai-reduces-google-data-centre-cooling-bill-40/">DeepMind AI Reduces Google Data Centre Cooling Bill by 40%</a></li>
-      <li><sup>7</sup>sup><a href="https://arxiv.org/pdf/1903.00614.pdf">GAP: Generalizable Approximate Graph Partitioning Framework</a></li>
-      <li><sup>8</sup>sup><a href="https://arxiv.org/abs/1808.07412">Ithemal: Accurate, Portable and Fast Basic Block Throughput Estimation using Deep Neural Networks</a></li>
-      <li><sup>9</sup>sup><a href="https://arxiv.org/abs/1808.03196">Learning to Optimize Join Queries With Deep Reinforcement Learning</a></li>
-      <li><sup>10</sup>sup><a href="https://arxiv.org/abs/1812.02734">Learning to Design Circuits</a></li>
-      <li><sup>11</sup>sup><a href="https://arxiv.org/abs/1712.03890">DeepConf: Automating Data Center Network Topologies Management with Machine Learning.</a></li>
-      <li><sup>12</sup>sup><a href="https://arxiv.org/abs/1810.01963Learning">Scheduling Algorithms for Data Processing Clusters.</a></li>
-=======
 			The workshop will host 6 speakers and we invite researchers to submit relevant papers through our <a href="/call_for_papers.html">call for papers</a>. The speakers, and potentially other relevant stakeholders, are invited to participate in a panel discussion to end the workshop. See the <a href="/schedule.html">schedule</a>.
 		</p>
 		<ul class="footnotes">
@@ -61,7 +38,6 @@ site_title: ML For Systems
       <li><sup>10</sup> <a href="https://arxiv.org/abs/1812.02734">Learning to Design Circuits</a></li>
       <li><sup>11</sup> <a href="https://arxiv.org/abs/1712.03890">DeepConf: Automating Data Center Network Topologies Management with Machine Learning.</a></li>
       <li><sup>12</sup> <a href="https://arxiv.org/abs/1810.01963Learning">Scheduling Algorithms for Data Processing Clusters.</a></li>
->>>>>>> 1d6720b... update cfp + announcement
     </ul>
 	</section>
 </div>
