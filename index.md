@@ -37,7 +37,7 @@ site_title: ML For Systems
       <li><sup>9</sup> <a href="https://arxiv.org/abs/1808.03196">Learning to Optimize Join Queries With Deep Reinforcement Learning</a></li>
       <li><sup>10</sup> <a href="https://arxiv.org/abs/1812.02734">Learning to Design Circuits</a></li>
       <li><sup>11</sup> <a href="https://arxiv.org/abs/1712.03890">DeepConf: Automating Data Center Network Topologies Management with Machine Learning.</a></li>
-      <li><sup>12</sup> <a href="https://arxiv.org/abs/1810.01963Learning">Scheduling Algorithms for Data Processing Clusters.</a></li>
+      <li><sup>12</sup> <a href="https://arxiv.org/abs/1810.01963">Scheduling Algorithms for Data Processing Clusters.</a></li>
     </ul>
 	</section>
 </div>
