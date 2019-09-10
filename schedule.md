@@ -23,7 +23,7 @@ site_title: ML For Systems
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">9:10 AM</td>
-            <td style="text-align: left"><a href="#schkufza_talk"><b>Invited Speaker 1: TBD</b><br/><i></i></a> <a href="https://drive.google.com/file/d/1vq8IQERMKc9xmZWLh5rZRNHYWG8DAjAz/view?usp=sharing">(slides)</a></td>
+            <td style="text-align: left"><a href="#schkufza_talk"><b>Invited Speaker 1: TBD</b><br/><i></i></a></td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">9:35 AM</td>
@@ -35,7 +35,7 @@ site_title: ML For Systems
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">11:00 AM</td>
-            <td style="text-align: left"><b>Contributed Talk: TBD</b><br/><i></i> <a href="https://drive.google.com/file/d/1Gob8ePBJ9bkupFFiyEDJ7CED7Bupsvi9/view?usp=sharing">(slides)</a></td>
+            <td style="text-align: left"><b>Contributed Talk: TBD</b><br/><i></i></td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">11:15 AM</td>
@@ -43,7 +43,7 @@ site_title: ML For Systems
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">11:30 AM</td>
-            <td style="text-align: left"><b>Contributed Talk: TBD</b><br/><i></i> <a href="https://drive.google.com/file/d/14XnfsyhTISJWsquyVy-UoOgI08VwG0wa/view?usp=sharing">(slides)</a></td>
+            <td style="text-align: left"><b>Contributed Talk: TBD</b><br/><i></i></td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">11:45 AM</td>
@@ -75,11 +75,11 @@ site_title: ML For Systems
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">4:00 PM</td>
-            <td style="text-align: left"><a href="#sanjay_talk"><b>Invited Speaker 5: TBD</b><br/><i></i></a> <a href="https://youtu.be/BZwDTKogS7U?t=2392">(recording)</a></td>
+            <td style="text-align: left"><a href="#sanjay_talk"><b>Invited Speaker 5: TBD</b><br/><i></i></a></td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">4:25 PM</td>
-            <td style="text-align: left"><b>Keynote Speaker: Jeff Dean</b><br/><i></i></td>
+            <td style="text-align: left"><b>Keynote Speaker</b><br/><i></i></td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">4:50 PM</td>
