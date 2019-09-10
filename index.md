@@ -1,5 +1,5 @@
 ---
-title: Annoucement
+title: Anouncement
 workshop_name: neurips2019
 site_description: Workshop on ML for Systems at NeurIPS 2019, December 13-14th
 site_title: ML For Systems
