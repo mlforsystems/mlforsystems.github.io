@@ -61,11 +61,11 @@ site_title: ML For Systems
             </p>
             <ul>
                 <li>Submissions do not have to be anonymized.</li>
-                <li>Please submit your paper no later than September 23rd, 2019 midnight anywhere in the world to CMT <a href="https://cmt3.research.microsoft.com/MLFS2019">here</a>.</li>
+                <li><del>Please submit your paper no later than September 23rd, 2019 midnight anywhere in the world to CMT <a href="https://cmt3.research.microsoft.com/MLFS2019">here</a>.</del></li>
             </ul>
             <h2>Important Dates</h2>
             <ul>
-                <li>Submission Deadline: <b>September 23rd, 2019 by midnight Anywhere in the World</b>.</li>
+                <li><del>Submission Deadline: <b>September 23rd, 2019 by midnight Anywhere in the World</b>.</del></li>
                 <li>Acceptance Notifications: October 1st, 2019</li>
                 <li>Camera-Ready Submission: October 30th, 2019</li>
                 <li>Workshop: December 13th or 14th (TBD), 2019, 8:30 AM - 6:00 PM</li>
