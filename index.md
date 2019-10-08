@@ -1,7 +1,7 @@
 ---
 title: Announcement
 workshop_name: neurips2019
-site_description: Workshop on ML for Systems at NeurIPS 2019, December 13-14th
+site_description: Workshop on ML for Systems at NeurIPS 2019, December 14th, 9AM-6PM Vancouver Convention Centre, West Level 2 202-204
 site_title: ML For Systems
 ---
 
@@ -85,9 +85,45 @@ site_title: ML For Systems
 				<li><b>Amir Yazdanbakhsh</b>, Google Research, <a href="https://www.cc.gatech.edu/~ayazdanb/">website</a></li>
 				<li><b>Xinlei Xu</b>, NYU, <a href="https://twitter.com/MimeeXu">@MimeeXu</a></li>
 			</ul>
-			<!-- <h2>Program Committee</h2>
+			<h2>Program Committee</h2>
 			<ul>
-			</ul> -->
+				<i><b>Michael Carbin</b>, MIT</li>
+				<i><b>Carl Case</b>, NVIDIA</li>
+				<i><b>Erich Elsen</b>, Google</li>
+				<i><b>Andrew Gibiansky</b>, Voicery</li>
+				<i><b>Anna Goldie</b>, Google Brain</li>
+				<i><b>Rama Govindaraju</b>, Google</li>
+				<i><b>Milad Hashemi</b>, Google</li>
+				<i><b>Sara Hooker</b>, Google</li>
+				<i><b>Safeen Huda</b>, Google</li>
+				<i><b>Arpith Jacob</b>, Google</li>
+				<i><b>Joe Jiang</b>, Google</li>
+				<i><b>Derek Lockhart</b>, Google</li>
+				<i><b>Martin Maas</b>, Google</li>
+				<i><b>Sadhika Malladi</b>, Princeton</li>
+				<i><b>Azalia Mirhoseini</b>, Google Brain</li>
+				<i><b>Ashish Naik</b>, Google</li>
+				<i><b>Azade Nazi</b>, Google Brain</li>
+				<i><b>Aurojit Panda</b>, New York University Courant</li>
+				<i><b>Jonathan Raiman</b>, OpenAI</li>
+				<i><b>Herman Schmit</b>, Google</li>
+				<i><b>Siddhartha Sen</b>, Microsoft Research</li>
+				<i><b>Shubho Sengupta</b>, Facebook AI Research</li>
+				<i><b>Narges Shahidi</b>, Google</li>
+				<i><b>Zhan Shi</b>, University of Texas at Austin</li>
+				<i><b>Tatiana Shpeisman</b>, Google</li>
+				<i><b>Ebrahim Songhori</b>, Google</li>
+				<i><b>Suvinay Subramanian</b>, Google</li>
+				<i><b>Kevin Swersky</b>, Google Brain</li>
+				<i><b>Phillipe Tillet</b>, Harvard</li>
+				<i><b>Minjie Wang</b>, New York University</li>
+				<i><b>John Whaley </b>, UnifyID Inc</li>
+				<i><b>Qiumin Xu</b>, Google</li>
+				<li><b>Xinlei Xu</b>, New York University</li>
+				<i><b>Amir Yazdanbakhsh</b>, Google Research</li>
+				<i><b>Dan Zhang</b>, Google X</li>
+				<i><b>Yanqi Zhou</b>, Google</li>
+			</ul>
 			<h2>Contact Us</h2>
 			<p>
 				Contact us at <a href="mailto:mlforsystems@googlegroups.com">mlforsystems@googlegroups.com</a>.
