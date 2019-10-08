@@ -55,6 +55,15 @@ site_title: ML For Systems
 					</p>
 				</div>
 			</div>
+			<!-- <div class="speaker-bio">
+				<div class="img-holder" style="background-image: url(/assets/images/speakers/oriol_vinyals.jpg)"></div>
+				<div>
+					<h3>Oriol Vinyals</h3>
+					<p>
+					    Oriol Vinyals is a Research Scientist at Google DeepMind, working in Deep Learning. Prior to joining DeepMind, Oriol was part of the Google Brain team. He holds a Ph.D. in EECS from University of California, Berkeley and is a recipient of the 2016 MIT TR35 innovator award. His research has been featured multiple times at the New York Times, BBC, etc., and his articles have been cited over 17000 times. His academic involvement includes program chair for the International Conference on Learning Representations (ICLR) of 2017, and 2018. He has also been an area chair for many editions of the NeurIPS and ICML conferences. At DeepMind he continues working on his areas of interest, which include artificial intelligence, with particular emphasis on machine learning, deep learning and reinforcement learning.
+					</p>
+				</div>
+			</div> -->
 			<div class="speaker-bio">
 				<div>
 					<h3>Other speakers TBD</h3>
