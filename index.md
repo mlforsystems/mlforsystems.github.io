@@ -87,42 +87,42 @@ site_title: ML For Systems
 			</ul>
 			<h2>Program Committee</h2>
 			<ul>
-				<i><b>Michael Carbin</b>, MIT</li>
-				<i><b>Carl Case</b>, NVIDIA</li>
-				<i><b>Erich Elsen</b>, Google</li>
-				<i><b>Andrew Gibiansky</b>, Voicery</li>
-				<i><b>Anna Goldie</b>, Google Brain</li>
-				<i><b>Rama Govindaraju</b>, Google</li>
-				<i><b>Milad Hashemi</b>, Google</li>
-				<i><b>Sara Hooker</b>, Google</li>
-				<i><b>Safeen Huda</b>, Google</li>
-				<i><b>Arpith Jacob</b>, Google</li>
-				<i><b>Joe Jiang</b>, Google</li>
-				<i><b>Derek Lockhart</b>, Google</li>
-				<i><b>Martin Maas</b>, Google</li>
-				<i><b>Sadhika Malladi</b>, Princeton</li>
-				<i><b>Azalia Mirhoseini</b>, Google Brain</li>
-				<i><b>Ashish Naik</b>, Google</li>
-				<i><b>Azade Nazi</b>, Google Brain</li>
-				<i><b>Aurojit Panda</b>, New York University Courant</li>
-				<i><b>Jonathan Raiman</b>, OpenAI</li>
-				<i><b>Herman Schmit</b>, Google</li>
-				<i><b>Siddhartha Sen</b>, Microsoft Research</li>
-				<i><b>Shubho Sengupta</b>, Facebook AI Research</li>
-				<i><b>Narges Shahidi</b>, Google</li>
-				<i><b>Zhan Shi</b>, University of Texas at Austin</li>
-				<i><b>Tatiana Shpeisman</b>, Google</li>
-				<i><b>Ebrahim Songhori</b>, Google</li>
-				<i><b>Suvinay Subramanian</b>, Google</li>
-				<i><b>Kevin Swersky</b>, Google Brain</li>
-				<i><b>Phillipe Tillet</b>, Harvard</li>
-				<i><b>Minjie Wang</b>, New York University</li>
-				<i><b>John Whaley </b>, UnifyID Inc</li>
-				<i><b>Qiumin Xu</b>, Google</li>
+				<li><b>Michael Carbin</b>, MIT</li>
+				<li><b>Carl Case</b>, NVIDIA</li>
+				<li><b>Erich Elsen</b>, Google</li>
+				<li><b>Andrew Gibiansky</b>, Voicery</li>
+				<li><b>Anna Goldie</b>, Google Brain</li>
+				<li><b>Rama Govindaraju</b>, Google</li>
+				<li><b>Milad Hashemi</b>, Google</li>
+				<li><b>Sara Hooker</b>, Google</li>
+				<li><b>Safeen Huda</b>, Google</li>
+				<li><b>Arpith Jacob</b>, Google</li>
+				<li><b>Joe Jiang</b>, Google</li>
+				<li><b>Derek Lockhart</b>, Google</li>
+				<li><b>Martin Maas</b>, Google</li>
+				<li><b>Sadhika Malladi</b>, Princeton</li>
+				<li><b>Azalia Mirhoseini</b>, Google Brain</li>
+				<li><b>Ashish Naik</b>, Google</li>
+				<li><b>Azade Nazi</b>, Google Brain</li>
+				<li><b>Aurojit Panda</b>, New York University Courant</li>
+				<li><b>Jonathan Raiman</b>, OpenAI</li>
+				<li><b>Herman Schmit</b>, Google</li>
+				<li><b>Siddhartha Sen</b>, Microsoft Research</li>
+				<li><b>Shubho Sengupta</b>, Facebook AI Research</li>
+				<li><b>Narges Shahidi</b>, Google</li>
+				<li><b>Zhan Shi</b>, University of Texas at Austin</li>
+				<li><b>Tatiana Shpeisman</b>, Google</li>
+				<li><b>Ebrahim Songhori</b>, Google</li>
+				<li><b>Suvinay Subramanian</b>, Google</li>
+				<li><b>Kevin Swersky</b>, Google Brain</li>
+				<li><b>Phillipe Tillet</b>, Harvard</li>
+				<li><b>Minjie Wang</b>, New York University</li>
+				<li><b>John Whaley </b>, UnifyID Inc</li>
+				<li><b>Qiumin Xu</b>, Google</li>
 				<li><b>Xinlei Xu</b>, New York University</li>
-				<i><b>Amir Yazdanbakhsh</b>, Google Research</li>
-				<i><b>Dan Zhang</b>, Google X</li>
-				<i><b>Yanqi Zhou</b>, Google</li>
+				<li><b>Amir Yazdanbakhsh</b>, Google Research</li>
+				<li><b>Dan Zhang</b>, Google X</li>
+				<li><b>Yanqi Zhou</b>, Google</li>
 			</ul>
 			<h2>Contact Us</h2>
 			<p>
