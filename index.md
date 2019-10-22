@@ -82,7 +82,16 @@ site_title: ML For Systems
 					</p>
 				</div>
 			</div>
-			<!-- <div class="speaker-bio">
+			<!-- 
+			<div class="speaker-bio">
+				<div class="img-holder" style="background-image: url(/assets/images/speakers/vivienne_sze.jpg)"></div>
+				<div>
+					<h3>Vivienne Sze</h3>
+					<p>
+					    Vivienne Sze is an Associate Professor in the Electrical Engineering and Computer Science Department at MIT. Her research interests include energy efficient algorithms and architectures for portable multimedia applications. From September 2010 to July 2013, she was a Member of Technical Staff in the Systems and Applications R&amp;D Center at Texas Instruments (TI), Dallas, TX, where she designed low-power algorithms and architectures for video coding. She also represented TI in the JCT-VC committee of ITU-T and ISO/IEC standards body during the development of High Efficiency Video Coding (HEVC), which received a Primetime Emmy Engineering Award. She co-edited a book entitled High Efficiency Video Coding (HEVC) - Algorithms and Architecture (Springer, 2014). She was a recipient of the 2017 Qualcomm Faculty Award, 2016 Google Faculty Research Award, the 2016 AFOSR Young Investigator Research Program Award, the 2016 3M Non-Tenured Faculty Award, the 2014 DARPA Young Faculty Award, the 2007 DAC/ISSCC Student Design Contest Award and a co-recipient of the 2017 CICC Best Invited Paper Award, the 2016 Micro Top Picks Award and the 2008 A-SSCC Outstanding Design Award.
+					</p>
+				</div>
+			</div><div class="speaker-bio">
 				<div class="img-holder" style="background-image: url(/assets/images/speakers/oriol_vinyals.jpg)"></div>
 				<div>
 					<h3>Oriol Vinyals</h3>
@@ -90,7 +99,8 @@ site_title: ML For Systems
 					    Oriol Vinyals is a Research Scientist at Google DeepMind, working in Deep Learning. Prior to joining DeepMind, Oriol was part of the Google Brain team. He holds a Ph.D. in EECS from University of California, Berkeley and is a recipient of the 2016 MIT TR35 innovator award. His research has been featured multiple times at the New York Times, BBC, etc., and his articles have been cited over 17000 times. His academic involvement includes program chair for the International Conference on Learning Representations (ICLR) of 2017, and 2018. He has also been an area chair for many editions of the NeurIPS and ICML conferences. At DeepMind he continues working on his areas of interest, which include artificial intelligence, with particular emphasis on machine learning, deep learning and reinforcement learning.
 					</p>
 				</div>
-			</div> -->
+			</div>
+		-->
 			<div class="speaker-bio">
 				<div>
 					<h3>Other speakers TBD</h3>
