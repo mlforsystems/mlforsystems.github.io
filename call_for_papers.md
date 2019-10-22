@@ -66,8 +66,8 @@ site_title: ML For Systems
             <h2>Important Dates</h2>
             <ul>
                 <li><del>Submission Deadline: <b>September 23rd, 2019 by midnight Anywhere in the World</b>.</del></li>
-                <li>Acceptance Notifications: October 1st, 2019</li>
-                <li>Camera-Ready Submission: October 30th, 2019</li>
+                <li><del>Acceptance Notifications: October 1st, 2019</del></li>
+                <li><b>Camera-Ready Submission: October 30th, 2019</b></li>
                 <li>Workshop: December 13th or 14th (TBD), 2019, 8:30 AM - 6:00 PM</li>
             </ul>
         </section>
