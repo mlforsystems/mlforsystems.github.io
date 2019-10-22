@@ -55,6 +55,33 @@ site_title: ML For Systems
 					</p>
 				</div>
 			</div>
+			<div class="speaker-bio">
+				<div class="img-holder" style="background-image: url(/assets/images/speakers/eytan_bakshy.jpg)"></div>
+				<div>
+					<h3>Eytan Bakshy</h3>
+					<p>
+					    Senior scientist on the Facebook Core Data Science Team where he leads the Adaptive Experimentation group. He is particularly interested in developing scalable and robust methods for sequential experimentation and reinforcement learning for real-world applications. In his former life, he was interested in substantive questions around the role of peer effects in online and offline behaviors, including information diffusion and civic engagement.
+					</p>
+				</div>
+			</div>
+			<div class="speaker-bio">
+				<div class="img-holder" style="background-image: url(/assets/images/speakers/akanksha_jain.jpg)"></div>
+				<div>
+					<h3>Akanksha Jain</h3>
+					<p>
+					    Research Associate at the Computer Science department of the University of Texas at Austin. She researches Computer Architecture, with a focus on memory system performance. Her research has introduced novel ways to improve hardware caching and prefetching. She is the inventor of the Hawkeye cache replacement policy, which won the 2017 Cache Replacement Championship. Her current research focus is to make machine learning a viable tool for computer architects.
+					</p>
+				</div>
+			</div>
+			<div class="speaker-bio">
+				<div class="img-holder" style="background-image: url(/assets/images/speakers/ion_stoica.jpg)"></div>
+				<div>
+					<h3>Ion Stoica</h3>
+					<p>
+					    Ion Stoica is a Professor in the EECS Department at University of California at Berkeley leading the RISELab. He does research on cloud computing and networked computer systems. Past work includes Apache Spark, Apache Mesos, Tachyon, Chord DHT, and Dynamic Packet State (DPS). He is an ACM Fellow and has received numerous awards, including the SIGOPS Hall of Fame Award (2015), the SIGCOMM Test of Time Award (2011), and the ACM doctoral dissertation award (2001). In 2013, he co-founded Databricks a startup to commercialize technologies for Big Data processing, and in 2006 he co-founded Conviva, a startup to commercialize technologies for large scale video distribution.
+					</p>
+				</div>
+			</div>
 			<!-- <div class="speaker-bio">
 				<div class="img-holder" style="background-image: url(/assets/images/speakers/oriol_vinyals.jpg)"></div>
 				<div>
