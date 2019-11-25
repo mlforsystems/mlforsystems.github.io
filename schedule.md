@@ -23,7 +23,7 @@ site_title: ML For Systems
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">9:10 AM</td>
-            <td style="text-align: left"><a href="#bakshy_talk"><b>Invited Speaker: Eytan Bakshy</b><br/><i></i></a></td>
+            <td style="text-align: left"><a href="#bakshy_talk">Invited Speaker: Eytan Bakshy<br/><i></i></a></td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">9:45 AM</td>
