@@ -79,7 +79,7 @@ site_title: ML For Systems
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">4:30 PM</td>
-            <td style="text-align: left"><b><a href="#stoica_talk">Invited Speaker: Ion Stoica</b><br/><i></i></a></td>
+            <td style="text-align: left"><a href="#stoica_talk"><b>Invited Speaker: Ion Stoica</b><br/><i></i></a></td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">4:55 PM</td>
