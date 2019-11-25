@@ -71,7 +71,7 @@ site_title: ML For Systems
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">3:30 PM</td>
-            <td style="text-align: left">Break<br/><i></i></a></td>
+            <td style="text-align: left">Break<br/><i></i></td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">4:15 PM</td>
@@ -79,12 +79,12 @@ site_title: ML For Systems
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">4:30 PM</td>
-            <td style="text-align: left"><b><a href="#stoica_talk">Invited Speaker: Ion Stoica</b><br/><i></i></td>
+            <td style="text-align: left"><b><a href="#stoica_talk">Invited Speaker: Ion Stoica</b><br/><i></i></a></td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">4:55 PM</td>
             <td style="text-align: left"><b><a href="#alizadeh_talk">Invited Speaker: Mohammad Alizadeh
-</b><br/><i></i></td>
+</b><br/><i></i></a></td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">5:20 PM</td>
