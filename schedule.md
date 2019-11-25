@@ -35,19 +35,19 @@ site_title: ML For Systems
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">11:00 AM</td>
-            <td style="text-align: left"><b>Contributed Talk: A Weak Supervision Approach to Detecting Visual Anomalies for Automated Testing of Graphics Units</b><br/><i></i></td>
+            <td style="text-align: left">Contributed Talk: A Weak Supervision Approach to Detecting Visual Anomalies for Automated Testing of Graphics Units<br/><i></i></td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">11:15 AM</td>
-            <td style="text-align: left"><b>Contributed Talk: Learned TPU Cost Model for XLA Tensor Programs</b></td>
+            <td style="text-align: left">Contributed Talk: Learned TPU Cost Model for XLA Tensor Programs</td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">11:30 AM</td>
-            <td style="text-align: left"><b>Contributed Talk: Learned Multi-dimensional Indexing</b><br/><i></i></td>
+            <td style="text-align: left">Contributed Talk: Learned Multi-dimensional Indexing<br/><i></i></td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">11:45 AM</td>
-            <td style="text-align: left"><b>Contributed Talk: Neural Hardware Architecture Search</b><br/><i></i></td>
+            <td style="text-align: left">Contributed Talk: Neural Hardware Architecture Search<br/><i></i></td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">12:00 PM</td>
@@ -63,7 +63,7 @@ site_title: ML For Systems
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">2:45 PM</td>
-            <td style="text-align: left"><b>Contributed Talk: Predictive Precompute with Recurrent Neural Networks</b></td>
+            <td style="text-align: left">Contributed Talk: Predictive Precompute with Recurrent Neural Networks</td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">3:00 PM</td>
@@ -75,7 +75,7 @@ site_title: ML For Systems
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">4:15 PM</td>
-            <td style="text-align: left"><b>Contributed Talk: Predictive Precompute with Recurrent Neural Networks</b><br/></td>
+            <td style="text-align: left">Contributed Talk: Predictive Precompute with Recurrent Neural Networks<br/></td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">4:30 PM</td>
@@ -87,7 +87,7 @@ site_title: ML For Systems
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">5:20 PM</td>
-            <td style="text-align: left"><b>Panel Discussion (TBD)</b></td>
+            <td style="text-align: left">Panel Discussion (TBD)</td>
           </tr>
         </tbody>
       </table>
