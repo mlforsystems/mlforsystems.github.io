@@ -23,7 +23,7 @@ site_title: ML For Systems
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">9:10 AM</td>
-            <td style="text-align: left"><a href="#bakshy_talk">Invited Speaker: Eytan Bakshy<br/><i></i></a></td>
+            <td style="text-align: left"><a href="#bakshy_talk"><b>Invited Speaker: Eytan Bakshy</b><br/><i></i></a></td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">9:45 AM</td>
@@ -55,11 +55,11 @@ site_title: ML For Systems
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">1:45 PM</td>
-            <td style="text-align: left"><a href="#dean_talk">Invited Speaker: Jeff Dean<br/><i></i></a></td>
+            <td style="text-align: left"><a href="#dean_talk"><b>Invited Speaker: Jeff Dean</b><br/><i></i></a></td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">2:15 PM</td>
-            <td style="text-align: left"><a href="#jain_talk">Invited Speaker: Akanksha Jain<br/><i></i></a></td>
+            <td style="text-align: left"><a href="#jain_talk"><b>Invited Speaker: Akanksha Jain</b><br/><i></i></a></td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">2:45 PM</td>
@@ -79,11 +79,11 @@ site_title: ML For Systems
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">4:30 PM</td>
-            <td style="text-align: left"><a href="#stoica_talk">Invited Speaker: Ion Stoica<br/><i></i></a></td>
+            <td style="text-align: left"><a href="#stoica_talk"><b>Invited Speaker: Ion Stoica</b><br/><i></i></a></td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">4:55 PM</td>
-            <td style="text-align: left"><a href="#alizadeh_talk">Invited Speaker: Mohammad Alizadeh<br/><i></i></a></td>
+            <td style="text-align: left"><a href="#alizadeh_talk"><b>Invited Speaker: Mohammad Alizadeh</b><br/><i></i></a></td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">5:20 PM</td>
