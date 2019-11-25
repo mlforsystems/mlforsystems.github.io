@@ -23,71 +23,72 @@ site_title: ML For Systems
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">9:10 AM</td>
-            <td style="text-align: left"><a href="#schkufza_talk"><b>Invited Speaker 1: TBD</b><br/><i></i></a></td>
+            <td style="text-align: left"><a href="#bakshy_talk"><b>Invited Speaker: Eytan Bakshy</b><br/><i></i></a></td>
           </tr>
           <tr>
-            <td style="text-align: right; white-space: nowrap; font-size: 15px;">9:35 AM</td>
-            <td style="text-align: left"><a href="#song_han_talk"><b>Invited Speaker 2: TBD</b><br/><i></i></a></td>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">9:45 AM</td>
+            <td style="text-align: left">Break<br/></td>
           </tr>
           <tr>
-            <td style="text-align: right; white-space: nowrap; font-size: 15px;">10:00 AM</td>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">10:30 AM</td>
             <td style="text-align: left">Poster Session 1<br/></td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">11:00 AM</td>
-            <td style="text-align: left"><b>Contributed Talk: TBD</b><br/><i></i></td>
+            <td style="text-align: left"><b>Contributed Talk: A Weak Supervision Approach to Detecting Visual Anomalies for Automated Testing of Graphics Units</b><br/><i></i></td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">11:15 AM</td>
-            <td style="text-align: left">Contributed Talk: TBD</td>
+            <td style="text-align: left"><b>Contributed Talk: Learned TPU Cost Model for XLA Tensor Programs</b></td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">11:30 AM</td>
-            <td style="text-align: left"><b>Contributed Talk: TBD</b><br/><i></i></td>
+            <td style="text-align: left"><b>Contributed Talk: Learned Multi-dimensional Indexing</b><br/><i></i></td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">11:45 AM</td>
-            <td style="text-align: left"><a href="#partha_talk"><b>Invited Speaker 3: TBD</b><br/><i></i></a></td>
+            <td style="text-align: left"><b>Contributed Talk: Neural Hardware Architecture Search</b><br/><i></i></td>
           </tr>
           <tr>
-            <td style="text-align: right; white-space: nowrap; font-size: 15px;">12:10 PM</td>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">12:00 PM</td>
             <td style="text-align: left">Lunch Break</td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">1:45 PM</td>
-            <td style="text-align: left"><a href="#neeraja_talk"><b>Invited Speaker 4: TBD</b><br/><i></i></a></td>
+            <td style="text-align: left"><a href="#dean_talk"><b>Invited Speaker: Jeff Dean</b><br/><i></i></a></td>
           </tr>
           <tr>
-            <td style="text-align: right; white-space: nowrap; font-size: 15px;">2:10 PM</td>
-            <td style="text-align: left">Contributed Talk: TBD</td>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">2:15 PM</td>
+            <td style="text-align: left"><a href="#jain_talk"><b>Invited Speaker: Akanksha Jain</b><br/><i></i></a></td>
           </tr>
           <tr>
-            <td style="text-align: right; white-space: nowrap; font-size: 15px;">2:25 PM</td>
-            <td style="text-align: left">Contributed Talk: TBD</td>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">2:45 PM</td>
+            <td style="text-align: left"><b>Contributed Talk: Predictive Precompute with Recurrent Neural Networks</b></td>
           </tr>
           <tr>
-            <td style="text-align: right; white-space: nowrap; font-size: 15px;">2:40 PM</td>
-            <td style="text-align: left">Contributed Talk: TBD</td>
-          </tr>
-          <tr>
-            <td style="text-align: right; white-space: nowrap; font-size: 15px;">2:55 PM</td>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">3:00 PM</td>
             <td style="text-align: left">Poster Session 2<br/></td>
           </tr>
           <tr>
-            <td style="text-align: right; white-space: nowrap; font-size: 15px;">4:00 PM</td>
-            <td style="text-align: left"><a href="#sanjay_talk"><b>Invited Speaker 5: TBD</b><br/><i></i></a></td>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">3:30 PM</td>
+            <td style="text-align: left">Break<br/><i></i></a></td>
           </tr>
           <tr>
-            <td style="text-align: right; white-space: nowrap; font-size: 15px;">4:25 PM</td>
-            <td style="text-align: left"><b>Keynote Speaker</b><br/><i></i></td>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">4:15 PM</td>
+            <td style="text-align: left"><b>Contributed Talk: Predictive Precompute with Recurrent Neural Networks</b><br/></td>
           </tr>
           <tr>
-            <td style="text-align: right; white-space: nowrap; font-size: 15px;">4:50 PM</td>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">4:30 PM</td>
+            <td style="text-align: left"><b><a href="#stoica_talk">Invited Speaker: Ion Stoica</b><br/><i></i></td>
+          </tr>
+          <tr>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">4:55 PM</td>
+            <td style="text-align: left"><b><a href="#alizadeh_talk">Invited Speaker: Mohammad Alizadeh
+</b><br/><i></i></td>
+          </tr>
+          <tr>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">5:20 PM</td>
             <td style="text-align: left"><b>Panel Discussion (TBD)</b></td>
-          </tr>
-          <tr>
-            <td style="text-align: right; white-space: nowrap; font-size: 15px;">5:50 PM</td>
-            <td style="text-align: left">Closing Remarks (10mn)</td>
           </tr>
         </tbody>
       </table>
