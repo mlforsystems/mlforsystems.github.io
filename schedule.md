@@ -75,7 +75,7 @@ site_title: ML For Systems
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">4:15 PM</td>
-            <td style="text-align: left">Contributed Talk: Predictive Precompute with Recurrent Neural Networks<br/></td>
+            <td style="text-align: left">Contributed Talk: Zero-Shot Learning for Fast Optimization of Computation Graphs<br/></td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">4:30 PM</td>
