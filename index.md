@@ -82,6 +82,15 @@ site_title: ML For Systems
 					</p>
 				</div>
 			</div>
+			<div class="speaker-bio">
+				<div class="img-holder" style="background-image: url(/assets/images/speakers/mohammad_alizadeh.jpg)"></div>
+				<div>
+					<h3>Mohammad Alizadeh</h3>
+					<p>
+					    Assistant Professor in the EECS Department at MIT, and a member of CSAIL. He works in the areas of computer networks and systems. His research aims to improve the performance, robustness, and ease of management of future networks and cloud computing systems. His current research centers on network protocols and algorithms for large-scale datacenters, programmable switching architectures, and learning-based networked systems.
+					</p>
+				</div>
+			</div>
 			<!-- 
 			<div class="speaker-bio">
 				<div class="img-holder" style="background-image: url(/assets/images/speakers/vivienne_sze.jpg)"></div>
