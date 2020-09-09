@@ -61,8 +61,8 @@ site_title: ML For Systems
             </ul>
             <h2>Important Dates</h2>
             <ul>
-                <li><Submission Deadline: <b>October 2nd, 2020 by midnight Anywhere in the World</b>.</li>
-                <li><Acceptance Notifications: October 23rd, 2020</li>
+                <li>Submission Deadline: <b>October 2nd, 2020 by midnight Anywhere in the World</b>.</li>
+                <li>Acceptance Notifications: October 23rd, 2020</li>
                 <li><b>Camera-Ready Submission: November 29th, 2020</b></li>
                 <li>Workshop: December 12th, 2020</li>
             </ul>
