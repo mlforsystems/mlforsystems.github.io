@@ -53,7 +53,7 @@ site_title: ML For Systems
 			<ul>
 				<li><b>Anna Goldie</b>, Google Brain, <a href="https://twitter.com/annadgoldie">@annadgoldie</a></li>
 				<li><b>Azalia Mirhoseini</b>, Google Brain, <a href="https://twitter.com/Azaliamirh">@Azaliamirh</a></li>
-				<li><b>Jonathan Raiman</b>, NVIDIA, <a href="https://twitter.com/jonathanrraiman">@jonathanrraiman</a></li>
+				<li><b>Jonathan Raiman</b>, NVIDIA/Paris-Saclay, <a href="https://twitter.com/jonathanrraiman">@jonathanrraiman</a></li>
 				<li><b>Martin Maas</b>, Google Brain, <a href="https://twitter.com/martin_maas">@martin_maas</a></li>
 				<li><b>Xinlei Xu</b>, NYU, <a href="https://twitter.com/MimeeXu">@MimeeXu</a></li>
 			</ul>
