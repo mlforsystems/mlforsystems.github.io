@@ -10,12 +10,12 @@ site_title: ML For Systems
 		<p>
 			Compute requirements are growing at an exponential rate<sup>1</sup>, and optimizing these computer systems often involves complex high-dimensional combinatorial problems. Yet, current methods rely heavily on heuristics. Very recent work has outlined a broad scope where machine learning vastly outperforms these traditional heuristics, including scheduling<sup>2,12</sup>, data structure design<sup>3,9</sup>, microarchitecture<sup>4</sup>, compilers<sup>5,8</sup>, circuit design<sup>7,10</sup>, and the control of warehouse scale computing systems<sup>6</sup>. In order to continue to scale these computer systems, new learning approaches are needed. The goal of this workshop is to develop novel machine learning methods to optimize and accelerate software and hardware systems.
 		</p>
-	  	<p>
-      		The main objective of this workshop is to expand upon this recent work and build a community focused on using machine learning in computer architecture and systems problems. We seek to improve the state of the art in the areas where learning has already proven to perform better than traditional heuristics, as well as expand to new areas throughout the system stack such as hardware/circuit design and operating/runtime systems.
-	  	</p>
-	  	<p>
-	  		We expect this year to improve the state of the art in areas where learning has already proven to outperform traditional heuristics. We also expect to expand into new areas throughout the systems stack, such as computer architecture and operating/runtime systems, and incorporate new ML topics like relational learning. Given that the community is larger than last year, for NeurIPS 2019, we intend to foster more discussion through breakout sessions. The interdisciplinary nature of this area makes NeurIPS an ideal venue for this workshop.
-	  	</p>
+  	<p>
+    		The main objective of this workshop is to expand upon this recent work and build a community focused on using machine learning in computer architecture and systems problems. We seek to improve the state of the art in the areas where learning has already proven to perform better than traditional heuristics, as well as expand to new areas throughout the system stack such as hardware/circuit design and operating/runtime systems.
+  	</p>
+  	<p>
+  		We expect this year to improve the state of the art in areas where learning has already proven to outperform traditional heuristics. We also expect to expand into new areas throughout the systems stack, such as computer architecture and operating/runtime systems, and incorporate new ML topics like relational learning. Given that the community is larger than last year, for NeurIPS 2020, we intend to foster more discussion through breakout sessions. The interdisciplinary nature of this area makes NeurIPS an ideal venue for this workshop.
+  	</p>
 		<p>
 			By forming a community of academic and industrial researchers who are excited about this area, we seek to build towards intelligent, self optimizing systems and answer questions such as: How do we generate and share high quality datasets that span the layers of the system stack? Which learned representations best represent code performance and runtime? Which simulators and simulation methodologies provide a tractable proving ground techniques like reinforcement learning?
 		</p>
@@ -55,15 +55,8 @@ site_title: ML For Systems
 			<ul>
 				<li><b>Anna Goldie</b>, Google Brain, <a href="https://twitter.com/annadgoldie">@annadgoldie</a></li>
 				<li><b>Azalia Mirhoseini</b>, Google Brain, <a href="https://twitter.com/Azaliamirh">@Azaliamirh</a></li>
-<<<<<<< HEAD
-				<li><b>Jonathan Raiman</b>, OpenAI, <a href="https://twitter.com/jonathanrraiman">@jonathanrraiman</a></li>
-				<li><b>Kevin Swersky</b>, Google Brain, <a href="https://twitter.com/kswersk">@kswersk</a></li>
-				<li><b>Milad Hashemi</b>, Google, <a href="https://hps.ece.utexas.edu/people/miladh/">website</a></li>
-				<li><b>Amir Yazdanbakhsh</b>, Google Research, <a href="https://www.cc.gatech.edu/~ayazdanb/">website</a></li>
-=======
 				<li><b>Jonathan Raiman</b>, NVIDIA, <a href="https://twitter.com/jonathanrraiman">@jonathanrraiman</a></li>
-				<li><b>Martin Maas</b>, Google Brain, <a href="http://www.martin-maas.com">site</a></li>
->>>>>>> e75cb26... wip 2020 version
+				<li><b>Martin Maas</b>, Google Brain, <a href="https://twitter.com/martin_maas">@martin_maas</a></li>
 				<li><b>Xinlei Xu</b>, NYU, <a href="https://twitter.com/MimeeXu">@MimeeXu</a></li>
 			</ul>
 			<h2>Program Committee</h2>
