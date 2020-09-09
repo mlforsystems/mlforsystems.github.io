@@ -42,13 +42,13 @@ site_title: ML For Systems
     </ul>
 	</section>
 </div>
-<div class="speaker_section">
+<!-- <div class="speaker_section">
 	<div class="inner clearfix">
 		<section class="main-content">
 			<h2 id="speakers">Speakers</h2>
 		</section>
 	</div>
-</div>
+</div> -->
 <div class="organizers-section">
 	<div class="inner clearfix">
 		<section class="main-content">
@@ -60,10 +60,10 @@ site_title: ML For Systems
 				<li><b>Martin Maas</b>, Google Brain, <a href="https://twitter.com/martin_maas">@martin_maas</a></li>
 				<li><b>Xinlei Xu</b>, NYU, <a href="https://twitter.com/MimeeXu">@MimeeXu</a></li>
 			</ul>
-			<h2>Program Committee</h2>
+			<!-- <h2>Program Committee</h2>
 			<ul>
 				<li>TBD</li>
-			</ul>
+			</ul> -->
 			<h2>Contact Us</h2>
 			<p>
 				Contact us at <a href="mailto:mlforsystems@googlegroups.com">mlforsystems@googlegroups.com</a>.
