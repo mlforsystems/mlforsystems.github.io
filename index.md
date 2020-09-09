@@ -9,7 +9,7 @@ site_title: ML For Systems
 	<section class="main-content overview_section">
 		<p><b><a href="/call_for_papers.html">Call for papers open until October 2nd 2020</a></b></p>
 		<p>
-			Compute requirements are growing at an exponential rate<sup>1</sup>, and optimizing these computer systems often involves complex high-dimensional combinatorial problems. Yet, current methods rely heavily on heuristics. Very recent work has outlined a broad scope where machine learning vastly outperforms these traditional heuristics, including scheduling<sup>2,12,15</sup>, data structure design<sup>3,9</sup>, graph clustering and partioning <sup>7,16</sup>, microarchitecture<sup>4</sup>, compilers<sup>5,8</sup>, memory management<sup>13</sup>, circuit design<sup>7,10</sup>, chip floor planning <sup>14</sup>, and the control of warehouse scale computing systems<sup>6</sup>. In order to continue to scale these computer systems, new learning approaches are needed. The goal of this workshop is to develop novel machine learning methods to optimize and accelerate software and hardware systems.
+			Compute requirements are growing at an exponential rate<sup>1</sup>, and optimizing these computer systems often involves complex high-dimensional combinatorial problems. Yet, current methods rely heavily on heuristics. Very recent work has outlined a broad scope where machine learning vastly outperforms these traditional heuristics, including scheduling<sup>2,12,15</sup>, data structure design<sup>3,9</sup>, graph clustering and partioning<sup>7,16</sup>, microarchitecture<sup>4</sup>, compilers<sup>5,8</sup>, memory management<sup>13</sup>, circuit design<sup>7,10</sup>, chip floor planning<sup>14</sup>, and the control of warehouse scale computing systems<sup>6</sup>. In order to continue to scale these computer systems, new learning approaches are needed. The goal of this workshop is to develop novel machine learning methods to optimize and accelerate software and hardware systems.
 		</p>
   	<p>
     		The main objective of this workshop is to expand upon this recent work and build a community focused on using machine learning in computer architecture and systems problems. We seek to improve the state of the art in the areas where learning has already proven to perform better than traditional heuristics, as well as expand to new areas throughout the system stack such as hardware/circuit design and operating/runtime systems.
@@ -33,7 +33,7 @@ site_title: ML For Systems
       <li><sup>4</sup> <a href="https://arxiv.org/pdf/1803.02329.pdf">Learning Memory Access Patterns</a></li>
       <li><sup>5</sup> <a href="https://ieeexplore.ieee.org/document/8091247/?reload=true">End to End Deep Learning of Optimization Heuristics</a></li>
       <li><sup>6</sup> <a href="https://deepmind.com/blog/deepmind-ai-reduces-google-data-centre-cooling-bill-40/">DeepMind AI Reduces Google Data Centre Cooling Bill by 40%</a></li>
-      <li><sup>7</sup> <a href="https://arxiv.org/pdf/1903.00614.pdf">GAP: Generalizable Approximate Graph Partitioning Framework</a> <a href="https://github.com/google-research/google-research/tree/master/clustering_normalized_cuts">(open-source)</a> ICLR'19 Workshop on Representation Learning on Graphs and Manifolds</li>
+      <li><sup>7</sup> <a href="https://arxiv.org/pdf/1903.00614.pdf">GAP: Generalizable Approximate Graph Partitioning Framework</a> (<a href="https://github.com/google-research/google-research/tree/master/clustering_normalized_cuts">open-source</a>)</li>
       <li><sup>8</sup> <a href="https://arxiv.org/abs/1808.07412">Ithemal: Accurate, Portable and Fast Basic Block Throughput Estimation using Deep Neural Networks</a></li>
       <li><sup>9</sup> <a href="https://arxiv.org/abs/1808.03196">Learning to Optimize Join Queries With Deep Reinforcement Learning</a></li>
       <li><sup>10</sup> <a href="https://arxiv.org/abs/1812.02734">Learning to Design Circuits</a></li>
@@ -42,7 +42,7 @@ site_title: ML For Systems
       <li><sup>13</sup> <a href="https://research.google/pubs/pub49008/">Learning-based Memory Allocation for C++ Server Workloads</a></li>
       <li><sup>14</sup> <a href="https://arxiv.org/abs/2004.10746">Chip Placement with Deep Reinforcement Learning</a></li>
       <li><sup>15</sup> <a href="https://openreview.net/forum?id=SkxW23NtPH">GDP: Generalized Device Placement for Dataflow Graphs</a></li>
-      <li><sup>16</sup> <a href="https://arxiv.org/abs/1910.07623">Generalized Clustering by Learning to Optimize Expected Normalized Cuts</a> NeurIPS'19 Workshop on Sets and Partitions</li>
+      <li><sup>16</sup> <a href="https://arxiv.org/abs/1910.07623">Generalized Clustering by Learning to Optimize Expected Normalized Cuts</a></li>
     </ul>
 	</section>
 </div>
