@@ -9,7 +9,7 @@ site_title: ML For Systems
 	<section class="main-content overview_section">
 		<p><b><a href="/call_for_papers.html">Call for papers open until October 2nd 2020</a></b></p>
 		<p>
-			Compute requirements are growing at an exponential rate<sup>1</sup>, and optimizing these computer systems often involves complex high-dimensional combinatorial problems. Yet, current methods rely heavily on heuristics. Very recent work has outlined a broad scope where machine learning vastly outperforms these traditional heuristics, including scheduling<sup>2,12,15</sup>, data structure design<sup>3,9</sup>, microarchitecture<sup>4</sup>, compilers<sup>5,8</sup>, memory management<sup>13</sup>, circuit design<sup>7,10</sup>, chip floor planning <sup>14</sup>, and the control of warehouse scale computing systems<sup>6</sup>. In order to continue to scale these computer systems, new learning approaches are needed. The goal of this workshop is to develop novel machine learning methods to optimize and accelerate software and hardware systems.
+			Compute requirements are growing at an exponential rate<sup>1</sup>, and optimizing these computer systems often involves complex high-dimensional combinatorial problems. Yet, current methods rely heavily on heuristics. Very recent work has outlined a broad scope where machine learning vastly outperforms these traditional heuristics, including scheduling<sup>2,12,15</sup>, data structure design<sup>3,9</sup>, graph clustering and partioning <sup>17,18</sup>, microarchitecture<sup>4</sup>, compilers<sup>5,8</sup>, memory management<sup>13</sup>, circuit design<sup>7,10</sup>, chip floor planning <sup>14</sup>, and the control of warehouse scale computing systems<sup>6</sup>. In order to continue to scale these computer systems, new learning approaches are needed. The goal of this workshop is to develop novel machine learning methods to optimize and accelerate software and hardware systems.
 		</p>
   	<p>
     		The main objective of this workshop is to expand upon this recent work and build a community focused on using machine learning in computer architecture and systems problems. We seek to improve the state of the art in the areas where learning has already proven to perform better than traditional heuristics, as well as expand to new areas throughout the system stack such as hardware/circuit design and operating/runtime systems.
@@ -43,6 +43,8 @@ site_title: ML For Systems
       <li><sup>14</sup> <a href="https://arxiv.org/abs/2004.10746">Chip Placement with Deep Reinforcement Learning</a></li>
       <li><sup>15</sup> <a href="https://openreview.net/forum?id=SkxW23NtPH">GDP: Generalized Device Placement for Dataflow Graphs</a></li>
       <li><sup>16</sup> <a href="">GDP: Generalized Device Placement for Dataflow Graphs</a></li>
+      <li><sup>17</sup> <a href="https://github.com/google-research/google-research/tree/master/clustering_normalized_cuts">Generalized graph partitioning</a> <i>A learning approach to graph partitioning which can partition new graphs at inference and scales to millions of nodes.</i></li>
+      <li><sup>18</sup> <a href="https://arxiv.org/abs/1910.07623">Generalized Clustering by Learning to Optimize Expected Normalized Cuts</a></li>
     </ul>
 	</section>
 </div>
