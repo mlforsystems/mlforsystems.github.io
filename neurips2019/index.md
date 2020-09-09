@@ -23,7 +23,7 @@ site_title: ML For Systems
 			To this end, the target audience for this workshop includes a wide variety of attendees from state-of-the-art researchers in machine learning to domain experts in computer systems design. We have invited a <a href="#speakers">broad set of expert speakers</a> to present the potential for impact of combining deep learning research with computer systems. We hope that by providing a formal venue for researchers from both fields to meet and interact, that the result will include both fundamental research in ML as well as real-world impact to computer systems design and implementation.
 		</p>
 		<p>
-			The workshop will host 6 speakers and we invite researchers to submit relevant papers through our <a href="/call_for_papers.html">call for papers</a>. The speakers, and potentially other relevant stakeholders, are invited to participate in a panel discussion to end the workshop. See the <a href="/schedule.html">schedule</a>.
+			The workshop will host 6 speakers and we invite researchers to submit relevant papers through our <a href="/neurips2019/call_for_papers.html">call for papers</a>. The speakers, and potentially other relevant stakeholders, are invited to participate in a panel discussion to end the workshop. See the <a href="/neurips2019/schedule.html">schedule</a>.
 		</p>
 		<ul class="footnotes">
       <li><sup>1</sup> <a href="https://openai.com/blog/ai-and-compute/">AI and Compute</a></li>
