@@ -14,7 +14,7 @@ site_title: ML For Systems
     		The main objective of this workshop is to expand upon this recent work and build a community focused on using machine learning in computer architecture and systems problems. We seek to improve the state of the art in the areas where learning has already proven to perform better than traditional heuristics, as well as expand to new areas throughout the system stack such as hardware/circuit design and operating/runtime systems.
   	</p>
   	<p>
-  		We expect this year to improve the state of the art in areas where learning has already proven to outperform traditional heuristics. We also expect to expand into new areas throughout the systems stack, such as computer architecture and operating/runtime systems, and incorporate new ML topics like relational learning. Given that the community is larger than last year, for NeurIPS 2019, we intend to foster more discussion through breakout sessions. The interdisciplinary nature of this area makes NeurIPS an ideal venue for this workshop.
+  		We expect this year to improve the state of the art in areas where learning has already proven to outperform traditional heuristics. We also expect to expand into new areas throughout the systems stack, such as computer architecture and operating/runtime systems, and incorporate new ML topics like relational learning. Given that the community is larger than last year, for NeurIPS 2020, we intend to foster more discussion through breakout sessions. The interdisciplinary nature of this area makes NeurIPS an ideal venue for this workshop.
   	</p>
 		<p>
 			By forming a community of academic and industrial researchers who are excited about this area, we seek to build towards intelligent, self optimizing systems and answer questions such as: How do we generate and share high quality datasets that span the layers of the system stack? Which learned representations best represent code performance and runtime? Which simulators and simulation methodologies provide a tractable proving ground techniques like reinforcement learning?
@@ -56,7 +56,7 @@ site_title: ML For Systems
 				<li><b>Anna Goldie</b>, Google Brain, <a href="https://twitter.com/annadgoldie">@annadgoldie</a></li>
 				<li><b>Azalia Mirhoseini</b>, Google Brain, <a href="https://twitter.com/Azaliamirh">@Azaliamirh</a></li>
 				<li><b>Jonathan Raiman</b>, NVIDIA, <a href="https://twitter.com/jonathanrraiman">@jonathanrraiman</a></li>
-				<li><b>Martin Maas</b>, Google Brain, <a href="http://www.martin-maas.com">site</a></li>
+				<li><b>Martin Maas</b>, Google Brain, <a href="https://twitter.com/martin_maas">@martin_maas</a></li>
 				<li><b>Xinlei Xu</b>, NYU, <a href="https://twitter.com/MimeeXu">@MimeeXu</a></li>
 			</ul>
 			<h2>Program Committee</h2>
