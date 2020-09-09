@@ -1,7 +1,7 @@
 ---
 title: Announcement
-workshop_name: neurips2019
-site_description: Workshop on ML for Systems at NeurIPS 2019, December 14th, 9AM-6PM Vancouver Convention Centre, West Level 2 202-204
+workshop_name: neurips2020
+site_description: Workshop on ML for Systems at NeurIPS 2020, December 12th, Zoomville
 site_title: ML For Systems
 ---
 
@@ -45,74 +45,6 @@ site_title: ML For Systems
 	<div class="inner clearfix">
 		<section class="main-content">
 			<h2 id="speakers">Speakers</h2>
-			<div class="speaker-bio">
-				<div class="img-holder" style="background-image: url(/assets/images/speakers/jeff_dean.jpg)"></div>
-				<div>
-					<h3>Jeff Dean</h3>
-					<h5 class="keynote-speaker">Keynote Speaker</h5>
-					<p>
-					    Senior Fellow, Google AI. Google Brain lead and co-founder. Co-designer and implementor of Tensorflow, MapReduce, BigTable, Spanner.
-					</p>
-				</div>
-			</div>
-			<div class="speaker-bio">
-				<div class="img-holder" style="background-image: url(/assets/images/speakers/eytan_bakshy.jpg)"></div>
-				<div>
-					<h3>Eytan Bakshy</h3>
-					<p>
-					    Senior scientist on the Facebook Core Data Science Team where he leads the Adaptive Experimentation group. He is particularly interested in developing scalable and robust methods for sequential experimentation and reinforcement learning for real-world applications. In his former life, he was interested in substantive questions around the role of peer effects in online and offline behaviors, including information diffusion and civic engagement.
-					</p>
-				</div>
-			</div>
-			<div class="speaker-bio">
-				<div class="img-holder" style="background-image: url(/assets/images/speakers/akanksha_jain.jpg)"></div>
-				<div>
-					<h3>Akanksha Jain</h3>
-					<p>
-					    Research Associate at the Computer Science department of the University of Texas at Austin. She researches Computer Architecture, with a focus on memory system performance. Her research has introduced novel ways to improve hardware caching and prefetching. She is the inventor of the Hawkeye cache replacement policy, which won the 2017 Cache Replacement Championship. Her current research focus is to make machine learning a viable tool for computer architects.
-					</p>
-				</div>
-			</div>
-			<div class="speaker-bio">
-				<div class="img-holder" style="background-image: url(/assets/images/speakers/ion_stoica.jpg)"></div>
-				<div>
-					<h3>Ion Stoica</h3>
-					<p>
-					    Ion Stoica is a Professor in the EECS Department at University of California at Berkeley leading the RISELab. He does research on cloud computing and networked computer systems. Past work includes Apache Spark, Apache Mesos, Tachyon, Chord DHT, and Dynamic Packet State (DPS). He is an ACM Fellow and has received numerous awards, including the SIGOPS Hall of Fame Award (2015), the SIGCOMM Test of Time Award (2011), and the ACM doctoral dissertation award (2001). In 2013, he co-founded Databricks a startup to commercialize technologies for Big Data processing, and in 2006 he co-founded Conviva, a startup to commercialize technologies for large scale video distribution.
-					</p>
-				</div>
-			</div>
-			<div class="speaker-bio">
-				<div class="img-holder" style="background-image: url(/assets/images/speakers/mohammad_alizadeh.jpg)"></div>
-				<div>
-					<h3>Mohammad Alizadeh</h3>
-					<p>
-					    Assistant Professor in the EECS Department at MIT, and a member of CSAIL. He works in the areas of computer networks and systems. His research aims to improve the performance, robustness, and ease of management of future networks and cloud computing systems. His current research centers on network protocols and algorithms for large-scale datacenters, programmable switching architectures, and learning-based networked systems.
-					</p>
-				</div>
-			</div>
-			<!-- 
-			<div class="speaker-bio">
-				<div class="img-holder" style="background-image: url(/assets/images/speakers/vivienne_sze.jpg)"></div>
-				<div>
-					<h3>Vivienne Sze</h3>
-					<p>
-						Vivienne Sze is an Associate Professor in the Electrical Engineering and Computer Science Department at MIT. Her research interests include energy-efficient algorithms and architectures for portable multimedia applications. From September 2010 to July 2013, she was a Member of Technical Staff in the Systems and Applications R&D Center at Texas Instruments (TI), Dallas, TX, where she designed low-power algorithms and architectures for video coding. She also represented TI in the JCT-VC committee of ITU-T and ISO/IEC standards body during the development of High Efficiency Video Coding (HEVC), which received a Primetime Engineering Emmy Award. Within the committee, she was the primary coordinator of the core experiment on coefficient scanning and coding. She co-edited a book entitled High Efficiency Video Coding (HEVC) - Algorithms and Architecture (Springer, 2014).
-					</p>
-					<p>
-						She is a recipient of the 2018 Facebook Faculty Award, the 2018 & 2017 Qualcomm Faculty Award, the 2018 & 2016 Google Faculty Research Award, the 2016 AFOSR Young Investigator Research Program (YIP) Award, the 2016 3M Non-Tenured Faculty Award, the 2014 DARPA Young Faculty Award, the 2007 DAC/ISSCC Student Design Contest Award, and a co-recipient of the 2018 Symposium on VLSI Circuits Best Student Paper Award, the 2017 CICC Outstanding Invited Paper Award, the 2016 IEEE Micro Top Picks Award and the 2008 A-SSCC Outstanding Design Award.
-					</p>
-				</div>
-			</div><div class="speaker-bio">
-				<div class="img-holder" style="background-image: url(/assets/images/speakers/oriol_vinyals.jpg)"></div>
-				<div>
-					<h3>Oriol Vinyals</h3>
-					<p>
-					    Oriol Vinyals is a Research Scientist at Google DeepMind, working in Deep Learning. Prior to joining DeepMind, Oriol was part of the Google Brain team. He holds a Ph.D. in EECS from University of California, Berkeley and is a recipient of the 2016 MIT TR35 innovator award. His research has been featured multiple times at the New York Times, BBC, etc., and his articles have been cited over 17000 times. His academic involvement includes program chair for the International Conference on Learning Representations (ICLR) of 2017, and 2018. He has also been an area chair for many editions of the NeurIPS and ICML conferences. At DeepMind he continues working on his areas of interest, which include artificial intelligence, with particular emphasis on machine learning, deep learning and reinforcement learning.
-					</p>
-				</div>
-			</div>
-		-->
 		</section>
 	</div>
 </div>
@@ -123,50 +55,20 @@ site_title: ML For Systems
 			<ul>
 				<li><b>Anna Goldie</b>, Google Brain, <a href="https://twitter.com/annadgoldie">@annadgoldie</a></li>
 				<li><b>Azalia Mirhoseini</b>, Google Brain, <a href="https://twitter.com/Azaliamirh">@Azaliamirh</a></li>
+<<<<<<< HEAD
 				<li><b>Jonathan Raiman</b>, OpenAI, <a href="https://twitter.com/jonathanrraiman">@jonathanrraiman</a></li>
 				<li><b>Kevin Swersky</b>, Google Brain, <a href="https://twitter.com/kswersk">@kswersk</a></li>
 				<li><b>Milad Hashemi</b>, Google, <a href="https://hps.ece.utexas.edu/people/miladh/">website</a></li>
 				<li><b>Amir Yazdanbakhsh</b>, Google Research, <a href="https://www.cc.gatech.edu/~ayazdanb/">website</a></li>
+=======
+				<li><b>Jonathan Raiman</b>, NVIDIA, <a href="https://twitter.com/jonathanrraiman">@jonathanrraiman</a></li>
+				<li><b>Martin Maas</b>, Google Brain, <a href="http://www.martin-maas.com">site</a></li>
+>>>>>>> e75cb26... wip 2020 version
 				<li><b>Xinlei Xu</b>, NYU, <a href="https://twitter.com/MimeeXu">@MimeeXu</a></li>
 			</ul>
 			<h2>Program Committee</h2>
 			<ul>
-				<li><b>Michael Carbin</b>, MIT</li>
-				<li><b>Carl Case</b>, NVIDIA</li>
-				<li><b>Erich Elsen</b>, Google</li>
-				<li><b>Andrew Gibiansky</b>, Voicery</li>
-				<li><b>Anna Goldie</b>, Google Brain</li>
-				<li><b>Rama Govindaraju</b>, Google</li>
-				<li><b>Milad Hashemi</b>, Google</li>
-				<li><b>Sara Hooker</b>, Google</li>
-				<li><b>Safeen Huda</b>, Google</li>
-				<li><b>Arpith Jacob</b>, Google</li>
-				<li><b>Joe Jiang</b>, Google</li>
-				<li><b>Derek Lockhart</b>, Google</li>
-				<li><b>Martin Maas</b>, Google</li>
-				<li><b>Sadhika Malladi</b>, Princeton</li>
-				<li><b>Azalia Mirhoseini</b>, Google Brain</li>
-				<li><b>Ashish Naik</b>, Google</li>
-				<li><b>Azade Nazi</b>, Google Brain</li>
-				<li><b>Aurojit Panda</b>, New York University Courant</li>
-				<li><b>Jonathan Raiman</b>, OpenAI</li>
-				<li><b>Herman Schmit</b>, Google</li>
-				<li><b>Siddhartha Sen</b>, Microsoft Research</li>
-				<li><b>Shubho Sengupta</b>, Facebook AI Research</li>
-				<li><b>Narges Shahidi</b>, Google</li>
-				<li><b>Zhan Shi</b>, University of Texas at Austin</li>
-				<li><b>Tatiana Shpeisman</b>, Google</li>
-				<li><b>Ebrahim Songhori</b>, Google</li>
-				<li><b>Suvinay Subramanian</b>, Google</li>
-				<li><b>Kevin Swersky</b>, Google Brain</li>
-				<li><b>Phillipe Tillet</b>, Harvard</li>
-				<li><b>Minjie Wang</b>, New York University</li>
-				<li><b>John Whaley </b>, UnifyID Inc</li>
-				<li><b>Qiumin Xu</b>, Google</li>
-				<li><b>Xinlei Xu</b>, New York University</li>
-				<li><b>Amir Yazdanbakhsh</b>, Google Research</li>
-				<li><b>Dan Zhang</b>, Google X</li>
-				<li><b>Yanqi Zhou</b>, Google</li>
+				<li>TBD</li>
 			</ul>
 			<h2>Contact Us</h2>
 			<p>
