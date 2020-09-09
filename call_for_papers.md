@@ -11,7 +11,6 @@ site_title: ML For Systems
         <p>We invite submission of up to 4-page extended abstracts in the broad area of <b>using machine learning in the design of computer systems</b>. We are especially interested in submissions that move beyond using machine learning to replace numerical heuristics. This year we hope to see novel system designs, streamlined cross-platform optimization, and new benchmarks for ML for Systems.</p>
         <p>Accepted papers will be made available on the workshop website, but there will be no formal proceedings. Authors may therefore publish their work in other journals or conferences.
         The workshop will include invited talks from industry and academia as well as oral and poster presentations by workshop participants.</p>
-</p>
     </section>
 </div>
 <div class="areas_of_interest_section">
