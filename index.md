@@ -7,7 +7,6 @@ site_title: ML For Systems
 
 <div class="inner clearfix">
 	<section class="main-content overview_section">
-		<p><b><a href="/call_for_papers.html">Call for papers open until October 9th 2020</a></b></p>
 		<p>
 			Compute requirements are growing at an exponential rate<sup>1</sup>, and optimizing these computer systems often involves complex high-dimensional combinatorial problems. Yet, current methods rely heavily on heuristics. Very recent work has outlined a broad scope where machine learning vastly outperforms these traditional heuristics, including scheduling<sup>2,12,15</sup>, data structure design<sup>3,9</sup>, graph clustering and partioning<sup>7,16</sup>, microarchitecture<sup>4</sup>, compilers<sup>5,8</sup>, memory management<sup>13</sup>, circuit design<sup>7,10</sup>, chip floor planning<sup>14</sup>, and the control of warehouse scale computing systems<sup>6</sup>. In order to continue to scale these computer systems, new learning approaches are needed. The goal of this workshop is to develop novel machine learning methods to optimize and accelerate software and hardware systems.
 		</p>
