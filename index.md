@@ -4,7 +4,7 @@ workshop_name: neurips2020
 site_description: Workshop on ML for Systems at NeurIPS 2020, December 12th, Zoomville
 site_title: ML For Systems
 ---
-<div class="schedule_section">
+<div class="schedule_section virtual_schedule_section">
     <div class="inner clearfix">
         <section class="main-content">
 		<h2>Schedule</h2>
