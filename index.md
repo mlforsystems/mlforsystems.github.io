@@ -8,7 +8,7 @@ site_title: ML For Systems
     <div class="inner clearfix">
         <section class="main-content">
 		<h2>Schedule</h2>
-            <select name="timezone" id="timezoneswitcher">
+            <select name="timezone" id="timezoneswitcher" style="max-width: 100%">
                 <option value="current_timezone" id="current_timezone_option" selected="selected">Current Timezone</option>
                 <option value="Pacific/Midway">(UTC -11:00) Midway, Niue, Pago Pago</option>
                 <option value="America/Adak">(UTC -10:00) Adak</option>
@@ -94,6 +94,7 @@ site_title: ML For Systems
                   </tr>
                 </thead>
                 <tbody>
+                    <tr><td style="text-align: left; font-size: 15px; color: #2879d0" colspan="2" >Run 1</td></tr>
                     <tr><td data-value-start="2020-12-12T09:00:00.000-08:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >09:00</td><td style="text-align: left">Opening Remarks</td></tr>
                     <tr><td data-value-start="2020-12-12T09:15:00.000-08:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >09:15</td><td style="text-align: left"><a href="#christina_delimitrou_talk"><b>Invited Speaker 1: Christina Delimitrou</b></a></td></tr>
                     <tr><td data-value-start="2020-12-12T09:50:00.000-08:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >09:50</td><td style="text-align: left"><a href="#ed_chi_talk"><b>Invited Speaker 2: Ed Chi</b></a></td></tr>
@@ -109,6 +110,22 @@ site_title: ML For Systems
                     <tr><td data-value-start="2020-12-12T16:05:00.000-08:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >16:05</td><td style="text-align: left">Contributed Talks:<ul><li>Resonance: Replacing Software Constants with Context-Aware Models in Real-time Communication</li><li>CADET: A Systematic Method For Debugging Misconfigurations using Counterfactual Reasoning</li><li>Highly Available Data Parallel ML training on Mesh Networks</li><li>ControlFlag: A Self-supervised Idiosyncratic Pattern Detection System for Software Control Structures</li><li>The Law of Attraction: Affinity-Aware Placement Optimization using Graph Neural Networks</li></ul></td></tr>
                     <tr><td data-value-start="2020-12-12T17:05:00.000-08:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >17:05</td><td style="text-align: left"><a href="#kunle_olukotun_talk"><b>Invited Speaker 6: Kunle Olukotun</b></a></td></tr>
                     <tr><td data-value-start="2020-12-12T17:40:00.000-08:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >17:40</td><td style="text-align: left">Closing</td></tr>
+                    <tr><td style="text-align: left; font-size: 15px; color: #2879d0" colspan="2">Run 2 (repeated)</td></tr>
+                    <tr><td data-value-start="2020-12-12T09:00:00.000+04:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >09:00</td><td style="text-align: left">Opening Remarks</td></tr>
+                    <tr><td data-value-start="2020-12-12T09:15:00.000+04:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >09:15</td><td style="text-align: left"><a href="#christina_delimitrou_talk"><b>Invited Speaker 1: Christina Delimitrou</b></a></td></tr>
+                    <tr><td data-value-start="2020-12-12T09:50:00.000+04:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >09:50</td><td style="text-align: left"><a href="#ed_chi_talk"><b>Invited Speaker 2: Ed Chi</b></a></td></tr>
+                    <tr><td data-value-start="2020-12-12T10:25:00.000+04:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >10:25</td><td style="text-align: left">Break</td></tr>
+                    <tr><td data-value-start="2020-12-12T10:40:00.000+04:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >10:40</td><td style="text-align: left">Contributed Talks:<ul><li>Program Graphs for Machine Learning</li><li>DEff-ARTS: Differentiable Efficient Architecture Search</li><li>Learning Local Advantage Functions for Generalizable Graph Optimizations</li><li>A Deep Learning Based Cost Model for Automatic Code Optimization</li></ul></td></tr>
+                    <tr><td data-value-start="2020-12-12T11:30:00.000+04:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >11:30</td><td style="text-align: left"><a href="#bryan_catanzaro_talk"><b>Invited Speaker 3: Bryan Catanzaro</b></a></td></tr>
+                    <tr><td data-value-start="2020-12-12T12:05:00.000+04:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >12:05</td><td style="text-align: left">"Lunch" Break / Live Interactions</td></tr>
+                    <tr><td data-value-start="2020-12-12T13:00:00.000+04:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >13:00</td><td style="text-align: left">Contributed Talks: <ul><li>NVCell: Generate Standard Cell Layout in Advanced Technology Nodes with Reinforcement Learning</li><li>A General Framework For VLSI Tool Parameter Optimization with Deep Reinforcement Learning</li><li>Learned Hardware/Software Co-Design of Neural Accelerators</li><li>Apollo: Transferable Architecture Exploration</li></ul></td></tr>
+                    <tr><td data-value-start="2020-12-12T13:50:00.000+04:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >13:50</td><td style="text-align: left"><a href="#benoit_steiner_talk"><b>Invited Speaker 4: Benoit Steiner</b></a></td></tr>
+                    <tr><td data-value-start="2020-12-12T14:25:00.000+04:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >14:25</td><td style="text-align: left">Contributed Talks:<ul><li>Learned Indexes for a Google-scale Disk-based Database</li><li>Matrix Profile Index Prediction for Streaming Time Series</li><li>Optimizing Memory Placement using Evolutionary Graph Reinforcement Learning</li><li>MicroPlace: Placing Micro Virtual Machines with Hindsight Imitation</li></ul></td></tr>
+                    <tr><td data-value-start="2020-12-12T15:15:00.000+04:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >15:15</td><td style="text-align: left">Break</td></tr>
+                    <tr><td data-value-start="2020-12-12T15:30:00.000+04:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >15:30</td><td style="text-align: left"><a href="#justin_gottschlich_talk"><b>Invited Speaker 5: Justin Gottschlich</b></a></td></tr>
+                    <tr><td data-value-start="2020-12-12T16:05:00.000+04:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >16:05</td><td style="text-align: left">Contributed Talks:<ul><li>Resonance: Replacing Software Constants with Context-Aware Models in Real-time Communication</li><li>CADET: A Systematic Method For Debugging Misconfigurations using Counterfactual Reasoning</li><li>Highly Available Data Parallel ML training on Mesh Networks</li><li>ControlFlag: A Self-supervised Idiosyncratic Pattern Detection System for Software Control Structures</li><li>The Law of Attraction: Affinity-Aware Placement Optimization using Graph Neural Networks</li></ul></td></tr>
+                    <tr><td data-value-start="2020-12-12T17:05:00.000+04:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >17:05</td><td style="text-align: left"><a href="#kunle_olukotun_talk"><b>Invited Speaker 6: Kunle Olukotun</b></a></td></tr>
+                    <tr><td data-value-start="2020-12-12T17:40:00.000+04:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >17:40</td><td style="text-align: left">Closing</td></tr>
                 </tbody>
             </table>
         </section>
@@ -116,6 +133,7 @@ site_title: ML For Systems
 </div>
 <div class="inner clearfix">
 	<section class="main-content overview_section">
+        <h2>What to expect</h2>
 		<p>
 			Compute requirements are growing at an exponential rate<sup>1</sup>, and optimizing these computer systems often involves complex high-dimensional combinatorial problems. Yet, current methods rely heavily on heuristics. Very recent work has outlined a broad scope where machine learning vastly outperforms these traditional heuristics, including scheduling<sup>2,12,15</sup>, data structure design<sup>3,9</sup>, graph clustering and partioning<sup>7,16</sup>, microarchitecture<sup>4</sup>, compilers<sup>5,8</sup>, memory management<sup>13</sup>, circuit design<sup>7,10</sup>, chip floor planning<sup>14</sup>, and the control of warehouse scale computing systems<sup>6</sup>. In order to continue to scale these computer systems, new learning approaches are needed. The goal of this workshop is to develop novel machine learning methods to optimize and accelerate software and hardware systems.
 		</p>
