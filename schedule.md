@@ -120,10 +120,9 @@ site_title: ML For Systems
         var cells = table.getElementsByTagName("td");
         function refresh(newlocale) {
             for (var i = 0; i < cells.length; i++) {
-                if (cells[i].hasAttribute("data-value-start") && cells[i].hasAttribute("data-value-end")) {
+                if (cells[i].hasAttribute("data-value-start")) {
                     var start = cells[i].getAttribute("data-value-start");
-                    var end = cells[i].getAttribute("data-value-end");
-                    cells[i].innerHTML = (new Date(start).toLocaleString('en-US', { timeZone: newlocale })) + "-" + (new Date(end).toLocaleString('en-US', { timeZone: newlocale })).split(", ")[1];
+                    cells[i].innerHTML = (new Date(start).toLocaleString('en-US', { timeZone: newlocale })).split(", ")[1];
                 }
             }
         };
