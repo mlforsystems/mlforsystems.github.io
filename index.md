@@ -110,22 +110,6 @@ site_title: ML For Systems
                     <tr><td data-value-start="2020-12-12T16:05:00.000-08:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >16:05</td><td style="text-align: left">Contributed Talks:<ul><li>Resonance: Replacing Software Constants with Context-Aware Models in Real-time Communication</li><li>CADET: A Systematic Method For Debugging Misconfigurations using Counterfactual Reasoning</li><li>Highly Available Data Parallel ML training on Mesh Networks</li><li>ControlFlag: A Self-supervised Idiosyncratic Pattern Detection System for Software Control Structures</li><li>The Law of Attraction: Affinity-Aware Placement Optimization using Graph Neural Networks</li></ul></td></tr>
                     <tr><td data-value-start="2020-12-12T17:05:00.000-08:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >17:05</td><td style="text-align: left"><a href="#kunle_olukotun_talk"><b>Invited Speaker 6: Kunle Olukotun</b></a></td></tr>
                     <tr><td data-value-start="2020-12-12T17:40:00.000-08:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >17:40</td><td style="text-align: left">Closing</td></tr>
-                    <tr><td style="text-align: left; font-size: 15px; color: #2879d0" colspan="2">Run 2 (repeated)</td></tr>
-                    <tr><td data-value-start="2020-12-12T09:00:00.000+04:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >09:00</td><td style="text-align: left">Opening Remarks</td></tr>
-                    <tr><td data-value-start="2020-12-12T09:15:00.000+04:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >09:15</td><td style="text-align: left"><a href="#christina_delimitrou_talk"><b>Invited Speaker 1: Christina Delimitrou</b></a></td></tr>
-                    <tr><td data-value-start="2020-12-12T09:50:00.000+04:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >09:50</td><td style="text-align: left"><a href="#ed_chi_talk"><b>Invited Speaker 2: Ed Chi</b></a></td></tr>
-                    <tr><td data-value-start="2020-12-12T10:25:00.000+04:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >10:25</td><td style="text-align: left">Break</td></tr>
-                    <tr><td data-value-start="2020-12-12T10:40:00.000+04:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >10:40</td><td style="text-align: left">Contributed Talks:<ul><li>Program Graphs for Machine Learning</li><li>DEff-ARTS: Differentiable Efficient Architecture Search</li><li>Learning Local Advantage Functions for Generalizable Graph Optimizations</li><li>A Deep Learning Based Cost Model for Automatic Code Optimization</li></ul></td></tr>
-                    <tr><td data-value-start="2020-12-12T11:30:00.000+04:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >11:30</td><td style="text-align: left"><a href="#bryan_catanzaro_talk"><b>Invited Speaker 3: Bryan Catanzaro</b></a></td></tr>
-                    <tr><td data-value-start="2020-12-12T12:05:00.000+04:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >12:05</td><td style="text-align: left">"Lunch" Break / Live Interactions</td></tr>
-                    <tr><td data-value-start="2020-12-12T13:00:00.000+04:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >13:00</td><td style="text-align: left">Contributed Talks: <ul><li>NVCell: Generate Standard Cell Layout in Advanced Technology Nodes with Reinforcement Learning</li><li>A General Framework For VLSI Tool Parameter Optimization with Deep Reinforcement Learning</li><li>Learned Hardware/Software Co-Design of Neural Accelerators</li><li>Apollo: Transferable Architecture Exploration</li></ul></td></tr>
-                    <tr><td data-value-start="2020-12-12T13:50:00.000+04:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >13:50</td><td style="text-align: left"><a href="#benoit_steiner_talk"><b>Invited Speaker 4: Benoit Steiner</b></a></td></tr>
-                    <tr><td data-value-start="2020-12-12T14:25:00.000+04:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >14:25</td><td style="text-align: left">Contributed Talks:<ul><li>Learned Indexes for a Google-scale Disk-based Database</li><li>Matrix Profile Index Prediction for Streaming Time Series</li><li>Optimizing Memory Placement using Evolutionary Graph Reinforcement Learning</li><li>MicroPlace: Placing Micro Virtual Machines with Hindsight Imitation</li></ul></td></tr>
-                    <tr><td data-value-start="2020-12-12T15:15:00.000+04:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >15:15</td><td style="text-align: left">Break</td></tr>
-                    <tr><td data-value-start="2020-12-12T15:30:00.000+04:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >15:30</td><td style="text-align: left"><a href="#justin_gottschlich_talk"><b>Invited Speaker 5: Justin Gottschlich</b></a></td></tr>
-                    <tr><td data-value-start="2020-12-12T16:05:00.000+04:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >16:05</td><td style="text-align: left">Contributed Talks:<ul><li>Resonance: Replacing Software Constants with Context-Aware Models in Real-time Communication</li><li>CADET: A Systematic Method For Debugging Misconfigurations using Counterfactual Reasoning</li><li>Highly Available Data Parallel ML training on Mesh Networks</li><li>ControlFlag: A Self-supervised Idiosyncratic Pattern Detection System for Software Control Structures</li><li>The Law of Attraction: Affinity-Aware Placement Optimization using Graph Neural Networks</li></ul></td></tr>
-                    <tr><td data-value-start="2020-12-12T17:05:00.000+04:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >17:05</td><td style="text-align: left"><a href="#kunle_olukotun_talk"><b>Invited Speaker 6: Kunle Olukotun</b></a></td></tr>
-                    <tr><td data-value-start="2020-12-12T17:40:00.000+04:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >17:40</td><td style="text-align: left">Closing</td></tr>
                 </tbody>
             </table>
         </section>
@@ -183,12 +167,19 @@ site_title: ML For Systems
 				<li><b>Martin Maas</b>, Google Brain, <a href="https://twitter.com/martin_maas">@martin_maas</a></li>
 				<li><b>Xinlei Xu</b>, NYU, <a href="https://twitter.com/MimeeXu">@MimeeXu</a></li>
 			</ul>
+			<h2>Steering Committee</h2>
+			<ul>
+				<li><b>Milad</b>, Google Brain, <a href="https://twitter.com/miladhash">@miladhash</a></li>
+				<li><b>Kevin Swersky</b>, Google Brain, <a href="https://twitter.com/kswersk">@kswersk</a></li>
+			</ul>
+		</section>
 			<h2>Contact Us</h2>
 			<p>
 				Contact us at <a href="mailto:mlforsystems@googlegroups.com">mlforsystems@googlegroups.com</a>.
 			</p>
 		</section>
 </div>
+
 <script>
     (function() {
         var timezone_data = [{"name":"Pacific/Niue","alternativeName":"Niue Time","group":["Pacific/Niue"],"continentCode":"OC","continentName":"Oceania","countryName":"Niue","countryCode":"NU","mainCities":["Alofi"],"rawOffsetInMinutes":-660,"abbreviation":"NUT","rawFormat":"-11:00 Niue Time - Alofi"},
