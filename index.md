@@ -168,14 +168,14 @@ site_title: ML For Systems
 			</ul>
 			<h2>Steering Committee</h2>
 			<ul>
-				<li><b>Milad</b>, Google Brain, <a href="https://twitter.com/miladhash">@miladhash</a></li>
+				<li><b>Milad Hashemi</b>, Google Brain, <a href="https://twitter.com/miladhash">@miladhash</a></li>
 				<li><b>Kevin Swersky</b>, Google Brain, <a href="https://twitter.com/kswersk">@kswersk</a></li>
 			</ul>
 		</section>
-			<h2>Contact Us</h2>
-			<p>
-				Contact us at <a href="mailto:mlforsystems@googlegroups.com">mlforsystems@googlegroups.com</a>.
-			</p>
+		<h2>Contact Us</h2>
+		<p>
+			Contact us at <a href="mailto:mlforsystems@googlegroups.com">mlforsystems@googlegroups.com</a>.
+		</p>
 </div>
 
 <script>
