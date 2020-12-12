@@ -171,6 +171,37 @@ site_title: ML For Systems
 				<li><b>Milad Hashemi</b>, Google Brain, <a href="https://twitter.com/miladhash">@miladhash</a></li>
 				<li><b>Kevin Swersky</b>, Google Brain, <a href="https://twitter.com/kswersk">@kswersk</a></li>
 			</ul>
+            <h2>Program Committee</h2>
+            <ul>
+                <li><b>Yaroslav Bulatov</b>, DiUX</li>
+                <li><b>Andrew Gibiansky</b>, Voicery</li>
+                <li><b>Saad Godil</b>, NVIDIA</li>
+                <li><b>Anna Goldie</b>, Google Brain</li>
+                <li><b>Rama Govindaraju</b>, Google</li>
+                <li><b>Safeen Huda</b>, Google</li>
+                <li><b>Arpith Jacob</b>, Google</li>
+                <li><b>Joe Jiang</b>, Google</li>
+                <li><b>Neel Kant</b>, NVIDIA</li>
+                <li><b>Martin Loncaric</b></li>
+                <li><b>Martin Maas</b>, Google</li>
+                <li><b>Sadhika Malladi</b>, Princeton</li>
+                <li><b>Azalia Mirhoseini</b>, Google Brain</li>
+                <li><b>Azade Nazi</b>, Google Brain</li>
+                <li><b>Jonathan Raiman</b>, NVIDIA/Paris-Saclay</li>
+                <li><b>Rajarshi Roy</b>, NVIDIA</li>
+                <li><b>Herman Schmit</b>, Google</li>
+                <li><b>Shubho Sengupta</b>, Facebook AI Research</li>
+                <li><b>Narges Shahidi</b>, Google</li>
+                <li><b>Tatiana Shpeisman</b>, Google</li>
+                <li><b>Ebrahim Songhori</b>, Google</li>
+                <li><b>Suvinay Subramanian</b>, Google</li>
+                <li><b>John Whaley</b>, UnifyID Inc</li>
+                <li><b>Qiumin Xu</b>, Google</li>
+                <li><b>Xinlei Xu</b>, NYU</li>
+                <li><b>Neeraja Yadwadkar</b>, Stanford University</li>
+                <li><b>Dan Zhang</b>, Google Brain</li>
+                <li><b>Yanqi Zhou</b>, Google</li>
+            </ul>
 		</section>
 		<h2>Contact Us</h2>
 		<p>
