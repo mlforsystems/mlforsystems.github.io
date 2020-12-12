@@ -94,7 +94,6 @@ site_title: ML For Systems
                   </tr>
                 </thead>
                 <tbody>
-                    <tr><td style="text-align: left; font-size: 15px; color: #2879d0" colspan="2" >Run 1</td></tr>
                     <tr><td data-value-start="2020-12-12T09:00:00.000-08:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >09:00</td><td style="text-align: left">Opening Remarks</td></tr>
                     <tr><td data-value-start="2020-12-12T09:15:00.000-08:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >09:15</td><td style="text-align: left"><a href="#christina_delimitrou_talk"><b>Invited Speaker 1: Christina Delimitrou</b></a></td></tr>
                     <tr><td data-value-start="2020-12-12T09:50:00.000-08:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >09:50</td><td style="text-align: left"><a href="#ed_chi_talk"><b>Invited Speaker 2: Ed Chi</b></a></td></tr>
