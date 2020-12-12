@@ -9,7 +9,7 @@ site_title: ML For Systems
     <section class="main-content accepted_papers_section">
         <h2>Accepted Papers</h2> 
         <p><a href="/assets/papers/neurips2020/apollo_yazdanbakhsh_2020.pdf"><b>Apollo: Transferable Architecture Exploration</b></a>. Amir Yazdanbakhsh, Christof Angermueller, Berkin Akin, Yanqi Zhou, Albin Jones, Kevin Swersky, Milad Hashemi, Satrajit Chatterjee, Ravi Narayanaswami, and James Laudon.</p>
-        <p><a href="/assets/papers/neurips2020/a_deep_baghdadi_2020.pdf"><b>A Deep Learning Based Cost Model for Automatic Code Optimization</b></a>. Riyadhi Baghdadi.</p>
+        <p><a href="/assets/papers/neurips2020/a_deep_baghdadi_2020.pdf"><b>A Deep Learning Based Cost Model for Automatic Code Optimization</b></a>. Riyadhi Baghdadi, Massinissa Merouani, Mohamed-Hicham Leghettas, Kamel Abdous, Taha Arbaoui, Benatchba Karima, and Saman Amarasinghe.</p>
         <p><a href="/assets/papers/neurips2020/a_general_agnesina_2020.pdf"><b>A General Framework For VLSI Tool Parameter Optimization with Deep Reinforcement Learning</b></a>. Anthony Agnesina, Sai Pentapati, Sung Kyu Lim.</p>
         <p><a href="/assets/papers/neurips2020/cadet_iqbal_2020.pdf"><b>CADET: A Systematic Method For Debugging Misconfigurations using Counterfactual Reasoning</b></a>. Md Shahriar Iqbal<span title="Equal contribution" class="equal_contribution">*</span>, Rahul Krishna, Mohammad Ali Javidian<span title="Equal contribution" class="equal_contribution">*</span>, Baishakhi Ray, and Pooyan Jamshidi</p>
         <p><a href="/assets/papers/neurips2020/controlflag_hasabnis_2020.pdf"><b>ControlFlag: A Self-supervised Idiosyncratic Pattern Detection System for Software Control Structures</b></a>. Niranjan Hasabnis, Justin Gottschlich.</p>
