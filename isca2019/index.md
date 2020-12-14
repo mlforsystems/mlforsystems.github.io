@@ -37,7 +37,7 @@ site_title: ML For Systems
 				<li><b>Christos Kozyrakis</b>, Google Cloud, Stanford, <a href="https://web.stanford.edu/~kozyraki/index.html">website</a></li>
 				<li><b>Azalia Mirhosseini</b>, Google Research, <a href="https://twitter.com/Azaliamirh">@Azaliamirh</a></li>
 				<li><b>Jonathan Raiman</b>, OpenAI, <a href="https://twitter.com/jonathanrraiman">@jonathanrraiman</a></li>
-				<li><b>Amir Yazdanbakhsh</b>, Google Research, <a href="https://www.cc.gatech.edu/~ayazdanb/">website</a></li>
+				<li><b>Amir Yazdanbakhsh</b>, Google Research, <a href="https://twitter.com/ayazdanb">@ayazdanb</a></li>
 				<li><b>Cliff Young</b>, Google Research</li>
 			</ul>
 			<h2>Program Committee</h2>
