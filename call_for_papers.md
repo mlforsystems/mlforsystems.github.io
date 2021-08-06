@@ -62,7 +62,8 @@ site_title: ML For Systems
             <h2>Important Dates</h2>
             <ul>
                 <li>Submission Deadline: <b>October 8th, 2021 by midnight Anywhere in the World</b>.</li>
-                <li>Acceptance Notifications: October 18th, 2021</li>
+                <li>Acceptance Notifications: October 21st, 2021</li>
+                <li><b>Speaker video deadline: November 1st, 2021</b></li>
                 <li><b>Camera-Ready Submission: November 29th, 2021</b></li>
                 <li>Workshop: December 12th, 2021</li>
             </ul>
