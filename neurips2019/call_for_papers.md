@@ -23,7 +23,7 @@ site_title: ML For Systems
         <section class="main-content">
             <h2>Areas of interest:</h2>
             <p>
-                You can find accepted papers to the previous iteration of ML for Systems from <a href="/neurips2018/accepted_papers.html">NeurIPS 2018</a> and <a href="/isca2019/accepted_papers.html">ISCA 2019</a>.
+                You can find accepted papers to the previous iteration of ML for Systems from <a href="/neurips2018/accepted_papers.html">NeurIPS 2018</a>, <a href="/neurips2019/accepted_papers.html">2019</a>, <a href="/neurips2020/accepted_papers.html">2020</a>, and <a href="/isca2019/accepted_papers.html">ISCA 2019</a>.
             </p>
             <ul>
                 <li>Supervised, unsupervised, and reinforcement learning research with applications to:

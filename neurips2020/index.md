@@ -1,7 +1,7 @@
 ---
 title: Program
-workshop_name: neurips2021
-site_description: Workshop on ML for Systems at NeurIPS 2021, December 12th, Zoomville
+workshop_name: neurips2020
+site_description: Workshop on ML for Systems at NeurIPS 2020, December 12th, Zoomville
 site_title: ML For Systems
 ---
 <div class="schedule_section virtual_schedule_section">
@@ -94,7 +94,21 @@ site_title: ML For Systems
                   </tr>
                 </thead>
                 <tbody>
-                    <tr><td>TBD</td><td>TBD</td></tr>
+                    <tr><td data-value-start="2020-12-12T09:00:00.000-08:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >09:00</td><td style="text-align: left">Opening Remarks</td></tr>
+                    <tr><td data-value-start="2020-12-12T09:15:00.000-08:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >09:15</td><td style="text-align: left"><a href="#christina_delimitrou_talk"><b>Invited Speaker 1: Christina Delimitrou</b></a></td></tr>
+                    <tr><td data-value-start="2020-12-12T09:50:00.000-08:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >09:50</td><td style="text-align: left"><a href="#ed_chi_talk"><b>Invited Speaker 2: Ed Chi</b></a></td></tr>
+                    <tr><td data-value-start="2020-12-12T10:25:00.000-08:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >10:25</td><td style="text-align: left">Break</td></tr>
+                    <tr><td data-value-start="2020-12-12T10:40:00.000-08:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >10:40</td><td style="text-align: left">Contributed Talks:<ul><li><a href="/assets/papers/neurips2020/program_cummins_2020.pdf">Program Graphs for Machine Learning</a></li><li><a href="/assets/papers/neurips2020/deff-arts_sadiq_2020.pdf">DEff-ARTS: Differentiable Efficient Architecture Search</a></li><li><a href="/assets/papers/neurips2020/learning_wu_2020.pdf">Learning Local Advantage Functions for Generalizable Graph Optimizations</a></li><li><a href="/assets/papers/neurips2020/a_deep_baghdadi_2020.pdf">A Deep Learning Based Cost Model for Automatic Code Optimization</a></li></ul></td></tr>
+                    <tr><td data-value-start="2020-12-12T11:30:00.000-08:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >11:30</td><td style="text-align: left"><a href="#bryan_catanzaro_talk"><b>Invited Speaker 3: Bryan Catanzaro</b></a></td></tr>
+                    <tr><td data-value-start="2020-12-12T12:05:00.000-08:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >12:05</td><td style="text-align: left">"Lunch" Break / Live Interactions</td></tr>
+                    <tr><td data-value-start="2020-12-12T13:00:00.000-08:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >13:00</td><td style="text-align: left">Contributed Talks: <ul><li><a href="/assets/papers/neurips2020/nvcell_ren_2020.pdf">NVCell: Generate Standard Cell Layout in Advanced Technology Nodes with Reinforcement Learning</a></li><li><a href="/assets/papers/neurips2020/a_general_agnesina_2020.pdf">A General Framework For VLSI Tool Parameter Optimization with Deep Reinforcement Learning</a></li><li><a href="/assets/papers/neurips2020/using_shi_2020.pdf">Learned Hardware/Software Co-Design of Neural Accelerators</a></li><li><a href="/assets/papers/neurips2020/apollo_yazdanbakhsh_2020.pdf">Apollo: Transferable Architecture Exploration</a></li></ul></td></tr>
+                    <tr><td data-value-start="2020-12-12T13:50:00.000-08:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >13:50</td><td style="text-align: left"><a href="#benoit_steiner_talk"><b>Invited Speaker 4: Benoit Steiner</b></a> - <a href="http://mlforsystems.org/assets/papers/neurips2020/value_steiner_2020.pdf">Value Function Based Performance Optimization of Deep Learning Workloads</a></td></tr>
+                    <tr><td data-value-start="2020-12-12T14:25:00.000-08:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >14:25</td><td style="text-align: left">Contributed Talks:<ul><li><a href="/assets/papers/neurips2020/learned_abu-libdeh_2020.pdf">Learned Indexes for a Google-scale Disk-based Database</a></li><li><a href="/assets/papers/neurips2020/matrix_shahcheraghi_2020.pdf">Matrix Profile Index Prediction for Streaming Time Series</a></li><li><a href="/assets/papers/neurips2020/optimizing_khadka_2020.pdf">Optimizing Memory Placement using Evolutionary Graph Reinforcement Learning</a></li><li><a href="/assets/papers/neurips2020/fireplace_balaji_2020.pdf">FirePlace: Placing FireCracker Virtual Machines with Hindsight Imitation</a></li></ul></td></tr>
+                    <tr><td data-value-start="2020-12-12T15:15:00.000-08:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >15:15</td><td style="text-align: left">Break</td></tr>
+                    <tr><td data-value-start="2020-12-12T15:30:00.000-08:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >15:30</td><td style="text-align: left"><a href="#justin_gottschlich_talk"><b>Invited Speaker 5: Justin Gottschlich</b></a></td></tr>
+                    <tr><td data-value-start="2020-12-12T16:05:00.000-08:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >16:05</td><td style="text-align: left">Contributed Talks:<ul><li><a href="/assets/papers/neurips2020/resonance_gupchup_2020.pdf">Resonance: Replacing Software Constants with Context-Aware Models in Real-time Communication</a></li><li><a href="/assets/papers/neurips2020/cadet_iqbal_2020.pdf">CADET: A Systematic Method For Debugging Misconfigurations using Counterfactual Reasoning</a></li><li><a href="/assets/papers/neurips2020/highly_kumar_2020.pdf">Highly Available Data Parallel ML training on Mesh Networks</a></li><li><a href="/assets/papers/neurips2020/controlflag_hasabnis_2020.pdf">ControlFlag: A Self-supervised Idiosyncratic Pattern Detection System for Software Control Structures</a></li><li><a href="/assets/papers/neurips2020/vlsi_placement_lu_2020.pdf">The Law of Attraction: Affinity-Aware Placement Optimization using Graph Neural Networks</a></li></ul></td></tr>
+                    <tr><td data-value-start="2020-12-12T17:05:00.000-08:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >17:05</td><td style="text-align: left"><a href="#kunle_olukotun_talk"><b>Invited Speaker 6: Kunle Olukotun</b></a></td></tr>
+                    <tr><td data-value-start="2020-12-12T17:40:00.000-08:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >17:40</td><td style="text-align: left">Closing</td></tr>
                 </tbody>
             </table>
         </section>
@@ -110,7 +124,7 @@ site_title: ML For Systems
 	    		The main objective of this workshop is to expand upon this recent work and build a community focused on using machine learning in computer architecture and systems problems. We seek to improve the state of the art in the areas where learning has already proven to perform better than traditional heuristics, as well as expand to new areas throughout the system stack such as hardware/circuit design and operating/runtime systems.
 	  	</p>
 	  	<p>
-	  		We expect this year to improve the state of the art in areas where learning has already proven to outperform traditional heuristics. We also expect to expand into new areas throughout the systems stack, such as computer architecture and operating/runtime systems, and incorporate new ML topics like relational learning. Given that the community is larger than last year, for NeurIPS 2021, we intend to foster more discussion through breakout sessions. The interdisciplinary nature of this area makes NeurIPS an ideal venue for this workshop.
+	  		We expect this year to improve the state of the art in areas where learning has already proven to outperform traditional heuristics. We also expect to expand into new areas throughout the systems stack, such as computer architecture and operating/runtime systems, and incorporate new ML topics like relational learning. Given that the community is larger than last year, for NeurIPS 2020, we intend to foster more discussion through breakout sessions. The interdisciplinary nature of this area makes NeurIPS an ideal venue for this workshop.
 	  	</p>
 		<p>
 			By forming a community of academic and industrial researchers who are excited about this area, we seek to build towards intelligent, self optimizing systems and answer questions such as: How do we generate and share high quality datasets that span the layers of the system stack? Which learned representations best represent code performance and runtime? Which simulators and simulation methodologies provide a tractable proving ground techniques like reinforcement learning?
@@ -119,7 +133,7 @@ site_title: ML For Systems
 			To this end, the target audience for this workshop includes a wide variety of attendees from state-of-the-art researchers in machine learning to domain experts in computer systems design. We have invited a broad set of expert speakers to present the potential for impact of combining deep learning research with computer systems. We hope that by providing a formal venue for researchers from both fields to meet and interact, that the result will include both fundamental research in ML as well as real-world impact to computer systems design and implementation.
 		</p>
 		<p>
-			The workshop will host 6 speakers and we invite researchers to submit relevant papers through our <a href="/call_for_papers.html">call for papers</a>.
+			The workshop will host 6 speakers and we invite researchers to submit relevant papers through our <a href="/call_for_papers.html">call for papers</a>. The speakers, and potentially other relevant stakeholders, are invited to participate in a panel discussion to end the workshop.
 		</p>
 		<ul class="footnotes">
       <li><sup>1</sup> <a href="https://openai.com/blog/ai-and-compute/">AI and Compute</a></li>
@@ -147,18 +161,47 @@ site_title: ML For Systems
 			<h2>Organizing Committee</h2>
 			<ul>
 				<li><b>Anna Goldie</b>, Google Brain, <a href="https://twitter.com/annadgoldie">@annadgoldie</a></li>
-				<li><b>Martin Maas</b>, Google Brain, <a href="https://twitter.com/martin_maas">@martin_maas</a></li>
-                <li><b>Azade Nazi</b>, Google Brain, <a href="https://sites.google.com/site/azadenazi/">website</a></li>
+				<li><b>Azalia Mirhoseini</b>, Google Brain, <a href="https://twitter.com/Azaliamirh">@Azaliamirh</a></li>
 				<li><b>Jonathan Raiman</b>, NVIDIA/Paris-Saclay, <a href="https://twitter.com/jonathanrraiman">@jonathanrraiman</a></li>
-                <li><b>Benoit Steiner</b>, FAIR, <a href="https://twitter.com/BenoitSteiner">@BenoitSteiner</a></li>
+				<li><b>Martin Maas</b>, Google Brain, <a href="https://twitter.com/martin_maas">@martin_maas</a></li>
 				<li><b>Xinlei Xu</b>, NYU, <a href="https://twitter.com/MimeeXu">@MimeeXu</a></li>
 			</ul>
 			<h2>Steering Committee</h2>
 			<ul>
-                <li><b>Azalia Mirhoseini</b>, Google Brain, <a href="https://twitter.com/Azaliamirh">@Azaliamirh</a></li>
 				<li><b>Milad Hashemi</b>, Google Brain, <a href="https://twitter.com/miladhash">@miladhash</a></li>
 				<li><b>Kevin Swersky</b>, Google Brain, <a href="https://twitter.com/kswersk">@kswersk</a></li>
 			</ul>
+            <h2>Program Committee</h2>
+            <ul>
+                <li><b>Yaroslav Bulatov</b>, DiUX</li>
+                <li><b>Andrew Gibiansky</b>, Voicery</li>
+                <li><b>Saad Godil</b>, NVIDIA</li>
+                <li><b>Anna Goldie</b>, Google Brain</li>
+                <li><b>Rama Govindaraju</b>, Google</li>
+                <li><b>Safeen Huda</b>, Google</li>
+                <li><b>Arpith Jacob</b>, Google</li>
+                <li><b>Joe Jiang</b>, Google</li>
+                <li><b>Neel Kant</b>, NVIDIA</li>
+                <li><b>Martin Loncaric</b></li>
+                <li><b>Martin Maas</b>, Google</li>
+                <li><b>Sadhika Malladi</b>, Princeton</li>
+                <li><b>Azalia Mirhoseini</b>, Google Brain</li>
+                <li><b>Azade Nazi</b>, Google Brain</li>
+                <li><b>Jonathan Raiman</b>, NVIDIA/Paris-Saclay</li>
+                <li><b>Rajarshi Roy</b>, NVIDIA</li>
+                <li><b>Herman Schmit</b>, Google</li>
+                <li><b>Shubho Sengupta</b>, Facebook AI Research</li>
+                <li><b>Narges Shahidi</b>, Google</li>
+                <li><b>Tatiana Shpeisman</b>, Google</li>
+                <li><b>Ebrahim Songhori</b>, Google</li>
+                <li><b>Suvinay Subramanian</b>, Google</li>
+                <li><b>John Whaley</b>, UnifyID Inc</li>
+                <li><b>Qiumin Xu</b>, Google</li>
+                <li><b>Xinlei Xu</b>, NYU</li>
+                <li><b>Neeraja Yadwadkar</b>, Stanford University</li>
+                <li><b>Dan Zhang</b>, Google Brain</li>
+                <li><b>Yanqi Zhou</b>, Google</li>
+            </ul>
 		</section>
 		<h2>Contact Us</h2>
 		<p>
