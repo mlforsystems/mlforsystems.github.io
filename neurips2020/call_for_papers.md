@@ -2,7 +2,7 @@
 title: Call for Papers
 workshop_name: neurips2020
 site_description: Workshop on ML for Systems at NeurIPS 2020, December 12th, Zoomville
-mini_site_description: Workshop on ML for Systems at NeurIPS '20, Dec 12th, Zoomville
+mini_site_description: Workshop on ML for Systems at NeurIPS '20, Dec 12th
 site_title: ML For Systems
 ---
 <div class="inner clearfix">

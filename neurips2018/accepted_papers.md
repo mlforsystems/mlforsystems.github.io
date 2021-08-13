@@ -2,7 +2,7 @@
 title: Accepted Papers
 workshop_name: neurips2018
 site_description: Workshop on ML for Systems at NeurIPS 2018, December 8th, 8:30AM-6:00PM, Room 510 AC
-mini_site_description: Workshop on ML for Systems at NeurIPS '18, Dec 8th, 8:30AM-6:00PM, Room 510 AC
+mini_site_description: Workshop on ML for Systems at NeurIPS '18, Dec 8th, 8:30AM-6PM, Room 510 AC
 site_title: ML For Systems
 ---
 
