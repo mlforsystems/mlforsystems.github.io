@@ -2,6 +2,7 @@
 title: Call for Papers
 workshop_name: neurips2021
 site_description: Workshop on ML for Systems at NeurIPS 2021, December 12th, Zoomville
+mini_site_description: Workshop on ML for Systems at NeurIPS '21, Dec 12th
 site_title: ML For Systems
 ---
 <div class="inner clearfix">

@@ -2,6 +2,7 @@
 title: Schedule
 workshop_name: isca2019
 site_description: Workshop on ML for Systems at ISCA 2019, June 23rd, 9:00AM-5:00PM, Room 101A
+mini_site_description: Workshop on ML for Systems at ISCA '19, June 23rd, 9:00AM-5:00PM, Room 101A
 site_title: ML For Systems
 ---
 

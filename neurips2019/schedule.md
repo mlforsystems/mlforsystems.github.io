@@ -2,6 +2,7 @@
 title: Schedule
 workshop_name: neurips2019
 site_description: Workshop on ML for Systems at NeurIPS 2019, December 13th or 14th, 8:30AM-6:00PM
+mini_site_description: Workshop on ML for Systems at NeurIPS '19, Dec 13th or 14th, 8:30AM-6:00PM
 site_title: ML For Systems
 ---
 

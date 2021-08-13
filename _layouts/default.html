@@ -19,11 +19,13 @@
       <div class="title_bar">
         {% assign temp_title = site.title %}
         {% assign description = site.description %}
+        {% assign mini_description = site.mini_description %}
         {% assign root = '/' %}
         {% assign workshops = 'neurips2018,isca2019,neurips2019,neurips2020,neurips2021' | split: ',' %}
         {% if page.workshop_name != site.workshop_name %}
         {% assign temp_title = page.site_title %}
         {% assign description = page.site_description %}
+        {% assign mini_description = page.mini_site_description %}
         {% assign root = page.url | slice: 1, 1000 | split: '/' | first | prepend: '/' %}
         {% endif %}
         <ul class="navigation">
@@ -59,7 +61,8 @@
       </div>
       </div>
       <img src="/assets/images/background/background3.png" width="100%">
-      <div class="floating-description">{{ description | default: site.github.project_tagline }}</div>
+      <div class="floating-description no-mobile-480">{{ description | default: site.github.project_tagline }}</div>
+      <div class="floating-description mobile-480">{{ mini_description | default: site.github.project_tagline }}</div>
     </header>
     <ul class="mobile-navigation">
     {% for site_page in site.pages %}

@@ -2,6 +2,7 @@
 title: Announcement
 workshop_name: neurips2019
 site_description: Workshop on ML for Systems at NeurIPS 2019, December 14th, 9AM-6PM Vancouver Convention Centre, West Level 2 202-204
+mini_site_description: Workshop on ML for Systems at NeurIPS '19, Dec 14th, 9AM-6PM Vancouver Convention Centre, West Level 2 202-204
 site_title: ML For Systems
 ---
 

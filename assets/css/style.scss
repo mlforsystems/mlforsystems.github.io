@@ -318,6 +318,13 @@ li.navigation-home:hover {
     }
 }
 
+.no-mobile-480 {
+    visibility: visible;
+}
+.mobile-480 {
+    visibility: hidden;
+}
+
 @media only screen and (max-width: 500px) {
     .speaker-bio .img-holder {
         width: 100px;
@@ -329,5 +336,11 @@ li.navigation-home:hover {
     }
     .navigation-home-message {
         display: none;
+    }
+    .no-mobile-480 {
+        visibility: hidden;
+    }
+    .mobile-480 {
+        visibility: visible;
     }
 }

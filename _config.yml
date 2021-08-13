@@ -2,5 +2,6 @@ theme: jekyll-theme-architect
 title: ML For Systems
 google_analytics: true
 description: Workshop on ML for Systems at NeurIPS 2021, December 12th, Zoomville
+mini_description: Workshop on ML for Systems at NeurIPS '21, Dec 12th
 workshop_name: neurips2021
 mini_title: Current (2021)

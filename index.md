@@ -2,6 +2,7 @@
 title: Program
 workshop_name: neurips2021
 site_description: Workshop on ML for Systems at NeurIPS 2021, December 12th, Zoomville
+mini_site_description: Workshop on ML for Systems at NeurIPS '21, Dec 12th
 site_title: ML For Systems
 ---
 <div class="schedule_section virtual_schedule_section">
@@ -94,7 +95,14 @@ site_title: ML For Systems
                   </tr>
                 </thead>
                 <tbody>
-                    <tr><td>TBD</td><td>TBD</td></tr>
+                    <tr><td data-value-start="2021-12-12T09:00:00.000-08:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >09:00</td><td style="text-align: left">Opening Remarks</td></tr>
+                    <tr><td style="text-align: right; white-space: nowrap; font-size: 15px;" >TBD</td><td style="text-align: left"><a href="#christina_delimitrou_talk"><b>Invited Speaker 1: Anima Anandkumar</b></a></td></tr>
+                    <tr><td style="text-align: right; white-space: nowrap; font-size: 15px;" >TBD</td><td style="text-align: left"><a href="#ed_chi_talk"><b>Invited Speaker 2: Michael Carbin</b></a></td></tr>
+                    <tr><td style="text-align: right; white-space: nowrap; font-size: 15px;" >TBD</td><td style="text-align: left"><a href="#ed_chi_talk"><b>Invited Speaker 3: Luis Ceze</b></a></td></tr>
+                    <tr><td style="text-align: right; white-space: nowrap; font-size: 15px;" >TBD</td><td style="text-align: left"><a href="#ed_chi_talk"><b>Invited Speaker 4: Tim Kraska</b></a></td></tr>
+                    <tr><td style="text-align: right; white-space: nowrap; font-size: 15px;" >TBD</td><td style="text-align: left"><a href="#ed_chi_talk"><b>Invited Speaker 5: Phitchaya Mangpo Phothilimthana</b></a></td></tr>
+                    <tr><td style="text-align: right; white-space: nowrap; font-size: 15px;" >TBD</td><td style="text-align: left"><a href="#ed_chi_talk"><b>Invited Speaker 6: Yuandong Tian</b></a></td></tr>
+                    <tr><td data-value-start="2021-12-12T17:40:00.000-08:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >17:40</td><td style="text-align: left">Closing</td></tr>
                 </tbody>
             </table>
         </section>
@@ -104,40 +112,37 @@ site_title: ML For Systems
 	<section class="main-content overview_section">
         <h2>What to expect</h2>
 		<p>
-			Compute requirements are growing at an exponential rate<sup>1</sup>, and optimizing these computer systems often involves complex high-dimensional combinatorial problems. Yet, current methods rely heavily on heuristics. Very recent work has outlined a broad scope where machine learning vastly outperforms these traditional heuristics, including scheduling<sup>2,12,15</sup>, data structure design<sup>3,9</sup>, graph clustering and partioning<sup>7,16</sup>, microarchitecture<sup>4</sup>, compilers<sup>5,8</sup>, memory management<sup>13</sup>, circuit design<sup>7,10</sup>, chip floor planning<sup>14</sup>, and the control of warehouse scale computing systems<sup>6</sup>. In order to continue to scale these computer systems, new learning approaches are needed. The goal of this workshop is to develop novel machine learning methods to optimize and accelerate software and hardware systems.
+           <b>Machine Learning (ML) for Systems </b>is an important direction for applying ML in the real world. It has been shown that ML can replace long standing heuristics in computer systems by leveraging supervised learning and reinforcement learning (RL) approaches. The computer systems community recognizes the importance of ML in tackling strenuous multi-objective tasks such as designing new data structures <sup>1</sup>, integrated circuits <sup>2,3</sup>, or schedulers, as well as implementing control algorithms for applications such as compilers <sup>12,13</sup>, databases <sup>8</sup>, memory management <sup>9,10</sup> or ML frameworks <sup>6</sup>. 
+        </p>
+        <p><b>General Workshop Direction. </b>
+            This is the fifth iteration of this workshop. In previous editions, we showcased approaches and frameworks to solve problems, bringing together researchers and practitioners at NeurIPS from both ML and systems communities. While breaking new grounds, we encouraged collaborations and development in a broad range of ML for Systems works, many later published in top-tier conferences <sup>6,13,14,15,16,17,18</sup>. This year, we plan to continue on this path while expanding our call for paper to encourage emerging works on minimizing energy footprint, reaching carbon neutrality, and using machine learning for system security and privacy.
 		</p>
-	  	<p>
-	    		The main objective of this workshop is to expand upon this recent work and build a community focused on using machine learning in computer architecture and systems problems. We seek to improve the state of the art in the areas where learning has already proven to perform better than traditional heuristics, as well as expand to new areas throughout the system stack such as hardware/circuit design and operating/runtime systems.
+	  	<p><b>Focusing the Workshop on Unifying Works.</b> As the field of ML for Systems is maturing, we are adapting the focus and format of the workshop to evolve with it. The community has seen several efforts to consolidate different subfields of ML for Systems <sup>4, 5, 6, 7</sup>. However, such efforts need more support. To boost recent advances in shared methodology, tools, and frameworks, this year we will welcome submissions presenting datasets, simulators, or benchmarks that can facilitate research in the area.
 	  	</p>
-	  	<p>
-	  		We expect this year to improve the state of the art in areas where learning has already proven to outperform traditional heuristics. We also expect to expand into new areas throughout the systems stack, such as computer architecture and operating/runtime systems, and incorporate new ML topics like relational learning. Given that the community is larger than last year, for NeurIPS 2021, we intend to foster more discussion through breakout sessions. The interdisciplinary nature of this area makes NeurIPS an ideal venue for this workshop.
-	  	</p>
+        <p><b>A Competition for General ML Practitioners. </b>For the first time since the inception of the workshop, we are planning a competition. The competition showcases important systems problems, and challenges the ML community to test their methods and algorithms on these problems. Our competition tasks are designed to have a low barrier of entry that attracts newcomers as well as systems veterans.
+        </p>
 		<p>
-			By forming a community of academic and industrial researchers who are excited about this area, we seek to build towards intelligent, self optimizing systems and answer questions such as: How do we generate and share high quality datasets that span the layers of the system stack? Which learned representations best represent code performance and runtime? Which simulators and simulation methodologies provide a tractable proving ground techniques like reinforcement learning?
-		</p>
-		<p>
-			To this end, the target audience for this workshop includes a wide variety of attendees from state-of-the-art researchers in machine learning to domain experts in computer systems design. We have invited a broad set of expert speakers to present the potential for impact of combining deep learning research with computer systems. We hope that by providing a formal venue for researchers from both fields to meet and interact, that the result will include both fundamental research in ML as well as real-world impact to computer systems design and implementation.
-		</p>
-		<p>
-			The workshop will host 6 speakers and we invite researchers to submit relevant papers through our <a href="/call_for_papers.html">call for papers</a>.
+			The workshop will host 6-7 speakers and we invite researchers to submit relevant papers through our <a href="/call_for_papers.html">call for papers</a>.
 		</p>
 		<ul class="footnotes">
-      <li><sup>1</sup> <a href="https://openai.com/blog/ai-and-compute/">AI and Compute</a></li>
-      <li><sup>2</sup> <a href="https://arxiv.org/pdf/1706.04972.pdf">Device Placement Optimization with Reinforcement Learning</a></li>
-      <li><sup>3</sup> <a href="https://arxiv.org/abs/1712.01208">The Case for Learned Index Structures</a></li>
-      <li><sup>4</sup> <a href="https://arxiv.org/pdf/1803.02329.pdf">Learning Memory Access Patterns</a></li>
-      <li><sup>5</sup> <a href="https://ieeexplore.ieee.org/document/8091247/?reload=true">End to End Deep Learning of Optimization Heuristics</a></li>
-      <li><sup>6</sup> <a href="https://deepmind.com/blog/deepmind-ai-reduces-google-data-centre-cooling-bill-40/">DeepMind AI Reduces Google Data Centre Cooling Bill by 40%</a></li>
-      <li><sup>7</sup> <a href="https://arxiv.org/pdf/1903.00614.pdf">GAP: Generalizable Approximate Graph Partitioning Framework</a> (<a href="https://github.com/google-research/google-research/tree/master/clustering_normalized_cuts">open-source</a>)</li>
-      <li><sup>8</sup> <a href="https://arxiv.org/abs/1808.07412">Ithemal: Accurate, Portable and Fast Basic Block Throughput Estimation using Deep Neural Networks</a></li>
-      <li><sup>9</sup> <a href="https://arxiv.org/abs/1808.03196">Learning to Optimize Join Queries With Deep Reinforcement Learning</a></li>
-      <li><sup>10</sup> <a href="https://arxiv.org/abs/1812.02734">Learning to Design Circuits</a></li>
-      <li><sup>11</sup> <a href="https://arxiv.org/abs/1712.03890">DeepConf: Automating Data Center Network Topologies Management with Machine Learning.</a></li>
-      <li><sup>12</sup> <a href="https://arxiv.org/abs/1810.01963">Scheduling Algorithms for Data Processing Clusters.</a></li>
-      <li><sup>13</sup> <a href="https://research.google/pubs/pub49008/">Learning-based Memory Allocation for C++ Server Workloads</a></li>
-      <li><sup>14</sup> <a href="https://arxiv.org/abs/2004.10746">Chip Placement with Deep Reinforcement Learning</a></li>
-      <li><sup>15</sup> <a href="https://openreview.net/forum?id=SkxW23NtPH">GDP: Generalized Device Placement for Dataflow Graphs</a></li>
-      <li><sup>16</sup> <a href="https://arxiv.org/abs/1910.07623">Generalized Clustering by Learning to Optimize Expected Normalized Cuts</a></li>
+        <li><sup>1</sup> <a href="https://arxiv.org/abs/1712.01208">The Case for Learned Index Structures</a></li>
+        <li><sup>2</sup> <a href="https://arxiv.org/abs/1812.02734">Learning to Design Circuits</a></li>
+        <li><sup>3</sup> <a href="https://www.nature.com/articles/s41586-021-03544-w">A graph placement methodology for fast chip design</a></li>
+        <li><sup>4</sup> <a href="https://arxiv.org/abs/1911.04021">DRiLLS: Deep Reinforcement Learning for Logic Synthesis</a></li>
+        <li><sup>5</sup> <a href="https://proceedings.neurips.cc/paper/2019/hash/f69e505b08403ad2298b9f262659929a-Abstract.html">Park: An Open Platform for Learning-Augmented Computer Systems</a></li>
+        <li><sup>6</sup> <a href="https://arxiv.org/abs/1906.08879">Placeto: Learning Generalizable Device Placement Algorithms for Distributed Machine Learning</a></li>
+        <li><sup>7</sup> <a href="https://vldb.org/pvldb/vol14/p1-marcus.pdf">Benchmarking learned indexes</a></li>
+        <li><sup>8</sup> <a href="https://arxiv.org/abs/1808.03196">Learning to Optimize Join Queries With Deep Reinforcement Learning</a></li>
+        <li><sup>9</sup> <a href="https://arxiv.org/abs/1803.02329">Learning memory access patterns</a></li>
+        <li><sup>10</sup> <a href="https://dl.acm.org/doi/10.1145/3373376.3378525">Learning-based Memory Allocation for C++ Server Workloads</a></li>
+        <li><sup>11</sup> <a href="https://openai.com/blog/ai-and-compute/">AI and Compute</a></li>
+        <li><sup>12</sup> <a href="https://arxiv.org/pdf/1805.03441">Machine learning in compiler optimization</a></li>
+        <li><sup>13</sup> <a href="https://arxiv.org/abs/1805.08166">Learning to Optimize Tensor Programs</a></li>
+        <li><sup>14</sup> <a href="https://dl.acm.org/doi/10.1145/3341302.3342080">Learning scheduling algorithms for data processing clusters</a></li>
+        <li><sup>15</sup> <a href="https://arxiv.org/abs/1811.01704">ReLeQ: A Reinforcement Learning Approach for Deep Quantization of Neural Networks</a></li>
+        <li><sup>16</sup> <a href="https://arxiv.org/abs/1808.07412">Ithemal: Accurate, portable and fast basic block throughput estimation using deep neural networks</a></li>
+        <li><sup>17</sup> <a href="https://arxiv.org/abs/2104.04955">A Deep Learning Based Cost Model for Automatic Code Optimization</a></li>
+        <li><sup>18</sup> <a href="https://dl.acm.org/doi/10.1145/3439706.3447045">The Law of Attraction: Affinity-Aware Placement Optimization using Graph Neural Networks</a></li>
     </ul>
 	</section>
 </div>
