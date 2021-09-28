@@ -1,8 +1,8 @@
 ---
 title: Call for Papers
 workshop_name: neurips2021
-site_description: Workshop on ML for Systems at NeurIPS 2021, December 12th, Zoomville
-mini_site_description: Workshop on ML for Systems at NeurIPS '21, Dec 12th
+site_description: Workshop on ML for Systems at NeurIPS 2021, December 13th, Zoomville
+mini_site_description: Workshop on ML for Systems at NeurIPS '21, Dec 13th
 site_title: ML For Systems
 ---
 <div class="inner clearfix">
@@ -66,7 +66,7 @@ site_title: ML For Systems
                 <li>Acceptance Notifications: October 21st, 2021</li>
                 <li><b>Speaker video deadline: November 1st, 2021</b></li>
                 <li><b>Camera-Ready Submission: November 29th, 2021</b></li>
-                <li>Workshop: December 12th, 2021</li>
+                <li>Workshop: December 13th, 2021</li>
             </ul>
         </section>
     </div>
