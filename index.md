@@ -1,8 +1,8 @@
 ---
 title: Program
 workshop_name: neurips2021
-site_description: Workshop on ML for Systems at NeurIPS 2021, December 12th, Zoomville
-mini_site_description: Workshop on ML for Systems at NeurIPS '21, Dec 12th
+site_description: Workshop on ML for Systems at NeurIPS 2021, December 13th, Zoomville
+mini_site_description: Workshop on ML for Systems at NeurIPS '21, Dec 13th
 site_title: ML For Systems
 ---
 <div class="schedule_section virtual_schedule_section">
@@ -95,14 +95,14 @@ site_title: ML For Systems
                   </tr>
                 </thead>
                 <tbody>
-                    <tr><td data-value-start="2021-12-12T09:00:00.000-08:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >09:00</td><td style="text-align: left">Opening Remarks</td></tr>
+                    <tr><td data-value-start="2021-12-13T09:00:00.000-08:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >09:00</td><td style="text-align: left">Opening Remarks</td></tr>
                     <tr><td style="text-align: right; white-space: nowrap; font-size: 15px;" >TBD</td><td style="text-align: left"><a href="#christina_delimitrou_talk"><b>Invited Speaker 1: Anima Anandkumar</b></a></td></tr>
                     <tr><td style="text-align: right; white-space: nowrap; font-size: 15px;" >TBD</td><td style="text-align: left"><a href="#ed_chi_talk"><b>Invited Speaker 2: Michael Carbin</b></a></td></tr>
                     <tr><td style="text-align: right; white-space: nowrap; font-size: 15px;" >TBD</td><td style="text-align: left"><a href="#ed_chi_talk"><b>Invited Speaker 3: Luis Ceze</b></a></td></tr>
                     <tr><td style="text-align: right; white-space: nowrap; font-size: 15px;" >TBD</td><td style="text-align: left"><a href="#ed_chi_talk"><b>Invited Speaker 4: Tim Kraska</b></a></td></tr>
                     <tr><td style="text-align: right; white-space: nowrap; font-size: 15px;" >TBD</td><td style="text-align: left"><a href="#ed_chi_talk"><b>Invited Speaker 5: Phitchaya Mangpo Phothilimthana</b></a></td></tr>
                     <tr><td style="text-align: right; white-space: nowrap; font-size: 15px;" >TBD</td><td style="text-align: left"><a href="#ed_chi_talk"><b>Invited Speaker 6: Yuandong Tian</b></a></td></tr>
-                    <tr><td data-value-start="2021-12-12T17:40:00.000-08:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >17:40</td><td style="text-align: left">Closing</td></tr>
+                    <tr><td data-value-start="2021-12-13T17:40:00.000-08:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >17:40</td><td style="text-align: left">Closing</td></tr>
                 </tbody>
             </table>
         </section>
