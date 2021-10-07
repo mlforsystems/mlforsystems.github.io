@@ -119,10 +119,8 @@ site_title: ML For Systems
 		</p>
 	  	<p><b>Focusing the Workshop on Unifying Works.</b> As the field of ML for Systems is maturing, we are adapting the focus and format of the workshop to evolve with it. The community has seen several efforts to consolidate different subfields of ML for Systems <sup>4, 5, 6, 7</sup>. However, such efforts need more support. To boost recent advances in shared methodology, tools, and frameworks, this year we will welcome submissions presenting datasets, simulators, or benchmarks that can facilitate research in the area.
 	  	</p>
-        <p><b>A Competition for General ML Practitioners. </b>For the first time since the inception of the workshop, we are planning a competition. The competition showcases important systems problems, and challenges the ML community to test their methods and algorithms on these problems. Our competition tasks are designed to have a low barrier of entry that attracts newcomers as well as systems veterans.
-        </p>
 		<p>
-			The workshop will host 6-7 speakers and we invite researchers to submit relevant papers through our <a href="/call_for_papers.html">call for papers</a>.
+			The workshop will host 6 speakers and we invite researchers to submit relevant papers through our <a href="/call_for_papers.html">call for papers</a>.
 		</p>
 		<ul class="footnotes">
         <li><sup>1</sup> <a href="https://arxiv.org/abs/1712.01208">The Case for Learned Index Structures</a></li>
