@@ -96,12 +96,11 @@ site_title: ML For Systems
                 </thead>
                 <tbody>
                     <tr><td data-value-start="2021-12-13T09:00:00.000-08:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >09:00</td><td style="text-align: left">Opening Remarks</td></tr>
-                    <tr><td style="text-align: right; white-space: nowrap; font-size: 15px;" >TBD</td><td style="text-align: left"><a href="#christina_delimitrou_talk"><b>Invited Speaker 1: Anima Anandkumar</b></a></td></tr>
-                    <tr><td style="text-align: right; white-space: nowrap; font-size: 15px;" >TBD</td><td style="text-align: left"><a href="#ed_chi_talk"><b>Invited Speaker 2: Michael Carbin</b></a></td></tr>
-                    <tr><td style="text-align: right; white-space: nowrap; font-size: 15px;" >TBD</td><td style="text-align: left"><a href="#ed_chi_talk"><b>Invited Speaker 3: Luis Ceze</b></a></td></tr>
-                    <tr><td style="text-align: right; white-space: nowrap; font-size: 15px;" >TBD</td><td style="text-align: left"><a href="#ed_chi_talk"><b>Invited Speaker 4: Tim Kraska</b></a></td></tr>
-                    <tr><td style="text-align: right; white-space: nowrap; font-size: 15px;" >TBD</td><td style="text-align: left"><a href="#ed_chi_talk"><b>Invited Speaker 5: Phitchaya Mangpo Phothilimthana</b></a></td></tr>
-                    <tr><td style="text-align: right; white-space: nowrap; font-size: 15px;" >TBD</td><td style="text-align: left"><a href="#ed_chi_talk"><b>Invited Speaker 6: Yuandong Tian</b></a></td></tr>
+                    <tr><td style="text-align: right; white-space: nowrap; font-size: 15px;" >TBD</td><td style="text-align: left"><a href="#dawn_song_talk"><b>Invited Speaker 1: Dawn Song</b></a></td></tr>
+                    <tr><td style="text-align: right; white-space: nowrap; font-size: 15px;" >TBD</td><td style="text-align: left"><a href="#steve_keckler_talk"><b>Invited Speaker 2: Steve Keckler</b></a></td></tr>
+                    <tr><td style="text-align: right; white-space: nowrap; font-size: 15px;" >TBD/td><td style="text-align: left"><a href="#newsha_ardalani_talk"><b>Invited Speaker 3: Newsha Ardalani</b></a></td></tr>
+                    <tr><td style="text-align: right; white-space: nowrap; font-size: 15px;" >TBD</td><td style="text-align: left"><a href="#ed_chi_talk"><b>Invited Speaker 4: Riyadh Baghdadi</b></a></td></tr>
+                    <tr><td style="text-align: right; white-space: nowrap; font-size: 15px;" >TBD</td><td style="text-align: left"><a href="#jeff_dean_talk"><b>Invited Speaker 5: Jeff Dean</b></a></td></tr>
                     <tr><td data-value-start="2021-12-13T17:40:00.000-08:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >17:40</td><td style="text-align: left">Closing</td></tr>
                 </tbody>
             </table>
