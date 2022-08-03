@@ -156,8 +156,8 @@ site_title: ML For Systems
                                 <li><b>Dan Zhang</b>, Google Brain, <a href="https://www.linkedin.com/in/danzhang3">LinkedIn</a></li>
                                 <li><b>TBD</b></li>
 			</ul>
-
-			<h2>Steering Committee</h2>
+                        <h2>Test</h2>
+<h2>Steering Committee</h2>
 			<ul>
                                 <li><b>Jonathan Raiman</b>, NVIDIA/Paris-Saclay, <a href="https://twitter.com/jonathanrraiman">@jonathanrraiman</a></li>
                                 <li><b>Anna Goldie</b>, Google Brain, <a href="https://twitter.com/annadgoldie">@annadgoldie</a></li>
