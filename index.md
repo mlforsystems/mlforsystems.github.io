@@ -169,6 +169,7 @@ site_title: ML For Systems
 		<p>
 			Contact us at <a href="mailto:mlforsystems@googlegroups.com">mlforsystems@googlegroups.com</a>.
 		</p>
+    </div>
 </div>
 
 <script>
