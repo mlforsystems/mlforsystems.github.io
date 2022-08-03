@@ -148,7 +148,7 @@ site_title: ML For Systems
 		<section class="main-content">
 			<h2>Organizing Committee</h2>
 			<ul>
-		                <li><b>Benoit Steiner</b>, FAIR, <a href="https://twitter.com/BenoitSteiner">@BenoitSteiner</a> <a href="https://bsteiner.info/">Website</a></li>
+		                <li><b>Benoit Steiner</b>, FAIR, <a href="https://twitter.com/BenoitSteiner">@BenoitSteiner</a>, <a href="https://bsteiner.info/">Website</a></li>
 		<li><b>Martin Maas</b>, Google Brain, <a href="https://twitter.com/martin_maas">@martin_maas</a></li>
                 <li><b>Azade Nazi</b>, Google Brain, <a href="https://sites.google.com/site/azadenazi/">website</a></li>
 				<li><b>Xinlei Xu</b>, NYU, <a href="https://twitter.com/MimeeXu">@MimeeXu</a></li>
@@ -158,9 +158,9 @@ site_title: ML For Systems
 
 			<h2>Steering Committee</h2>
 			<ul>
-                                                                <li><b>Jonathan Raiman</b>, NVIDIA/Paris-Saclay, <a href="https://twitter.com/jonathanrraiman">@jonathanrraiman</a></li>
-                <li><b>Anna Goldie</b>, Google Brain, <a href="https://twitter.com/annadgoldie">@annadgoldie</a></li>
-<li><b>Azalia Mirhoseini</b>, Google Brain, <a href="https://twitter.com/Azaliamirh">@Azaliamirh</a></li>
+                                <li><b>Jonathan Raiman</b>, NVIDIA/Paris-Saclay, <a href="https://twitter.com/jonathanrraiman">@jonathanrraiman</a></li>
+                                <li><b>Anna Goldie</b>, Google Brain, <a href="https://twitter.com/annadgoldie">@annadgoldie</a></li>
+                                <li><b>Azalia Mirhoseini</b>, Google Brain, <a href="https://twitter.com/Azaliamirh">@Azaliamirh</a></li>
 				<li><b>Milad Hashemi</b>, Google Brain, <a href="https://twitter.com/miladhash">@miladhash</a></li>
 				<li><b>Kevin Swersky</b>, Google Brain, <a href="https://twitter.com/kswersk">@kswersk</a></li>
 			</ul>
