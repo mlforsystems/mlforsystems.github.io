@@ -152,10 +152,10 @@ site_title: ML For Systems
 		<li><b>Martin Maas</b>, Google Brain, <a href="https://twitter.com/martin_maas">@martin_maas</a></li>
                 <li><b>Azade Nazi</b>, Google Brain, <a href="https://sites.google.com/site/azadenazi/">website</a></li>
 				<li><b>Xinlei Xu</b>, NYU, <a href="https://twitter.com/MimeeXu">@MimeeXu</a></li>
-                                <li><b>Neel Kant</b>, NVidia</a></li>
-                                <li><b>Dan Zhang</b>, Google Brain</a></li>
-
+                                <li><b>Neel Kant</b>, NVidia</li>
+                                <li><b>Dan Zhang</b>, Google Brain</li>
 			</ul>
+
 			<h2>Steering Committee</h2>
 			<ul>
                                                                 <li><b>Jonathan Raiman</b>, NVIDIA/Paris-Saclay, <a href="https://twitter.com/jonathanrraiman">@jonathanrraiman</a></li>
