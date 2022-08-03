@@ -154,9 +154,7 @@ site_title: ML For Systems
 				<li><b>Xinlei Xu</b>, NYU, <a href="https://twitter.com/MimeeXu">@MimeeXu</a></li>
                                 <li><b>Neel Kant</b>, NVidia, <a href="https://www.linkedin.com/in/neel-kant">LinkedIn</a></li>
                                 <li><b>Dan Zhang</b>, Google Brain, <a href="https://www.linkedin.com/in/danzhang3">LinkedIn</a></li>
-                                <li><b>TBD</b></li>
 			</ul>
-                        <h2>Test</h2>
 <h2>Steering Committee</h2>
 			<ul>
                                 <li><b>Jonathan Raiman</b>, NVIDIA/Paris-Saclay, <a href="https://twitter.com/jonathanrraiman">@jonathanrraiman</a></li>
