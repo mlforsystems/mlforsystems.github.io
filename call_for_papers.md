@@ -1,8 +1,8 @@
 ---
 title: Call for Papers
-workshop_name: neurips2021
-site_description: Workshop on ML for Systems at NeurIPS 2021, December 13th, Zoomville
-mini_site_description: Workshop on ML for Systems at NeurIPS '21, Dec 13th
+workshop_name: neurips2022
+site_description: Workshop on ML for Systems at NeurIPS 2022, December 3rd, New Orleans
+mini_site_description: Workshop on ML for Systems at NeurIPS '22, Dec 3rd
 site_title: ML For Systems
 ---
 <div class="inner clearfix">
@@ -54,19 +54,17 @@ site_title: ML For Systems
                 We welcome submissions of up to 4 pages (not including references). This is not a strict limit, but authors are encouraged to adhere to it if possible.
             </p>
             <p>
-                All submissions must be in PDF format and should follow the <a href="https://neurips.cc/Conferences/2021/PaperInformation/StyleFiles">NeurIPS 2021 format</a>.
+                All submissions must be in PDF format and should follow the <a href="https://neurips.cc/Conferences/2022/PaperInformation/StyleFiles">NeurIPS 2022 format</a>.
             </p>
             <ul>
                 <li>Submissions do not have to be anonymized.</li>
-                <li>Please submit your paper no later than October 8th, 2021 midnight anywhere in the world to <a href="https://cmt3.research.microsoft.com/MLFS2021/Submission/Index">CMT submission site</a>.</li>
+                <li>Please submit your paper no later than September 30th, 2022 midnight anywhere in the world to <a href="https://cmt3.research.microsoft.com/MLFS2022/Submission/Index">CMT submission site</a>.</li>
             </ul>
             <h2>Important Dates</h2>
             <ul>
-                <li>Submission Deadline: <b>October 8th, 2021 by midnight Anywhere in the World</b>.</li>
-                <li>Acceptance Notifications: October 21st, 2021</li>
-                <li><b>Speaker video deadline: November 1st, 2021</b></li>
-                <li><b>Camera-Ready Submission: November 29th, 2021</b></li>
-                <li>Workshop: December 13th, 2021</li>
+                <li>Submission Deadline: <b>September 30th, 2022 by midnight Anywhere in the World</b>.</li>
+                <li>Acceptance Notifications: October 20th, 2022</li>
+                <li>Workshop: December 3rd, 2022</li>
             </ul>
         </section>
     </div>
