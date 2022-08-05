@@ -1,8 +1,8 @@
 ---
 title: Program
-workshop_name: neurips2021
-site_description: Workshop on ML for Systems at NeurIPS 2021, December 13th, Zoomville
-mini_site_description: Workshop on ML for Systems at NeurIPS '21, Dec 13th
+workshop_name: neurips2022
+site_description: Workshop on ML for Systems at NeurIPS 2022, December 3rd, New Orleans
+mini_site_description: Workshop on ML for Systems at NeurIPS '22, Dec 3rd 
 site_title: ML For Systems
 ---
 <div class="schedule_section virtual_schedule_section">
@@ -96,12 +96,11 @@ site_title: ML For Systems
                 </thead>
                 <tbody>
                     <tr><td data-value-start="2021-12-13T09:00:00.000-08:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >09:00</td><td style="text-align: left">Opening Remarks</td></tr>
-                    <tr><td style="text-align: right; white-space: nowrap; font-size: 15px;" >TBD</td><td style="text-align: left"><a href="#christina_delimitrou_talk"><b>Invited Speaker 1: Anima Anandkumar</b></a></td></tr>
-                    <tr><td style="text-align: right; white-space: nowrap; font-size: 15px;" >TBD</td><td style="text-align: left"><a href="#ed_chi_talk"><b>Invited Speaker 2: Michael Carbin</b></a></td></tr>
-                    <tr><td style="text-align: right; white-space: nowrap; font-size: 15px;" >TBD</td><td style="text-align: left"><a href="#ed_chi_talk"><b>Invited Speaker 3: Luis Ceze</b></a></td></tr>
-                    <tr><td style="text-align: right; white-space: nowrap; font-size: 15px;" >TBD</td><td style="text-align: left"><a href="#ed_chi_talk"><b>Invited Speaker 4: Tim Kraska</b></a></td></tr>
-                    <tr><td style="text-align: right; white-space: nowrap; font-size: 15px;" >TBD</td><td style="text-align: left"><a href="#ed_chi_talk"><b>Invited Speaker 5: Phitchaya Mangpo Phothilimthana</b></a></td></tr>
-                    <tr><td style="text-align: right; white-space: nowrap; font-size: 15px;" >TBD</td><td style="text-align: left"><a href="#ed_chi_talk"><b>Invited Speaker 6: Yuandong Tian</b></a></td></tr>
+                    <tr><td style="text-align: right; white-space: nowrap; font-size: 15px;" >TBD</td><td style="text-align: left"><a href="#dawn_song_talk"><b>Invited Speaker 1: Dawn Song</b></a></td></tr>
+                    <tr><td style="text-align: right; white-space: nowrap; font-size: 15px;" >TBD</td><td style="text-align: left"><a href="#steve_keckler_talk"><b>Invited Speaker 2: Steve Keckler</b></a></td></tr>
+                    <tr><td style="text-align: right; white-space: nowrap; font-size: 15px;" >TBD</td><td style="text-align: left"><a href="#newsha_ardalani_talk"><b>Invited Speaker 3: Newsha Ardalani</b></a></td></tr>
+                    <tr><td style="text-align: right; white-space: nowrap; font-size: 15px;" >TBD</td><td style="text-align: left"><a href="#riyadh_talk"><b>Invited Speaker 4: Riyadh Baghdadi</b></a></td></tr>
+                    <tr><td style="text-align: right; white-space: nowrap; font-size: 15px;" >TBD</td><td style="text-align: left"><a href="#jeff_dean_talk"><b>Invited Speaker 5: Jeff Dean</b></a></td></tr>
                     <tr><td data-value-start="2021-12-13T17:40:00.000-08:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >17:40</td><td style="text-align: left">Closing</td></tr>
                 </tbody>
             </table>
@@ -149,16 +148,18 @@ site_title: ML For Systems
 		<section class="main-content">
 			<h2>Organizing Committee</h2>
 			<ul>
-				<li><b>Anna Goldie</b>, Google Brain, <a href="https://twitter.com/annadgoldie">@annadgoldie</a></li>
-				<li><b>Martin Maas</b>, Google Brain, <a href="https://twitter.com/martin_maas">@martin_maas</a></li>
+		                <li><b>Benoit Steiner</b>, FAIR, <a href="https://twitter.com/BenoitSteiner">@BenoitSteiner</a>, <a href="https://bsteiner.info/">Website</a></li>
+		<li><b>Martin Maas</b>, Google Brain, <a href="https://twitter.com/martin_maas">@martin_maas</a></li>
                 <li><b>Azade Nazi</b>, Google Brain, <a href="https://sites.google.com/site/azadenazi/">website</a></li>
-				<li><b>Jonathan Raiman</b>, NVIDIA/Paris-Saclay, <a href="https://twitter.com/jonathanrraiman">@jonathanrraiman</a></li>
-                <li><b>Benoit Steiner</b>, FAIR, <a href="https://twitter.com/BenoitSteiner">@BenoitSteiner</a></li>
 				<li><b>Xinlei Xu</b>, NYU, <a href="https://twitter.com/MimeeXu">@MimeeXu</a></li>
+                                <li><b>Neel Kant</b>, NVidia, <a href="https://www.linkedin.com/in/neel-kant">LinkedIn</a></li>
+                                <li><b>Dan Zhang</b>, Google Brain, <a href="https://www.linkedin.com/in/danzhang3">LinkedIn</a></li>
 			</ul>
-			<h2>Steering Committee</h2>
+<h2>Steering Committee</h2>
 			<ul>
-                <li><b>Azalia Mirhoseini</b>, Google Brain, <a href="https://twitter.com/Azaliamirh">@Azaliamirh</a></li>
+                                <li><b>Jonathan Raiman</b>, NVIDIA/Paris-Saclay, <a href="https://twitter.com/jonathanrraiman">@jonathanrraiman</a></li>
+                                <li><b>Anna Goldie</b>, Google Brain, <a href="https://twitter.com/annadgoldie">@annadgoldie</a></li>
+                                <li><b>Azalia Mirhoseini</b>, Google Brain, <a href="https://twitter.com/Azaliamirh">@Azaliamirh</a></li>
 				<li><b>Milad Hashemi</b>, Google Brain, <a href="https://twitter.com/miladhash">@miladhash</a></li>
 				<li><b>Kevin Swersky</b>, Google Brain, <a href="https://twitter.com/kswersk">@kswersk</a></li>
 			</ul>
@@ -167,6 +168,7 @@ site_title: ML For Systems
 		<p>
 			Contact us at <a href="mailto:mlforsystems@googlegroups.com">mlforsystems@googlegroups.com</a>.
 		</p>
+    </div>
 </div>
 
 <script>
