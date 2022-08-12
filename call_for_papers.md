@@ -58,7 +58,7 @@ site_title: ML For Systems
             </p>
             <ul>
                 <li>Submissions do not have to be anonymized.</li>
-                <li>Please submit your paper no later than September 30th, 2022 midnight anywhere in the world to <a href="https://cmt3.research.microsoft.com/MLFS2022/Submission/Index">CMT submission site</a>.</li>
+                <li>Please submit your paper no later than September 30th, 2022 midnight anywhere in the world to <a href="https://openreview.net/group?id=NeurIPS.cc/2022/Workshop/MLSys">OpenReview submission site</a>.</li>
             </ul>
             <h2>Important Dates</h2>
             <ul>
