@@ -150,7 +150,7 @@ site_title: ML For Systems
 			<ul>
 		                <li><b>Benoit Steiner</b>, FAIR, <a href="https://twitter.com/BenoitSteiner">@BenoitSteiner</a>, <a href="https://bsteiner.info/">Website</a></li>
 		<li><b>Martin Maas</b>, Google Brain, <a href="https://twitter.com/martin_maas">@martin_maas</a></li>
-                <li><b>Azade Nazi</b>, Google Brain, <a href="https://sites.google.com/site/azadenazi/">website</a></li>
+                <li><b>Azade Nova</b>, Google Brain, <a href="https://www.linkedin.com/in/azade-nova-bb347763">website</a></li>
 				<li><b>Xinlei Xu</b>, NYU, <a href="https://twitter.com/MimeeXu">@MimeeXu</a></li>
                                 <li><b>Neel Kant</b>, NVidia, <a href="https://www.linkedin.com/in/neel-kant">LinkedIn</a></li>
                                 <li><b>Dan Zhang</b>, Google Brain, <a href="https://www.linkedin.com/in/danzhang3">LinkedIn</a></li>
