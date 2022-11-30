@@ -8,7 +8,7 @@ site_title: ML For Systems
 <div class="schedule_section virtual_schedule_section">
     <div class="inner clearfix">
         <section class="main-content">
-		<h2>Schedule</h2>
+		<h2>Invited Speakers</h2>
             <select name="timezone" id="timezoneswitcher" style="max-width: 100%">
                 <option value="current_timezone" id="current_timezone_option" selected="selected">Current Timezone</option>
                 <option value="Pacific/Midway">(UTC -11:00) Midway, Niue, Pago Pago</option>
@@ -95,9 +95,9 @@ site_title: ML For Systems
                   </tr>
                 </thead>
                 <tbody>
-                    <tr><td data-value-start="2022-12-03T07:30:00.000-06:00" style="text-align: right; white-space: nowrap; font-size: 15px;" ></td><td style="text-align: left">Opening Remarks</td></tr>
+                    <tr><td data-value-start="2022-12-03T07:30:00.000-07:00" style="text-align: right; white-space: nowrap; font-size: 15px;" ></td><td style="text-align: left">Opening Remarks</td></tr>
                     <tr><td style="text-align: right; white-space: nowrap; font-size: 15px;" >8:40AM - 9:30AM</td><td style="text-align: left"><a href="#dawn_song_talk"><b>Invited Speaker 1: Jeff Dean</b></a></td></tr>
-                    <tr><td style="text-align: right; white-space: nowrap; font-size: 15px;" >9:40AM - 10:25AM</td><td style="text-align: left"><a href="#steve_keckler_talk"><b>Invited Speaker 2: Dawn Song</b></a></td></tr>
+                    <tr><td style="text-align: right; white-space: nowrap; font-size: 15px;" >9:30AM - 10:15AM</td><td style="text-align: left"><a href="#steve_keckler_talk"><b>Invited Speaker 2: Dawn Song</b></a></td></tr>
                     <tr><td style="text-align: right; white-space: nowrap; font-size: 15px;" >1:55PM - 2:40PM</td><td style="text-align: left"><a href="#newsha_ardalani_talk"><b>Invited Speaker 3: Steve Keckler</b></a></td></tr>
                     <tr><td style="text-align: right; white-space: nowrap; font-size: 15px;" >2:50PM - 3:35PM</td><td style="text-align: left"><a href="#riyadh_talk"><b>Invited Speaker 4: Newsha Ardalani</b></a></td></tr>
                     <tr><td style="text-align: right; white-space: nowrap; font-size: 15px;" >3:45PM - 4:30PM</td><td style="text-align: left"><a href="#jeff_dean_talk"><b>Invited Speaker 5: Riyadh Baghdadi</b></a></td></tr>
@@ -113,15 +113,2643 @@ site_title: ML For Systems
 
                     <div class="card card-default">
                         <div class="card-header">
-                            <span class="pull-right">Timezone: <a href="/set_timezone?nextp=/virtual/2022/workshop/49961">America/New_York »</a></span>
-                            <h3>Schedule</h3>
+                            <h3>Detailed Schedule</h3>
                         </div>
 
 
                                 <table class="table table-condensed" style="border-style:none !important">
             <tbody>
 
+<table class="table table-condensed" style="border-style:none !important">
+            <tbody>
+
+<tr style="border-style:none !important;position: relative;height:100%" class="hover-link" id="wse-detail-64282">
+    <td style="width:25%;height:100%">
+
+
+
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-64282"></span>
+
+    <script>
+        add_bookmark_click(
+            64282,
+             1,
+            'bookmark-event-64282',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+
+        )
+    </script>
+
+
+
+        <div class="workshopevent-date" id="bookmark-here-64282">
+            Sat 8:30 a.m. - 8:40 a.m.
+        </div>
+    </td>
+    <td>
+
+        <strong title="In-person Intro, Opening/Closing Remarks (introduction by moderator) | id: 64282">
+            Opening Remarks
+        </strong>
+
+
+
+
+
+               <span>
+                   <div></div><div></div><div></div><div></div><div></div>
+               </span>
+
+
+
+
+
+        <div>
+            <div class="collapse" id="collapse64282">
+                <div class="card card-body">
+
+
+
+
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+
+            <i></i>
+
+        <a href="#wse-detail-64282" class="hover-anchor float-right small">🔗</a>
+
+    </td>
+
+</tr>
+
+
+
 <tr style="border-style:none !important;position: relative;height:100%" class="hover-link" id="wse-detail-63677">
+    <td style="width:25%;height:100%">
+
+
+
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-63677"></span>
+
+    <script>
+        add_bookmark_click(
+            63677,
+             1,
+            'bookmark-event-63677',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+
+        )
+    </script>
+
+
+
+        <div class="workshopevent-date" id="bookmark-here-63677">
+            Sat 8:40 a.m. - 9:30 a.m.
+        </div>
+    </td>
+    <td>
+
+        <strong title="Prerecorded &amp; Livestreamed | id: 63677">
+            Jeff Dean - Invited Talk
+        </strong>
+
+
+
+            <small>(Talk)</small>
+
+
+
+               <span>
+                   <div></div><div></div><div></div><div></div><div></div>
+               </span>
+
+
+
+
+
+            &nbsp;&nbsp;<br>
+            <a class="btn btn-sm btn-secondary" data-toggle="collapse" href="#collapse-sl-63677" role="button" aria-expanded="false" aria-controls="collapse-sl-63677">SlidesLive Video »</a>
+
+
+            <div class="collapse" id="collapse-sl-63677">
+                <div class="card card-body">
+                    <div id="presentation-embed-38994456" class="slp my-auto"></div>
+                    <script>
+                      $('#collapse-sl-63677').on('show.bs.collapse', (function () {
+                            let executed_once = false;
+                            return function () {
+                              if (!executed_once) {
+                                executed_once = true
+                                console.log("SlidesLiveEmbed for id 38994456")
+                                embed = new SlidesLiveEmbed('presentation-embed-38994456', {
+                                  presentationId: '38994456',
+                                  autoPlay: false, // change to true to autoplay the embedded presentation
+                                  verticalEnabled: true,
+                                  allowHiddenControlsWhenPaused: true,
+                                  hideTitle: true
+                                });
+                              }
+                            }
+                          })()
+                      )
+                    </script>
+                </div>
+            </div>
+
+
+        <div>
+            <div class="collapse" id="collapse63677">
+                <div class="card card-body">
+
+
+
+
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+
+            <i>Jeff Dean</i>
+
+        <a href="#wse-detail-63677" class="hover-anchor float-right small">🔗</a>
+
+    </td>
+
+</tr>
+
+
+
+<tr style="border-style:none !important;position: relative;height:100%" class="hover-link" id="wse-detail-63678">
+    <td style="width:25%;height:100%">
+
+
+
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-63678"></span>
+
+    <script>
+        add_bookmark_click(
+            63678,
+             1,
+            'bookmark-event-63678',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+
+        )
+    </script>
+
+
+
+        <div class="workshopevent-date" id="bookmark-here-63678">
+            Sat 9:30 a.m. - 10:15 a.m.
+        </div>
+    </td>
+    <td>
+
+        <strong title="In-Person Presentation or Q&amp;A, no prerecorded backup | id: 63678">
+            Dawn Song - Invited Talk
+        </strong>
+
+
+
+            <small>(Talk)</small>
+
+
+
+               <span>
+                   <div></div><div></div><div></div><div></div><div></div>
+               </span>
+
+
+
+
+
+        <div>
+            <div class="collapse" id="collapse63678">
+                <div class="card card-body">
+
+
+
+
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+
+            <i>Dawn Song</i>
+
+        <a href="#wse-detail-63678" class="hover-anchor float-right small">🔗</a>
+
+    </td>
+
+</tr>
+
+
+
+<tr style="border-style:none !important;position: relative;height:100%" class="hover-link" id="wse-detail-65364">
+    <td style="width:25%;height:100%">
+
+
+
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-65364"></span>
+
+    <script>
+        add_bookmark_click(
+            65364,
+             1,
+            'bookmark-event-65364',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+
+        )
+    </script>
+
+
+
+        <div class="workshopevent-date" id="bookmark-here-65364">
+            Sat 10:20 a.m. - 10:50 a.m.
+        </div>
+    </td>
+    <td>
+
+        <strong title="Break | id: 65364">
+            Poster Session | Coffee Break
+        </strong>
+
+
+
+            <small>(Break)</small>
+
+
+
+               <span>
+                   <div></div><div></div><div></div><div></div><div></div>
+               </span>
+
+
+
+
+
+        <div>
+            <div class="collapse" id="collapse65364">
+                <div class="card card-body">
+
+
+
+
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+
+            <i></i>
+
+        <a href="#wse-detail-65364" class="hover-anchor float-right small">🔗</a>
+
+    </td>
+
+</tr>
+
+
+
+<tr style="border-style:none !important;position: relative;height:100%" class="hover-link" id="wse-detail-62280">
+    <td style="width:25%;height:100%">
+
+
+
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-62280"></span>
+
+    <script>
+        add_bookmark_click(
+            62280,
+             1,
+            'bookmark-event-62280',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+
+        )
+    </script>
+
+
+
+        <div class="workshopevent-date" id="bookmark-here-62280">
+            Sat 10:55 a.m. - 11:05 a.m.
+        </div>
+    </td>
+    <td>
+
+            <a class="workshopevent-detail" data-toggle="collapse" href="#collapse62280" role="button" aria-expanded="false" aria-controls="collapse62280">
+
+        <strong title="In-person Presentation, Prerecorded Backup | id: 62280">
+            A code superoptimizer through neural Monte-Carlo tree search
+        </strong>
+
+
+            </a>
+
+
+            <small>(Spotlight)</small>
+
+
+
+               <span>
+                   <div></div><div>
+                <span class="nowrap" style="white-space:nowrap">
+                [<a href="https://openreview.net/forum?id=ilUBhk-I8Q" class="btn btn-default btn-xs href_URL" title="OpenReview">
+                <i class="fa fa-link" aria-hidden="true"></i> OpenReview</a>]&nbsp;
+                </span>
+            </div><div></div><div></div><div></div>
+               </span>
+
+
+         &nbsp;<a href="https://openreview.net/forum?id=ilUBhk-I8Q">link »</a>
+
+
+        <div>
+            <div class="collapse" id="collapse62280">
+                <div class="card card-body">
+
+                        <p>There are many ways to turn a high-level program into a sequence of instructions consistent with that computation. Selecting the most performant such instruction sequence for a given piece of hardware - optimized compilation - is a central challenge of computer science. Optimizing compilers perform this task through a series of reductions and local transformations (e.g. register allocation, instruction scheduling, peephole optimization) driven by heuristics. A natural and well-explored avenue of research is to replace current hand-written heuristics by data-driven, automatically-designed heuristics which may be obtained from machine learning. We propose a radically different approach, in which we view compilation as a combinatorial optimization problem which consists of finding the optimal (e.g. fastest executing or shortest) sequence of instructions subject to the constraint that it has the semantics of the specified program. We show how this problem can be practically framed as a finite Markov decision process, unlocking a rich space of potential algorithms from reinforcement learning. We implement one such algorithm in particular, an AlphaGo-like distributed neural Monte-Carlo tree search procedure, and  demonstrate that it is able to directly generate optimized assembly. Unlike a traditional optimizing compiler, this approach does not rely on an existing library of optimizations to transform the code, but rather directly attempts to generate the most optimal program instruction-by-instruction, taking into account effects including register allocation, instruction scheduling and operation fusion.</p>
+
+
+
+                        <div><a href="https://openreview.net/forum?id=ilUBhk-I8Q">Link »</a></div>
+
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+
+            <i>Wenda Zhou · Olga Solodova · Ryan Adams</i>
+
+        <a href="#wse-detail-62280" class="hover-anchor float-right small">🔗</a>
+
+    </td>
+
+</tr>
+
+
+
+<tr style="border-style:none !important;position: relative;height:100%" class="hover-link" id="wse-detail-62271">
+    <td style="width:25%;height:100%">
+
+
+
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-62271"></span>
+
+    <script>
+        add_bookmark_click(
+            62271,
+             1,
+            'bookmark-event-62271',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+
+        )
+    </script>
+
+
+
+        <div class="workshopevent-date" id="bookmark-here-62271">
+            Sat 11:10 a.m. - 11:20 a.m.
+        </div>
+    </td>
+    <td>
+
+            <a class="workshopevent-detail" data-toggle="collapse" href="#collapse62271" role="button" aria-expanded="false" aria-controls="collapse62271">
+
+        <strong title="In-person Presentation, Prerecorded Backup | id: 62271">
+            Predicting Network Buffer Capacity for BBR Fairness
+        </strong>
+
+
+            </a>
+
+
+            <small>(Spotlight)</small>
+
+
+            <div class="collapse" id="collapse-sl-62271">
+                <div class="card card-body">
+                    <div id="presentation-embed-38994642" class="slp my-auto"></div>
+                    <script>
+                      $('#collapse-sl-62271').on('show.bs.collapse', (function () {
+                            let executed_once = false;
+                            return function () {
+                              if (!executed_once) {
+                                executed_once = true
+                                console.log("SlidesLiveEmbed for id 38994642")
+                                embed = new SlidesLiveEmbed('presentation-embed-38994642', {
+                                  presentationId: '38994642',
+                                  autoPlay: false, // change to true to autoplay the embedded presentation
+                                  verticalEnabled: true,
+                                  allowHiddenControlsWhenPaused: true,
+                                  hideTitle: true
+                                });
+                              }
+                            }
+                          })()
+                      )
+                    </script>
+                </div>
+            </div>
+
+
+        <div>
+            <div class="collapse" id="collapse62271">
+                <div class="card card-body">
+
+                        <p>BBR is a newer TCP congestion control algorithm with promising features, but it can often be unfair to existing loss-based congestion-control algorithms.  This is because BBR's sending rate is dictated by static parameters that do not adapt well to dynamic and diverse network conditions.  In this work, we introduce BBR-ML, an in-kernel ML-based tuning system for BBR, designed to improve fairness when in competition with loss-based congestion control.  To build BBR-ML, we discretized the network condition search space and trained a model on 2,500 different network conditions.  We then modified BBR to run an in-kernel model to predict network buffer sizes, and then use this prediction for optimal parameter settings.  Our preliminary evaluation results show that BBR-ML can improve fairness when in competition with Cubic by up to 30% in some cases.</p>
+
+
+
+                        <div><a href="https://openreview.net/forum?id=dF6syCK0TvR">Link »</a></div>
+
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+
+            <i>Ibrahim Umit Akgun · Santiago Vargas · Andrew Burford · Michael McNeill · Michael Arkhangelskiy · Aruna Balasubramanian · Anshul Gandhi · Erez Zadok</i>
+
+        <a href="#wse-detail-62271" class="hover-anchor float-right small">🔗</a>
+
+    </td>
+
+</tr>
+
+
+
+<tr style="border-style:none !important;position: relative;height:100%" class="hover-link" id="wse-detail-62291">
+    <td style="width:25%;height:100%">
+
+
+
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-62291"></span>
+
+    <script>
+        add_bookmark_click(
+            62291,
+             1,
+            'bookmark-event-62291',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+
+        )
+    </script>
+
+
+
+        <div class="workshopevent-date" id="bookmark-here-62291">
+            Sat 11:25 a.m. - 11:35 a.m.
+        </div>
+    </td>
+    <td>
+
+            <a class="workshopevent-detail" data-toggle="collapse" href="#collapse62291" role="button" aria-expanded="false" aria-controls="collapse62291">
+
+        <strong title="Zoom Presentation, Prerecorded Backup | id: 62291">
+            HEAT: Hardware-Efficient Automatic Tensor Decomposition for Transformer Compression
+        </strong>
+
+
+            </a>
+
+
+            <small>(Spotlight)</small>
+
+
+
+               <span>
+                   <div></div><div>
+                <span class="nowrap" style="white-space:nowrap">
+                [<a href="https://openreview.net/forum?id=x9ZP4pnlZHo" class="btn btn-default btn-xs href_URL" title="OpenReview">
+                <i class="fa fa-link" aria-hidden="true"></i> OpenReview</a>]&nbsp;
+                </span>
+            </div><div></div><div></div><div></div>
+               </span>
+
+
+         &nbsp;<a href="https://openreview.net/forum?id=x9ZP4pnlZHo">link »</a>
+
+
+            &nbsp;&nbsp;<br>
+            <a class="btn btn-sm btn-secondary" data-toggle="collapse" href="#collapse-sl-62291" role="button" aria-expanded="false" aria-controls="collapse-sl-62291">SlidesLive Video »</a>
+
+
+            <div class="collapse" id="collapse-sl-62291">
+                <div class="card card-body">
+                    <div id="presentation-embed-38994643" class="slp my-auto"></div>
+                    <script>
+                      $('#collapse-sl-62291').on('show.bs.collapse', (function () {
+                            let executed_once = false;
+                            return function () {
+                              if (!executed_once) {
+                                executed_once = true
+                                console.log("SlidesLiveEmbed for id 38994643")
+                                embed = new SlidesLiveEmbed('presentation-embed-38994643', {
+                                  presentationId: '38994643',
+                                  autoPlay: false, // change to true to autoplay the embedded presentation
+                                  verticalEnabled: true,
+                                  allowHiddenControlsWhenPaused: true,
+                                  hideTitle: true
+                                });
+                              }
+                            }
+                          })()
+                      )
+                    </script>
+                </div>
+            </div>
+
+
+        <div>
+            <div class="collapse" id="collapse62291">
+                <div class="card card-body">
+
+                        <p>Self-attention and feedforward layers in large-scale Transformer models are overparameterized, limiting inference speed and energy efficiency. Tensor decomposition is a promising technique to reduce parameter redundancy by expressing weight matrices in an efficiently factorized form. Prior efforts used manual or heuristic decomposition settings without hardware-aware customization, resulting in poor hardware efficiencies and large performance degradation.In this work, we propose a hardware-aware tensor decomposition framework, dubbed HEAT, that enables efficient exploration of the exponential space of tensor decompositions and automates the choice of tensorization shape and decomposition rank with hardware-aware co-optimization. We jointly investigate tensor contraction path optimizations and a fused Einsum mapping strategy to bridge the gap between theoretical benefits and real hardware efficiency improvement. Our two-stage knowledge distillation flow resolves the trainability bottleneck and thus significantly boosts the final accuracy of factorized Transformers. We find that our hardware-aware factorized BERT variants reduce the energy-delay product by 5.7x with less than 1.1% accuracy loss and achieve a better efficiency-accuracy Pareto frontier than hand-tuned and heuristic baselines.</p>
+
+
+
+                        <div><a href="https://openreview.net/forum?id=x9ZP4pnlZHo">Link »</a></div>
+
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+
+            <i>Jiaqi Gu · Ben Keller · Jean Kossaifi · Anima Anandkumar · Brucek Khailany · David Pan</i>
+
+        <a href="#wse-detail-62291" class="hover-anchor float-right small">🔗</a>
+
+    </td>
+
+</tr>
+
+
+
+<tr style="border-style:none !important;position: relative;height:100%" class="hover-link" id="wse-detail-62269">
+    <td style="width:25%;height:100%">
+
+
+
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-62269"></span>
+
+    <script>
+        add_bookmark_click(
+            62269,
+             1,
+            'bookmark-event-62269',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+
+        )
+    </script>
+
+
+
+        <div class="workshopevent-date" id="bookmark-here-62269">
+            Sat 11:45 a.m. - 11:55 a.m.
+        </div>
+    </td>
+    <td>
+
+            <a class="workshopevent-detail" data-toggle="collapse" href="#collapse62269" role="button" aria-expanded="false" aria-controls="collapse62269">
+
+        <strong title="In-person Presentation, Prerecorded Backup | id: 62269">
+            Learning to Drive Software-Defined Storage
+        </strong>
+
+
+            </a>
+
+
+            <small>(Spotlight)</small>
+
+
+
+               <span>
+                   <div></div><div>
+                <span class="nowrap" style="white-space:nowrap">
+                [<a href="https://openreview.net/forum?id=un65IC_PbqJ" class="btn btn-default btn-xs href_URL" title="OpenReview">
+                <i class="fa fa-link" aria-hidden="true"></i> OpenReview</a>]&nbsp;
+                </span>
+            </div><div></div><div></div><div></div>
+               </span>
+
+
+         &nbsp;<a href="https://openreview.net/forum?id=un65IC_PbqJ">link »</a>
+
+
+            &nbsp;&nbsp;<br>
+            <a class="btn btn-sm btn-secondary" data-toggle="collapse" href="#collapse-sl-62269" role="button" aria-expanded="false" aria-controls="collapse-sl-62269">SlidesLive Video »</a>
+
+
+            <div class="collapse" id="collapse-sl-62269">
+                <div class="card card-body">
+                    <div id="presentation-embed-38994644" class="slp my-auto"></div>
+                    <script>
+                      $('#collapse-sl-62269').on('show.bs.collapse', (function () {
+                            let executed_once = false;
+                            return function () {
+                              if (!executed_once) {
+                                executed_once = true
+                                console.log("SlidesLiveEmbed for id 38994644")
+                                embed = new SlidesLiveEmbed('presentation-embed-38994644', {
+                                  presentationId: '38994644',
+                                  autoPlay: false, // change to true to autoplay the embedded presentation
+                                  verticalEnabled: true,
+                                  allowHiddenControlsWhenPaused: true,
+                                  hideTitle: true
+                                });
+                              }
+                            }
+                          })()
+                      )
+                    </script>
+                </div>
+            </div>
+
+
+        <div>
+            <div class="collapse" id="collapse62269">
+                <div class="card card-body">
+
+                        <p>Thanks to the development of manufacturing technology, storage devices suchas solid-state drives (SSDs) are becoming highly customizable to meet the ever-increasing demands on storage performance and capacity for different applications(i.e., software-defined storage). However, it is challenging to develop optimizedstorage devices with current human-driven systems-building approaches, due tothe complicated storage stack. In this paper, we present learning-based approachesto facilitating the development of software-defined storage. To accelerate themanufacturing of efficient storage devices, we enable the automated learning ofoptimized hardware specifications for developing customized storage devices forspecific application types. Our preliminary study shows that utilizing learning-based techniques to drive the development of software-defined storage is promising.</p>
+
+
+
+                        <div><a href="https://openreview.net/forum?id=un65IC_PbqJ">Link »</a></div>
+
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+
+            <i>Jian Huang · Daixuan Li · Jinghan Sun</i>
+
+        <a href="#wse-detail-62269" class="hover-anchor float-right small">🔗</a>
+
+    </td>
+
+</tr>
+
+
+
+<tr style="border-style:none !important;position: relative;height:100%" class="hover-link" id="wse-detail-62283">
+    <td style="width:25%;height:100%">
+
+
+
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-62283"></span>
+
+    <script>
+        add_bookmark_click(
+            62283,
+             1,
+            'bookmark-event-62283',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+
+        )
+    </script>
+
+
+
+        <div class="workshopevent-date" id="bookmark-here-62283">
+            Sat 1:05 p.m. - 1:20 p.m.
+        </div>
+    </td>
+    <td>
+
+            <a class="workshopevent-detail" data-toggle="collapse" href="#collapse62283" role="button" aria-expanded="false" aria-controls="collapse62283">
+
+        <strong title="In-person Presentation, Prerecorded Backup | id: 62283">
+            Multi-Agent Reinforcement Learning for Microprocessor Design Space Exploration
+        </strong>
+
+
+            </a>
+
+
+            <small>(Spotlight)</small>
+
+
+
+               <span>
+                   <div></div><div>
+                <span class="nowrap" style="white-space:nowrap">
+                [<a href="https://openreview.net/forum?id=F-vVJHFJaT" class="btn btn-default btn-xs href_URL" title="OpenReview">
+                <i class="fa fa-link" aria-hidden="true"></i> OpenReview</a>]&nbsp;
+                </span>
+            </div><div></div><div></div><div></div>
+               </span>
+
+
+         &nbsp;<a href="https://openreview.net/forum?id=F-vVJHFJaT">link »</a>
+
+
+        <div>
+            <div class="collapse" id="collapse62283">
+                <div class="card card-body">
+
+                        <p>Microprocessor architects are increasingly resorting to domain-specific customization in the quest for high-performance and energy-efficiency. As the systems growin complexity, fine-tuning architectural parameters across multiple sub-systems (e.g., datapath, memory blocks in different hierarchies, interconnects, compileroptimization, etc.)  quickly results in a combinatorial explosion of design space.This makes domain-specific customization an extremely challenging task. Prior work explores using reinforcement learning (RL) and other optimization methods to automatically explore the large design space.  However, these methods have traditionally relied on single-agent RL/ML formulations. It is unclear how scalable single-agent formulations are as we increase the complexity of the design space (e.g., full stack System-on-Chip design).  Therefore, we propose an alternative formulation that leverages Multi-Agent RL (MARL) to tackle this problem. The key idea behind using MARL is an observation that parameters across different sub-systems are more or less independent, thus allowing a decentralized role as-signed to each agent. We test this hypothesis by designing domain-specific DRAMmemory controller for several workload traces.  Our evaluation shows that the MARL formulation consistently outperforms single-agent RL baselines such as Proximal Policy Optimization and Soft Actor-Critic over different target objectives such as low power and latency. To this end, this work opens the pathway for new and promising research in MARL solutions for hardware architecture search.</p>
+
+
+
+                        <div><a href="https://openreview.net/forum?id=F-vVJHFJaT">Link »</a></div>
+
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+
+            <i>Srivatsan Krishnan · Natasha Jaques · Shayegan Omidshafiei · Dan Zhang · Izzeddin Gur · Vijay Janapa Reddi · Aleksandra Faust</i>
+
+        <a href="#wse-detail-62283" class="hover-anchor float-right small">🔗</a>
+
+    </td>
+
+</tr>
+
+
+
+<tr style="border-style:none !important;position: relative;height:100%" class="hover-link" id="wse-detail-62286">
+    <td style="width:25%;height:100%">
+
+
+
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-62286"></span>
+
+    <script>
+        add_bookmark_click(
+            62286,
+             1,
+            'bookmark-event-62286',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+
+        )
+    </script>
+
+
+
+        <div class="workshopevent-date" id="bookmark-here-62286">
+            Sat 1:30 p.m. - 1:45 p.m.
+        </div>
+    </td>
+    <td>
+
+            <a class="workshopevent-detail" data-toggle="collapse" href="#collapse62286" role="button" aria-expanded="false" aria-controls="collapse62286">
+
+        <strong title="In-person Presentation, Prerecorded Backup | id: 62286">
+            Implementing Reinforcement Learning Datacenter Congestion Control in NVIDIA NICs
+        </strong>
+
+
+            </a>
+
+
+            <small>(Spotlight)</small>
+
+
+
+               <span>
+                   <div></div><div>
+                <span class="nowrap" style="white-space:nowrap">
+                [<a href="https://openreview.net/forum?id=Y4a7sqXsiT" class="btn btn-default btn-xs href_URL" title="OpenReview">
+                <i class="fa fa-link" aria-hidden="true"></i> OpenReview</a>]&nbsp;
+                </span>
+            </div><div></div><div></div><div></div>
+               </span>
+
+
+         &nbsp;<a href="https://openreview.net/forum?id=Y4a7sqXsiT">link »</a>
+
+
+            &nbsp;&nbsp;<br>
+            <a class="btn btn-sm btn-secondary" data-toggle="collapse" href="#collapse-sl-62286" role="button" aria-expanded="false" aria-controls="collapse-sl-62286">SlidesLive Video »</a>
+
+
+            <div class="collapse" id="collapse-sl-62286">
+                <div class="card card-body">
+                    <div id="presentation-embed-38994646" class="slp my-auto"></div>
+                    <script>
+                      $('#collapse-sl-62286').on('show.bs.collapse', (function () {
+                            let executed_once = false;
+                            return function () {
+                              if (!executed_once) {
+                                executed_once = true
+                                console.log("SlidesLiveEmbed for id 38994646")
+                                embed = new SlidesLiveEmbed('presentation-embed-38994646', {
+                                  presentationId: '38994646',
+                                  autoPlay: false, // change to true to autoplay the embedded presentation
+                                  verticalEnabled: true,
+                                  allowHiddenControlsWhenPaused: true,
+                                  hideTitle: true
+                                });
+                              }
+                            }
+                          })()
+                      )
+                    </script>
+                </div>
+            </div>
+
+
+        <div>
+            <div class="collapse" id="collapse62286">
+                <div class="card card-body">
+
+                        Cloud datacenters are exponentially growing both in numbers and size. This increase results in a network activity surge that warrants better congestion avoidance. The resulting challenge is two-fold: (i) designing algorithms that can be custom-tuned to the complex traffic patterns of a given datacenter;  but, at the same time (ii) run on low-level hardware with the required low latency of effective Congestion Control (CC). In this work, we present a Reinforcement Learning (RL) based CC solution that learns from certain traffic scenarios and successfully generalizes to others. We then distill the RL neural network policy into binary decision trees to achieve the desired $\mu$sec decision latency required for real-time inference. We deploy the distilled policy on NVIDIA NICs in a real network and demonstrate state-of-the-art performance, balancing all tested metrics simultaneously: bandwidth, latency, fairness, and  drops.
+
+
+                        <div><a href="https://openreview.net/forum?id=Y4a7sqXsiT">Link »</a></div>
+
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+
+            <i>Benjamin Fuhrer · Yuval Shpigelman · Chen Tessler · Shie Mannor · Gal Chechik · Eitan Zahavi · Gal Dalal</i>
+
+        <a href="#wse-detail-62286" class="hover-anchor float-right small">🔗</a>
+
+    </td>
+
+</tr>
+
+
+
+<tr style="border-style:none !important;position: relative;height:100%" class="hover-link" id="wse-detail-63707">
+    <td style="width:25%;height:100%">
+
+
+
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-63707"></span>
+
+    <script>
+        add_bookmark_click(
+            63707,
+             1,
+            'bookmark-event-63707',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+
+        )
+    </script>
+
+
+
+        <div class="workshopevent-date" id="bookmark-here-63707">
+            Sat 1:55 p.m. - 2:40 p.m.
+        </div>
+    </td>
+    <td>
+
+        <strong title="In-person Presentation, Prerecorded Backup | id: 63707">
+            Steve Keckler - Invited Talk
+        </strong>
+
+
+
+            <small>(Talk)</small>
+
+
+
+               <span>
+                   <div></div><div></div><div></div><div></div><div></div>
+               </span>
+
+
+
+
+
+        <div>
+            <div class="collapse" id="collapse63707">
+                <div class="card card-body">
+
+
+
+
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+
+            <i>Stephen Keckler</i>
+
+        <a href="#wse-detail-63707" class="hover-anchor float-right small">🔗</a>
+
+    </td>
+
+</tr>
+
+
+
+<tr style="border-style:none !important;position: relative;height:100%" class="hover-link" id="wse-detail-65365">
+    <td style="width:25%;height:100%">
+
+
+
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-65365"></span>
+
+    <script>
+        add_bookmark_click(
+            65365,
+             1,
+            'bookmark-event-65365',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+
+        )
+    </script>
+
+
+
+        <div class="workshopevent-date" id="bookmark-here-65365">
+            Sat 1:55 p.m. - 2:25 p.m.
+        </div>
+    </td>
+    <td>
+
+        <strong title="Break | id: 65365">
+            Poster Session | Coffee Break
+        </strong>
+
+
+
+            <small>(Break)</small>
+
+
+
+               <span>
+                   <div></div><div></div><div></div><div></div><div></div>
+               </span>
+
+
+
+
+
+        <div>
+            <div class="collapse" id="collapse65365">
+                <div class="card card-body">
+
+
+
+
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+
+            <i></i>
+
+        <a href="#wse-detail-65365" class="hover-anchor float-right small">🔗</a>
+
+    </td>
+
+</tr>
+
+
+
+<tr style="border-style:none !important;position: relative;height:100%" class="hover-link" id="wse-detail-63708">
+    <td style="width:25%;height:100%">
+
+
+
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-63708"></span>
+
+    <script>
+        add_bookmark_click(
+            63708,
+             1,
+            'bookmark-event-63708',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+
+        )
+    </script>
+
+
+
+        <div class="workshopevent-date" id="bookmark-here-63708">
+            Sat 2:50 p.m. - 3:35 p.m.
+        </div>
+    </td>
+    <td>
+
+        <strong title="In-person Presentation, Prerecorded Backup | id: 63708">
+            Newsha Ardalani - Invited Talk
+        </strong>
+
+
+
+            <small>(Talk)</small>
+
+
+
+               <span>
+                   <div></div><div></div><div></div><div></div><div></div>
+               </span>
+
+
+
+
+
+        <div>
+            <div class="collapse" id="collapse63708">
+                <div class="card card-body">
+
+
+
+
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+
+            <i>Newsha Ardalani</i>
+
+        <a href="#wse-detail-63708" class="hover-anchor float-right small">🔗</a>
+
+    </td>
+
+</tr>
+
+
+
+<tr style="border-style:none !important;position: relative;height:100%" class="hover-link" id="wse-detail-63709">
+    <td style="width:25%;height:100%">
+
+
+
+    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-63709"></span>
+
+    <script>
+        add_bookmark_click(
+            63709,
+             1,
+            'bookmark-event-63709',
+            'Add/Remove bookmark for this event',
+            'Add/Remove bookmark for this event'
+
+        )
+    </script>
+
+
+
+        <div class="workshopevent-date" id="bookmark-here-63709">
+            Sat 3:45 p.m. - 4:30 p.m.
+        </div>
+    </td>
+    <td>
+
+        <strong title="In-person Presentation, Prerecorded Backup | id: 63709">
+            Riyadh Baghdadi - Invited Talk
+        </strong>
+
+
+
+            <small>(Talk)</small>
+
+
+
+               <span>
+                   <div></div><div></div><div></div><div></div><div></div>
+               </span>
+
+
+
+
+
+        <div>
+            <div class="collapse" id="collapse63709">
+                <div class="card card-body">
+
+
+
+
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+
+            <i>Riyadh Baghdadi</i>
+
+        <a href="#wse-detail-63709" class="hover-anchor float-right small">🔗</a>
+
+    </td>
+
+</tr>
+
+
+
+<tr style="border-style:none !important;position: relative;height:100%" class="hover-link" id="wse-detail-62267">
+    <td style="width:25%;height:100%">
+
+        <div class="workshopevent-date" id="bookmark-here-62267">
+             -
+        </div>
+    </td>
+    <td>
+
+            <a class="workshopevent-detail" data-toggle="collapse" href="#collapse62267" role="button" aria-expanded="false" aria-controls="collapse62267">
+
+        <strong title="Prerecorded, on-demand, not streamed during event | id: 62267">
+            Towards Continually Learning Application Performance Models
+        </strong>
+
+
+            </a>
+
+
+            <small>(Poster - Recorded Presentation)</small>
+
+
+
+               <span>
+                   <div></div><div>
+                <span class="nowrap" style="white-space:nowrap">
+                [<a href="/media/PosterPDFs/NeurIPS%202022/62267.png?t=1669846303.9997802" class="btn btn-default btn-xs href_Poster" title="Poster">
+                <i class="fa fa-file-image-o"></i> Poster</a>]&nbsp;
+                </span>
+
+                <span class="nowrap" style="white-space:nowrap">
+                [<a href="https://openreview.net/forum?id=apAsvPTeKor" class="btn btn-default btn-xs href_URL" title="OpenReview">
+                <i class="fa fa-link" aria-hidden="true"></i> OpenReview</a>]&nbsp;
+                </span>
+            </div><div></div><div></div><div></div>
+               </span>
+
+
+         &nbsp;<a href="https://openreview.net/forum?id=apAsvPTeKor">link »</a>
+
+
+            &nbsp;&nbsp;<br>
+            <a class="btn btn-sm btn-secondary" data-toggle="collapse" href="#collapse-sl-62267" role="button" aria-expanded="false" aria-controls="collapse-sl-62267">SlidesLive Video »</a>
+
+
+            <div class="collapse" id="collapse-sl-62267">
+                <div class="card card-body">
+                    <div id="presentation-embed-38994662" class="slp my-auto"></div>
+                    <script>
+                      $('#collapse-sl-62267').on('show.bs.collapse', (function () {
+                            let executed_once = false;
+                            return function () {
+                              if (!executed_once) {
+                                executed_once = true
+                                console.log("SlidesLiveEmbed for id 38994662")
+                                embed = new SlidesLiveEmbed('presentation-embed-38994662', {
+                                  presentationId: '38994662',
+                                  autoPlay: false, // change to true to autoplay the embedded presentation
+                                  verticalEnabled: true,
+                                  allowHiddenControlsWhenPaused: true,
+                                  hideTitle: true
+                                });
+                              }
+                            }
+                          })()
+                      )
+                    </script>
+                </div>
+            </div>
+
+
+        <div>
+            <div class="collapse" id="collapse62267">
+                <div class="card card-body">
+
+                        <p>Machine learning-based performance models are increasingly being used to build critical job scheduling and application optimization decisions. Traditionally, these models assume that data distribution does not change as more samples are collected over time. However, owing to the complexity and heterogeneity of production HPC systems, they are susceptible to hardware degradation, replacement, and/or software patches, which can lead to drift in the data distribution that can adversely affect the performance models. To this end, we develop continually learning performance models that account for the distribution drift, alleviate catastrophic forgetting, and improve generalizability. Our best model was able to retain accuracy, regardless of having to learn the new distribution of data inflicted by system changes, while demonstrating a 2X improvement in the prediction accuracy of the whole data sequence in comparison to the naive approach.</p>
+
+
+
+                        <div><a href="https://openreview.net/forum?id=apAsvPTeKor">Link »</a></div>
+
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+
+            <i>Ray Sinurat · Sandeep Madireddy · Anurag Daram · Haryadi Gunawi · Robert Ross</i>
+
+        <a href="#wse-detail-62267" class="hover-anchor float-right small">🔗</a>
+
+    </td>
+
+</tr>
+
+
+
+<tr style="border-style:none !important;position: relative;height:100%" class="hover-link" id="wse-detail-62268">
+    <td style="width:25%;height:100%">
+
+        <div class="workshopevent-date" id="bookmark-here-62268">
+             -
+        </div>
+    </td>
+    <td>
+
+            <a class="workshopevent-detail" data-toggle="collapse" href="#collapse62268" role="button" aria-expanded="false" aria-controls="collapse62268">
+
+        <strong title="Link Only (appears in the schedule, but no SlidesLive) | id: 62268">
+            Learning to Drive Software-Defined Storage
+        </strong>
+
+
+            </a>
+
+
+            <small>(Poster)</small>
+
+
+
+               <span>
+                   <div></div><div>
+                <span class="nowrap" style="white-space:nowrap">
+                [<a href="https://openreview.net/forum?id=un65IC_PbqJ" class="btn btn-default btn-xs href_URL" title="OpenReview">
+                <i class="fa fa-link" aria-hidden="true"></i> OpenReview</a>]&nbsp;
+                </span>
+            </div><div></div><div></div><div></div>
+               </span>
+
+
+         &nbsp;<a href="https://openreview.net/forum?id=un65IC_PbqJ">link »</a>
+
+
+        <div>
+            <div class="collapse" id="collapse62268">
+                <div class="card card-body">
+
+                        <p>Thanks to the development of manufacturing technology, storage devices suchas solid-state drives (SSDs) are becoming highly customizable to meet the ever-increasing demands on storage performance and capacity for different applications(i.e., software-defined storage). However, it is challenging to develop optimizedstorage devices with current human-driven systems-building approaches, due tothe complicated storage stack. In this paper, we present learning-based approachesto facilitating the development of software-defined storage. To accelerate themanufacturing of efficient storage devices, we enable the automated learning ofoptimized hardware specifications for developing customized storage devices forspecific application types. Our preliminary study shows that utilizing learning-based techniques to drive the development of software-defined storage is promising.</p>
+
+
+
+                        <div><a href="https://openreview.net/forum?id=un65IC_PbqJ">Link »</a></div>
+
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+
+            <i>Jian Huang · Daixuan Li · Jinghan Sun</i>
+
+        <a href="#wse-detail-62268" class="hover-anchor float-right small">🔗</a>
+
+    </td>
+
+</tr>
+
+
+
+<tr style="border-style:none !important;position: relative;height:100%" class="hover-link" id="wse-detail-62270">
+    <td style="width:25%;height:100%">
+
+        <div class="workshopevent-date" id="bookmark-here-62270">
+             -
+        </div>
+    </td>
+    <td>
+
+            <a class="workshopevent-detail" data-toggle="collapse" href="#collapse62270" role="button" aria-expanded="false" aria-controls="collapse62270">
+
+        <strong title="Link Only (appears in the schedule, but no SlidesLive) | id: 62270">
+            Predicting Network Buffer Capacity for BBR Fairness
+        </strong>
+
+
+            </a>
+
+
+            <small>(Poster)</small>
+
+
+
+               <span>
+                   <div></div><div>
+                <span class="nowrap" style="white-space:nowrap">
+                [<a href="https://openreview.net/forum?id=dF6syCK0TvR" class="btn btn-default btn-xs href_URL" title="OpenReview">
+                <i class="fa fa-link" aria-hidden="true"></i> OpenReview</a>]&nbsp;
+                </span>
+            </div><div></div><div></div><div></div>
+               </span>
+
+
+         &nbsp;<a href="https://openreview.net/forum?id=dF6syCK0TvR">link »</a>
+
+
+        <div>
+            <div class="collapse" id="collapse62270">
+                <div class="card card-body">
+
+                        <p>BBR is a newer TCP congestion control algorithm with promising features, but it can often be unfair to existing loss-based congestion-control algorithms.  This is because BBR's sending rate is dictated by static parameters that do not adapt well to dynamic and diverse network conditions.  In this work, we introduce BBR-ML, an in-kernel ML-based tuning system for BBR, designed to improve fairness when in competition with loss-based congestion control.  To build BBR-ML, we discretized the network condition search space and trained a model on 2,500 different network conditions.  We then modified BBR to run an in-kernel model to predict network buffer sizes, and then use this prediction for optimal parameter settings.  Our preliminary evaluation results show that BBR-ML can improve fairness when in competition with Cubic by up to 30% in some cases.</p>
+
+
+
+                        <div><a href="https://openreview.net/forum?id=dF6syCK0TvR">Link »</a></div>
+
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+
+            <i>Ibrahim Umit Akgun · Santiago Vargas · Andrew Burford · Michael McNeill · Michael Arkhangelskiy · Aruna Balasubramanian · Anshul Gandhi · Erez Zadok</i>
+
+        <a href="#wse-detail-62270" class="hover-anchor float-right small">🔗</a>
+
+    </td>
+
+</tr>
+
+
+
+<tr style="border-style:none !important;position: relative;height:100%" class="hover-link" id="wse-detail-62272">
+    <td style="width:25%;height:100%">
+
+        <div class="workshopevent-date" id="bookmark-here-62272">
+             -
+        </div>
+    </td>
+    <td>
+
+            <a class="workshopevent-detail" data-toggle="collapse" href="#collapse62272" role="button" aria-expanded="false" aria-controls="collapse62272">
+
+        <strong title="Prerecorded, on-demand, not streamed during event | id: 62272">
+            LoopStack: ML-friendly ML Compiler Stack
+        </strong>
+
+
+            </a>
+
+
+            <small>(Poster - Recorded Presentation)</small>
+
+
+
+               <span>
+                   <div></div><div>
+                <span class="nowrap" style="white-space:nowrap">
+                [<a href="https://openreview.net/forum?id=3VTwQ-gbN0c" class="btn btn-default btn-xs href_URL" title="OpenReview">
+                <i class="fa fa-link" aria-hidden="true"></i> OpenReview</a>]&nbsp;
+                </span>
+            </div><div></div><div></div><div></div>
+               </span>
+
+
+         &nbsp;<a href="https://openreview.net/forum?id=3VTwQ-gbN0c">link »</a>
+
+
+        <div>
+            <div class="collapse" id="collapse62272">
+                <div class="card card-body">
+
+                        <p>We present LoopStack, a domain-specific compiler stack for tensor operations, composed of a front-end, LoopTool, and an efficient optimizing code generator, LoopNest. LoopStack is designed to produce highly efficient but also predictable code.  Such a design allows both experts, and more importantly, ML--based approaches to find good schedules (algorithms).  LoopStack is extensible and supports various processors and accelerators while incorporating HPC optimizations often missing from other machine learning compiler back-ends. To show the quality of the generated code we designed a rudimentary AI to search for schedules and compare the speed of generated code with the most optimized, hand-tuned libraries. Further, we show that for a large collection of schedules LoopNest's compilation is orders of magnitude faster than LLVM, while resulting in equal or improved run time performance.</p>
+
+
+
+                        <div><a href="https://openreview.net/forum?id=3VTwQ-gbN0c">Link »</a></div>
+
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+
+            <i>Bram Wasti · Dejan Grubisic · Benoit Steiner · Aleksandar Zlateski</i>
+
+        <a href="#wse-detail-62272" class="hover-anchor float-right small">🔗</a>
+
+    </td>
+
+</tr>
+
+
+
+<tr style="border-style:none !important;position: relative;height:100%" class="hover-link" id="wse-detail-62273">
+    <td style="width:25%;height:100%">
+
+        <div class="workshopevent-date" id="bookmark-here-62273">
+             -
+        </div>
+    </td>
+    <td>
+
+            <a class="workshopevent-detail" data-toggle="collapse" href="#collapse62273" role="button" aria-expanded="false" aria-controls="collapse62273">
+
+        <strong title="Prerecorded, on-demand, not streamed during event | id: 62273">
+            Automatic Discovery of Composite SPMD Partitioning Strategies in PartIR
+        </strong>
+
+
+            </a>
+
+
+            <small>(Poster - Recorded Presentation)</small>
+
+
+
+               <span>
+                   <div></div><div>
+                <span class="nowrap" style="white-space:nowrap">
+                [<a href="/media/PosterPDFs/NeurIPS%202022/62273.png?t=1668595894.1049094" class="btn btn-default btn-xs href_Poster" title="Poster">
+                <i class="fa fa-file-image-o"></i> Poster</a>]&nbsp;
+                </span>
+
+                <span class="nowrap" style="white-space:nowrap">
+                [<a href="https://openreview.net/forum?id=uy7MO1JOi5P" class="btn btn-default btn-xs href_URL" title="OpenReview">
+                <i class="fa fa-link" aria-hidden="true"></i> OpenReview</a>]&nbsp;
+                </span>
+            </div><div></div><div></div><div></div>
+               </span>
+
+
+         &nbsp;<a href="https://openreview.net/forum?id=uy7MO1JOi5P">link »</a>
+
+
+        <div>
+            <div class="collapse" id="collapse62273">
+                <div class="card card-body">
+
+                        <p>Large neural network models are commonly trained through a combination of advanced parallelism strategies in a single program, multiple data (SPMD) paradigm. For example, training large transformer models requires combining data, model, and pipeline partitioning; and optimizer sharding techniques. However, identifying efficient combinations for many model architectures and accelerator systems requires significant manual analysis. In this work, we present an automatic partitioner that identifies these combinations through a goal-oriented search. Our key findings are that a Monte Carlo Tree Search-based partitioner leveraging partition-specific compiler analysis directly into the search and guided goals matches expert-level strategies for various models.</p>
+
+
+
+                        <div><a href="https://openreview.net/forum?id=uy7MO1JOi5P">Link »</a></div>
+
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+
+            <i>Sami Alabed · Dominik Grewe · Juliana Franco · Bart Chrzaszcz · Tom Natan · Tamara Norman · Norman Rink · Dimitrios Vytiniotis · Michael Schaarschmidt</i>
+
+        <a href="#wse-detail-62273" class="hover-anchor float-right small">🔗</a>
+
+    </td>
+
+</tr>
+
+
+
+<tr style="border-style:none !important;position: relative;height:100%" class="hover-link" id="wse-detail-62274">
+    <td style="width:25%;height:100%">
+
+        <div class="workshopevent-date" id="bookmark-here-62274">
+             -
+        </div>
+    </td>
+    <td>
+
+            <a class="workshopevent-detail" data-toggle="collapse" href="#collapse62274" role="button" aria-expanded="false" aria-controls="collapse62274">
+
+        <strong title="Prerecorded, on-demand, not streamed during event | id: 62274">
+            Multi-objective Reinforcement Learning with Adaptive Pareto Reset for Prefix Adder Design
+        </strong>
+
+
+            </a>
+
+
+            <small>(Poster - Recorded Presentation)</small>
+
+
+
+               <span>
+                   <div></div><div>
+                <span class="nowrap" style="white-space:nowrap">
+                [<a href="https://openreview.net/forum?id=CYQB_hXr0mO" class="btn btn-default btn-xs href_URL" title="OpenReview">
+                <i class="fa fa-link" aria-hidden="true"></i> OpenReview</a>]&nbsp;
+                </span>
+            </div><div></div><div></div><div></div>
+               </span>
+
+
+         &nbsp;<a href="https://openreview.net/forum?id=CYQB_hXr0mO">link »</a>
+
+
+        <div>
+            <div class="collapse" id="collapse62274">
+                <div class="card card-body">
+
+                        <p>Many hardware design problems require navigating a combinatorial search space to find solutions that balance multiple conflicting objectives, e.g., area and delay. While traditional approaches rely on hand-tuned heuristics to combat the large search space, reinforcement learning (RL) has recently achieved promising results, effectively reducing the need for human expertise. However, the existing RL method has prohibitively high sample complexity requirements.In this paper, we present a novel multi-objective reinforcement learning algorithm for combinatorial optimization and apply it to automating designs for prefix adder circuits, which are fundamental to high-performance digital components. We propose to track the evolving Pareto frontier to adaptively select reset states for an episodic RL agent. Our proposed reset algorithm balances exploiting the best-discovered states so far and exploring nearby states to escape local optima. Through empirical evaluations with a real-world physical synthesis workflow on two different design tasks, we demonstrate that our new algorithm trains agents to expand the Pareto frontier faster compared to other baselines. In particular, our algorithm achieves comparable quality results with only 20% of the samples compared to the scalarized baseline. Additional ablation studies confirm that both exploration and exploitation components work together to accelerate the Pareto frontier expansion.</p>
+
+
+
+                        <div><a href="https://openreview.net/forum?id=CYQB_hXr0mO">Link »</a></div>
+
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+
+            <i>Jialin Song · Rajarshi Roy · Jonathan Raiman · Robert Kirby · Neel Kant · Saad Godil · Bryan Catanzaro</i>
+
+        <a href="#wse-detail-62274" class="hover-anchor float-right small">🔗</a>
+
+    </td>
+
+</tr>
+
+
+
+<tr style="border-style:none !important;position: relative;height:100%" class="hover-link" id="wse-detail-62275">
+    <td style="width:25%;height:100%">
+
+        <div class="workshopevent-date" id="bookmark-here-62275">
+             -
+        </div>
+    </td>
+    <td>
+
+            <a class="workshopevent-detail" data-toggle="collapse" href="#collapse62275" role="button" aria-expanded="false" aria-controls="collapse62275">
+
+        <strong title="Link Only (appears in the schedule, but no SlidesLive) | id: 62275">
+            Preference-Aware Constrained Multi-Objective Bayesian Optimization For Analog Circuit Design
+        </strong>
+
+
+            </a>
+
+
+            <small>(Poster)</small>
+
+
+
+               <span>
+                   <div></div><div>
+                <span class="nowrap" style="white-space:nowrap">
+                [<a href="/media/PosterPDFs/NeurIPS%202022/62275.png?t=1668645386.0848055" class="btn btn-default btn-xs href_Poster" title="Poster">
+                <i class="fa fa-file-image-o"></i> Poster</a>]&nbsp;
+                </span>
+
+                <span class="nowrap" style="white-space:nowrap">
+                [<a href="https://openreview.net/forum?id=oJOVP0y-kT" class="btn btn-default btn-xs href_URL" title="OpenReview">
+                <i class="fa fa-link" aria-hidden="true"></i> OpenReview</a>]&nbsp;
+                </span>
+            </div><div></div><div></div><div></div>
+               </span>
+
+
+         &nbsp;<a href="https://openreview.net/forum?id=oJOVP0y-kT">link »</a>
+
+
+        <div>
+            <div class="collapse" id="collapse62275">
+                <div class="card card-body">
+
+                        <p>Many analog circuit design optimization problems involve performing expensive simulations to evaluate circuit configurations in terms of multiple objectives and constraints; Oftentimes, practitioners have preferences over objectives. We aim to approximate the optimal Pareto set over feasible circuit configurations by minimizing the number of simulations. We propose a novel and efficient preference-aware constrained multi-objective Bayesian optimization (PAC-MOO) approach that learns surrogate models for objectives and constraints and sequentially selects candidate circuits for simulation that maximize the information gained about the optimal constrained Pareto-front while factoring in the objective preferences. Our experiments on real-world problems demonstrate PAC-MOO’s efficacy over prior methods.</p>
+
+
+
+                        <div><a href="https://openreview.net/forum?id=oJOVP0y-kT">Link »</a></div>
+
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+
+            <i>Alaleh Ahmadianshalchi · Syrine Belakaria · Jana Doppa</i>
+
+        <a href="#wse-detail-62275" class="hover-anchor float-right small">🔗</a>
+
+    </td>
+
+</tr>
+
+
+
+<tr style="border-style:none !important;position: relative;height:100%" class="hover-link" id="wse-detail-62276">
+    <td style="width:25%;height:100%">
+
+        <div class="workshopevent-date" id="bookmark-here-62276">
+             -
+        </div>
+    </td>
+    <td>
+
+            <a class="workshopevent-detail" data-toggle="collapse" href="#collapse62276" role="button" aria-expanded="false" aria-controls="collapse62276">
+
+        <strong title="Prerecorded, on-demand, not streamed during event | id: 62276">
+            The Case for Learning Machine Language
+        </strong>
+
+
+            </a>
+
+
+            <small>(Poster - Recorded Presentation)</small>
+
+
+
+               <span>
+                   <div></div><div>
+                <span class="nowrap" style="white-space:nowrap">
+                [<a href="/media/PosterPDFs/NeurIPS%202022/62276.png?t=1668243053.2928407" class="btn btn-default btn-xs href_Poster" title="Poster">
+                <i class="fa fa-file-image-o"></i> Poster</a>]&nbsp;
+                </span>
+
+                <span class="nowrap" style="white-space:nowrap">
+                [<a href="https://openreview.net/forum?id=6nlwnOS-1_" class="btn btn-default btn-xs href_URL" title="OpenReview">
+                <i class="fa fa-link" aria-hidden="true"></i> OpenReview</a>]&nbsp;
+                </span>
+            </div><div></div><div></div><div></div>
+               </span>
+
+
+         &nbsp;<a href="https://openreview.net/forum?id=6nlwnOS-1_">link »</a>
+
+
+            &nbsp;&nbsp;<br>
+            <a class="btn btn-sm btn-secondary" data-toggle="collapse" href="#collapse-sl-62276" role="button" aria-expanded="false" aria-controls="collapse-sl-62276">SlidesLive Video »</a>
+
+
+            <div class="collapse" id="collapse-sl-62276">
+                <div class="card card-body">
+                    <div id="presentation-embed-38994664" class="slp my-auto"></div>
+                    <script>
+                      $('#collapse-sl-62276').on('show.bs.collapse', (function () {
+                            let executed_once = false;
+                            return function () {
+                              if (!executed_once) {
+                                executed_once = true
+                                console.log("SlidesLiveEmbed for id 38994664")
+                                embed = new SlidesLiveEmbed('presentation-embed-38994664', {
+                                  presentationId: '38994664',
+                                  autoPlay: false, // change to true to autoplay the embedded presentation
+                                  verticalEnabled: true,
+                                  allowHiddenControlsWhenPaused: true,
+                                  hideTitle: true
+                                });
+                              }
+                            }
+                          })()
+                      )
+                    </script>
+                </div>
+            </div>
+
+
+        <div>
+            <div class="collapse" id="collapse62276">
+                <div class="card card-body">
+
+                        <p>This paper focuses on enabling modern processors to better predict upcoming instructions that will be executed, in order to improve instruction-related speculations at runtime. Using branch prediction as a case study, we take the first step to motivate the potential of learning semantic correlations in machine language (i.e., CPU instructions), and we demonstrate how to apply language modeling to machine language. Although various approaches have been proposed for instruction-related runtime speculations, they remain general-purpose and rely on language-agnostic features. Furthermore, we present a branch predictor design that takes advantage of our Transformer-based language model. Empirical results from SPEC-CPU-2017 benchmarks (on RISC-V) show that language modeling can improve the branch prediction accuracy by up to 11.03%, and the processor IPC by up to 21.16%.</p>
+
+
+
+                        <div><a href="https://openreview.net/forum?id=6nlwnOS-1_">Link »</a></div>
+
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+
+            <i>Guangda Liu · Chieh-Jan Mike Liang · Shijie Cao · Shuai Lu · Leendert van Doorn</i>
+
+        <a href="#wse-detail-62276" class="hover-anchor float-right small">🔗</a>
+
+    </td>
+
+</tr>
+
+
+
+<tr style="border-style:none !important;position: relative;height:100%" class="hover-link" id="wse-detail-62277">
+    <td style="width:25%;height:100%">
+
+        <div class="workshopevent-date" id="bookmark-here-62277">
+             -
+        </div>
+    </td>
+    <td>
+
+            <a class="workshopevent-detail" data-toggle="collapse" href="#collapse62277" role="button" aria-expanded="false" aria-controls="collapse62277">
+
+        <strong title="Prerecorded, on-demand, not streamed during event | id: 62277">
+            HloEnv: A Graph Rewrite Environment for Deep Learning Compiler Optimization Research
+        </strong>
+
+
+            </a>
+
+
+            <small>(Poster - Recorded Presentation)</small>
+
+
+
+               <span>
+                   <div></div><div>
+                <span class="nowrap" style="white-space:nowrap">
+                [<a href="/media/PosterPDFs/NeurIPS%202022/62277.png?t=1669787480.18864" class="btn btn-default btn-xs href_Poster" title="Poster">
+                <i class="fa fa-file-image-o"></i> Poster</a>]&nbsp;
+                </span>
+
+                <span class="nowrap" style="white-space:nowrap">
+                [<a href="https://openreview.net/forum?id=3gsBTrhZXr" class="btn btn-default btn-xs href_URL" title="OpenReview">
+                <i class="fa fa-link" aria-hidden="true"></i> OpenReview</a>]&nbsp;
+                </span>
+            </div><div></div><div></div><div></div>
+               </span>
+
+
+         &nbsp;<a href="https://openreview.net/forum?id=3gsBTrhZXr">link »</a>
+
+
+        <div>
+            <div class="collapse" id="collapse62277">
+                <div class="card card-body">
+
+                        <p>We introduce HloEnv, an environment based on Accelerated Linear Algebra (XLA) for deep learning (DL) compiler optimization research. HloEnv transforms all graph rewrites into a common representation, providing a flexible interface to control and modify existing graph optimization passes. In this representation, an XLA pass is converted into a set of sequential rewrite decisions, which control when and if the rewrites are applied. Along with HloEnv, we present a dataset with broad coverage of computation graphs drawn from modern real-world machine learning models. We select two XLA passes with the largest impact on the runtime of the compiled program, and explore the potential for further improvement over XLA in this decision space. We show that using simple heuristics for decision-making can achieve on-par or better performance than XLA. Using search algorithms further boosts performance. We intend for HloEnv and our dataset to be an open-source, community-driven effort that helps spur advances in DL compiler optimization research.</p>
+
+
+
+                        <div><a href="https://openreview.net/forum?id=3gsBTrhZXr">Link »</a></div>
+
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+
+            <i>Chin Yang Oh · Kunhao Zheng · Bingyi Kang · Xinyi Wan · Zhongwen Xu · Shuicheng Yan · Min Lin · Yangzihao Wang</i>
+
+        <a href="#wse-detail-62277" class="hover-anchor float-right small">🔗</a>
+
+    </td>
+
+</tr>
+
+
+
+<tr style="border-style:none !important;position: relative;height:100%" class="hover-link" id="wse-detail-62278">
+    <td style="width:25%;height:100%">
+
+        <div class="workshopevent-date" id="bookmark-here-62278">
+             -
+        </div>
+    </td>
+    <td>
+
+            <a class="workshopevent-detail" data-toggle="collapse" href="#collapse62278" role="button" aria-expanded="false" aria-controls="collapse62278">
+
+        <strong title="Prerecorded, on-demand, not streamed during event | id: 62278">
+            Robust Scheduling with GFlowNets
+        </strong>
+
+
+            </a>
+
+
+            <small>(Poster - Recorded Presentation)</small>
+
+
+
+               <span>
+                   <div></div><div>
+                <span class="nowrap" style="white-space:nowrap">
+                [<a href="/media/PosterPDFs/NeurIPS%202022/62278.png?t=1669642854.4510999" class="btn btn-default btn-xs href_Poster" title="Poster">
+                <i class="fa fa-file-image-o"></i> Poster</a>]&nbsp;
+                </span>
+
+                <span class="nowrap" style="white-space:nowrap">
+                [<a href="https://openreview.net/forum?id=daDg1OsP8i" class="btn btn-default btn-xs href_URL" title="OpenReview">
+                <i class="fa fa-link" aria-hidden="true"></i> OpenReview</a>]&nbsp;
+                </span>
+            </div><div></div><div></div><div></div>
+               </span>
+
+
+         &nbsp;<a href="https://openreview.net/forum?id=daDg1OsP8i">link »</a>
+
+
+            &nbsp;&nbsp;<br>
+            <a class="btn btn-sm btn-secondary" data-toggle="collapse" href="#collapse-sl-62278" role="button" aria-expanded="false" aria-controls="collapse-sl-62278">SlidesLive Video »</a>
+
+
+            <div class="collapse" id="collapse-sl-62278">
+                <div class="card card-body">
+                    <div id="presentation-embed-38994669" class="slp my-auto"></div>
+                    <script>
+                      $('#collapse-sl-62278').on('show.bs.collapse', (function () {
+                            let executed_once = false;
+                            return function () {
+                              if (!executed_once) {
+                                executed_once = true
+                                console.log("SlidesLiveEmbed for id 38994669")
+                                embed = new SlidesLiveEmbed('presentation-embed-38994669', {
+                                  presentationId: '38994669',
+                                  autoPlay: false, // change to true to autoplay the embedded presentation
+                                  verticalEnabled: true,
+                                  allowHiddenControlsWhenPaused: true,
+                                  hideTitle: true
+                                });
+                              }
+                            }
+                          })()
+                      )
+                    </script>
+                </div>
+            </div>
+
+
+        <div>
+            <div class="collapse" id="collapse62278">
+                <div class="card card-body">
+
+                        <p>Finding the best way to schedule operations in a computation graph is a classical NP-hard problem which is central to compiler optimization. However, evaluating the goodness of a schedule on the target hardware can be very time-consuming. Traditional approaches as well as previous machine learning ones typically optimize proxy metrics, which are fast to evaluate but can lead to bad schedules when tested on the target hardware. In this work, we propose a new approach to scheduling by sampling proportionally to the proxy metric using a novel GFlowNet method. We introduce a technique to control the trade-off between diversity and goodness of the proposed schedules at inference time and demonstrate empirically that the pure optimization baselines can lead to subpar performance with respect to our approach when tested on a target model. Furthermore, we show that conditioning the GFlowNet on the computation graph enables generalization to unseen scheduling problems for both synthetic and real-world compiler datasets.</p>
+
+
+
+                        <div><a href="https://openreview.net/forum?id=daDg1OsP8i">Link »</a></div>
+
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+
+            <i>David Zhang · Corrado Rainone · Markus Peschl · Roberto Bondesan</i>
+
+        <a href="#wse-detail-62278" class="hover-anchor float-right small">🔗</a>
+
+    </td>
+
+</tr>
+
+
+
+<tr style="border-style:none !important;position: relative;height:100%" class="hover-link" id="wse-detail-62279">
+    <td style="width:25%;height:100%">
+
+        <div class="workshopevent-date" id="bookmark-here-62279">
+             -
+        </div>
+    </td>
+    <td>
+
+            <a class="workshopevent-detail" data-toggle="collapse" href="#collapse62279" role="button" aria-expanded="false" aria-controls="collapse62279">
+
+        <strong title="Prerecorded, on-demand, not streamed during event | id: 62279">
+            A code superoptimizer through neural Monte-Carlo tree search
+        </strong>
+
+
+            </a>
+
+
+            <small>(Poster - Recorded Presentation)</small>
+
+
+
+               <span>
+                   <div></div><div>
+                <span class="nowrap" style="white-space:nowrap">
+                [<a href="https://openreview.net/forum?id=ilUBhk-I8Q" class="btn btn-default btn-xs href_URL" title="OpenReview">
+                <i class="fa fa-link" aria-hidden="true"></i> OpenReview</a>]&nbsp;
+                </span>
+            </div><div></div><div></div><div></div>
+               </span>
+
+
+         &nbsp;<a href="https://openreview.net/forum?id=ilUBhk-I8Q">link »</a>
+
+
+            &nbsp;&nbsp;<br>
+            <a class="btn btn-sm btn-secondary" data-toggle="collapse" href="#collapse-sl-62279" role="button" aria-expanded="false" aria-controls="collapse-sl-62279">SlidesLive Video »</a>
+
+
+            <div class="collapse" id="collapse-sl-62279">
+                <div class="card card-body">
+                    <div id="presentation-embed-38994668" class="slp my-auto"></div>
+                    <script>
+                      $('#collapse-sl-62279').on('show.bs.collapse', (function () {
+                            let executed_once = false;
+                            return function () {
+                              if (!executed_once) {
+                                executed_once = true
+                                console.log("SlidesLiveEmbed for id 38994668")
+                                embed = new SlidesLiveEmbed('presentation-embed-38994668', {
+                                  presentationId: '38994668',
+                                  autoPlay: false, // change to true to autoplay the embedded presentation
+                                  verticalEnabled: true,
+                                  allowHiddenControlsWhenPaused: true,
+                                  hideTitle: true
+                                });
+                              }
+                            }
+                          })()
+                      )
+                    </script>
+                </div>
+            </div>
+
+
+        <div>
+            <div class="collapse" id="collapse62279">
+                <div class="card card-body">
+
+                        <p>There are many ways to turn a high-level program into a sequence of instructions consistent with that computation. Selecting the most performant such instruction sequence for a given piece of hardware - optimized compilation - is a central challenge of computer science. Optimizing compilers perform this task through a series of reductions and local transformations (e.g. register allocation, instruction scheduling, peephole optimization) driven by heuristics. A natural and well-explored avenue of research is to replace current hand-written heuristics by data-driven, automatically-designed heuristics which may be obtained from machine learning. We propose a radically different approach, in which we view compilation as a combinatorial optimization problem which consists of finding the optimal (e.g. fastest executing or shortest) sequence of instructions subject to the constraint that it has the semantics of the specified program. We show how this problem can be practically framed as a finite Markov decision process, unlocking a rich space of potential algorithms from reinforcement learning. We implement one such algorithm in particular, an AlphaGo-like distributed neural Monte-Carlo tree search procedure, and  demonstrate that it is able to directly generate optimized assembly. Unlike a traditional optimizing compiler, this approach does not rely on an existing library of optimizations to transform the code, but rather directly attempts to generate the most optimal program instruction-by-instruction, taking into account effects including register allocation, instruction scheduling and operation fusion.</p>
+
+
+
+                        <div><a href="https://openreview.net/forum?id=ilUBhk-I8Q">Link »</a></div>
+
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+
+            <i>Wenda Zhou · Olga Solodova · Ryan Adams</i>
+
+        <a href="#wse-detail-62279" class="hover-anchor float-right small">🔗</a>
+
+    </td>
+
+</tr>
+
+
+
+<tr style="border-style:none !important;position: relative;height:100%" class="hover-link" id="wse-detail-62281">
+    <td style="width:25%;height:100%">
+
+        <div class="workshopevent-date" id="bookmark-here-62281">
+             -
+        </div>
+    </td>
+    <td>
+
+            <a class="workshopevent-detail" data-toggle="collapse" href="#collapse62281" role="button" aria-expanded="false" aria-controls="collapse62281">
+
+        <strong title="Prerecorded, on-demand, not streamed during event | id: 62281">
+            Target-independent XLA optimization using Reinforcement Learning
+        </strong>
+
+
+            </a>
+
+
+            <small>(Poster - Recorded Presentation)</small>
+
+
+
+               <span>
+                   <div></div><div>
+                <span class="nowrap" style="white-space:nowrap">
+                [<a href="/media/PosterPDFs/NeurIPS%202022/62281.png?t=1669348840.6865642" class="btn btn-default btn-xs href_Poster" title="Poster">
+                <i class="fa fa-file-image-o"></i> Poster</a>]&nbsp;
+                </span>
+
+                <span class="nowrap" style="white-space:nowrap">
+                [<a href="https://openreview.net/forum?id=eEKVw4TiPM" class="btn btn-default btn-xs href_URL" title="OpenReview">
+                <i class="fa fa-link" aria-hidden="true"></i> OpenReview</a>]&nbsp;
+                </span>
+            </div><div></div><div></div><div></div>
+               </span>
+
+
+         &nbsp;<a href="https://openreview.net/forum?id=eEKVw4TiPM">link »</a>
+
+
+            &nbsp;&nbsp;<br>
+            <a class="btn btn-sm btn-secondary" data-toggle="collapse" href="#collapse-sl-62281" role="button" aria-expanded="false" aria-controls="collapse-sl-62281">SlidesLive Video »</a>
+
+
+            <div class="collapse" id="collapse-sl-62281">
+                <div class="card card-body">
+                    <div id="presentation-embed-38994661" class="slp my-auto"></div>
+                    <script>
+                      $('#collapse-sl-62281').on('show.bs.collapse', (function () {
+                            let executed_once = false;
+                            return function () {
+                              if (!executed_once) {
+                                executed_once = true
+                                console.log("SlidesLiveEmbed for id 38994661")
+                                embed = new SlidesLiveEmbed('presentation-embed-38994661', {
+                                  presentationId: '38994661',
+                                  autoPlay: false, // change to true to autoplay the embedded presentation
+                                  verticalEnabled: true,
+                                  allowHiddenControlsWhenPaused: true,
+                                  hideTitle: true
+                                });
+                              }
+                            }
+                          })()
+                      )
+                    </script>
+                </div>
+            </div>
+
+
+        <div>
+            <div class="collapse" id="collapse62281">
+                <div class="card card-body">
+
+                        An important challenge in Linear Algebra accelerated compilers like XLA is multi-pass optimization and analysis. There has been recent interest chiefly in XLA target-dependent optimization on the graph-level, subgraph-level, and kernel-level phases. We specifically focus on target-independent optimization pass ordering for XLA HLO, which is the problem of finding the optimal sequence of compiler optimization passes. However, there is little domain specific study in pass ordering for XLA HLO. To this end, we propose introducing deep Reinforcement Learning (RL) based search for optimal XLA HLO pass ordering. We also propose enhancements to the deep RL algorithms to further improve optimal search performance and open the research direction for domain-specific guidance for RL. We create an XLA Gym experimentation framework as a tool to enable RL algorithms to interact with the compiler for passing optimizations and thereby train agents. Overall, in our experimentation we observe an average of $13.3\%$ improvement in operation reduction on a benchmark of GPT-2 training graphs and $10.4\%$ improvement on a diverse benchmark including GPT-2, BERT, and ResNet graphs using the proposed approach over the compiler's default phase ordering.
+
+
+                        <div><a href="https://openreview.net/forum?id=eEKVw4TiPM">Link »</a></div>
+
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+
+            <i>Milan Ganai · Haichen Li · Theodore Enns · Yida Wang · Randy Huang</i>
+
+        <a href="#wse-detail-62281" class="hover-anchor float-right small">🔗</a>
+
+    </td>
+
+</tr>
+
+
+
+<tr style="border-style:none !important;position: relative;height:100%" class="hover-link" id="wse-detail-62282">
+    <td style="width:25%;height:100%">
+
+        <div class="workshopevent-date" id="bookmark-here-62282">
+             -
+        </div>
+    </td>
+    <td>
+
+            <a class="workshopevent-detail" data-toggle="collapse" href="#collapse62282" role="button" aria-expanded="false" aria-controls="collapse62282">
+
+        <strong title="Link Only (appears in the schedule, but no SlidesLive) | id: 62282">
+            Multi-Agent Reinforcement Learning for Microprocessor Design Space Exploration
+        </strong>
+
+
+            </a>
+
+
+            <small>(Poster)</small>
+
+
+
+               <span>
+                   <div></div><div>
+                <span class="nowrap" style="white-space:nowrap">
+                [<a href="https://openreview.net/forum?id=F-vVJHFJaT" class="btn btn-default btn-xs href_URL" title="OpenReview">
+                <i class="fa fa-link" aria-hidden="true"></i> OpenReview</a>]&nbsp;
+                </span>
+            </div><div></div><div></div><div></div>
+               </span>
+
+
+         &nbsp;<a href="https://openreview.net/forum?id=F-vVJHFJaT">link »</a>
+
+
+        <div>
+            <div class="collapse" id="collapse62282">
+                <div class="card card-body">
+
+                        <p>Microprocessor architects are increasingly resorting to domain-specific customization in the quest for high-performance and energy-efficiency. As the systems growin complexity, fine-tuning architectural parameters across multiple sub-systems (e.g., datapath, memory blocks in different hierarchies, interconnects, compileroptimization, etc.)  quickly results in a combinatorial explosion of design space.This makes domain-specific customization an extremely challenging task. Prior work explores using reinforcement learning (RL) and other optimization methods to automatically explore the large design space.  However, these methods have traditionally relied on single-agent RL/ML formulations. It is unclear how scalable single-agent formulations are as we increase the complexity of the design space (e.g., full stack System-on-Chip design).  Therefore, we propose an alternative formulation that leverages Multi-Agent RL (MARL) to tackle this problem. The key idea behind using MARL is an observation that parameters across different sub-systems are more or less independent, thus allowing a decentralized role as-signed to each agent. We test this hypothesis by designing domain-specific DRAMmemory controller for several workload traces.  Our evaluation shows that the MARL formulation consistently outperforms single-agent RL baselines such as Proximal Policy Optimization and Soft Actor-Critic over different target objectives such as low power and latency. To this end, this work opens the pathway for new and promising research in MARL solutions for hardware architecture search.</p>
+
+
+
+                        <div><a href="https://openreview.net/forum?id=F-vVJHFJaT">Link »</a></div>
+
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+
+            <i>Srivatsan Krishnan · Natasha Jaques · Shayegan Omidshafiei · Dan Zhang · Izzeddin Gur · Vijay Janapa Reddi · Aleksandra Faust</i>
+
+        <a href="#wse-detail-62282" class="hover-anchor float-right small">🔗</a>
+
+    </td>
+
+</tr>
+
+
+
+<tr style="border-style:none !important;position: relative;height:100%" class="hover-link" id="wse-detail-62284">
+    <td style="width:25%;height:100%">
+
+        <div class="workshopevent-date" id="bookmark-here-62284">
+             -
+        </div>
+    </td>
+    <td>
+
+            <a class="workshopevent-detail" data-toggle="collapse" href="#collapse62284" role="button" aria-expanded="false" aria-controls="collapse62284">
+
+        <strong title="Prerecorded, on-demand, not streamed during event | id: 62284">
+            An Efficient One-Class SVM for Novelty Detection in IoT
+        </strong>
+
+
+            </a>
+
+
+            <small>(Poster - Recorded Presentation)</small>
+
+
+
+               <span>
+                   <div></div><div>
+                <span class="nowrap" style="white-space:nowrap">
+                [<a href="/media/PosterPDFs/NeurIPS%202022/45c48cce2e2d7fbdea1afc51c7c6ad26.png?t=1667608617.0692976" class="btn btn-default btn-xs href_Poster" title="Poster">
+                <i class="fa fa-file-image-o"></i> Poster</a>]&nbsp;
+                </span>
+
+                <span class="nowrap" style="white-space:nowrap">
+                [<a href="https://openreview.net/forum?id=H9PgDS1BES" class="btn btn-default btn-xs href_URL" title="OpenReview">
+                <i class="fa fa-link" aria-hidden="true"></i> OpenReview</a>]&nbsp;
+                </span>
+            </div><div></div><div></div><div></div>
+               </span>
+
+
+         &nbsp;<a href="https://openreview.net/forum?id=H9PgDS1BES">link »</a>
+
+
+            &nbsp;&nbsp;<br>
+            <a class="btn btn-sm btn-secondary" data-toggle="collapse" href="#collapse-sl-62284" role="button" aria-expanded="false" aria-controls="collapse-sl-62284">SlidesLive Video »</a>
+
+
+            <div class="collapse" id="collapse-sl-62284">
+                <div class="card card-body">
+                    <div id="presentation-embed-38994660" class="slp my-auto"></div>
+                    <script>
+                      $('#collapse-sl-62284').on('show.bs.collapse', (function () {
+                            let executed_once = false;
+                            return function () {
+                              if (!executed_once) {
+                                executed_once = true
+                                console.log("SlidesLiveEmbed for id 38994660")
+                                embed = new SlidesLiveEmbed('presentation-embed-38994660', {
+                                  presentationId: '38994660',
+                                  autoPlay: false, // change to true to autoplay the embedded presentation
+                                  verticalEnabled: true,
+                                  allowHiddenControlsWhenPaused: true,
+                                  hideTitle: true
+                                });
+                              }
+                            }
+                          })()
+                      )
+                    </script>
+                </div>
+            </div>
+
+
+        <div>
+            <div class="collapse" id="collapse62284">
+                <div class="card card-body">
+
+                        <p>One-Class Support Vector Machines (OCSVM) are a state-of-the-art approach for novelty detection, due to their flexibility in fitting complex nonlinear boundaries between normal and novel data. However, conventional OCSVMs can introduce prohibitive memory and computational overhead at detection time. This work designs, implements and evaluates an efficient OCSVM for such practical settings. We extend Nystr\"om and (Gaussian) Sketching approaches to OCSVM, combining these methods with clustering and Gaussian mixture models to achieve 15-30x speedup in prediction time and 30-40x reduction in memory requirements, without sacrificing detection accuracy.</p>
+
+
+
+                        <div><a href="https://openreview.net/forum?id=H9PgDS1BES">Link »</a></div>
+
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+
+            <i>Kun Yang · Samory Kpotufe · Nicholas Feamster</i>
+
+        <a href="#wse-detail-62284" class="hover-anchor float-right small">🔗</a>
+
+    </td>
+
+</tr>
+
+
+
+<tr style="border-style:none !important;position: relative;height:100%" class="hover-link" id="wse-detail-62285">
+    <td style="width:25%;height:100%">
+
+        <div class="workshopevent-date" id="bookmark-here-62285">
+             -
+        </div>
+    </td>
+    <td>
+
+            <a class="workshopevent-detail" data-toggle="collapse" href="#collapse62285" role="button" aria-expanded="false" aria-controls="collapse62285">
+
+        <strong title="Link Only (appears in the schedule, but no SlidesLive) | id: 62285">
+            Implementing Reinforcement Learning Datacenter Congestion Control in NVIDIA NICs
+        </strong>
+
+
+            </a>
+
+
+            <small>(Poster)</small>
+
+
+
+               <span>
+                   <div></div><div>
+                <span class="nowrap" style="white-space:nowrap">
+                [<a href="/media/PosterPDFs/NeurIPS%202022/62285.png?t=1669735531.0453215" class="btn btn-default btn-xs href_Poster" title="Poster">
+                <i class="fa fa-file-image-o"></i> Poster</a>]&nbsp;
+                </span>
+
+                <span class="nowrap" style="white-space:nowrap">
+                [<a href="https://openreview.net/forum?id=Y4a7sqXsiT" class="btn btn-default btn-xs href_URL" title="OpenReview">
+                <i class="fa fa-link" aria-hidden="true"></i> OpenReview</a>]&nbsp;
+                </span>
+            </div><div></div><div></div><div></div>
+               </span>
+
+
+         &nbsp;<a href="https://openreview.net/forum?id=Y4a7sqXsiT">link »</a>
+
+
+        <div>
+            <div class="collapse" id="collapse62285">
+                <div class="card card-body">
+
+                        Cloud datacenters are exponentially growing both in numbers and size. This increase results in a network activity surge that warrants better congestion avoidance. The resulting challenge is two-fold: (i) designing algorithms that can be custom-tuned to the complex traffic patterns of a given datacenter;  but, at the same time (ii) run on low-level hardware with the required low latency of effective Congestion Control (CC). In this work, we present a Reinforcement Learning (RL) based CC solution that learns from certain traffic scenarios and successfully generalizes to others. We then distill the RL neural network policy into binary decision trees to achieve the desired $\mu$sec decision latency required for real-time inference. We deploy the distilled policy on NVIDIA NICs in a real network and demonstrate state-of-the-art performance, balancing all tested metrics simultaneously: bandwidth, latency, fairness, and  drops.
+
+
+                        <div><a href="https://openreview.net/forum?id=Y4a7sqXsiT">Link »</a></div>
+
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+
+            <i>Benjamin Fuhrer · Yuval Shpigelman · Chen Tessler · Shie Mannor · Gal Chechik · Eitan Zahavi · Gal Dalal</i>
+
+        <a href="#wse-detail-62285" class="hover-anchor float-right small">🔗</a>
+
+    </td>
+
+</tr>
+
+
+
+<tr style="border-style:none !important;position: relative;height:100%" class="hover-link" id="wse-detail-62287">
+    <td style="width:25%;height:100%">
+
+        <div class="workshopevent-date" id="bookmark-here-62287">
+             -
+        </div>
+    </td>
+    <td>
+
+            <a class="workshopevent-detail" data-toggle="collapse" href="#collapse62287" role="button" aria-expanded="false" aria-controls="collapse62287">
+
+        <strong title="Prerecorded, on-demand, not streamed during event | id: 62287">
+            NeuralFuse: Improving the Accuracy of Access-Limited Neural Network Inference in Low-Voltage Regimes
+        </strong>
+
+
+            </a>
+
+
+            <small>(Poster - Recorded Presentation)</small>
+
+
+
+               <span>
+                   <div></div><div>
+                <span class="nowrap" style="white-space:nowrap">
+                [<a href="/media/PosterPDFs/NeurIPS%202022/62287.png?t=1668575089.7553875" class="btn btn-default btn-xs href_Poster" title="Poster">
+                <i class="fa fa-file-image-o"></i> Poster</a>]&nbsp;
+                </span>
+
+                <span class="nowrap" style="white-space:nowrap">
+                [<a href="https://openreview.net/forum?id=piDIDvnk0Z" class="btn btn-default btn-xs href_URL" title="OpenReview">
+                <i class="fa fa-link" aria-hidden="true"></i> OpenReview</a>]&nbsp;
+                </span>
+            </div><div></div><div></div><div></div>
+               </span>
+
+
+         &nbsp;<a href="https://openreview.net/forum?id=piDIDvnk0Z">link »</a>
+
+
+            &nbsp;&nbsp;<br>
+            <a class="btn btn-sm btn-secondary" data-toggle="collapse" href="#collapse-sl-62287" role="button" aria-expanded="false" aria-controls="collapse-sl-62287">SlidesLive Video »</a>
+
+
+            <div class="collapse" id="collapse-sl-62287">
+                <div class="card card-body">
+                    <div id="presentation-embed-38994670" class="slp my-auto"></div>
+                    <script>
+                      $('#collapse-sl-62287').on('show.bs.collapse', (function () {
+                            let executed_once = false;
+                            return function () {
+                              if (!executed_once) {
+                                executed_once = true
+                                console.log("SlidesLiveEmbed for id 38994670")
+                                embed = new SlidesLiveEmbed('presentation-embed-38994670', {
+                                  presentationId: '38994670',
+                                  autoPlay: false, // change to true to autoplay the embedded presentation
+                                  verticalEnabled: true,
+                                  allowHiddenControlsWhenPaused: true,
+                                  hideTitle: true
+                                });
+                              }
+                            }
+                          })()
+                      )
+                    </script>
+                </div>
+            </div>
+
+
+        <div>
+            <div class="collapse" id="collapse62287">
+                <div class="card card-body">
+
+                        Deep neural networks (DNNs) are state-of-the-art models adopted in many machine learning based systems and algorithms. However, a notable issue of DNNs is their considerable energy consumption for training and inference. At the hardware level, one current energy-saving solution at the inference phase is to reduce the voltage supplied to the DNN hardware accelerator. However, operating in the low-voltage regime would induce random bit errors saved in the memory and thereby degrade the model performance. To address this challenge, we propose $\textbf{NeuralFuse}$, a novel input transformation technique as an add-on module, to protect the model from severe accuracy drops in low-voltage regimes. With NeuralFuse, we can mitigate the tradeoff between energy and accuracy without retraining the model, and it can be readily applied to DNNs with limited access, such as DNNs on non-configurable hardware or remote access to cloud-based APIs. Compared with unprotected DNNs, our experimental results show that NeuralFuse can reduce memory access energy up to 24% and simultaneously improve the accuracy in low-voltage regimes up to an increase of 57%. To the best of our knowledge, this is the first model-agnostic approach (i.e., no model retraining) to mitigate the accuracy-energy tradeoff in low-voltage regimes.
+
+
+                        <div><a href="https://openreview.net/forum?id=piDIDvnk0Z">Link »</a></div>
+
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+
+            <i>Hao-Lun Sun · Lei Hsiung · Nandhini Chandramoorthy · Pin-Yu Chen · Tsung-Yi Ho</i>
+
+        <a href="#wse-detail-62287" class="hover-anchor float-right small">🔗</a>
+
+    </td>
+
+</tr>
+
+
+
+<tr style="border-style:none !important;position: relative;height:100%" class="hover-link" id="wse-detail-62288">
+    <td style="width:25%;height:100%">
+
+        <div class="workshopevent-date" id="bookmark-here-62288">
+             -
+        </div>
+    </td>
+    <td>
+
+            <a class="workshopevent-detail" data-toggle="collapse" href="#collapse62288" role="button" aria-expanded="false" aria-controls="collapse62288">
+
+        <strong title="Prerecorded, on-demand, not streamed during event | id: 62288">
+            Lattice Quantization
+        </strong>
+
+
+            </a>
+
+
+            <small>(Poster - Recorded Presentation)</small>
+
+
+
+               <span>
+                   <div></div><div>
+                <span class="nowrap" style="white-space:nowrap">
+                [<a href="/media/PosterPDFs/NeurIPS%202022/62288.png?t=1668078932.1911411" class="btn btn-default btn-xs href_Poster" title="Poster">
+                <i class="fa fa-file-image-o"></i> Poster</a>]&nbsp;
+                </span>
+
+                <span class="nowrap" style="white-space:nowrap">
+                [<a href="https://openreview.net/forum?id=tzXAMAcQt2" class="btn btn-default btn-xs href_URL" title="OpenReview">
+                <i class="fa fa-link" aria-hidden="true"></i> OpenReview</a>]&nbsp;
+                </span>
+            </div><div></div><div></div><div></div>
+               </span>
+
+
+         &nbsp;<a href="https://openreview.net/forum?id=tzXAMAcQt2">link »</a>
+
+
+            &nbsp;&nbsp;<br>
+            <a class="btn btn-sm btn-secondary" data-toggle="collapse" href="#collapse-sl-62288" role="button" aria-expanded="false" aria-controls="collapse-sl-62288">SlidesLive Video »</a>
+
+
+            <div class="collapse" id="collapse-sl-62288">
+                <div class="card card-body">
+                    <div id="presentation-embed-38994665" class="slp my-auto"></div>
+                    <script>
+                      $('#collapse-sl-62288').on('show.bs.collapse', (function () {
+                            let executed_once = false;
+                            return function () {
+                              if (!executed_once) {
+                                executed_once = true
+                                console.log("SlidesLiveEmbed for id 38994665")
+                                embed = new SlidesLiveEmbed('presentation-embed-38994665', {
+                                  presentationId: '38994665',
+                                  autoPlay: false, // change to true to autoplay the embedded presentation
+                                  verticalEnabled: true,
+                                  allowHiddenControlsWhenPaused: true,
+                                  hideTitle: true
+                                });
+                              }
+                            }
+                          })()
+                      )
+                    </script>
+                </div>
+            </div>
+
+
+        <div>
+            <div class="collapse" id="collapse62288">
+                <div class="card card-body">
+
+                        <p>Post-training quantization of neural networks consists in quantizing a model without retraining, which is user-friendly, fast and data frugal. In this paper, we propose LatticeQ, a novel post-training weight quantization method designed for deep convolutional neural networks.  Contrary to scalar rounding widely used in state-of-the-art quantization methods, LatticeQ uses a quantizer based on lattices -- discrete algebraic structures. LatticeQ exploits the inner correlations between the model parameters to the benefit of minimizing quantization error. This allows to achieve state-of-the-art results in post-training quantization. In particular, we demonstrate ImageNet classification results close to full precision on the popular Resnet-18/50, with little to no accuracy drop for 4-bit models.</p>
+
+
+
+                        <div><a href="https://openreview.net/forum?id=tzXAMAcQt2">Link »</a></div>
+
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+
+            <i>Clément Metz · Thibault Allenet · Johannes Thiele · Antoine DUPRET · Olivier BICHLER</i>
+
+        <a href="#wse-detail-62288" class="hover-anchor float-right small">🔗</a>
+
+    </td>
+
+</tr>
+
+
+
+<tr style="border-style:none !important;position: relative;height:100%" class="hover-link" id="wse-detail-62289">
+    <td style="width:25%;height:100%">
+
+        <div class="workshopevent-date" id="bookmark-here-62289">
+             -
+        </div>
+    </td>
+    <td>
+
+            <a class="workshopevent-detail" data-toggle="collapse" href="#collapse62289" role="button" aria-expanded="false" aria-controls="collapse62289">
+
+        <strong title="Prerecorded, on-demand, not streamed during event | id: 62289">
+            An Adversarial Active Sampling-based Data Augmentation Framework for Manufacturable Chip Design
+        </strong>
+
+
+            </a>
+
+
+            <small>(Poster - Recorded Presentation)</small>
+
+
+
+               <span>
+                   <div></div><div>
+                <span class="nowrap" style="white-space:nowrap">
+                [<a href="/media/PosterPDFs/NeurIPS%202022/62289.png?t=1668038804.4794297" class="btn btn-default btn-xs href_Poster" title="Poster">
+                <i class="fa fa-file-image-o"></i> Poster</a>]&nbsp;
+                </span>
+
+                <span class="nowrap" style="white-space:nowrap">
+                [<a href="https://openreview.net/forum?id=MvdKGVn_e1" class="btn btn-default btn-xs href_URL" title="OpenReview">
+                <i class="fa fa-link" aria-hidden="true"></i> OpenReview</a>]&nbsp;
+                </span>
+            </div><div></div><div></div><div></div>
+               </span>
+
+
+         &nbsp;<a href="https://openreview.net/forum?id=MvdKGVn_e1">link »</a>
+
+
+        <div>
+            <div class="collapse" id="collapse62289">
+                <div class="card card-body">
+
+                        <p>Lithography modeling is a crucial problem in chip design to ensure a chip design mask is manufacturable. It requires rigorous simulations of optical and chemical models that are computationally expensive. Recent developments in machine learning have provided alternative solutions in replacing the time-consuming lithography simulations with deep neural networks. However, the considerable accuracy drop still impedes its industrial adoption. Most importantly, the quality and quantity of the training dataset directly affect the model performance. To tackle this problem, we propose a litho-aware data augmentation (LADA) framework to resolve the dilemma of limited data and improving the machine learning model performance. First, we pretrain the neural networks for lithography modeling and a gradient-friendly StyleGAN2 generator. We then perform adversarial active sampling to generate informative and synthetic in-distribution mask designs. These synthetic mask images will augment the original limited training dataset used to finetune the lithography model for improved performance. Experimental results demonstrate that LADA can successfully exploits the neural network capacity by narrowing down the performance gap between the training and testing data instances.</p>
+
+
+
+                        <div><a href="https://openreview.net/forum?id=MvdKGVn_e1">Link »</a></div>
+
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+
+            <i>Mingjie Liu · Haoyu Yang · David Pan · Brucek Khailany · Mark Ren</i>
+
+        <a href="#wse-detail-62289" class="hover-anchor float-right small">🔗</a>
+
+    </td>
+
+</tr>
+
+
+
+<tr style="border-style:none !important;position: relative;height:100%" class="hover-link" id="wse-detail-62290">
+    <td style="width:25%;height:100%">
+
+        <div class="workshopevent-date" id="bookmark-here-62290">
+             -
+        </div>
+    </td>
+    <td>
+
+            <a class="workshopevent-detail" data-toggle="collapse" href="#collapse62290" role="button" aria-expanded="false" aria-controls="collapse62290">
+
+        <strong title="Link Only (appears in the schedule, but no SlidesLive) | id: 62290">
+             HEAT: Hardware-Efficient Automatic Tensor Decomposition for Transformer Compression
+        </strong>
+
+
+            </a>
+
+
+            <small>(Poster)</small>
+
+
+
+               <span>
+                   <div></div><div>
+                <span class="nowrap" style="white-space:nowrap">
+                [<a href="/media/PosterPDFs/NeurIPS%202022/62290.png?t=1668034474.3239815" class="btn btn-default btn-xs href_Poster" title="Poster">
+                <i class="fa fa-file-image-o"></i> Poster</a>]&nbsp;
+                </span>
+
+                <span class="nowrap" style="white-space:nowrap">
+                [<a href="https://openreview.net/forum?id=x9ZP4pnlZHo" class="btn btn-default btn-xs href_URL" title="OpenReview">
+                <i class="fa fa-link" aria-hidden="true"></i> OpenReview</a>]&nbsp;
+                </span>
+            </div><div></div><div></div><div></div>
+               </span>
+
+
+         &nbsp;<a href="https://openreview.net/forum?id=x9ZP4pnlZHo">link »</a>
+
+
+        <div>
+            <div class="collapse" id="collapse62290">
+                <div class="card card-body">
+
+                        <p>Self-attention and feedforward layers in large-scale Transformer models are overparameterized, limiting inference speed and energy efficiency. Tensor decomposition is a promising technique to reduce parameter redundancy by expressing weight matrices in an efficiently factorized form. Prior efforts used manual or heuristic decomposition settings without hardware-aware customization, resulting in poor hardware efficiencies and large performance degradation.In this work, we propose a hardware-aware tensor decomposition framework, dubbed HEAT, that enables efficient exploration of the exponential space of tensor decompositions and automates the choice of tensorization shape and decomposition rank with hardware-aware co-optimization. We jointly investigate tensor contraction path optimizations and a fused Einsum mapping strategy to bridge the gap between theoretical benefits and real hardware efficiency improvement. Our two-stage knowledge distillation flow resolves the trainability bottleneck and thus significantly boosts the final accuracy of factorized Transformers. We find that our hardware-aware factorized BERT variants reduce the energy-delay product by 5.7x with less than 1.1% accuracy loss and achieve a better efficiency-accuracy Pareto frontier than hand-tuned and heuristic baselines.</p>
+
+
+
+                        <div><a href="https://openreview.net/forum?id=x9ZP4pnlZHo">Link »</a></div>
+
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+
+            <i>Jiaqi Gu · Ben Keller · Jean Kossaifi · Anima Anandkumar · Brucek Khailany · David Pan</i>
+
+        <a href="#wse-detail-62290" class="hover-anchor float-right small">🔗</a>
+
+    </td>
+
+</tr>
+
+
+</tbody></table>
+
+
+
+
+
+
+
+<!-- <tr style="border-style:none !important;position: relative;height:100%" class="hover-link" id="wse-detail-63677">
     <td style="width:25%;height:100%">
 
         <div class="workshopevent-date" id="bookmark-here-63677">
@@ -754,7 +3382,7 @@ site_title: ML For Systems
 </tr>
 
 
-</tbody></table>
+</tbody></table> -->
 
 <div class="inner clearfix">
 	<section class="main-content overview_section">
