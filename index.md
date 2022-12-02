@@ -5,10 +5,11 @@ site_description: Workshop on ML for Systems at NeurIPS 2022, December 3rd, New 
 mini_site_description: Workshop on ML for Systems at NeurIPS '22, Dec 3rd
 site_title: ML For Systems
 ---
+
 <div class="schedule_section virtual_schedule_section">
     <div class="inner clearfix">
-        <section class="main-content">
-		<h2>Invited Speakers</h2>
+        <section class="main-content overview-section">
+		<h2>Schedule Overview</h2>
             <select name="timezone" id="timezoneswitcher" style="max-width: 100%">
                 <option value="current_timezone" id="current_timezone_option" selected="selected">Current Timezone</option>
                 <option value="Pacific/Midway">(UTC -11:00) Midway, Niue, Pago Pago</option>
@@ -108,13 +109,65 @@ site_title: ML For Systems
     </div>
 </div>
 
+<div class="speaker_section">
+	<div class="inner clearfix">
+		<section class="main-content">
+			<h2 id="speakers">Invited Speakers</h2>
+			<div class="speaker-bio">
+				<div class="img-holder" style="background-image: url(/assets/images/speakers/jeff_dean.jpg)"></div>
+				<div>
+					<h3>Jeff Dean</h3>
+					<h5 class="keynote-speaker">Keynote Speaker</h5>
+					<p>
+					    Senior Fellow, Google AI. Google Brain lead and co-founder. Co-designer and implementor of Tensorflow, MapReduce, BigTable, Spanner.
+					</p>
+				</div>
+			</div>
+			<div class="speaker-bio">
+				<div class="img-holder" style="background-image: url(/assets/images/speakers/dawn_song.png)"></div>
+				<div>
+					<h3>Dawn Song</h3>
+					<p>
+                        Dawn Song is the Faculty co-Director of the UC Berkeley Center on Responsible Decentralized Intelligence (RDI). She is also part of the Berkeley Artificial Intelligence Research (BAIR) Lab, the Berkeley Deep Drive (BDD), and Berkeley Center for Human-Compatible AI. Her research interests include deep learning, security, and blockchain.
+					</p>
+				</div>
+			</div>
+			<div class="speaker-bio">
+				<div class="img-holder" style="background-image: url(/assets/images/speakers/steve_keckler.jpeg)"></div>
+				<div>
+					<h3>Steve Keckler</h3>
+					<p>
+					    Dr. Stephen W. Keckler is the Vice President of Architecture Research at NVIDIA and an Adjunct Professor of Computer Science at the University of Texas at Austin, where he served on the faculty from 1998-2012. His research interests include parallel computer architectures, high-performance computing, energy-efficient architectures, and embedded computing.  Dr. Keckler is a Fellow of the ACM, a Fellow of the IEEE, an Alfred P. Sloan Research Fellow, and a recipient of the NSF CAREER award, the ACM Grace Murray Hopper award, the President's Associates Teaching Excellence Award at UT-Austin, and the Edith and Peter O’Donnell award for Engineering. He earned a B.S. in Electrical Engineering from Stanford University and M.S. and Ph.D. degrees in Computer Science from the Massachusetts Institute of Technology.
+					</p>
+				</div>
+			</div>
+			<div class="speaker-bio">
+				<div class="img-holder" style="background-image: url(/assets/images/speakers/newsha_ardalani.jpeg)"></div>
+				<div>
+					<h3>Newsha Ardalani</h3>
+					<p>
+					    Newsha Ardalani is a research scientist of large scale machine learning and computer architecture at Meta.
+					</p>
+				</div>
+			</div>
+			<div class="speaker-bio">
+				<div class="img-holder" style="background-image: url(/assets/images/speakers/riyadh_baghdadi.png)"></div>
+				<div>
+					<h3>Riyadh Baghdadi</h3>
+					<p>
+					    Riyadh Baghdadi is an assistant professor at NYUAD (New York University Abu Dhabi, UAE) and a research affiliate at CSAIL/MIT (Massachusetts Institute of Technology, USA). His research interests include the intersection of applied machine learning and compilers, and compilers and programming models for high performance computing and compute intensive areas.
+					</p>
+				</div>
+			</div>
+		</section>
+	</div>
+</div>
+
 <div class="row m-2">
                 <div class="col-md-12 col-xs-12 my-auto p-2">
 
-                    <div class="card card-default">
-                        <div class="card-header">
-                            <h3>Detailed Schedule</h3>
-                        </div>
+                    		<section class="main-content">
+			<h2 id="speakers">Detailed Schedule</h2>
 
 
                                 <table class="table table-condensed" style="border-style:none !important">
@@ -125,21 +178,6 @@ site_title: ML For Systems
 
 <tr style="border-style:none !important;position: relative;height:100%" class="hover-link" id="wse-detail-64282">
     <td style="width:25%;height:100%">
-
-
-
-    <span class="bookmark-cell far fa-bookmark fa-lg bump20" title="Add/Remove bookmark for this event" id="bookmark-event-64282"></span>
-
-    <script>
-        add_bookmark_click(
-            64282,
-             1,
-            'bookmark-event-64282',
-            'Add/Remove bookmark for this event',
-            'Add/Remove bookmark for this event'
-
-        )
-    </script>
 
 
 
