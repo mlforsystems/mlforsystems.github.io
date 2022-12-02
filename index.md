@@ -108,6 +108,8 @@ site_title: ML For Systems
         </section>
     </div>
 </div>
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="/assets/images/speakers/jeff_dean.jpg">
 
 <div class="speaker_section">
 	<div class="inner clearfix">
