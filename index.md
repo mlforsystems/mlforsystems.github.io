@@ -174,6 +174,9 @@ site_title: ML For Systems
 					<p>
 					    Riyadh Baghdadi is an assistant professor at NYUAD (New York University Abu Dhabi, UAE) and a research affiliate at CSAIL/MIT (Massachusetts Institute of Technology, USA). His research interests include the intersection of applied machine learning and compilers, and compilers and programming models for high performance computing and compute intensive areas.
 					</p>
+                    <p>
+                        Enabling compilers to automatically optimize code has been a longstanding goal for the compiler community. Efficiently solving this problem requires using precise cost models. These models predict whether applying a sequence of code transformations reduces the execution time of the program. Building an analytical cost model to do so is hard in modern x86 architectures due to the complexity of the microarchitecture. In this paper, we present a novel deep learning based cost model for automatic code optimization. This model was integrated in a search method and implemented in the Tiramisu compiler to select the best code transformations. The input of the proposed model is a set of simple features representing the unoptimized code and a sequence of code transformations. The model predicts the speedup expected when the code transformations are applied. Unlike previous models, the proposed one works on full programs and does not rely on any heavy feature engineering. The proposed model has only 16% of mean absolute percentage error in predicting speedups on full programs. The proposed model enables Tiramisu to automatically find code transformations that match or are better than state-of-the-art compilers without requiring the same level of heavy feature engineering required by those compilers.
+                    </p>
 				</div>
 			</div>
 		</section>
