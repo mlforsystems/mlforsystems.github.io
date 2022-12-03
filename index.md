@@ -99,9 +99,14 @@ site_title: ML For Systems
                     <tr><td data-value-start="2022-12-03T07:30:00.000-07:00" style="text-align: right; white-space: nowrap; font-size: 15px;" ></td><td style="text-align: left">Opening Remarks</td></tr>
                     <tr><td style="text-align: right; white-space: nowrap; font-size: 15px;" >8:40AM - 9:30AM</td><td style="text-align: left"><a href="#dawn_song_talk"><b>Invited Speaker 1: Jeff Dean</b></a></td></tr>
                     <tr><td style="text-align: right; white-space: nowrap; font-size: 15px;" >9:30AM - 10:15AM</td><td style="text-align: left"><a href="#steve_keckler_talk"><b>Invited Speaker 2: Dawn Song</b></a></td></tr>
-                    <tr><td style="text-align: right; white-space: nowrap; font-size: 15px;" >1:55PM - 2:40PM</td><td style="text-align: left"><a href="#newsha_ardalani_talk"><b>Invited Speaker 3: Steve Keckler</b></a></td></tr>
-                    <tr><td style="text-align: right; white-space: nowrap; font-size: 15px;" >2:50PM - 3:35PM</td><td style="text-align: left"><a href="#riyadh_talk"><b>Invited Speaker 4: Newsha Ardalani</b></a></td></tr>
-                    <tr><td style="text-align: right; white-space: nowrap; font-size: 15px;" >3:45PM - 4:30PM</td><td style="text-align: left"><a href="#jeff_dean_talk"><b>Invited Speaker 5: Riyadh Baghdadi</b></a></td></tr>
+                    <tr><td style="text-align: right; white-space: nowrap; font-size: 15px;" >10:20AM - 10:50AM</td><td style="text-align: left"><a href="#steve_keckler_talk"><b>Poster Session #1</b></a></td></tr>
+                     <tr><td style="text-align: right; white-space: nowrap; font-size: 15px;" >10:50AM - 11:55AM</td><td style="text-align: left"><a href="#steve_keckler_talk"><b>Contributed Talks</b></a></td></tr>
+                      <tr><td style="text-align: right; white-space: nowrap; font-size: 15px;" >12:00PM - 1:00PM</td><td style="text-align: left"><a href="#steve_keckler_talk"><b>Lunch</b></a></td></tr>
+                       <tr><td style="text-align: right; white-space: nowrap; font-size: 15px;" >1:05PM - 1:45PM</td><td style="text-align: left"><a href="#steve_keckler_talk"><b>Contributed Talks</b></a></td></tr>
+                    <tr><td style="text-align: right; white-space: nowrap; font-size: 15px;" >1:45PM - 2:15PM</td><td style="text-align: left"><a href="#steve_keckler_talk"><b>Poster Session #2</b></a></td></tr>
+                    <tr><td style="text-align: right; white-space: nowrap; font-size: 15px;" >2:15PM - 3:00PM</td><td style="text-align: left"><a href="#newsha_ardalani_talk"><b>Invited Speaker 3: Steve Keckler</b></a></td></tr>
+                    <tr><td style="text-align: right; white-space: nowrap; font-size: 15px;" >3:05PM - 3:50PM</td><td style="text-align: left"><a href="#riyadh_talk"><b>Invited Speaker 4: Newsha Ardalani</b></a></td></tr>
+                    <tr><td style="text-align: right; white-space: nowrap; font-size: 15px;" >3:55PM - 4:40PM</td><td style="text-align: left"><a href="#jeff_dean_talk"><b>Invited Speaker 5: Riyadh Baghdadi</b></a></td></tr>
                     <tr><td data-value-start="2021-12-13T16:40:00.000-06:00" style="text-align: right; white-space: nowrap; font-size: 15px;" >17:40</td><td style="text-align: left">Closing</td></tr>
                 </tbody>
             </table>
