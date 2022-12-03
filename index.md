@@ -121,8 +121,11 @@ site_title: ML For Systems
 					<h3>Jeff Dean</h3>
 					<h5 class="keynote-speaker">Keynote Speaker</h5>
 					<p>
-					    Senior Fellow, Google AI. Google Brain lead and co-founder. Co-designer and implementor of Tensorflow, MapReduce, BigTable, Spanner.
+					    Senior Fellow, SVP, Google AI, Google Health. Google Brain lead and co-founder. Co-designer and implementor of Tensorflow, MapReduce, BigTable, Spanner.
 					</p>
+                    <p>
+                        In this talk, I'll touch on the myriad ways that machine learning is being used to dramatically rethink how computer systems are approached.  I'll highlight research work in domains covering a variety of problems in ASIC chip design, computer architecture, distributed systems, database systems, compilers, content delivery systems, and more.  I'll also highlight how building simple interfaces that allow "learned choices" to be integrated into the middle of existing hand coded computer software can dramatically ease the breadth and ease with which machine learning can be applied to a variety of different kinds of decisions, including many decisions at the core of computer systems.  This talk presents work by a great number of Google Research colleagues and is meant to be an overview of the exciting advances in applying ML to computer systems problems.
+                    </p>
 				</div>
 			</div>
 			<div class="speaker-bio">
@@ -141,6 +144,10 @@ site_title: ML For Systems
 					<p>
 					    Dr. Stephen W. Keckler is the Vice President of Architecture Research at NVIDIA and an Adjunct Professor of Computer Science at the University of Texas at Austin, where he served on the faculty from 1998-2012. His research interests include parallel computer architectures, high-performance computing, energy-efficient architectures, and embedded computing.  Dr. Keckler is a Fellow of the ACM, a Fellow of the IEEE, an Alfred P. Sloan Research Fellow, and a recipient of the NSF CAREER award, the ACM Grace Murray Hopper award, the President's Associates Teaching Excellence Award at UT-Austin, and the Edith and Peter O’Donnell award for Engineering. He earned a B.S. in Electrical Engineering from Stanford University and M.S. and Ph.D. degrees in Computer Science from the Massachusetts Institute of Technology.
 					</p>
+                    <h4> Applying ML to Practical System Design </h4>
+                    <p>
+                        While Machine Learning is actively being used in a wide range of fields ranging from computer graphics to language understanding, its use in computer system is still in its early stages. This talk will describe practical uses of machine learning in both electronic design automation and computer architecture to illustrate how NVIDIA is developing and using ML techniques to accelerate the development of better computer systems.
+                    </p>
 				</div>
 			</div>
 			<div class="speaker-bio">
@@ -148,8 +155,11 @@ site_title: ML For Systems
 				<div>
 					<h3>Newsha Ardalani</h3>
 					<p>
-					    Newsha Ardalani is a research scientist of large scale machine learning and computer architecture at Meta.
+					    Newsha Ardalani is a Research Scientist at Meta AI (FAIR). She received her Ph.D. degree in Computer Sciences from University of Wisconsin-Madison. Her research interest lies at the intersection of Machine learning, System, Hardware and Data. She is currently working on data quality and its implications on large-scale model and system design.
 					</p>
+                    <p>
+                    While the role of model architecture and hardware system on training performance is well-understood and appreciated, the role of data quality and quantity is often overlooked. In this talk, I will highlight the performance implications of data quality, particularly on speed of training and scaling efficiency, and argue that it is time to shift our paradigm from HW/SW co-design to HW/SW/Data tri-design.
+                    </p>
 				</div>
 			</div>
 			<div class="speaker-bio">
