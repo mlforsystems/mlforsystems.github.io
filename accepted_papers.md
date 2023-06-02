@@ -9,23 +9,13 @@ site_title: ML For Systems
 <div class="inner clearfix">
     <section class="main-content accepted_papers_section">
         <h2>Accepted Papers</h2>
-   <p><a href="/assets/papers/neurips2022/paper31.pdf"><b>Virtual Machines Scheduling using Reinforcement Learning in Cloud Data Centers</b></a>. Xianzhong Ding, YUNKAI ZHANG, Binbin Chen, Tieying Zhang, Jianjun Chen, Ye Liu.</p>
-
-<p><a href="/assets/papers/neurips2022/paper30.pdf"><b>Drug Discovery Machine Learning Systems For Accelerating Idea Hypothesis To Production Decisions</b></a>. Carsten Stahlhut, Jesper Ferkinghoff-Borg, Kang Li, Kilian W. Conde-Frieboes, Vanessa Isabell Jurtz, Christian Vind, Kristoffer Balling, Søren Berg Padkjær.</p>
 
 <p><a href="/assets/papers/neurips2022/paper29.pdf"><b>Towards Continually Learning Application Performance Models</b></a>. Ray A. O. Sinurat, Anurag Daram, Haryadi Gunawi, Robert Ross, Sandeep Madireddy.</p>
-
-<p><a href="/assets/papers/neurips2022/paper28.pdf"><b>An MLIR-based Compiler for Interoperability between Machine Learning and Science Frameworks</b></a>. Brian Kelley, Siva Rajamanickam.</p>
 
 <p><a href="/assets/papers/neurips2022/paper27.pdf"><b>Learning to Drive Software-Defined Storage</b></a>. Jian Huang, Daixuan Li, Jinghan Sun.</p>
 
 <p><a href="/assets/papers/neurips2022/paper26.pdf"><b>Predicting Network Buffer Capacity for BBR Fairness</b></a>. Ibrahim Umit Akgun, Santiago Vargas, Andrew Burford, Michael McNeill, Michael Arkhangelskiy, Aruna Balasubramanian, Anshul Gandhi, Erez Zadok.</p>
 
-<p><a href="/assets/papers/neurips2022/paper25.pdf"><b>Silhouette: Toward Performance-Conscious and Transferable CPU Embeddings</b></a>. Abdul Wasay.</p>
-
-<p><a href="/assets/papers/neurips2022/paper24.pdf"><b>Power Consumption Estimation for Laptops - a Machine Learning Approach</b></a>. Carlota Parés Morlans, Ruben Rodriguez Buchillon, Udaya Kiran Ammu, Puthikorn Voravootivat, Milad Hashemi.</p>
-
-<p><a href="/assets/papers/neurips2022/paper23.pdf"><b>Multi-Agent Join</b></a>. Arash Termehchy, Vahid Ghadakchi, Mian Xie, Michael Burton.</p>
 
 <p><a href="/assets/papers/neurips2022/paper22.pdf"><b>LoopStack: ML-friendly ML Compiler Stack</b></a>. Bram Wasti, Dejan Grubisic, Benoit Steiner, Aleksandar Zlateski.</p>
 
@@ -33,13 +23,7 @@ site_title: ML For Systems
 
 <p><a href="/assets/papers/neurips2022/paper20.pdf"><b>Multi-objective Reinforcement Learning with Adaptive Pareto Reset for Prefix Adder Design</b></a>. Jialin Song, Rajarshi Roy, Jonathan Raiman, Robert Kirby, Neel Kant, Saad Godil, Bryan Catanzaro.</p>
 
-<p><a href="/assets/papers/neurips2022/paper19.pdf"><b>A Framework for Network-Centric ML-Systems Datasets</b></a>. Yara Awad.</p>
-
 <p><a href="/assets/papers/neurips2022/paper18.pdf"><b>Preference-Aware Constrained Multi-Objective Bayesian Optimization For Analog Circuit Design</b></a>. Alaleh Ahmadian, Syrine Belakaria, Jana Doppa.</p>
-
-<p><a href="/assets/papers/neurips2022/paper17.pdf"><b>External Memory Is All You Need: Tiny Deep Learning on MCUs</b></a>. Sulaiman Sadiq, Jonathon Hare, Simon Craske, Partha Maji, Geoff V. Merrett.</p>
-
-<p><a href="/assets/papers/neurips2022/paper16.pdf"><b>Wireless Parameter Tuning with Clustering Multi-Agents in Linear Stochastic Bandit</b></a>. Hamza Cherkaoui, Merwan Barlier, Igor Colin.</p>
 
 <p><a href="/assets/papers/neurips2022/paper15.pdf"><b>The Case for Learning Machine Language</b></a>. Guangda Liu, Chieh-Jan Mike Liang, Shijie Cao, Shuai Lu, Leendert van Doorn.</p>
 
@@ -55,9 +39,6 @@ site_title: ML For Systems
 
 <p><a href="/assets/papers/neurips2022/paper9.pdf"><b>An Efficient One-Class SVM for Novelty Detection in IoT</b></a>. Kun Yang, Samory Kpotufe, Nicholas Feamster.</p>
 
-<p><a href="/assets/papers/neurips2022/paper8.pdf"><b>MEOW: - Automatic Evolutionary Multi-Objective Concealed Weapon Detection</b></a>. Daniel Dimanov, Colin Singleton, Shahin Rostami, Emili Balaguer-Ballester.</p>
-
-<p><a href="/assets/papers/neurips2022/paper7.pdf"><b>Sensitivity-Aware Finetuning for Accuracy Recovery on Deep Learning Hardware</b></a>. Lakshmi Nair, Darius Bunandar.</p>
 
 <p><a href="/assets/papers/neurips2022/paper6.pdf"><b>Implementing Reinforcement Learning Datacenter Congestion Control in NVIDIA NICs</b></a>. Benjamin Fuhrer, Yuval Shpigelman, Chen Tessler, Shie Mannor, Gal Chechik, Eitan Zahavi, Gal Dalal.</p>
 
