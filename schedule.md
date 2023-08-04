@@ -31,7 +31,7 @@ site_title: ML For Systems
         </div>
     	<div class="speaker-bio">
 				<div>
-					<h3 class="talk-speaker">Challenges and Opportunities in Using ML for Training LLMs</h3>
+					<h3 class="talk-speaker">Challenges and Opportunities in Using ML for Training Large Language Models</h3>
 					<h4>Susan Zhang (ex-Meta, ex-OpenAI)</h4>
 					<p>
                     Susan Zhang is an AI research engineer focused on pushing the limits of compute for general pre-training methods, along with infrastructure design for AI experimentation at scale.  She has over 10 years of experience building software systems tackling a wide variety of domains, ranging from quantum computing at Los Alamos to photonic AI hardware design at Luminous Computing.  She graduated with an undergraduate degree in mathematics from Princeton University, and she is hoping to see the day when machines are the ones who finally solve the six remaining Millennium Prize problems.
