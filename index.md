@@ -100,9 +100,9 @@ site_title: ML For Systems
 			</ul>
             <h2>Competition Committee</h2>
 			<ul>
-                <li><b>Bryan Perozzi, Google Research</b></li>
-                <li><b>Phitchaya Mangpo Phothilimthana</b>, Google DeepMind, <a href="https://www.linkedin.com/in/phitchaya-mangpo-phothilimthana">LinkedIn</a></li>
-                <li><b>Sami Abu-el-haija, Google Research</b></li>
+                <li><b>Bryan Perozzi</b>, Google Research, <a href="https://twitter.com/phanein">@phanein</a></li>
+                <li><b>Phitchaya Mangpo Phothilimthana</b>, Google DeepMind, <a href="https://www.linkedin.com/in/phitchaya-mangpo-phothilimthana-64415b82">LinkedIn</a></li>
+                <li><b>Sami Abu-el-haija</b>, Google Research, <a href="https://twitter.com/abu_usc">@abu_usc</a></li>
             </ul>
             <h2>Steering Committee</h2>
 			<ul>

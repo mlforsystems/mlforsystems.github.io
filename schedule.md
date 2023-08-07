@@ -39,10 +39,11 @@ site_title: ML For Systems
 				</div>
         </div>
         <div class="speaker-bio">
+                <div class="img-holder" style="background-image: url(/assets/images/speakers/srivatsan_krishnan.jpg)"></div>
 				<div>
 					<h3 class="talk-speaker">Multi-Agent Reinforcement Learning for Computer Architecture</h3>
-					<h4>Natasha Jaques (University of Washington, Google DeepMind)</h4>
-					<p>Natasha is an incoming assistant professor at the University of Washington School of Computer Science. She is currently a Senior Research Scientist at Google Brain. From 2020-2022, Natasha held this position jointly with a Visiting Postdoctoral Scholar position at UC Berkeley, in Sergey Levine’s group. Before that, Natasha received her PhD from MIT, where she worked on Affective Computing and deep/reinforcement/machine learning in Rosalind Picard’s group. Natasha has interned at DeepMind, Google Brain, and worked as an OpenAI Scholars mentor.
+					<h4>Srivatsan Krishnan (Harvard University)</h4>
+					<p>Srivatsan is a final year PhD candidate at Harvard University. His research interests lie at the intersection of computer architecture, machine learning, and robotics. In particular, his research focuses on creating scalable ML-driven methodologies for automating design of computer systems. Prior to starting his PhD, he was the technical lead in Intel Xeon with an integrated FPGA team for building tightly-coupled hardware accelerator IPs for machine learning/deep learning applications. His work was awarded Best Paper of IEEE Computer Architecture Letters in 2020, and IEEE Micro Top Picks 2023 Honorable Mention.
 					</p>
 				</div>
         </div>
