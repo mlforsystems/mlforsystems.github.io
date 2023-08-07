@@ -26,9 +26,6 @@ header img {
     content: none;
 }
 
-h5.keynote-speaker {
-    font-weight:bolder;
-}
 h5.keynote-speaker, h5.talk_speaker {
     margin-left: 0;
     margin-top: -18px;
@@ -166,8 +163,8 @@ li.navigation-link-title, {
 }
 
 .speaker-bio .img-holder {
-    width: 150px;
-    height: 150px;
+    width: 225px;
+    height: 225px;
     position: relative;
     overflow: hidden;
     display: block;

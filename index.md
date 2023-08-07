@@ -69,6 +69,23 @@ site_title: ML For Systems
     </ul-->
 	</section>
 </div>
+<div class="speaker_section">
+  <div class="inner clearfix">
+    <section class="main-content">
+      <h2 id="speakers">Keynote Speaker</h2>
+	    <div class="speaker-bio">
+				<div class="img-holder" style="background-image: url(/assets/images/speakers/chris_lattner.jpeg)"></div>
+				<div>
+					<h3 class="keynote-speaker">Programming Languages Challenges in Large Scale Machine Learning</h3>
+					<h4>Chris Lattner (Modular.ai)</h4>
+					<p>
+                        Chris is the co-founder and CEO of Modular AI. He cofounded the LLVM Compiler infrastructure, the Clang compiler, the Swift programming language, the MLIR compiler infrastructure, the CIRCT project (applying MLIR to hardware design), and have contributed to many other commercial and open source projects at Apple, Tesla, Google, and SiFive. Previously, Chris led the Engineering and Product teams at SiFive, the Google TensorFlow team, the Tesla Autopilot team, and worked for Apple managing the Developer Tools department.
+					</p>
+				</div>
+        </div>
+    </section>
+    </div>
+    </div>
 <div class="organizers-section">
 	<div class="inner clearfix">
 		<section class="main-content">
