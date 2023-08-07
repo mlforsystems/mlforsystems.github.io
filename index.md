@@ -25,13 +25,14 @@ site_title: ML For Systems
             <li>Developing best practices, methodologies and benchmarks for the ML for Systems field.</li>
         </ul>
         </p>
+        <p>To build commonalities on the topic of LLMs interacting with computational systems, we specifically include seminal talks on emerging trends on training and serving LLMs from seasoned researchers and practitioners as a part of our invited speakers. Our call for papers also includes topics at the intersection of Systems and LLMs.
+        </p>
     <h2>Call for Papers</h2>
     <p>We invite researchers to submit relevant papers through our <a href="/call_for_papers.html">call for papers</a>. Our program include contributed speakers and poster sessions from selected works.</p>
     <h2>Competition Track (<b>NEW, Coming Soon</b>)</h2>
     <p>We introduce an auxiliary competition track to showcase state-of-the-art capabilities under open benchmarks. The first iteration serves as an initiative to encourage industrial sharing ML for systems data, with the tentative topic on <b>predicting program runtime from XLA graphs</b>.</p>
-    <p> If you would like to be notified when the competition is up, please join https://groups.google.com/g/tpu_graphs_competition.</p>
-    <p> The top winners have the opportunities to share their technical reports to receive sponsor prizes. To build commonalities on the topic of LLMs interacting with computational systems, we specifically include seminal talks on emerging trends on training and serving LLMs from seasoned researchers and practitioners as a part of our invited speakers. Our call for papers also includes topics at the intersection of Systems and LLMs.
-    </p>
+    <p> If you would like to be notified when the competition is up, please join <a href="https://groups.google.com/g/tpu_graphs_competition">the discussion group</a>.</p>
+    <p> The top winners have the opportunities to share their technical reports to receive sponsor prizes.</p>
     <ul class="footnotes">
 		<li><sup>1</sup> <a href="https://arxiv.org/abs/1706.04972">The case for learned index structures</a></li>
         <li><sup>2</sup> <a href="https://openreview.net/forum?id=Hkc-TeZ0W">Learning to design circuits</a></li>
