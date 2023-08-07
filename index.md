@@ -7,14 +7,14 @@ site_title: ML For Systems
 ---
 <div class="inner clearfix">
 	<section class="main-content overview_section">
-		<h2>Overview</h2>
+		<h2>What To Expect</h2>
         <p>The ML for Systems workshop presents cutting-edge work on ML in computer systems and aims to develop a unified methodology for the field.
         </p>
-        <p>Machine Learning (ML) for Systems describes the application of machine learning techniques to problems related to computer systems. By leveraging supervised learning and reinforcement learning (RL) approaches, machine learning can replace longstanding heuristics that currently drive many of these systems. This includes a wide range of topics, including multi-objective tasks such as designing new data structures <sup>1</sup>, integrated circuits <sup>2, 3</sup>, or design verification <sup>20, 21</sup>, as well as implementing control algorithms for applications such as compilers <sup>12, 13, 19</sup>, databases <sup>8</sup>, memory management <sup>9, 10</sup>, or ML frameworks <sup>11</sup>. While the systems community increasingly recognizes the importance of ML in solving a variety of different systems problems <sup>23</sup>, ML for Systems remains an emerging area without widely established best practices, methods and strategies for the application of state-of-the-art machine learning techniques <sup>22</sup>. The goal of this workshop is to provide an interdisciplinary venue for ML and Systems experts to push this boundary and start new directions within the ML for Systems area.
+        <p>Machine Learning (ML) for Systems describes the application of machine learning techniques to problems related to computer systems. By leveraging supervised learning and reinforcement learning (RL) approaches, machine learning can replace longstanding heuristics that currently drive many of these systems. This includes a wide range of topics, including multi-objective tasks such as designing new data structures <sup><a href="https://arxiv.org/abs/1706.04972">1</a></sup>, integrated circuits <sup><a href="https://openreview.net/forum?id=Hkc-TeZ0W">2</a>, <a href="https://arxiv.org/abs/1712.01208">3</a></sup>, or design verification <sup><a href="https://dvcon-proceedings.org/wp-content/uploads/Adaptive-Test-Generation-for-Fast-Functional-Coverage-Closure.pdf">20</a>, <a href="https://dvcon-proceedings.org/wp-content/uploads/Test-Parameter-Tuning-with-Blackbox-Optimization-A-Simple-Yet-Effective-Way-to-Improve-Coverage-1.pdf">21</a></sup>, as well as implementing control algorithms for applications such as compilers <sup><a href="https://arxiv.org/abs/1805.03441">12</a>, <a href="https://arxiv.org/abs/1805.08166">13</a>, <a href="https://arxiv.org/abs/2011.14486">19</a></sup>, databases <sup><a href="https://arxiv.org/abs/1711.11165">8</a></sup>, memory management <sup><a href="https://arxiv.org/abs/1803.02329">9</a>, <a href="https://research.google/pubs/pub49008/">10</a></sup>, or ML frameworks <sup><a href="https://arxiv.org/abs/1906.08879">11</a></sup>. While the systems community increasingly recognizes the importance of ML in solving a variety of different systems problems <sup><a href="https://www.sigarch.org/5-guidelines-for-research-in-ml-for-systems/">23</a></sup>, ML for Systems remains an emerging area without widely established best practices, methods and strategies for the application of state-of-the-art machine learning techniques <sup><a href="https://ieeexplore.ieee.org/document/9153088">22</a></sup>. The goal of this workshop is to provide an interdisciplinary venue for ML and Systems experts to push this boundary and start new directions within the ML for Systems area.
         </p>
         <h3>Workshop Direction</h3>
         <p>
-        In previous 6 editions, we showcased specific approaches and frameworks to solve problems, bringing together researchers and practitioners at NeurIPS from both the ML and systems communities. While breaking new grounds, we encouraged collaborations and development in a broad range of ML for Systems works, many later published in top-tier conferences <sup>11,13,14,15,16,17,18</sup>. This year, we plan to continue this path while encouraging work in key emerging areas such as Large Language Model (LLM) training and serving, and unifying benchmarks on key problems such as scheduling and compiling through a competition.
+        In previous 6 editions, we showcased specific approaches and frameworks to solve problems, bringing together researchers and practitioners at NeurIPS from both the ML and systems communities. While breaking new grounds, we encouraged collaborations and development in a broad range of ML for Systems works, many later published in top-tier conferences <sup><a href="https://arxiv.org/abs/1906.08879">11</a>, <a href="https://arxiv.org/abs/1805.08166">13</a>, <a href="https://arxiv.org/abs/1810.01963">14</a>, <a href="https://arxiv.org/abs/1811.01704">15</a>, <a href="https://arxiv.org/abs/1808.07412">16</a>, <a href="https://arxiv.org/abs/2104.04955">17</a>, <a href="https://dl.acm.org/doi/10.1145/3439706.3447045">18</a></sup>. This year, we plan to continue this path while encouraging work in key emerging areas such as Large Language Model (LLM) training and serving, and unifying benchmarks on key problems such as scheduling and compiling through a competition.
         </p>
         <p>Recently, the rise of Large Language Models (LLMs) has presented new opportunities and challenges within the domain of computer systems. Our community is well-positioned to produce science and stimulate discussion for adapting to the new paradigm, especially how LLMs can be used to solve systems problems, and using ML to address systems issues that emerge from LLM training and serving. Additionally, as the field matures, we emphasize on keeping the research open, and the science reproducible. To that end, we are supplementing our main program with a competition track to crystallize the field’s progress.
         </p>
@@ -33,7 +33,7 @@ site_title: ML For Systems
     <p>We introduce an auxiliary competition track to showcase state-of-the-art capabilities under open benchmarks. The first iteration serves as an initiative to encourage industrial sharing ML for systems data, with the tentative topic on <b>predicting program runtime from XLA graphs</b>.</p>
     <p> If you would like to be notified when the competition is up, please join <a href="https://groups.google.com/g/tpu_graphs_competition">the discussion group</a>.</p>
     <p> The top winners have the opportunities to share their technical reports to receive sponsor prizes.</p>
-    <ul class="footnotes">
+    <!--ul class="footnotes">
 		<li><sup>1</sup> <a href="https://arxiv.org/abs/1706.04972">The case for learned index structures</a></li>
         <li><sup>2</sup> <a href="https://openreview.net/forum?id=Hkc-TeZ0W">Learning to design circuits</a></li>
 		<li><sup>3</sup> <a href="https://arxiv.org/abs/1712.01208">A graph placement methodology for fast chip design</a></li>
@@ -66,7 +66,7 @@ site_title: ML For Systems
         <li><sup>30</sup><a href="https://arxiv.org/abs/2012.02328">Mlperf mobile inference benchmark: An industry-standard open-source machine learning benchmark for on-device ai</a></li>
         <li><sup>31</sup><a href="https://arxiv.org/abs/2008.01040">A learned performance model for tensor processing units</a></li>
         <li><sup>32</sup><a href="https://arxiv.org/abs/2305.12322">Learning large graph property prediction via graph segment training.</a></li>
-    </ul>
+    </ul-->
 	</section>
 </div>
 <div class="organizers-section">
@@ -83,9 +83,9 @@ site_title: ML For Systems
 			</ul>
             <h2>Competition Committee</h2>
 			<ul>
-                <li>Bryan Perozzi, Google Research</li>
+                <li><b>Bryan Perozzi, Google Research</b></li>
                 <li><b>Phitchaya Mangpo Phothilimthana</b>, Google DeepMind, <a href="https://www.linkedin.com/in/phitchaya-mangpo-phothilimthana">LinkedIn</a></li>
-                <li>Sami Abu-el-haija, Google Research</li>
+                <li><b>Sami Abu-el-haija, Google Research</b></li>
             </ul>
             <h2>Steering Committee</h2>
 			<ul>
