@@ -13,7 +13,7 @@ site_title: ML For Systems
 	    <div class="speaker-bio">
 				<div class="img-holder" style="background-image: url(/assets/images/speakers/chris_lattner.jpeg)"></div>
 				<div>
-					<h3 class="keynote-speaker">Programming Languages Challenges in Large Scale Machine Learning</h3>
+					<h3 class="keynote-speaker">Keynote: Programming Languages Challenges in Large Scale Machine Learning</h3>
 					<h4>Chris Lattner (Modular.ai)</h4>
 					<p>
                         Chris is the co-founder and CEO of Modular AI. He cofounded the LLVM Compiler infrastructure, the Clang compiler, the Swift programming language, the MLIR compiler infrastructure, the CIRCT project (applying MLIR to hardware design), and have contributed to many other commercial and open source projects at Apple, Tesla, Google, and SiFive. Previously, Chris led the Engineering and Product teams at SiFive, the Google TensorFlow team, the Tesla Autopilot team, and worked for Apple managing the Developer Tools department.
@@ -26,15 +26,6 @@ site_title: ML For Systems
 					<h4>Ben Mann (Anthropic)</h4>
 					<p>
 					    Ben Mann is a co-founder at Anthropic, currently leading the product engineering team. Previously, he was a software engineering manager at Google and one of the first authors on the GPT-3 paper and the scaling law paper at OpenAI.
-					</p>
-				</div>
-        </div>
-    	<div class="speaker-bio">
-				<div>
-					<h3 class="talk-speaker">Challenges and Opportunities in Using ML for Training Large Language Models</h3>
-					<h4>Susan Zhang (ex-Meta, ex-OpenAI)</h4>
-					<p>
-                    Susan Zhang is an AI research engineer focused on pushing the limits of compute for general pre-training methods, along with infrastructure design for AI experimentation at scale.  She has over 10 years of experience building software systems tackling a wide variety of domains, ranging from quantum computing at Los Alamos to photonic AI hardware design at Luminous Computing.  She graduated with an undergraduate degree in mathematics from Princeton University, and she is hoping to see the day when machines are the ones who finally solve the six remaining Millennium Prize problems.
 					</p>
 				</div>
         </div>
