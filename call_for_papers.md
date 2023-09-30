@@ -69,7 +69,7 @@ site_title: ML For Systems
             </p>
             <ul>
                 <li>Submissions do not have to be anonymized.</li>
-                <li>Please submit your paper no later than September 29th, 2023 midnight anywhere in the world to <a href="https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/MLSys">OpenReview submission site</a>.</li>
+                <li>Please submit your paper no later than <s>September 29th</s> <b>October 6th</b>, 2023 midnight anywhere in the world to <a href="https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/MLSys">OpenReview submission site</a>.</li>
             </ul>
             <h2>Important Dates</h2>
             <ul>
