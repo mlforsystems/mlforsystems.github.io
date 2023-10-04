@@ -74,7 +74,7 @@ site_title: ML For Systems
             <h2>Important Dates</h2>
             <ul>
                 <li>Competition Start Date: Late August, 2023 <i>(to be announced) </i></li>
-                <li>Submission Deadline: <b>September 29th, 2023 by midnight Anywhere in the World</b>.</li>
+                <li>Submission Deadline: <s>September 29th</s> <b>October 6th, 2023 by midnight Anywhere in the World</b>.</li>
                 <li>Acceptance Notifications: October 20th, 2023</li>
                 <li>Competition Submission Deadline: November 17, 2023</li>
                 <li>Workshop: December ~16 <i>TBD</i>, 2023</li>
