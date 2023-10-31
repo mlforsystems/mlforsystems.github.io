@@ -29,6 +29,15 @@ site_title: ML For Systems
         </p>
     <h2>Call for Papers</h2>
     <p>We invite researchers to submit relevant papers through our <a href="/call_for_papers.html">call for papers</a>. Our program include contributed speakers and poster sessions from selected works.</p>
+    <h2>Camera-Ready Instructions</h2>
+        <p>For accepted papers, please update the camera-ready manuscript on OpenReview by <b>November 17th AoE</b>.</p>
+        <p>Please see instructions below:
+            <ul>
+                <li>The camera-ready template is the same as the one used for submission, which is same as NeurIPS papers. Kindly use the Final package. We have made some minor changes to the format. Please use <a href="/assets/latex/MLforSysLatexFiles.zip"><b>the template (.zip)</b></a></li> attached.
+                <li>There is a hard page limit of 4 pages (excluding references and Appendix).</li>
+                <li>Appendix and references do not have a limit</li>
+            </ul>
+        </p>
     <h2>Competition Track (<b>NOW LIVE</b>)</h2>
     <p>We introduce an auxiliary competition track to showcase state-of-the-art capabilities under open benchmarks. The first iteration serves as an initiative to encourage industrial sharing ML for systems data, with the tentative topic on <b>predicting program runtime from XLA graphs</b>.</p>
     <p> The top winners have the opportunities to share their technical reports to receive sponsor prizes.</p>

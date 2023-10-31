@@ -18,6 +18,15 @@ site_title: ML For Systems
             </ul>
         </p>
         <p>Accepted papers will be made available on the workshop website, but there will be no formal proceedings. Authors may therefore publish their work in other journals or conferences. The workshop will include invited talks from industry and academia as well as oral and poster presentations by workshop participants.</p>
+        <h2>Camera-Ready Instructions</h2>
+        <p>For accepted papers, please update the camera-ready manuscript on OpenReview by <b>November 17th AoE</b>.</p>
+        <p>Please see instructions below:
+            <ul>
+                <li>The camera-ready template is the same as the one used for submission, which is same as NeurIPS papers. Kindly use the Final package. We have made some minor changes to the format. Please use<a href="/assets/latex/MLforSysLatexFiles.zip"><b> our latex files (.zip)</b></a> attached.</li>
+                <li>There is a hard page limit of 4 pages (excluding references and Appendix).</li>
+                <li>Appendix and references do not have a limit</li>
+            </ul>
+        </p>
     </section>
 </div>
 <div class="areas_of_interest_section">
