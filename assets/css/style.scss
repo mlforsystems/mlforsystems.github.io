@@ -100,6 +100,7 @@ li.navigation-link, li.mobile-navigation-link {
     align-items: center;
     display: -ms-inline-flexbox;
     display: inline-flex;
+    white-space: nowrap;
 }
 li.navigation-link, li.mobile-navigation-link {
     color: rgba(0, 0, 0, 0.5);
@@ -109,6 +110,7 @@ li.navigation-link, li.mobile-navigation-link {
 
 ul.navigation-below {
     margin-left: 0;
+    overflow:auto;
 }
 
 li.navigation-link {
