@@ -5,6 +5,40 @@ site_description: Workshop on ML for Systems at NeurIPS 2023, December, New Orle
 mini_site_description: Workshop on ML for Systems at NeurIPS '23, Dec
 site_title: ML For Systems
 ---
+
+<div class="speaker_section">
+  <div class="inner clearfix">
+    <section class="main-content">
+      <h2 id="speakers">Speakers</h2>
+	    <div class="speaker-bio">
+				<div class="img-holder" style="background-image: url(/assets/images/speakers/chris_lattner.jpeg)"></div>
+				<div>
+					<h3 class="keynote-speaker">Keynote: Programming Languages Challenges in Large Scale Machine Learning</h3>
+					<h4>Chris Lattner (Modular.ai)</h4>
+					<p>
+                        Chris is the co-founder and CEO of Modular AI. He cofounded the LLVM Compiler infrastructure, the Clang compiler, the Swift programming language, the MLIR compiler infrastructure, the CIRCT project (applying MLIR to hardware design), and have contributed to many other commercial and open source projects at Apple, Tesla, Google, and SiFive. Previously, Chris led the Engineering and Product teams at SiFive, the Google TensorFlow team, the Tesla Autopilot team, and worked for Apple managing the Developer Tools department.
+					</p>
+				</div>
+        </div>
+    	<div class="speaker-bio">
+			<div class="img-holder" style="background-image: url(/assets/images/speakers/bill_dally.jpeg)"></div>
+				<div>
+					<h3 class="talk-speaker">Special Speaker: Adapting Large Language Models for Chip Design at NVIDIA</h3>
+					<h4>William Dally (NVIDIA)</h4>
+					<p>
+					    Dr. William "Bill" Dally is a computer architecture pioneer with extensive experience in circuit design, high performance computing, and machine learning. In 2009, Dally joined NVIDIA as the chief scientist, where he is currently the SVP of Research. Previously, Dally led research teams at Stanford for 12 years and MIT for 11 years as a professor, and he co-founded two companies. e is a member of the National Academy of Engineering, a Fellow of the American Academy of Arts & Sciences, a Fellow of the IEEE and the ACM, and has received the ACM Eckert-Mauchly Award, the IEEE Seymour Cray Award, and the ACM Maurice Wilkes award. He has published over 250 papers, holds over 120 issued patents, and is an author of four textbooks. His work can be seen in most large parallel computers today.
+					</p>
+				</div>
+        </div>
+        <div class="speaker-bio">
+                <div class="img-holder" style="background-image: url(/assets/images/speakers/atlas_wang.jpg)"></div>
+				<div>
+					<h3 class="talk-speaker">Leveraging Sparsity for Efficient Training, Inference, and Transfer</h3>
+					<h4>Atlas Wang (The University of Texas at Austin)</h4>
+					<p>Professor Zhangyang "Atlas" Wang is an associate professor at UT Austin, where he holds the Temple Foundation Endowed Faculty Fellowship #7, in the Chandra Family Department of Electrical and Computer Engineering. He is also a faculty member of UT Computer Science (GSC) and the Oden Institute CSEM program. Wang directs AI Research and Technology at Picsart part time.  Wang is a recipient of numerous awards, including NSF CAREER, IEEE AI's 10 To Watch, and Google Research Scholar awards.
+					</p>
+				</div>
+        </div>
 <div class="inner clearfix">
 	<section class="main-content overview_section">
 		<h2>What To Expect</h2>
@@ -27,9 +61,12 @@ site_title: ML For Systems
         </p>
         <p>To build commonalities on the topic of LLMs interacting with computational systems, we specifically include seminal talks on emerging trends on training and serving LLMs from seasoned researchers and practitioners as a part of our invited speakers. Our call for papers also includes topics at the intersection of Systems and LLMs.
         </p>
+        <h2>Competition Track</h2>
+        <p>This year, we introduced an auxiliary competition track to showcase state-of-the-art capabilities under open benchmarks. We hoped that the first iteration of the competition will serve as an initiative to encourage industrial sharing ML for systems data.</p>
+        <p>Our <a href="https://www.kaggle.com/competitions/predict-ai-model-runtime">Kaggle competition</a> on ML model runtime prediction just completed, with 792 participants on 616 teams! We received a total of 10,507 submission entries from 66 countries. The solutions from the competitors cover an impressive range of models and feature transformations, which yield impressive gains over our baseline model. Thank you all for participating in this competition and congratulations to the winners!</p>
     <h2>Call for Papers</h2>
     <p>We invite researchers to submit relevant papers through our <a href="/call_for_papers.html">call for papers</a>. Our program include contributed speakers and poster sessions from selected works.</p>
-    <h2>Camera-Ready Instructions</h2>
+    <!--h2>Camera-Ready Instructions</h2>
         <p>For accepted papers, please update the camera-ready manuscript on OpenReview by <b>November 17th AoE</b>.</p>
         <p>Please see instructions below:
             <ul>
@@ -37,64 +74,13 @@ site_title: ML For Systems
                 <li>There is a hard page limit of 4 pages (excluding references and Appendix).</li>
                 <li>Appendix and references do not have a limit</li>
             </ul>
-        </p>
-    <h2>Competition Track (<b>NOW LIVE</b>)</h2>
+        </p-->
+    <!--h2>Competition Track (<b>NOW LIVE</b>)</h2>
     <p>We introduce an auxiliary competition track to showcase state-of-the-art capabilities under open benchmarks. The first iteration serves as an initiative to encourage industrial sharing ML for systems data, with the tentative topic on <b>predicting program runtime from XLA graphs</b>.</p>
     <p> The top winners have the opportunities to share their technical reports to receive sponsor prizes.</p>
-    <p>The ML for Systems dataset and benchmarks for Runtime Prediction is now live at <a href="https://www.kaggle.com/competitions/predict-ai-model-runtime">Kaggle</a>.</p>
-    <!--ul class="footnotes">
-		<li><sup>1</sup> <a href="https://arxiv.org/abs/1706.04972">The case for learned index structures</a></li>
-        <li><sup>2</sup> <a href="https://openreview.net/forum?id=Hkc-TeZ0W">Learning to design circuits</a></li>
-		<li><sup>3</sup> <a href="https://arxiv.org/abs/1712.01208">A graph placement methodology for fast chip design</a></li>
-		<li><sup>4</sup> <a href="https://arxiv.org/abs/1803.02329">Learning Memory Access Patterns</a></li>
-		<li><sup>5</sup> <a href="https://ieeexplore.ieee.org/document/8091247/?reload=true">End to End Deep Learning of Optimization Heuristics</a></li>
-		<li><sup>6</sup> <a href="https://deepmind.com/blog/deepmind-ai-reduces-google-data-centre-cooling-bill-40/">Deepmind AI Reduces Google Data Centre Cooling Bill</a></li>
-		<li><sup>7</sup> <a href="https://www.youtube.com/watch?v=YhNl468S8CI">Bayesian optimization for tuning the JVM</a></li>
-		<li><sup>8</sup> <a href="https://arxiv.org/abs/1711.11165">Safe Exploration for Identifying Linear Systems via Robust Optimization</a></li>
-        <li><sup>9</sup><a href="https://arxiv.org/abs/1803.02329">Learning Memory Access Patterns</a></li>
-        <li><sup>10</sup><a href="https://research.google/pubs/pub49008/">Learning-based memory allocation for C++ server workloads</a></li>
-        <li><sup>11</sup><a href="https://arxiv.org/abs/1906.08879">Placeto: Learning Generalizable Device Placement Algorithms for Distributed Machine Learning</a></li>
-        <li><sup>12</sup><a href="https://arxiv.org/abs/1805.03441">Machine learning in compiler optimization</a></li>
-        <li><sup>13</sup><a href="https://arxiv.org/abs/1805.08166">Learning to Optimize Tensor Programs</a></li>
-        <li><sup>14</sup><a href="https://arxiv.org/abs/1810.01963">Learning scheduling algorithms for data processing clusters</a></li>
-        <li><sup>15</sup><a href="https://arxiv.org/abs/1811.01704">Releq: An automatic reinforcement learning approach for deep quantization of neural networks</a></li>
-        <li><sup>16</sup><a href="https://arxiv.org/abs/1808.07412">Ithemal: Accurate, portable and fast basic block throughput estimation using deep neural networks</a></li>
-        <li><sup>17</sup><a href="https://arxiv.org/abs/2104.04955">A Deep Learning Based Cost Model for Automatic Code Optimization</a></li>
-        <li><sup>18</sup><a href="https://dl.acm.org/doi/10.1145/3439706.3447045">The Law of Attraction: Affinity-Aware Placement Optimization using Graph Neural Networks</a></li>
-        <li><sup>19</sup><a href="https://arxiv.org/abs/2011.14486">Value Learning For Throughput Optimization Of Deep Neural Networks</a></li>
-        <li><sup>20</sup><a href="https://dvcon-proceedings.org/wp-content/uploads/Adaptive-Test-Generation-for-Fast-Functional-Coverage-Closure.pdf">Adaptive Test Generation for Fast Functional Coverage Closure</a></li>
-        <li><sup>21</sup><a href="https://dvcon-proceedings.org/wp-content/uploads/Test-Parameter-Tuning-with-Blackbox-Optimization-A-Simple-Yet-Effective-Way-to-Improve-Coverage-1.pdf">Test Parameter Tuning with Blackbox Optimization: A Simple Yet Effective Way to Improve Coverage</a></li>
-        <li><sup>22</sup><a href="https://ieeexplore.ieee.org/document/9153088">A Taxonomy of ML for Systems Problems</a></li>
-        <li><sup>23</sup><a href="https://www.sigarch.org/5-guidelines-for-research-in-ml-for-systems/">5 Guidelines for Research in ML for Systems”, Computer Architecture Today (Blog)</a></li>
-        <li><sup>24</sup><a href="https://arxiv.org/abs/2201.00561">Zero-Shot Cost Models for out-of-the-Box Learned Cost Prediction</a></li>
-        <li><sup>25</sup><a href="https://ieeexplore.ieee.org/document/9563030">A flexible approach to autotuning multi-pass machine learning compilers</a></li>
-        <li><sup>26</sup><a href="https://blog.google/intl/en-africa/products/explore-get-answers/an-important-next-step-on-our-ai-journey/">An important next step on our AI journey (blog) </a></li>
-        <li><sup>27</sup><a href="https://developers.googleblog.com/2023/03/announcing-palm-api-and-makersuite.html">PaLM API & MakerSuite: an approachable way to start prototyping and building generative AI applications</a></li>
-        <li><sup>28</sup><a href="https://blog.google/products/search/search-labs-ai-announcement">David Gasca. “Help us build the future of Search with Search Labs</a></li>
-        <li><sup>29</sup><a href="https://arxiv.org/abs/1910.01500">MLPerf Training Benchmark</a></li>
-        <li><sup>30</sup><a href="https://arxiv.org/abs/2012.02328">Mlperf mobile inference benchmark: An industry-standard open-source machine learning benchmark for on-device ai</a></li>
-        <li><sup>31</sup><a href="https://arxiv.org/abs/2008.01040">A learned performance model for tensor processing units</a></li>
-        <li><sup>32</sup><a href="https://arxiv.org/abs/2305.12322">Learning large graph property prediction via graph segment training.</a></li>
-    </ul-->
+    <p>The ML for Systems dataset and benchmarks for Runtime Prediction is now live at <a href="https://www.kaggle.com/competitions/predict-ai-model-runtime">Kaggle</a>.</p-->
 	</section>
 </div>
-<div class="speaker_section">
-  <div class="inner clearfix">
-    <section class="main-content">
-      <h2 id="speakers">Keynote Speaker</h2>
-	    <div class="speaker-bio">
-				<div class="img-holder" style="background-image: url(/assets/images/speakers/chris_lattner.jpeg)"></div>
-				<div>
-					<h3 class="keynote-speaker">Programming Languages Challenges in Large Scale Machine Learning</h3>
-					<h4>Chris Lattner (Modular.ai)</h4>
-					<p>
-                        Chris is the co-founder and CEO of Modular AI. He cofounded the LLVM Compiler infrastructure, the Clang compiler, the Swift programming language, the MLIR compiler infrastructure, the CIRCT project (applying MLIR to hardware design), and have contributed to many other commercial and open source projects at Apple, Tesla, Google, and SiFive. Previously, Chris led the Engineering and Product teams at SiFive, the Google TensorFlow team, the Tesla Autopilot team, and worked for Apple managing the Developer Tools department.
-					</p>
-				</div>
-        </div>
-    </section>
-    </div>
-    </div>
 <div class="organizers-section">
 	<div class="inner clearfix">
 		<section class="main-content">

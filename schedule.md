@@ -1,11 +1,103 @@
 ---
 title: Schedule
 workshop_name: neurips2023
-site_description: Workshop on ML for Systems at NeurIPS 2023
+site_description: Workshop on ML for Systems at NeurIPS 2023, December 16th, 9AM-5PM, New Orleans Convention Center.
 mini_site_description: Workshop on ML for Systems at NeurIPS 2023
 site_title: ML For Systems
 ---
-
+<div class="schedule_section">
+  <div class="inner clearfix">
+    <section class="main-content">
+      <h2>Schedule</h2>
+      <table class="schedule-table">
+        <thead>
+          <tr>
+            <th style="text-align: center; white-space: nowrap;">Time</th>
+            <th style="text-align: left">Section</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">9:00 AM</td>
+            <td style="text-align: left">Opening Remarks</td>
+          </tr>
+          <tr>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">9:05 AM</td>
+            <td style="text-align: left"><a href="#dally_talk"><b>Special Speaker: William Dally </b><br/><i>NVIDIA</i></a></td>
+          </tr>
+          <tr>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">9:55 AM</td>
+            <td style="text-align: left">Break<br/></td>
+          </tr>
+          <tr>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">10:00 AM</td>
+			<td style="text-align: left"><a href="#lattner_talk"><b>Keynote Speaker: Chris Lattner </b><br/><i>Modular.ai</i></a></td>
+          </tr>
+			<tr>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">10:55 AM</td>
+			<td style="text-align: left"><b>Coffee Break</b><br/><i></i></td>
+          </tr>
+          <tr>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">11:10 AM</td>
+            <td style="text-align: left"><i>VMR2L: Virtual Machines Rescheduling Using Reinforcement Learning in Data Centers</i></td>
+          </tr>
+          <tr>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">11:20 AM</td>
+            <td style="text-align: left"><i>ZeRO++: Extremely Efficient Collective Communication for Large Model Training</i></td>
+          </tr>
+		  <tr>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">11:30AM</td>
+            <td style="text-align: left">Poster Session 1<br/></td>
+          </tr>
+		  <tr>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">12:30AM</td>
+            <td style="text-align: left">Lunch<br/></td>
+          </tr>
+		  <tr>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">1:30 PM</td>
+			<td style="text-align: left"><a href="#wang_talk"><b>Invited Speaker: Atlas Wang </b><br/><i>UT Austin</i></a></td>
+          </tr>
+		<tr>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">1:50 PM</td>
+			<td style="text-align: left"><a href="#missing_talk"><b>Invited Speaker </b><br/><i></i></a></td>
+          </tr>
+		  <tr>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">2:10 PM</td>
+			<td style="text-align: left"><b>Tea Break</b></td>
+          </tr>
+          <tr>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">2:30 PM</td>
+            <td style="text-align: left"><i>On the Promise and Challenges of Foundation Models for Learning-based Cloud Systems Management</i></td>
+          </tr>
+          <tr>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">2:40 PM</td>
+            <td style="text-align: left"><i>Predicting User Experience on Laptops from Hardware Specifications</i></td>
+          </tr>
+          <tr>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">2:50 PM</td>
+            <td style="text-align: left">Poster Session 2<br/></td>
+          </tr>
+          <tr>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">3:50 PM</td>
+            <td style="text-align: left"><b>Tea Break</b><i></i></td>
+          </tr>
+          <tr>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">4:00 PM</td>
+            <td style="text-align: left">Competition Track Highlights<br/></td>
+          </tr>
+          <tr>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">4:15 PM</td>
+            <td style="text-align: left">Competition Winner Talks</td>
+          </tr>
+		  <tr>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">4:50 PM</td>
+            <td style="text-align: left">Competition Q&A</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+  </div>
+</div>
 <div class="speaker_section">
   <div class="inner clearfix">
     <section class="main-content">
@@ -39,7 +131,6 @@ site_title: ML For Systems
 					</p>
 				</div>
         </div>
-
 <div class="contact-us-section">
     <div class="inner clearfix">
         <section class="main-content">
