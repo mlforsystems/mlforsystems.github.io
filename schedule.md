@@ -1,8 +1,8 @@
 ---
 title: Schedule
 workshop_name: neurips2023
-site_description: Workshop on ML for Systems at NeurIPS 2023, December 16th, 9AM-5PM, New Orleans Convention Center.
-mini_site_description: Workshop on ML for Systems at NeurIPS 2023
+site_description: Workshop on ML for Systems at NeurIPS 2022, December 16, New Orleans Convention Center, 9:00AM-5:00PM, Room 211-213
+mini_site_description: Workshop on ML for Systems at NeurIPS '23, Dec 16, Room 211-213
 site_title: ML For Systems
 ---
 <div class="schedule_section">
