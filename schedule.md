@@ -58,10 +58,6 @@ site_title: ML For Systems
 			<td style="text-align: left"><a href="#wang_talk"><b>Invited Speaker: Atlas Wang </b><br/><i>UT Austin</i></a></td>
           </tr>
 		<tr>
-            <td style="text-align: right; white-space: nowrap; font-size: 15px;">1:50 PM</td>
-			<td style="text-align: left"><a href="#missing_talk"><b>Invited Speaker </b><br/><i></i></a></td>
-          </tr>
-		  <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">2:10 PM</td>
 			<td style="text-align: left"><b>Tea Break</b></td>
           </tr>
