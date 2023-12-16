@@ -125,7 +125,7 @@ site_title: ML For Systems
                 <div class="img-holder" style="background-image: url(/assets/images/speakers/atlas_wang.jpg)"></div>
 				<div>
 					<h3 class="talk-speaker">Atlas Wang</h3>
-          <h4>Leveraging Sparsity in Efficient Training, Inference, and Transfer</h4>
+          <h4>Efficient Generative Inference with Heavy Hitters and Beyond</h4>
 					<p>Professor Zhangyang "Atlas" Wang is an associate professor at UT Austin, where he holds the Temple Foundation Endowed Faculty Fellowship #7, in the Chandra Family Department of Electrical and Computer Engineering. He is also a faculty member of UT Computer Science (GSC) and the Oden Institute CSEM program. Wang directs AI Research and Technology at Picsart part time.  Wang is a recipient of numerous awards, including NSF CAREER, IEEE AI's 10 To Watch, and Google Research Scholar awards.
 					</p>
 				</div>
