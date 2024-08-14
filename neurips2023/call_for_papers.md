@@ -1,8 +1,8 @@
 ---
 title: Call for Papers
-workshop_name: neurips2024
-site_description: Workshop on ML for Systems at NeurIPS 2024, December 14, Vancouver Convention Center
-mini_site_description: Workshop on ML for Systems at NeurIPS '24, Dec 14
+workshop_name: neurips2023
+site_description: Workshop on ML for Systems at NeurIPS 2023, December 16, New Orleans Convention Center, 9:00AM-5:00PM, Room 211-213
+mini_site_description: Workshop on ML for Systems at NeurIPS '23, Dec 16, Room 211-213
 site_title: ML For Systems
 ---
 <div class="inner clearfix">
@@ -18,6 +18,15 @@ site_title: ML For Systems
             </ul>
         </p>
         <p>Accepted papers will be made available on the workshop website, but there will be no formal proceedings. Authors may therefore publish their work in other journals or conferences. The workshop will include invited talks from industry and academia as well as oral and poster presentations by workshop participants.</p>
+        <h2>Camera-Ready Instructions</h2>
+        <p>For accepted papers, please update the camera-ready manuscript on OpenReview by <b>November 17th AoE</b>.</p>
+        <p>Please see instructions below:
+            <ul>
+                <li>The camera-ready template is the same as the one used for submission, which is same as NeurIPS papers. Kindly use the Final package. We have made some minor changes to the format. Please use <a href="/assets/latex/MLforSysLatexFiles.zip"><b>the template (.zip)</b></a></li> attached.
+                <li>There is a hard page limit of 4 pages (excluding references and Appendix).</li>
+                <li>Appendix and references do not have a limit</li>
+            </ul>
+        </p>
     </section>
 </div>
 <div class="areas_of_interest_section">
@@ -25,7 +34,7 @@ site_title: ML For Systems
         <section class="main-content">
             <h2>Areas of interest:</h2>
             <p>
-                You can find accepted papers to the previous iteration of ML for Systems from <a href="/neurips2023/accepted_papers.html">NeurIPS 2023</a>, <a href="/neurips2022/accepted_papers.html">NeurIPS 2022</a>, <a href="/neurips2021/accepted_papers.html">2021</a>, <a href="/neurips2020/accepted_papers.html">2020</a>, <a href="/neurips2019/accepted_papers.html">2019</a>, <a href="/neurips2018/accepted_papers.html">2018</a>, and <a href="/isca2019/accepted_papers.html">ISCA 2019</a>.
+                You can find accepted papers to the previous iteration of ML for Systems from <a href="/neurips2022/accepted_papers.html">NeurIPS 2022</a>, <a href="/neurips2021/accepted_papers.html">2021</a>, <a href="/neurips2020/accepted_papers.html">2020</a>, <a href="/neurips2019/accepted_papers.html">2019</a>, <a href="/neurips2018/accepted_papers.html">2018</a>, and <a href="/isca2019/accepted_papers.html">ISCA 2019</a>.
             </p>
             <p>
             <ul>
@@ -62,20 +71,22 @@ site_title: ML For Systems
         <section class="main-content">
             <h2>Submission Instructions</h2>
             <p>
-                We welcome submissions of up to 4 pages (not including references). This is a <b>strict</b> limit.
+                We welcome submissions of up to 4 pages (not including references). This is not a strict limit, but authors are encouraged to adhere to it if possible.
             </p>
             <p>
-                All submissions must be in PDF format and should follow the <a href="https://media.neurips.cc/Conferences/NeurIPS2024/Styles.zip">NeurIPS 2024 format</a>.
+                All submissions must be in PDF format and should follow the <a href="https://neurips.cc/Conferences/2023/PaperInformation/StyleFiles">NeurIPS 2023 format</a>.
             </p>
             <ul>
                 <li>Submissions do not have to be anonymized.</li>
-                <li>Please submit your paper no later than <b>September 18th</b>, 2024 midnight anywhere in the world to <a href="https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/MLforSys#tab-your-consoles">OpenReview submission site</a>.</li>
+                <li>Please submit your paper no later than <s>September 29th</s> <b>October 6th</b>, 2023 midnight anywhere in the world to <a href="https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/MLSys">OpenReview submission site</a>.</li>
             </ul>
             <h2>Important Dates</h2>
             <ul>
-                <li>Submission Deadline: <b>September 18th by midnight Anywhere in the World</b>.</li>
-                <li>Acceptance Notifications: October 7th, 2024</li>
-                <li>Workshop: December ~14 <i>TBD</i>, 2024</li>
+                <li>Competition Start Date: Late August, 2023 <i>(to be announced) </i></li>
+                <li>Submission Deadline: <s>September 29th</s> <b>October 6th, 2023 by midnight Anywhere in the World</b>.</li>
+                <li>Acceptance Notifications: October 20th, 2023</li>
+                <li>Competition Submission Deadline: November 17, 2023</li>
+                <li>Workshop: December ~16 <i>TBD</i>, 2023</li>
 
 <div class="contact-us-section">
     <div class="inner clearfix">
