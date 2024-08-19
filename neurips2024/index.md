@@ -1,8 +1,8 @@
 ---
 title: Announcement
-workshop_name: neurips2024
-site_description: Workshop on ML for Systems at NeurIPS 2024, December 14, Vancouver Convention Center
-mini_site_description: Workshop on ML for Systems at NeurIPS '24, Dec 14
+workshop_name: neurips2023
+site_description: Workshop on ML for Systems at NeurIPS 2023, December 16, New Orleans Convention Center, 9:00AM-5:00PM, Room 211-213
+mini_site_description: Workshop on ML for Systems at NeurIPS '23, Dec 16, Room 211-213
 site_title: ML For Systems
 ---
 <div class="speaker_section">
@@ -10,21 +10,31 @@ site_title: ML For Systems
     <section class="main-content">
       <h2 id="speakers">Speakers</h2>
 	    <div class="speaker-bio">
-				<div class="img-holder" style="background-image: url(/assets/images/speakers/jeff_dean.jpg)"></div>
+				<div class="img-holder" style="background-image: url(/assets/images/speakers/chris_lattner.jpeg)"></div>
 				<div>
-					<h3 class="keynote-speaker">Jeff Dean</h3>
+					<h3 class="keynote-speaker">Chris Lattner</h3>
           <h5 class="keynote-speaker">Keynote Speaker</h5>
-                    <h3>Exciting Directions in Systems for Machine Learning</h3>
 					<p>
-Jeff Dean joined Google in mid-1999, and is currently Google's Chief Scientist, focusing on AI advances for Google
-DeepMind and Google Research. His areas of focus include machine learning and AI and applications of AI to
-problems that help billions of people in societally beneficial ways. Jeff co-founded Google Brain and is a co-designer
-and implementer of Tensorflow, MapReduce, BigTable and Spanner. He has been involved in several ML for Systems
-projects, including Learned Index Structures and ML for chip floorplanning.
+                        Chris Lattner is the co-founder and CEO of Modular AI. He cofounded the LLVM Compiler infrastructure, the Clang compiler, the Swift programming language, the MLIR compiler infrastructure, the CIRCT project (applying MLIR to hardware design), and have contributed to many other commercial and open source projects at Apple, Tesla, Google, and SiFive. Previously, Chris led the Engineering and Product teams at SiFive, the Google TensorFlow team, the Tesla Autopilot team, and worked for Apple managing the Developer Tools department.
 					</p>
 				</div>
         </div>
-
+    	<div class="speaker-bio">
+			<div class="img-holder" style="background-image: url(/assets/images/speakers/bill_dally.jpeg)"></div>
+				<div>
+					<h3 class="talk-speaker">William Dally</h3>
+					<p>Dr. Bill Dally brings extensive expertise in circuit design, high performance computing, and machine learning. Dally is the SVP of Research at NVIDIA, which he joined as a chief scientist in 2009. Previously, Dally led research teams as a professor at Stanford for 12 years and MIT for 11 years. He co-founded two companies. He is a member of the National Academy of Engineering, a Fellow of the American Academy of Arts & Sciences, a Fellow of the IEEE and the ACM, and has received the ACM Eckert-Mauchly Award, the IEEE Seymour Cray Award, and the ACM Maurice Wilkes award. He has published over 250 papers, holds over 120 issued patents, and is an author of four textbooks.
+					</p>
+				</div>
+        </div>
+        <div class="speaker-bio">
+                <div class="img-holder" style="background-image: url(/assets/images/speakers/atlas_wang.jpg)"></div>
+				<div>
+					<h3 class="talk-speaker">Atlas Wang</h3>
+					<p>Professor Zhangyang "Atlas" Wang is an associate professor at UT Austin, where he holds the Temple Foundation Endowed Faculty Fellowship #7, in the Chandra Family Department of Electrical and Computer Engineering. He is also a faculty member of UT Computer Science (GSC) and the Oden Institute CSEM program. Wang directs AI Research and Technology at Picsart part time.  Wang is a recipient of numerous awards, including NSF CAREER, IEEE AI's 10 To Watch, and Google Research Scholar awards.
+					</p>
+				</div>
+        </div>
 <div class="inner clearfix">
 	<section class="main-content overview_section">
 		<h2>What To Expect</h2>
@@ -47,6 +57,9 @@ projects, including Learned Index Structures and ML for chip floorplanning.
         </p>
         <p>To build commonalities on the topic of LLMs interacting with computational systems, we specifically include seminal talks on emerging trends on training and serving LLMs from seasoned researchers and practitioners as a part of our invited speakers. Our call for papers also includes topics at the intersection of Systems and LLMs.
         </p>
+        <h2>Competition Track</h2>
+        <p>This year, we introduced an auxiliary competition track to showcase state-of-the-art capabilities under open benchmarks. We hoped that the first iteration of the competition will serve as an initiative to encourage industrial sharing ML for systems data.</p>
+        <p>Our <a href="https://www.kaggle.com/competitions/predict-ai-model-runtime">Kaggle competition</a> on ML model runtime prediction just completed, with 792 participants on 616 teams! We received a total of 10,507 submission entries from 66 countries. The solutions from the competitors cover an impressive range of models and feature transformations, which yield impressive gains over our baseline model. Thank you all for participating in this competition and congratulations to the winners!</p>
     <h2>Call for Papers</h2>
     <p>We invite researchers to submit relevant papers through our <a href="/call_for_papers.html">call for papers</a>. Our program include contributed speakers and poster sessions from selected works.</p>
     <!--h2>Camera-Ready Instructions</h2>
@@ -58,6 +71,10 @@ projects, including Learned Index Structures and ML for chip floorplanning.
                 <li>Appendix and references do not have a limit</li>
             </ul>
         </p-->
+    <!--h2>Competition Track (<b>NOW LIVE</b>)</h2>
+    <p>We introduce an auxiliary competition track to showcase state-of-the-art capabilities under open benchmarks. The first iteration serves as an initiative to encourage industrial sharing ML for systems data, with the tentative topic on <b>predicting program runtime from XLA graphs</b>.</p>
+    <p> The top winners have the opportunities to share their technical reports to receive sponsor prizes.</p>
+    <p>The ML for Systems dataset and benchmarks for Runtime Prediction is now live at <a href="https://www.kaggle.com/competitions/predict-ai-model-runtime">Kaggle</a>.</p-->
 	</section>
 </div>
 <div class="organizers-section">
@@ -69,19 +86,9 @@ projects, including Learned Index Structures and ML for chip floorplanning.
                 <li><b>Dan Zhang</b>, Google DeepMind, <a href="https://www.linkedin.com/in/danzhang3">LinkedIn</a></li>
                 <li><b>Phitchaya Mangpo Phothilimthana</b>, Google DeepMind, <a href="https://www.linkedin.com/in/phitchaya-mangpo-phothilimthana">LinkedIn</a></li>
                 <li><b>Divya Mahajan</b>, Microsoft Research and Georgia Tech. <a href="https://twitter.com/divyamahajn">@DivyaMahajn</a></li>
-                <li><b>Haoran Qiu</b>, Microsoft Azure Research. <a href="https://www.linkedin.com/in/jamesqhr/">LinkedIn</a></li>
-                <li><b>Patrick Musau</b>, Google. <a href="https://www.linkedin.com/in/musaup/">LinkedIn</a></li>
-
-			</ul>
-            <h2>Steering Committee</h2>
-			<ul>
-                <li><b>Martin Maas</b>, Google DeepMind, <a href="https://twitter.com/martin_maas">@martin_maas</a></li>
-                <li><b>Jonathan Raiman</b>, NVIDIA, <a href="https://twitter.com/jonathanrraiman">@jonathanrraiman</a></li>
-                <li><b>Anna Goldie</b>, Anthropic, <a href="https://twitter.com/annadgoldie">@annadgoldie</a></li>
-                <li><b>Azalia Mirhoseini</b>, Anthropic, <a href="https://twitter.com/Azaliamirh">@Azaliamirh</a></li>
-				<li><b>Milad Hashemi</b>, Google, <a href="https://twitter.com/miladhash">@miladhash</a></li>
-				<li><b>Kevin Swersky</b>, Google, <a href="https://twitter.com/kswersk">@kswersk</a></li>
-			</ul>
+                <li><b>Patrick Musau</b>, Google, <a href="https://www.linkedin.com/in/musaup/">>LinkedIn</a></li>
+                <li><b>Horan Qiu</b>, Microsoft Azure Research, <a href="https://www.linkedin.com/in/jamesqhr/">LinkedIn</a></li>
+               
             <h2>Contact Us</h2>
             <p>
                 Contact us at <a href="mailto:mlforsystems@googlegroups.com">mlforsystems@googlegroups.com</a>.
