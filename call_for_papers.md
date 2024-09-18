@@ -77,7 +77,7 @@ site_title: ML For Systems
             </ul>
             <h2>Important Dates</h2>
             <ul>
-                <li>Submission Deadline: <b>September 18th by midnight Anywhere in the World</b>.</li>
+                <li>Submission Deadline: <b><s>September 18th</s> September 22nd by midnight Anywhere in the World</b>.</li>
                 <li>Acceptance Notifications: October 7th, 2024</li>
                 <li>Workshop: December ~14 <i>TBD</i>, 2024</li>
 
