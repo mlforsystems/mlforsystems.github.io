@@ -14,7 +14,7 @@ site_title: ML For Systems
 				<div>
 					<h3 class="keynote-speaker">Jeff Dean</h3>
           <h5 class="keynote-speaker">Keynote Speaker</h5>
-                    <h3>Exciting Directions in Systems for Machine Learning</h3>
+                    <h3>Exciting Directions in Machine Learning for Computer Systems</h3>
 					<p>
 Jeff Dean joined Google in mid-1999, and is currently Google's Chief Scientist, focusing on AI advances for Google
 DeepMind and Google Research. His areas of focus include machine learning and AI and applications of AI to
