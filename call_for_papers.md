@@ -1,8 +1,8 @@
 ---
 title: Call for Papers
 workshop_name: neurips2024
-site_description: Workshop on ML for Systems at NeurIPS 2024, December 14, Vancouver Convention Center
-mini_site_description: Workshop on ML for Systems at NeurIPS '24, Dec 14
+site_description: Workshop on ML for Systems at NeurIPS 2024, December 15, Vancouver Convention Center
+mini_site_description: Workshop on ML for Systems at NeurIPS '24, Dec 15
 site_title: ML For Systems
 ---
 <div class="inner clearfix">
@@ -79,7 +79,7 @@ site_title: ML For Systems
             <ul>
                 <li>Submission Deadline: <b><s>September 18th</s> September 22nd by midnight Anywhere in the World</b>.</li>
                 <li>Acceptance Notifications: October 7th, 2024</li>
-                <li>Workshop: December ~14 <i>TBD</i>, 2024</li>
+                <li>Workshop: December ~15 <i>TBD</i>, 2024</li>
 
 <div class="contact-us-section">
     <div class="inner clearfix">
