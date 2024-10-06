@@ -1,8 +1,8 @@
 ---
 title: Announcement
 workshop_name: neurips2024
-site_description: Workshop on ML for Systems at NeurIPS 2024, December 14, Vancouver Convention Center
-mini_site_description: Workshop on ML for Systems at NeurIPS '24, Dec 14
+site_description: Workshop on ML for Systems at NeurIPS 2024, December 15, Vancouver Convention Center
+mini_site_description: Workshop on ML for Systems at NeurIPS '24, Dec 15
 site_title: ML For Systems
 ---
 <div class="speaker_section">
