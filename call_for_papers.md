@@ -23,6 +23,17 @@ site_title: ML For Systems
          <p>
                 You can find accepted papers to the previous iteration of ML for Systems from <a href="/neurips2023/accepted_papers.html">NeurIPS 2023</a>, <a href="/neurips2022/accepted_papers.html">NeurIPS 2022</a>, <a href="/neurips2021/accepted_papers.html">2021</a>, <a href="/neurips2020/accepted_papers.html">2020</a>, <a href="/neurips2019/accepted_papers.html">2019</a>, <a href="/neurips2018/accepted_papers.html">2018</a>, and <a href="/isca2019/accepted_papers.html">ISCA 2019</a>.
         </p>
+         <p>Accepted papers will be made available on the workshop website, but there will be no formal proceedings. Authors may therefore publish their work in other journals or conferences. The workshop will include invited talks from industry and academia as well as oral and poster presentations by workshop participants.</p>
+        <h2>Camera-Ready Instructions</h2>
+        <p>For accepted papers, please update the camera-ready manuscript on OpenReview by <b>Oct 28th AoE</b>.</p>
+        <p>Please see instructions below:
+            <ul>
+                <li> Please address the AC comments (if any) and use the reviews to improve the paper.
+                <li>The camera-ready template is the same as the one used for submission, which is same as NeurIPS papers but using `Final` package. We have made some minor changes to the format. Please update with <a href="/assets/latex/mlforsysformat.zip"><b>the template (.zip)</b></a></li> attached.
+                <li>There is a <b>hard</b> page limit of 4 pages (excluding references and Appendix).</li>
+                <li>Appendix and references do not have a limit.</li>
+            </ul>
+        </p>
     </section>
 </div>
 <div class="areas_of_interest_section">
