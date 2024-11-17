@@ -28,7 +28,7 @@ site_title: ML For Systems
         <p>For accepted papers, please update the camera-ready manuscript on OpenReview by <b>Oct 28th AoE</b>.</p>
         <p>Please see instructions below:
             <ul>
-                <li> Please address the AC comments (if any) and use the reviews to improve the paper.
+                <li> Please address the AC comments (if any) and use the reviews to improve the paper.</li>
                 <li>The camera-ready template is the same as the one used for submission, which is same as NeurIPS papers but using `Final` package. We have made some minor changes to the format. Please update with <a href="/assets/latex/mlforsysformat.zip"><b>the template (.zip)</b></a></li> attached.
                 <li>There is a <b>hard</b> page limit of 4 pages (excluding references and Appendix).</li>
                 <li>Appendix and references do not have a limit.</li>
@@ -84,7 +84,6 @@ site_title: ML For Systems
             <ul>
                 <li>Submissions do not have to be anonymized.</li>
                 <li>Please note that NeurIPS has changed their <a href="https://neurips.cc/Conferences/2024/Dates">workshop submission date guidelines</a> this year. Please submit your paper no later than <b><s>September 18th</s> September 22nd by midnight Anywhere in the World</b>, 2024 midnight anywhere in the world to <a href="https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/MLforSys#tab-your-consoles">OpenReview submission site</a>.</li>
-
             </ul>
             <h2>Important Dates</h2>
             <ul>

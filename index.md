@@ -71,7 +71,6 @@ projects, including Learned Index Structures and ML for chip floorplanning.
                 <li><b>Divya Mahajan</b>, Georgia Tech, <a href="https://twitter.com/divyamahajn">@DivyaMahajn</a></li>
                 <li><b>Haoran Qiu</b>, Microsoft Azure Research, <a href="https://www.linkedin.com/in/jamesqhr/">LinkedIn</a></li>
                 <li><b>Patrick Musau</b>, Google. <a href="https://www.linkedin.com/in/musaup/">LinkedIn</a></li>
-
 			</ul>
             <h2>Steering Committee</h2>
 			<ul>
