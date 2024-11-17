@@ -10,7 +10,7 @@ site_title: ML For Systems
         <h2>Accepted Papers</h2>
 {% for paper in site.data.neurips2024.papers %}
 <p><details><summary>🔽 <b>{{paper.title}}</b>. {{ paper.authors }}.</summary>
-<p>{{paper.abstract}} <a href="/assets/papers/neurips2024/paper{{paper.id}}.pdf"><b>(paper)</b></a></p>
+<p>{{paper.abstract}} <a href="/assets/papers/neurips2024/paper{{paper.tag}}.pdf"><b>(paper)</b></a></p>
 </details></p>
 {% endfor %}
 </section>
