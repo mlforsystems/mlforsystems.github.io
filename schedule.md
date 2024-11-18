@@ -19,11 +19,11 @@ site_title: ML For Systems
         <tbody>
           <tr>
           <td style="text-align: right; white-space: nowrap; font-size: 15px;">8:20 AM</td>
-			    <td style="text-align: left"><a href="#dean_talk"><b>Keynote Speaker: Jeff Dean, Advances in Machine Learning for Systems </b><br/><i>Google</i></a></td>
+			    <td style="text-align: left"><a href="#dean_talk"><b>Keynote:</b> Jeff Dean</a> (<i>Google</i>)<br/> Advances in Machine Learning for Systems</td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">9:15 AM</td>
-            <td style="text-align: left"><i>Multi-Agent Reinforcment Learning for Systems, Natasha Jacques</i></td>
+            <td style="text-align: left"><a href="#jacques_talk"><b>Invited:</b> Natasha Jacques</a> (<i>University of Washington</i>)<br>Multi-Agent Reinforcement Learning for Systems</td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">9:55 AM</td>
@@ -31,15 +31,11 @@ site_title: ML For Systems
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">10:10 AM</td>
-			<td style="text-align: left"><a href="#richardho_talk"><b>Special Speaker: Richard Ho, Navigating Scaling and Efficiency Challenges of ML Systems </b><br/><i>OpenAI</i></a></td>
+			<td style="text-align: left"><a href="#richardho_talk"><b>Hardware:</b> Richard Ho</a> (<i>OpenAI</i>)<br>Navigating Scaling and Efficiency Challenges of ML Systems</td>
           </tr>
 			<tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">10:50 AM</td>
-            <td style="text-align: left"><i>Spotlight: Don't Transform the Code, Code the Transforms: Towards Precise Code Rewriting using LLMs, Chris Cummins</i></td>
-          </tr>
-          <tr>
-            <td style="text-align: right; white-space: nowrap; font-size: 15px;">11:00 AM</td>
-            <td style="text-align: left"><i>Spotlight: The Unreasonable Effectiveness of LLMs for Query Optimization, Peter Akioyamen</i></td>
+            <td style="text-align: left">Contributed Talks:<ul><li>Don't Transform the Code, Code the Transforms: <br>Towards Precise Code Rewriting using LLMs</li><li>The Unreasonable Effectiveness of LLMs for Query Optimization</li></ul></td>
           </tr>
 		  <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">11:10 AM</td>
@@ -51,7 +47,7 @@ site_title: ML For Systems
       </tr>
       <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">1:00 PM </td>
-            <td style="text-align: left"><i>Tim Kraska: ML for Systems, A Retrospective</i></td>
+            <td style="text-align: left"><a href="#kraska_talk"><b>Retrospective:</b></a> Tim Kraska (<i>MIT, AWS</i>)</td>
       </tr>
       <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">1:50 PM</td>
@@ -59,15 +55,15 @@ site_title: ML For Systems
       </tr>
 		  <tr>
         <td style="text-align: right; white-space: nowrap; font-size: 15px;">2:00 PM</td>
-			  <td style="text-align: left"><a href="#ahmed_talk"><b>CodeGen Talk: Ahmed El-Kishky, OpenAI's o1 Competing on IOI</b><br/><i>OpenAI</i></a></td>
+			  <td style="text-align: left"><a href="#ahmed_talk"><b>CodeGen:</b> Ahmed El-Kishky</a> (<i>OpenAI</i>)<br>OpenAI's o1 Competing on IOI</td>
       </tr>
 		  <tr>
         <td style="text-align: right; white-space: nowrap; font-size: 15px;">2:20 PM</td>
-        <td style="text-align: left"><i>WarpDrive: An Agentic Workflow for Ninja GPU Transformations, Siva Hari</i></td>
+        <td style="text-align: left">Contributed Talks: <ul><li><i>WarpDrive</i>: An Agentic Workflow for Ninja GPU Transformations</li><li>Scalable RL for Systems via Offline Imitation from Multiple Baselines: <br>A Case Study in Compiler Optimization</li></ul></td>
       </tr>
       <tr>
-        <td style="text-align: right; white-space: nowrap; font-size: 15px;">2:30 PM</td>
-        <td style="text-align: left"><i>Scalable RL for Systems via Offline Imitation from Multiple Baselines: A Case Study in Compiler Optimization, Teodor Vanislavov Marinov</i></td>
+        <td style="text-align: right; white-space: nowrap; font-size: 15px;">2:40 PM</td>
+        <td style="text-align: left">Q&A, TBD</td>
       </tr>
       <tr>
         <td style="text-align: right; white-space: nowrap; font-size: 15px;">3:05 PM</td>
