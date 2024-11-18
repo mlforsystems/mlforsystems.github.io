@@ -83,14 +83,16 @@ site_title: ML For Systems
             </p>
             <ul>
                 <li>Submissions do not have to be anonymized.</li>
-                <li>Please note that NeurIPS has changed their <a href="https://neurips.cc/Conferences/2024/Dates">workshop submission date guidelines</a> this year. Please submit your paper no later than <b><s>September 18th</s> September 22nd by midnight Anywhere in the World</b>, 2024 midnight anywhere in the world to <a href="https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/MLforSys#tab-your-consoles">OpenReview submission site</a>.</li>
+                <li>Please note that NeurIPS has changed their <a href="https://neurips.cc/Conferences/2024/Dates">workshop submission date guidelines</a> this year. Please submit your paper no later than <s>September 18th</s> <b>September 22nd by midnight Anywhere in the World</b>, 2024 to <a href="https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/MLforSys#tab-your-consoles">OpenReview submission site</a>.</li>
             </ul>
             <h2>Important Dates</h2>
             <ul>
                 <li>Submission Deadline: <b><s>September 18th</s> September 22nd by midnight Anywhere in the World</b>.</li>
                 <li>Acceptance Notifications: October 7th, 2024</li>
-                <li>Workshop: December ~15 <i>TBD</i>, 2024</li>
-
+                <li>Workshop: December 15, 2024</li></ul>
+        </section>
+    </div>
+</div>
 <div class="contact-us-section">
     <div class="inner clearfix">
         <section class="main-content">
