@@ -5,7 +5,7 @@ site_description: Workshop on ML for Systems at NeurIPS 2024, December 15, Vanco
 mini_site_description: Workshop on ML for Systems at NeurIPS '24, Dec 15
 site_title: ML For Systems
 ---
-<div class="schedule_section">
+<div class="schedule_section virtual_schedule_section">
   <div class="inner clearfix">
     <section class="main-content">
       <h2>Schedule</h2>

@@ -6,7 +6,7 @@ mini_site_description: Workshop on ML for Systems at NeurIPS '24, Dec 15
 site_title: ML For Systems
 ---
 <div class="inner clearfix">
-    <section class="main-content call_for_papers_section">
+    <section class="main-content call_for_papers_section overview_section">
         <h2>Workshop Overview</h2>
         <p>Machine Learning for Systems is an interdisciplinary workshop that brings together researchers in computer systems and machine learning, specifically focusing on the novel application of machine learning techniques towards computer systems problems.</p>
         <h2>Call for Papers</h2>

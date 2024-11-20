@@ -33,6 +33,7 @@ h5.keynote-speaker, h5.talk_speaker {
 
 #content-wrapper {
     border-top: none;
+    padding-top: 0;
 }
 
 .equal_contribution {
@@ -123,13 +124,17 @@ li.navigation-link a, li.mobile-navigation-link a {
 li.navigation-link:hover, li.mobile-navigation-link:hover {
     color: #5029CA;
 }
-li.navigation-link-active, li.mobile-navigation-link-active {
+li.navigation-link-active {
     color: #1B66F1;
+}
+li.mobile-navigation-link-active {
+    color:#F7FBFA;
+    background-color: #165ADC;
 }
 li.navigation-link-active:hover, .mobile-navigation-active:hover {
     color: #165ADC;
 }
-li.navigation-link-title, {
+li.navigation-link-title {
     margin-right: 50px;
     font-size: 24px;
     color: black;
@@ -145,7 +150,6 @@ li.navigation-link-title, {
     line-height: 40px;
     background: #F7FBFA;
     margin-right: 2px;
-    border: 1px solid rgba(0,0,0,0.05);
 }
 
 .speaker-bio {
@@ -204,10 +208,10 @@ ul.footnotes {
 }
 
 /* slight gray/blue tinge */
-.speaker_section, .areas_of_interest_section {
+.speaker_section, .areas_of_interest_section, .accepted_papers_section {
     background: #f6f9fc;
 }
-.speaker_section h2, .speaker_section h3,
+.speaker_section h2, .speaker_section h3, accepted_papers_section h2,
 .areas_of_interest_section h2, .areas_of_interest_section h3 {
     color: #32325d;
 }
@@ -215,7 +219,7 @@ ul.footnotes {
     color: black;
 }
 
-.speaker_section h2, .overview_section h2, .schedule_section h2, .areas_of_interest_section h2, .submission_section h2 {
+.speaker_section h2, .overview_section h2, .schedule_section h2, .areas_of_interest_section h2, .submission_section h2, .accepted_papers_section h2 {
     font-size: 36px;
     text-align: center;
 }
@@ -249,7 +253,7 @@ body {
 }
 
 
-.speaker_section, .areas_of_interest_section, .schedule_section, .organizers-section, .contact-us-section {
+.speaker_section, .areas_of_interest_section, .schedule_section, .organizers-section, .contact-us-section, .accepted_papers_section {
     padding-bottom: 50px;
     padding-top: 50px;
 }
@@ -292,6 +296,7 @@ li.navigation-home:hover {
     }
     .mobile-navigation {
         display: block;
+        margin: 0;
     }
     .speaker_section, .areas_of_interest_section .schedule_section, .organizers-section, .contact-us-section {
         padding-bottom: 20px;
@@ -307,6 +312,9 @@ li.navigation-home:hover {
     li.navigation-link-title {
         font-size: 20px;
     }
+    .mobile-navigation-link {
+        font-weight: 400;
+    }
     .other-site-nav {
         padding-bottom: 0;
     }
@@ -314,7 +322,7 @@ li.navigation-home:hover {
         height: 120px;
     }
     .floating-description {
-        padding-top: 45px;
+        padding-top: 35px;
         left: 25px;
         font-size: 20px;
     }
@@ -355,5 +363,10 @@ li.navigation-home:hover {
     }
     .mobile-480 {
         visibility: visible;
+    }
+    .floating-description {
+        padding-top: 15px;
+        left: 25px;
+        font-size: 20px;
     }
 }
