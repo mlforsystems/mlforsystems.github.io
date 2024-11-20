@@ -23,6 +23,37 @@ and implementer of Tensorflow, MapReduce, BigTable and Spanner. He has been invo
 projects, including Learned Index Structures and ML for chip floorplanning.
 					</p>
 				</div>
+            </div>
+            <div class="speaker-bio">
+				<div class="img-holder" style="background-image: url(/assets/images/speakers/kraska)"></div>
+				<div>
+					<h3 class="keynote-speaker">Tim Kraska</h3>
+          <h5 class="keynote-speaker">Retrospective</h5>
+                    <h3>TBD</h3>
+					<p>Tim Kraska is a professor
+                    at MIT and a research director at Amazon Web Services. His work focuses on Learned Systems: ML for Systems, and Systems for ML.
+					</p>
+				</div>
+        </div>
+        <div class="speaker-bio">
+				<div class="img-holder" style="background-image: url(/assets/images/speakers/jacques.jpeg)"></div>
+				<div>
+					<h3 class="keynote-speaker">Natasha Jacques</h3>
+          <h5 class="keynote-speaker">Special Topic: MARL</h5>
+                    <h3>TBD</h3>
+					<p>Natasha Jacques is a an Assistant Professor at the University of Washington Paul G. Allen School of Computer Science & Engineering, where she leads the <a href="https://socialrl.cs.washington.edu/">Social RL Lab</a>. She is also a Senior Research Scientist at Google DeepMind. Her work develops algorithms for Social Reinforcement Learning, which combine insights from social learning and multi-agent training to improve AI agents’ learning, generalization, coordination, and human-AI interaction. She is a pioneer in using RL for finetuning language models and learning from human feedback.
+					</p>
+				</div>
+        </div>
+            <div class="speaker-bio">
+				<div class="img-holder" style="background-image: url(/assets/images/speakers/ahmed.jpeg)"></div>
+				<div>
+					<h3 class="keynote-speaker">Ahmed El-Kishky</h3>
+          <h5 class="keynote-speaker">Special Topic: CodeGen</h5>
+                    <h3>OpenAI o1 Competing in International Olympiad of Informatics</h3>
+					<p>Ahmed El-Kishky is a Research Lead at OpenAI, where he focuses on advancing language models and improving AI reasoning through reinforcement learning. He was instrumental in developing OpenAI o1, a model built for complex problem-solving, and led the creation of OpenAI o1-IOI, which competed in prestigious programming competitions such as the International Olympiad in Informatics. Ahmed earned his Ph.D. in Computer Science from the University of Illinois at Urbana-Champaign, where his research centered on scalable machine learning algorithms and natural language processing.
+					</p>
+				</div>
         </div>
 
 <div class="inner clearfix">
