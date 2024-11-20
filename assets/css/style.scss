@@ -110,7 +110,6 @@ li.navigation-link, li.mobile-navigation-link {
 
 ul.navigation-below {
     margin-left: 0;
-    overflow:auto;
 }
 
 li.navigation-link {
@@ -271,6 +270,7 @@ body {
     border-bottom: 1px solid rgba(0, 0, 0, 0.05);
     padding-bottom: 2px;
     padding-left: 50px;
+    overflow-x:auto;
 }
 
 li.navigation-home {
@@ -318,6 +318,22 @@ li.navigation-home:hover {
         left: 25px;
         font-size: 20px;
     }
+    .speaker_section h2, .overview_section h2, .schedule_section h2, .areas_of_interest_section h2, .submission_section h2 {
+        font-size: 25px;
+        text-align: left;
+    }
+    .speaker-bio {
+        flex-direction: column;
+      }
+      .img-holder {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 10;
+        width: 200px;
+        height: 200px;
+        margin-top: 10px;
+    }
 }
 
 .no-mobile-480 {
@@ -328,11 +344,6 @@ li.navigation-home:hover {
 }
 
 @media only screen and (max-width: 500px) {
-    .speaker-bio .img-holder {
-        width: 100px;
-        height: 100px;
-        margin-right: 10px;
-    }
     .other-site-nav {
         padding-left: 5px;
     }
