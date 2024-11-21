@@ -10,30 +10,40 @@ site_title: ML For Systems
     <section class="main-content">
       <h2 id="speakers">Speakers</h2>
 	    <div class="speaker-bio">
-				<div class="img-holder" style="background-image: url(/assets/images/speakers/jeff_dean.jpg)"></div>
-				<div>
-					<h3 class="keynote-speaker">Jeff Dean</h3>
-          <h5 class="keynote-speaker">Keynote Speaker</h5>
-                    <h3>Exciting Directions in Machine Learning for Computer Systems</h3>
-					<p>
-Jeff Dean joined Google in mid-1999, and is currently Google's Chief Scientist, focusing on AI advances for Google
-DeepMind and Google Research. His areas of focus include machine learning and AI and applications of AI to
-problems that help billions of people in societally beneficial ways. Jeff co-founded Google Brain and is a co-designer
-and implementer of Tensorflow, MapReduce, BigTable and Spanner. He has been involved in several ML for Systems
-projects, including Learned Index Structures and ML for chip floorplanning.
-					</p>
-				</div>
-            </div>
-            <div class="speaker-bio">
-				<div class="img-holder" style="background-image: url(/assets/images/speakers/kraska)"></div>
-				<div>
-					<h3 class="keynote-speaker">Tim Kraska</h3>
-          <h5 class="keynote-speaker">Retrospective</h5>
-                    <h3>TBD</h3>
-					<p>Tim Kraska is a professor
-                    at MIT and a research director at Amazon Web Services. His work focuses on Learned Systems: ML for Systems, and Systems for ML.
-					</p>
-				</div>
+			<div class="img-holder" style="background-image: url(/assets/images/speakers/jeff_dean.jpg)"></div>
+			<div>
+				<h3 class="keynote-speaker">Jeff Dean</h3>
+                <h5 class="keynote-speaker">Keynote Speaker</h5>
+                <h3>Exciting Directions in Machine Learning for Computer Systems</h3>
+				<p>
+                    Jeff Dean joined Google in mid-1999, and is currently Google's Chief Scientist, focusing on AI advances for Google
+                    DeepMind and Google Research. His areas of focus include machine learning and AI and applications of AI to
+                    problems that help billions of people in societally beneficial ways. Jeff co-founded Google Brain and is a co-designer
+                    and implementer of Tensorflow, MapReduce, BigTable and Spanner. He has been involved in several ML for Systems
+                    projects, including Learned Index Structures and ML for chip floorplanning.
+				</p>
+			</div>
+        </div>
+        <div class="speaker-bio">
+			<div class="img-holder" style="background-image: url(/assets/images/speakers/richard_ho.jpg)"></div>
+			<div>
+				<h3 class="keynote-speaker">Richard Ho</h3>
+                <h5 class="keynote-speaker">Hardware</h5>
+                <h3>Navigating Scaling and Efficiency Challenges of ML Systems</h3>
+				<p>Richard is Head of Hardware at OpenAI working to co-optimize ML models and the massive compute hardware they run on. Richard was one of the early engineers working on Google TPUs and helped lead the team through TPUv5. Before Google, Richard was part of the D. E. Shaw Research team that built the Anton 1 and Anton 2 molecular dynamics simulation supercomputers, both of which won the Gordon Bell Prize. Richard started his career as co-founder and Chief Architect of 0-In Design Automation, a pioneer in formal verification tools for chip design which was acquired by Mentor Graphics/Siemens. Richard has a Ph.D. in Computer Science from Stanford University and M.Eng, B.Sc. from University of Manchester, UK.
+				</p>
+			</div>
+        </div>
+        <div class="speaker-bio">
+			<div class="img-holder" style="background-image: url(/assets/images/speakers/kraska)"></div>
+			<div>
+				<h3 class="keynote-speaker">Tim Kraska</h3>
+                <h5 class="keynote-speaker">Retrospective</h5>
+                <h3>TBD</h3>
+				<p>Tim Kraska is a professor
+                at MIT and a research director at Amazon Web Services. His work focuses on Learned Systems: ML for Systems, and Systems for ML.
+				</p>
+			</div>
         </div>
         <div class="speaker-bio">
 				<div class="img-holder" style="background-image: url(/assets/images/speakers/jacques.jpeg)"></div>
@@ -55,7 +65,9 @@ projects, including Learned Index Structures and ML for chip floorplanning.
 					</p>
 				</div>
         </div>
-
+    </section>
+</div>
+</div>
 <div class="inner clearfix">
 	<section class="main-content overview_section">
 		<h2>What To Expect</h2>
@@ -78,17 +90,7 @@ projects, including Learned Index Structures and ML for chip floorplanning.
         </p>
         <p>To build commonalities on the topic of LLMs interacting with computational systems, we specifically include seminal talks on emerging trends on training and serving LLMs from seasoned researchers and practitioners as a part of our invited speakers. Our call for papers also includes topics at the intersection of Systems and LLMs.
         </p>
-    <h2>Call for Papers</h2>
-    <p>We invite researchers to submit relevant papers through our <a href="/call_for_papers.html">call for papers</a>. Our program include contributed speakers and poster sessions from selected works.</p>
-    <!--h2>Camera-Ready Instructions</h2>
-        <p>For accepted papers, please update the camera-ready manuscript on OpenReview by <b>November 17th AoE</b>.</p>
-        <p>Please see instructions below:
-            <ul>
-                <li>The camera-ready template is the same as the one used for submission, which is same as NeurIPS papers. Kindly use the Final package. We have made some minor changes to the format. Please use <a href="/assets/latex/MLforSysLatexFiles.zip"><b>the template (.zip)</b></a></li> attached.
-                <li>There is a hard page limit of 4 pages (excluding references and Appendix).</li>
-                <li>Appendix and references do not have a limit</li>
-            </ul>
-        </p-->
+        <p>Our program include contributed speakers and poster sessions from selected works. Our <a href="/schedule.html">schedule</a> is available. We invited researchers to submit relevant papers through our <a href="/call_for_papers.html">call for papers</a>.</p>
 	</section>
 </div>
 <div class="organizers-section">
