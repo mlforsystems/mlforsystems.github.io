@@ -29,7 +29,8 @@
         {% assign root = page.url | slice: 1, 1000 | split: '/' | first | prepend: '/' %}
         {% endif %}
         <ul class="navigation">
-            <li class="navigation-link navigation-link-title"><a href="/">
+            <li class="navigation-link navigation-link-title" style="font-family: monospace;
+    font-weight: 500;"><a href="/">
               {{ temp_title | default: site.github.repository_name }}
             </a></li>
         {% for site_page in site.pages %}
