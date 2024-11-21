@@ -26,6 +26,17 @@ header img {
     content: none;
 }
 
+.main-content a {
+    color: inherit !important;
+    text-decoration: underline;
+    text-decoration-style: double;
+    text-decoration-thickness: 0.02em;
+    text-decoration-color:#c7c0eb;
+    &:hover {
+        background-color: #c7c0eb;
+      }
+}
+
 h5.keynote-speaker, h5.talk_speaker {
     margin-left: 0;
     margin-top: -18px;
@@ -125,14 +136,14 @@ li.navigation-link:hover, li.mobile-navigation-link:hover {
     color: #5029CA;
 }
 li.navigation-link-active {
-    color: #1B66F1;
+    color:#5029CA;
 }
 li.mobile-navigation-link-active {
     color:#F7FBFA;
-    background-color: #165ADC;
+    background-color:#5959a6;
 }
 li.navigation-link-active:hover, .mobile-navigation-active:hover {
-    color: #165ADC;
+    color:#5959a6;
 }
 li.navigation-link-title {
     margin-right: 50px;
@@ -197,6 +208,15 @@ li.navigation-link-title {
 }
 .schedule-table td, .schedule-table th {
     padding: 5px 10px 5px 10px;
+}
+.schedule-table a {
+    text-decoration: underline;
+    text-decoration-style: double;
+    text-decoration-thickness: 0.05em;
+    text-decoration-color:#5864a9;
+    &:hover {
+        text-decoration: none;
+    }
 }
 
 ul.footnotes {
@@ -297,6 +317,11 @@ li.navigation-home:hover {
     .mobile-navigation {
         display: block;
         margin: 0;
+        position: sticky;
+        top: 70px;
+        background: white;
+        box-shadow: 0 0 0px rgba(0,0,0,.14),0 1px 1px rgba(156, 139, 210, 0.32);
+        z-index: 10;
     }
     .speaker_section, .areas_of_interest_section .schedule_section, .organizers-section, .contact-us-section {
         padding-bottom: 20px;
@@ -319,7 +344,8 @@ li.navigation-home:hover {
         padding-bottom: 0;
     }
     header {
-        height: 120px;
+        height: 140px;
+        box-shadow: none;
     }
     .floating-description {
         padding-top: 35px;
