@@ -149,6 +149,8 @@ li.navigation-link-title {
     margin-right: 50px;
     font-size: 24px;
     color: black;
+    font-family: monospace;
+    font-weight: 500
 }
 .mobile-navigation {
     display: none;
@@ -317,10 +319,11 @@ li.navigation-home:hover {
     .mobile-navigation {
         display: block;
         margin: 0;
+        margin-left:35px;
         position: sticky;
         top: 70px;
         background: white;
-        box-shadow: 0 0 0px rgba(0,0,0,.14),0 1px 1px rgba(156, 139, 210, 0.32);
+        box-shadow: 0 0 0px rgba(0,0,0,.14),0 0 4px rgba(156, 139, 210, 0.32);
         z-index: 10;
     }
     .speaker_section, .areas_of_interest_section .schedule_section, .organizers-section, .contact-us-section {
@@ -352,7 +355,7 @@ li.navigation-home:hover {
         left: 25px;
         font-size: 20px;
     }
-    .speaker_section h2, .overview_section h2, .schedule_section h2, .areas_of_interest_section h2, .submission_section h2 {
+    .speaker_section h2, .overview_section h2, .schedule_section h2, .areas_of_interest_section h2, .submission_section h2, .accepted_papers_section h2 {
         font-size: 25px;
         text-align: left;
     }
@@ -379,7 +382,7 @@ li.navigation-home:hover {
 
 @media only screen and (max-width: 500px) {
     .other-site-nav {
-        padding-left: 5px;
+        padding-left: 35px;
     }
     .navigation-home-message {
         display: none;
