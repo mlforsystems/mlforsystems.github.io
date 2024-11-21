@@ -304,8 +304,10 @@ li.navigation-home {
     background: white;
     opacity: 0.9;
     height: auto;
-    border: 1px solid rgba(0,0,0,0.05);
+    border: 1px solid #c7c0eb;
     margin-right: 2px;
+    border-radius: 10px;
+    color:#5864a9;
 }
 li.navigation-home:hover {
     opacity: 1;
@@ -319,7 +321,6 @@ li.navigation-home:hover {
     .mobile-navigation {
         display: block;
         margin: 0;
-        margin-left:35px;
         position: sticky;
         top: 70px;
         background: white;
@@ -336,6 +337,8 @@ li.navigation-home:hover {
     li.navigation-home {
         padding: 8px 6px;
         margin-top: 2px;
+        border-radius: 30px;
+        border-color:#c7c0eb;
     }
     li.navigation-link-title {
         font-size: 20px;
