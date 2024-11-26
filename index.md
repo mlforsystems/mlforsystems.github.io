@@ -35,23 +35,22 @@ site_title: ML For Systems
 			</div>
         </div>
         <div class="speaker-bio">
-			<div class="img-holder" style="background-image: url(/assets/images/speakers/kraska)"></div>
+			<div class="img-holder" style="background-image: url(/assets/images/speakers/kraska.jpg)"></div>
 			<div>
 				<h3 class="keynote-speaker">Tim Kraska</h3>
                 <h5 class="keynote-speaker">Retrospective</h5>
                 <h3>TBD</h3>
-				<p>Tim Kraska is a professor
-                at MIT and a research director at Amazon Web Services. His work focuses on Learned Systems: ML for Systems, and Systems for ML.
+				<p>Tim Kraska is an associate professor of electrical engineering and computer science at MIT and director of applied science for Amazon Web Services. His work focuses on Learned Systems: ML for Systems, and Systems for ML.
 				</p>
 			</div>
         </div>
         <div class="speaker-bio">
-				<div class="img-holder" style="background-image: url(/assets/images/speakers/jacques.jpeg)"></div>
+				<div class="img-holder" style="background-image: url(/assets/images/speakers/jacques.jpg)"></div>
 				<div>
 					<h3 class="keynote-speaker">Natasha Jacques</h3>
           <h5 class="keynote-speaker">Special Topic: MARL</h5>
                     <h3>TBD</h3>
-					<p>Natasha Jacques is a an Assistant Professor at the University of Washington Paul G. Allen School of Computer Science & Engineering, where she leads the <a href="https://socialrl.cs.washington.edu/">Social RL Lab</a>. She is also a Senior Research Scientist at Google DeepMind. Her work develops algorithms for Social Reinforcement Learning, which combine insights from social learning and multi-agent training to improve AI agents’ learning, generalization, coordination, and human-AI interaction. She is a pioneer in using RL for finetuning language models and learning from human feedback.
+					<p>Natasha Jacques is an Assistant Professor at the University of Washington Paul G. Allen School of Computer Science & Engineering, where she leads the <a href="https://socialrl.cs.washington.edu/">Social RL Lab</a>. She is also a Senior Research Scientist at Google DeepMind. Her work develops algorithms for Social Reinforcement Learning, which combine insights from social learning and multi-agent training to improve AI agents’ learning, generalization, coordination, and human-AI interaction. She is a pioneer in using RL for finetuning language models and learning from human feedback.
 					</p>
 				</div>
         </div>
