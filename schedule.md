@@ -62,19 +62,23 @@ site_title: ML For Systems
 	<td style="text-align: left"><a href="#ahmed_talk"><b>CodeGen:</b> Ahmed El-Kishky</a> (<i>OpenAI</i>)<br>OpenAI's o1 Competing on IOI</td>
       </tr>
        <tr>
-            <td style="text-align: right; white-space: nowrap; font-size: 15px;">2:00 PM</td>
-            <td style="text-align: left">Contributed Talks:<ul><li>Don't Transform the Code, Code the Transforms: <br>Towards Precise Code Rewriting using LLMs</li><li>The Unreasonable Effectiveness of LLMs for Query Optimization</li></ul></td>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">2:20 PM</td>
+            <td style="text-align: left">CodeGen Contributed Talks:<ul><li>Don't Transform the Code, Code the Transforms: <br>Towards Precise Code Rewriting using LLMs</li><li>The Unreasonable Effectiveness of LLMs for Query Optimization</li></ul></td>
        </tr>
        <tr>
-        <td style="text-align: right; white-space: nowrap; font-size: 15px;">2:30 PM</td>
-        <td style="text-align: left">Contributed Talks: <ul><li><i>WarpDrive</i>: An Agentic Workflow for Ninja GPU Transformations</li><li>Scalable RL for Systems via Offline Imitation from Multiple Baselines: <br>A Case Study in Compiler Optimization</li></ul></td>
-      </tr>
-      <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">2:50 PM</td>
+            <td style="text-align: left">CodeGen: Q & A<br/></td>
+       </tr>
+       <tr>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">3:00 PM</td>
             <td style="text-align: left">Tea Break<br/></td>
+       </tr>
+       <tr>
+        <td style="text-align: right; white-space: nowrap; font-size: 15px;">3:10 PM</td>
+        <td style="text-align: left">Contributed Talks: <ul><li>Scalable RL for Systems via Offline Imitation from Multiple Baselines: <br>A Case Study in Compiler Optimization</li><li><i>WarpDrive</i>: An Agentic Workflow for Ninja GPU Transformations</li></ul></td>
       </tr>
       <tr>
-        <td style="text-align: right; white-space: nowrap; font-size: 15px;">3:00 PM</td>
+        <td style="text-align: right; white-space: nowrap; font-size: 15px;">3:30 PM</td>
         <td style="text-align: left">Poster Session 2<br/></td>
       </tr>
         </tbody>
