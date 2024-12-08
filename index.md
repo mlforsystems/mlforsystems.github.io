@@ -47,10 +47,10 @@ site_title: ML For Systems
         <div class="speaker-bio">
 				<div class="img-holder" style="background-image: url(/assets/images/speakers/jacques.jpg)"></div>
 				<div>
-					<h3 class="keynote-speaker">Natasha Jacques</h3>
+					<h3 class="keynote-speaker">Natasha Jaques</h3>
           <h5 class="keynote-speaker">Special Topic: MARL</h5>
                     <h3>TBD</h3>
-					<p>Natasha Jacques is an Assistant Professor at the University of Washington Paul G. Allen School of Computer Science & Engineering, where she leads the <a href="https://socialrl.cs.washington.edu/">Social RL Lab</a>. She is also a Senior Research Scientist at Google DeepMind. Her work develops algorithms for Social Reinforcement Learning, which combine insights from social learning and multi-agent training to improve AI agents’ learning, generalization, coordination, and human-AI interaction. She is a pioneer in using RL for finetuning language models and learning from human feedback.
+					<p>Natasha Jaques is an Assistant Professor at the University of Washington Paul G. Allen School of Computer Science & Engineering, where she leads the <a href="https://socialrl.cs.washington.edu/">Social RL Lab</a>. She is also a Senior Research Scientist at Google DeepMind. Her work develops algorithms for Social Reinforcement Learning, which combine insights from social learning and multi-agent training to improve AI agents’ learning, generalization, coordination, and human-AI interaction. She is a pioneer in using RL for finetuning language models and learning from human feedback.
 					</p>
 				</div>
         </div>

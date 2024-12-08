@@ -27,7 +27,7 @@ site_title: ML For Systems
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">9:15 AM</td>
-            <td style="text-align: left"><a href="#jacques_talk"><b>Invited:</b> Natasha Jacques</a> (<i>University of Washington</i>)<br>Multi-Agent Reinforcement Learning for Systems</td>
+            <td style="text-align: left"><a href="#jaques_talk"><b>Invited:</b> Natasha Jaques</a> (<i>University of Washington</i>)<br>Multi-Agent Reinforcement Learning for Systems</td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">9:55 AM</td>
@@ -51,7 +51,7 @@ site_title: ML For Systems
       </tr>
       <tr>
           <td style="text-align: right; white-space: nowrap; font-size: 15px;">1:00 PM</td>
-          <td style="text-align: left">Panel: Jeff Dean, Natasha Jacques, Tim Kraska </td>
+          <td style="text-align: left">Panel: Jeff Dean, Natasha Jaques, Tim Kraska </td>
        </tr>
        <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">1:45 PM</td>
