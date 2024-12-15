@@ -1,8 +1,8 @@
 ---
 title: Announcement
 workshop_name: neurips2024
-site_description: Workshop on ML for Systems at NeurIPS 2024, December 15, Vancouver Convention Center
-mini_site_description: Workshop on ML for Systems at NeurIPS '24, Dec 15
+site_description: Workshop on ML for Systems at NeurIPS 2024, December 15, Vancouver Convention Center, West Room 201
+mini_site_description: Workshop on ML for Systems at NeurIPS '24, Dec 15, W201
 site_title: ML For Systems
 ---
 <div class="speaker_section">
@@ -39,8 +39,8 @@ site_title: ML For Systems
 			<div>
 				<h3 class="keynote-speaker">Tim Kraska</h3>
                 <h5 class="keynote-speaker">Retrospective</h5>
-                <h3>TBD</h3>
-				<p>Tim Kraska is an associate professor of electrical engineering and computer science at MIT and director of applied science for Amazon Web Services. His work focuses on Learned Systems: ML for Systems, and Systems for ML.
+                <h3>ML and Generative AI for Data Systems</h3>
+				<p>Tim Kraska is a director of applied science at Amazon Web Services (AWS), a professor of Electrical Engineering and Computer Science (EECS) in MIT's Computer Science and Artificial Intelligence Laboratory (CSAIL), co-director of MIT's Data System and AI LAB (DSAIL@CSAIL), and was a co-founder of Instancio and of Einblick Analytics (both acquired). Currently, his research focuses on using ML/GAI for data systems. Before joining MIT, Tim was an Assistant Professor at Brown and spent time at Google Brain. Tim is a 2017 Alfred P. Sloan Research Fellow in computer science and received several awards including the VLDB Early Career Research Contribution Award, the Intel Outstanding Researcher Award,  the VMware Systems Research Award, the university-wide Early Career Research Achievement Award at Brown University, an NSF CAREER Award, as well as several best paper and demo awards at VLDB, SIGMOD, and ICDE.
 				</p>
 			</div>
         </div>
@@ -48,9 +48,9 @@ site_title: ML For Systems
 				<div class="img-holder" style="background-image: url(/assets/images/speakers/jacques.jpg)"></div>
 				<div>
 					<h3 class="keynote-speaker">Natasha Jaques</h3>
-          <h5 class="keynote-speaker">Special Topic: MARL</h5>
-                    <h3>TBD</h3>
-					<p>Natasha Jaques is an Assistant Professor at the University of Washington Paul G. Allen School of Computer Science & Engineering, where she leads the <a href="https://socialrl.cs.washington.edu/">Social RL Lab</a>. She is also a Senior Research Scientist at Google DeepMind. Her work develops algorithms for Social Reinforcement Learning, which combine insights from social learning and multi-agent training to improve AI agents’ learning, generalization, coordination, and human-AI interaction. She is a pioneer in using RL for finetuning language models and learning from human feedback.
+          <h5 class="keynote-speaker">Special Topic: MARL </h5>
+                    <h3>Leveraging Deep Multi-agent Reinforcement Learning (MARL) for NP-hard Combinatorial Optimization</h3>
+					<p>Natasha Jaques is an Assistant Professor of Computer Science and Engineering at the University of Washington, and a Senior Research Scientist at Google DeepMind. Her research focuses on Social Reinforcement Learning in multi-agent and human-AI interactions. During her PhD at MIT, she developed techniques for learning from human feedback signals to train language models which were later built on by OpenAI’s series of work on Reinforcement Learning from Human Feedback (RLHF). In the multi-agent space, she has developed techniques for improving coordination through the optimization of social influence, and adversarial environment generation for improving the robustness of RL agents. Natasha’s work has received various awards, including Best Demo at NeurIPS, an honourable mention for Best Paper at ICML, and the Outstanding PhD Dissertation Award from the Association for the Advancement of Affective Computing. Her work has been featured in Science Magazine, MIT Technology Review, Quartz, IEEE Spectrum, Boston Magazine, and on CBC radio, among others. Natasha earned her Masters degree from the University of British Columbia, undergraduate degrees in Computer Science and Psychology from the University of Regina, and completed a postdoc at UC Berkeley.
 					</p>
 				</div>
         </div>
@@ -99,17 +99,17 @@ site_title: ML For Systems
 			<ul>
 				<li><b>Mimee Xu</b>, NYU, <a href="https://twitter.com/MimeeXu">@MimeeXu</a></li>
                 <li><b>Dan Zhang</b>, Google DeepMind, <a href="https://www.linkedin.com/in/danzhang3">LinkedIn</a></li>
-                <li><b>Phitchaya Mangpo Phothilimthana</b>, Google DeepMind, <a href="https://www.linkedin.com/in/phitchaya-mangpo-phothilimthana">LinkedIn</a></li>
+                <li><b>Phitchaya Mangpo Phothilimthana</b>, OpenAI, <a href="https://www.linkedin.com/in/phitchaya-mangpo-phothilimthana">LinkedIn</a></li>
                 <li><b>Divya Mahajan</b>, Georgia Tech, <a href="https://twitter.com/divyamahajn">@DivyaMahajn</a></li>
                 <li><b>Haoran Qiu</b>, Microsoft Azure Research, <a href="https://www.linkedin.com/in/jamesqhr/">LinkedIn</a></li>
-                <li><b>Patrick Musau</b>, Google. <a href="https://www.linkedin.com/in/musaup/">LinkedIn</a></li>
+                <li><b>Patrick Musau</b>, Google, <a href="https://www.linkedin.com/in/musaup/">LinkedIn</a></li>
 			</ul>
             <h2>Steering Committee</h2>
 			<ul>
                 <li><b>Martin Maas</b>, Google DeepMind, <a href="https://twitter.com/martin_maas">@martin_maas</a></li>
                 <li><b>Jonathan Raiman</b>, NVIDIA, <a href="https://twitter.com/jonathanrraiman">@jonathanrraiman</a></li>
-                <li><b>Anna Goldie</b>, Anthropic, <a href="https://twitter.com/annadgoldie">@annadgoldie</a></li>
-                <li><b>Azalia Mirhoseini</b>, Anthropic, <a href="https://twitter.com/Azaliamirh">@Azaliamirh</a></li>
+                <li><b>Anna Goldie</b>, Google DeepMind, <a href="https://twitter.com/annadgoldie">@annadgoldie</a></li>
+                <li><b>Azalia Mirhoseini</b>, Stanford, <a href="https://twitter.com/Azaliamirh">@Azaliamirh</a></li>
 				<li><b>Milad Hashemi</b>, Google, <a href="https://twitter.com/miladhash">@miladhash</a></li>
 				<li><b>Kevin Swersky</b>, Google, <a href="https://twitter.com/kswersk">@kswersk</a></li>
 			</ul>

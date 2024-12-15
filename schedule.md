@@ -1,8 +1,8 @@
 ---
 title: Schedule
 workshop_name: neurips2024
-site_description: Workshop on ML for Systems at NeurIPS 2024, December 15, Vancouver Convention Center
-mini_site_description: Workshop on ML for Systems at NeurIPS '24, Dec 15
+site_description: Workshop on ML for Systems at NeurIPS 2024, December 15, Vancouver Convention Center, West Room 201
+mini_site_description: Workshop on ML for Systems at NeurIPS '24, Dec 15, W 201
 site_title: ML For Systems
 ---
 <div class="schedule_section virtual_schedule_section">
@@ -27,7 +27,7 @@ site_title: ML For Systems
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">9:15 AM</td>
-            <td style="text-align: left"><a href="#jaques_talk"><b>Invited:</b> Natasha Jaques</a> (<i>University of Washington</i>)<br>Multi-Agent Reinforcement Learning for Systems</td>
+            <td style="text-align: left"><a href="#jaques_talk"><b>Invited:</b> Natasha Jaques</a> (<i>University of Washington</i>)<br>Leveraging Deep Multi-agent Reinforcement Learning (MARL) for NP-hard Combinatorial Optimization</td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">9:55 AM</td>
@@ -39,7 +39,7 @@ site_title: ML For Systems
           </tr>
 	  <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">10:40 AM </td>
-            <td style="text-align: left"><a href="#kraska_talk"><b>Retrospective:</b></a> Tim Kraska (<i>MIT, AWS</i>)</td>
+            <td style="text-align: left"><a href="#kraska_talk"><b>Retrospective:</b> Tim Kraska</a> (<i>MIT, AWS</i>)<br>ML and Generative AI for Data Systems</td>
           </tr>
 	<tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">11:10 AM</td>
@@ -63,7 +63,7 @@ site_title: ML For Systems
       </tr>
        <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">2:20 PM</td>
-            <td style="text-align: left">CodeGen Contributed Talks:<ul><li>Don't Transform the Code, Code the Transforms: <br>Towards Precise Code Rewriting using LLMs</li><li>The Unreasonable Effectiveness of LLMs for Query Optimization</li></ul></td>
+            <td style="text-align: left"><b>CodeGen Contributed Talks</b><ul><li>Don't Transform the Code, Code the Transforms: <br>Towards Precise Code Rewriting using LLMs</li><li>The Unreasonable Effectiveness of LLMs for Query Optimization</li></ul></td>
        </tr>
        <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">2:50 PM</td>
@@ -75,7 +75,7 @@ site_title: ML For Systems
        </tr>
        <tr>
         <td style="text-align: right; white-space: nowrap; font-size: 15px;">3:10 PM</td>
-        <td style="text-align: left">Contributed Talks: <ul><li>Scalable RL for Systems via Offline Imitation from Multiple Baselines: <br>A Case Study in Compiler Optimization</li><li><i>WarpDrive</i>: An Agentic Workflow for Ninja GPU Transformations</li></ul></td>
+        <td style="text-align: left"><b>Contributed Talks</b> <ul><li>Scalable RL for Systems via Offline Imitation from Multiple Baselines: <br>A Case Study in Compiler Optimization</li><li><i>WarpDrive</i>: An Agentic Workflow for Ninja GPU Transformations</li></ul></td>
       </tr>
       <tr>
         <td style="text-align: right; white-space: nowrap; font-size: 15px;">3:30 PM</td>
