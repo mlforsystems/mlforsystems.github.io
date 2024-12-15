@@ -2,7 +2,7 @@
 title: Schedule
 workshop_name: neurips2024
 site_description: Workshop on ML for Systems at NeurIPS 2024, December 15, Vancouver Convention Center, West Room 201
-mini_site_description: Workshop on ML for Systems at NeurIPS '24, Dec 15, W 201
+mini_site_description: Workshop on ML for Systems at NeurIPS '24, Dec 15, West Room 201
 site_title: ML For Systems
 ---
 <div class="schedule_section virtual_schedule_section">
