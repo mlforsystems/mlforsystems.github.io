@@ -1,10 +1,11 @@
 ---
 title: Announcement
-site_description: Workshop on ML for Systems at NeurIPS 2025, TBA (will be December 6 or 7, 2025)
-mini_site_description: Workshop on ML for Systems at NeurIPS '25, TBA (will be December 6 or 7, 2025)
+workshop_name: neurips2024
+site_description: Workshop on ML for Systems at NeurIPS 2024, December 15, Vancouver Convention Center, West Room 201
+mini_site_description: Workshop on ML for Systems at NeurIPS '24, Dec 15, West Room 201
 site_title: ML For Systems
 ---
-<!-- <div class="speaker_section">
+<div class="speaker_section">
   <div class="inner clearfix">
     <section class="main-content">
       <h2 id="speakers">Speakers</h2>
@@ -65,7 +66,7 @@ site_title: ML For Systems
         </div>
     </section>
 </div>
-</div> -->
+</div>
 <div class="inner clearfix">
 	<section class="main-content overview_section">
 		<h2>What To Expect</h2>
@@ -88,7 +89,7 @@ site_title: ML For Systems
         </p>
         <p>To build commonalities on the topic of LLMs interacting with computational systems, we specifically include seminal talks on emerging trends on training and serving LLMs from seasoned researchers and practitioners as a part of our invited speakers. Our call for papers also includes topics at the intersection of Systems and LLMs.
         </p>
-        <p>Our program will include a variety of speakers and poster sessions from selected papers. We invite researchers to submit relevant papers through our <a href="/call_for_papers.html">call for papers</a>.</p>
+        <p>Our program include contributed speakers and poster sessions from selected works. Our <a href="/schedule.html">schedule</a> is available. We invited researchers to submit relevant papers through our <a href="/call_for_papers.html">call for papers</a>.</p>
 	</section>
 </div>
 <div class="organizers-section">
@@ -103,7 +104,7 @@ site_title: ML For Systems
                 <li><b>Haoran Qiu</b>, Microsoft Azure Research, <a href="https://www.linkedin.com/in/jamesqhr/">LinkedIn</a></li>
                 <li><b>Patrick Musau</b>, Google, <a href="https://www.linkedin.com/in/musaup/">LinkedIn</a></li>
 			</ul>
-            <!-- <h2>Steering Committee</h2>
+            <h2>Steering Committee</h2>
 			<ul>
                 <li><b>Martin Maas</b>, Google DeepMind, <a href="https://twitter.com/martin_maas">@martin_maas</a></li>
                 <li><b>Jonathan Raiman</b>, NVIDIA, <a href="https://twitter.com/jonathanrraiman">@jonathanrraiman</a></li>
@@ -111,7 +112,7 @@ site_title: ML For Systems
                 <li><b>Azalia Mirhoseini</b>, Stanford, <a href="https://twitter.com/Azaliamirh">@Azaliamirh</a></li>
 				<li><b>Milad Hashemi</b>, Google, <a href="https://twitter.com/miladhash">@miladhash</a></li>
 				<li><b>Kevin Swersky</b>, Google, <a href="https://twitter.com/kswersk">@kswersk</a></li>
-			</ul> -->
+			</ul>
             <h2>Contact Us</h2>
             <p>
                 Contact us at <a href="mailto:mlforsystems@googlegroups.com">mlforsystems@googlegroups.com</a>.
