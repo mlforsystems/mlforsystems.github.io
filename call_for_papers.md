@@ -11,7 +11,7 @@ site_title: ML For Systems
         <p>Machine Learning for Systems is an annual, interdisciplinary workshop that brings together researchers and practitioners in computer systems and machine learning, specifically focusing on the novel application of machine learning techniques towards computer systems problems.</p>
         <h2>Important Dates</h2>
             <ul>
-                <li>Submission Deadline: <b>August 22, 2025 by midnight (Anywhere in the World)</b>.</li>
+                <li>Submission Deadline: <b><s>August 22, 2025</s> August 29, 2025 by midnight (Anywhere in the World)</b>.</li>
                 <li>Acceptance Notifications: September 22, 2025</li>
                 <li>Workshop: TBA (will be December 6 or 7, 2025)</li></ul>
         <h2>Call for Papers</h2>
@@ -74,7 +74,7 @@ site_title: ML For Systems
                 We welcome submissions of up to 4 pages, not including references or Appendices. This year, this is a strict limit. Authors are welcome to put additional material in the optional Appendix section, but reviewers are not required to read the Appendix.
             </p>
             <p>
-                All submissions must be in PDF format and should follow the <a href="https://media.neurips.cc/Conferences/NeurIPS2025/Styles.zip">NeurIPS 2025 format</a>.
+                All submissions must be in PDF format and should follow the <a href="https://media.neurips.cc/Conferences/NeurIPS2025/Styles.zip">NeurIPS 2025 format</a>. Note: The NeurIPS checklist is <b>NOT</b> required for ML for Systems workshop papers.
             </p>
             <ul>
                 <li>Submissions do not have to be anonymized.</li>
