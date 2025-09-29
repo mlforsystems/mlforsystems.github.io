@@ -1,7 +1,7 @@
 ---
 title: Announcement
-site_description: Workshop on ML for Systems at NeurIPS 2025, TBA (will be December 6 or 7, 2025)
-mini_site_description: Workshop on ML for Systems at NeurIPS '25, TBA (will be December 6 or 7, 2025)
+site_description: Workshop on ML for Systems at NeurIPS 2025, December 6, 2025
+mini_site_description: Workshop on ML for Systems at NeurIPS '25, December 6, 2025
 site_title: ML For Systems
 ---
 <!-- <div class="speaker_section">
