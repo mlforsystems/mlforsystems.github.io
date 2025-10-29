@@ -74,7 +74,7 @@ site_title: ML For Systems
                 We welcome submissions of up to 4 pages, not including references or Appendices. This year, this is a strict limit. Authors are welcome to put additional material in the optional Appendix section, but reviewers are not required to read the Appendix.
             </p>
             <p>
-                All submissions must be in PDF format and should follow the <a href="latex/neurips_2025.sty">NeurIPS 2025 format</a>. Note: The NeurIPS checklist is <b>NOT</b> required for ML for Systems workshop papers.
+                All submissions must be in PDF format and should follow the <a href="assets/latex/neurips_2025.sty">NeurIPS 2025 format</a>. Note: The NeurIPS checklist is <b>NOT</b> required for ML for Systems workshop papers.
             </p>
             <ul>
                 <li>Submissions do not have to be anonymized.</li>
