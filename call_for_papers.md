@@ -1,8 +1,8 @@
 ---
 title: Call for Papers
 # workshop_name: neurips2025
-site_description: Workshop on ML for Systems at NeurIPS 2025, TBA (will be December 6 or 7, 2025)
-mini_site_description: Workshop on ML for Systems at NeurIPS '25, TBA (will be December 6 or 7, 2025)
+site_description: Workshop on ML for Systems at NeurIPS 2025, December 6, 2025
+mini_site_description: Workshop on ML for Systems at NeurIPS '25, December 6, 2025
 site_title: ML For Systems
 ---
 <div class="inner clearfix">
@@ -13,7 +13,7 @@ site_title: ML For Systems
             <ul>
                 <li>Submission Deadline: <b><s>August 22, 2025</s> August 29, 2025 by midnight (Anywhere in the World)</b>.</li>
                 <li>Acceptance Notifications: September 22, 2025</li>
-                <li>Workshop: TBA (will be December 6 or 7, 2025)</li></ul>
+                <li>Workshop: December 6, 2025</li></ul>
         <h2>Call for Papers</h2>
         <p>We invite submission of up to <b>4-page</b> extended abstracts in the broad area of <b>using machine learning in the design and management of computer systems </b>.
         We are especially interested in submissions that move beyond using machine learning to replace numerical heuristics. </p>
