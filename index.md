@@ -1,7 +1,7 @@
 ---
 title: Announcement
-site_description: Workshop on ML for Systems at NeurIPS 2025, December 6, 2025
-mini_site_description: Workshop on ML for Systems at NeurIPS '25, December 6, 2025
+site_description: Workshop on ML for Systems at NeurIPS 2025, December 6, San Diego Convention Center, Upper Level Room 5AB
+mini_site_description: Workshop on ML for Systems at NeurIPS '25, Dec 6, Upper Level Room 5AB
 site_title: ML For Systems
 ---
 <!-- <div class="speaker_section">
