@@ -17,69 +17,77 @@ site_title: ML For Systems
           </tr>
         </thead>
         <tbody>
-	  <tr>
-          <td style="text-align: right; white-space: nowrap; font-size: 15px;">8:15 AM</td>
+	     <tr>
+          <td style="text-align: right; white-space: nowrap; font-size: 15px;">8:30 AM</td>
 			    <td style="text-align: left">Mimee Xu (<i>NYU</i>)<br/> Opening Remarks</td>
           </tr>
           <tr>
-          <td style="text-align: right; white-space: nowrap; font-size: 15px;">8:20 AM</td>
-			    <td style="text-align: left"><a href="#dean_talk"><b>Keynote:</b> Jeff Dean</a> (<i>Google</i>)<br/> Advances in Machine Learning for Systems</td>
+          <td style="text-align: right; white-space: nowrap; font-size: 15px;">8:40 AM</td>
+			    <td style="text-align: left"><a href="#dean_talk"><b>Keynote:</b> Azalia Mirhoseni</a> (<i>Google</i>)<br/> Self-improving AI and the Future of Computing Systems</td>
           </tr>
           <tr>
-            <td style="text-align: right; white-space: nowrap; font-size: 15px;">9:15 AM</td>
-            <td style="text-align: left"><a href="#jaques_talk"><b>Invited:</b> Natasha Jaques</a> (<i>University of Washington</i>)<br>Leveraging Deep Multi-agent Reinforcement Learning (MARL) for NP-hard Combinatorial Optimization</td>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">9:20 AM</td>
+            <td style="text-align: left"><a href="#jaques_talk"><b>Invited:</b> Hanson Wang </a> (<i>Open AI</i>)<br>Coding Agents at Scale with OpenAI Codex</td>
           </tr>
-          <tr>
-            <td style="text-align: right; white-space: nowrap; font-size: 15px;">9:55 AM</td>
-            <td style="text-align: left">Coffee Break<br/></td>
+		  <tr>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">9:45 AM</td>
+            <td style="text-align: left"><a href="#jaques_talk"><b>Invited:</b> Vinod Grover </a> (<i>Nvidia</i>)<br>The Essence of CUDA and AI for GPUs</td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">10:10 AM</td>
-			<td style="text-align: left"><a href="#richardho_talk"><b>Hardware:</b> Richard Ho</a> (<i>OpenAI</i>)<br>Navigating Scaling and Efficiency Challenges of ML Systems</td>
+            <td style="text-align: left">Coffee Break<br/></td>
           </tr>
-	  <tr>
-            <td style="text-align: right; white-space: nowrap; font-size: 15px;">10:40 AM </td>
-            <td style="text-align: left"><a href="#kraska_talk"><b>Retrospective:</b> Tim Kraska</a> (<i>MIT, AWS</i>)<br>ML and Generative AI for Data Systems</td>
+          <tr>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">10:25 AM</td>
+			<td style="text-align: left"><a href="#richardho_talk"><b>Invited:</b> Neeraja Yadwakar</a> (<i>UT Austin</i>)<br>TBD</td>
           </tr>
-	<tr>
+	      <tr>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">10:50 AM </td>
+            <td style="text-align: left"><b>Spotlight:</b> Yusheng Zheng(<i>UCSC</i>)<br>Towards Agentic OS: An LLM Agent Framework for Linux Schedulers</td>
+          </tr>
+		  <tr>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">11:00 AM </td>
+            <td style="text-align: left"><b>Spotlight:</b> Janani Ram (<i>UT-Austin</i>)<br>Automated Multi-Agent Workflows for RTL Design</td>
+          </tr>
+	      <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">11:10 AM</td>
             <td style="text-align: left">Poster Session 1 <br/></td>
-      </tr>
-      <tr>
+          </tr>
+          <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">12:00 PM</td>
             <td style="text-align: left">Lunch Break<br/></td>
-      </tr>
-      <tr>
-          <td style="text-align: right; white-space: nowrap; font-size: 15px;">1:00 PM</td>
-          <td style="text-align: left">Panel: Jeff Dean, Natasha Jaques, Tim Kraska </td>
-       </tr>
-       <tr>
-            <td style="text-align: right; white-space: nowrap; font-size: 15px;">1:45 PM</td>
+          </tr>
+		  <tr>
+          <td style="text-align: right; white-space: nowrap; font-size: 15px;">1:30 PM</td>
+			    <td style="text-align: left"><a href="#dean_talk"><b>Keynote:</b> Ion Stoica</a> (<i>Berkeley</i>)<br/>How AI is Disrupting Systems Research</td>
+          </tr>
+          <tr>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">2:15 PM</td>
+            <td style="text-align: left">Debate: Jason Ansel, Dylan Patel, Neeraja Yadwakar, Hanson Wang.<br/>"Will Agentic AI Systems Replace System Developers?"</td>
+          </tr>
+          <tr>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">3:15 PM</td>
             <td style="text-align: left">Coffee Break<br/></td>
-      </tr>
+         </tr>
+		 <tr>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">3:30 PM</td>
+            <td style="text-align: left"><a href="#jaques_talk"><b>Invited:</b> Rahul Arya  </a> (<i>Google</i>)<br>Advances in LLM Serving Efficiency at Scale</td>
+          </tr>
+         <tr>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">3:55 PM </td>
+            <td style="text-align: left"><b>Spotlight:</b> Arya Tschand(<i>Harvard</i>)<br>SwizzlePerf: Hardware-Aware LLMs for GPU Kernel Performance Optimization</td>
+          </tr>
+		  <tr>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">4:05 PM </td>
+            <td style="text-align: left"><b>Spotlight:</b> Ruokai Yin (<i>Yale</i>)<br>Learning to Shard: RL for Co-optimizing the Parallelism Degrees and Per-operator Sharding Dimensions in Distributed LLM Inference</td>
+          </tr>
        <tr>
-        <td style="text-align: right; white-space: nowrap; font-size: 15px;">2:00 PM</td>
-	<td style="text-align: left"><a href="#ahmed_talk"><b>CodeGen:</b> Ahmed El-Kishky</a> (<i>OpenAI</i>)<br>OpenAI's o1 Competing on IOI</td>
-      </tr>
-       <tr>
-            <td style="text-align: right; white-space: nowrap; font-size: 15px;">2:20 PM</td>
-            <td style="text-align: left"><b>CodeGen Contributed Talks</b><ul><li>Don't Transform the Code, Code the Transforms: <br>Towards Precise Code Rewriting using LLMs</li><li>The Unreasonable Effectiveness of LLMs for Query Optimization</li></ul></td>
+            <td style="text-align: right; white-space: nowrap; font-size: 15px;">4:15 PM</td>
+            <td style="text-align: left">Poster Session 2<br/></td>
        </tr>
-       <tr>
-            <td style="text-align: right; white-space: nowrap; font-size: 15px;">2:40 PM</td>
-            <td style="text-align: left">CodeGen: Q & A<br/></td>
-       </tr>
-       <tr>
-            <td style="text-align: right; white-space: nowrap; font-size: 15px;">2:50 PM</td>
-            <td style="text-align: left">Tea Break<br/></td>
-       </tr>
-       <tr>
-        <td style="text-align: right; white-space: nowrap; font-size: 15px;">3:10 PM</td>
-        <td style="text-align: left"><b>Contributed Talks</b> <ul><li>Scalable RL for Systems via Offline Imitation from Multiple Baselines: <br>A Case Study in Compiler Optimization</li><li><i>WarpDrive</i>: An Agentic Workflow for Ninja GPU Transformations</li></ul></td>
-      </tr>
       <tr>
-        <td style="text-align: right; white-space: nowrap; font-size: 15px;">3:30 PM</td>
-        <td style="text-align: left">Poster Session 2<br/></td>
+        <td style="text-align: right; white-space: nowrap; font-size: 15px;">6:00 PM</td>
+        <td style="text-align: left">ML for Systems After Party<br/></td>
       </tr>
         </tbody>
       </table>
