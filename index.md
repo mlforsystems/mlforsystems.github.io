@@ -4,68 +4,73 @@ site_description: Workshop on ML for Systems at NeurIPS 2025, December 6, San Di
 mini_site_description: Workshop on ML for Systems at NeurIPS '25, Dec 6, Upper Level Room 5AB
 site_title: ML For Systems
 ---
-<!-- <div class="speaker_section">
+<div class="speaker_section">
   <div class="inner clearfix">
     <section class="main-content">
       <h2 id="speakers">Speakers</h2>
 	    <div class="speaker-bio">
-			<div class="img-holder" style="background-image: url(/assets/images/speakers/jeff_dean.jpg)"></div>
+			<div class="img-holder" style="background-image: url(/assets/images/speakers/azalia_mirhoseini.jpg)"></div>
 			<div>
-				<h3 class="keynote-speaker">Jeff Dean</h3>
+				<h3 class="keynote-speaker">Azalia Mirhoseini</h3>
                 <h5 class="keynote-speaker">Keynote Speaker</h5>
-                <h3>Exciting Directions in Machine Learning for Computer Systems</h3>
-				<p>
-                    Jeff Dean joined Google in mid-1999, and is currently Google's Chief Scientist, focusing on AI advances for Google
-                    DeepMind and Google Research. His areas of focus include machine learning and AI and applications of AI to
-                    problems that help billions of people in societally beneficial ways. Jeff co-founded Google Brain and is a co-designer
-                    and implementer of Tensorflow, MapReduce, BigTable and Spanner. He has been involved in several ML for Systems
-                    projects, including Learned Index Structures and ML for chip floorplanning.
-				</p>
+                <h3>Self-improving AI and the Future of Computing Systems</h3>
+				<p>Azalia Mirhoseini is an Assistant Professor of Computer Science and founder of Scaling Intelligence Lab at Stanford University. Her lab develops scalable and self-improving AI systems and methodologies towards the goal of advancing artificial general intelligence. She has spent several years in industry AI labs, including Google Brain, Anthropic, and Google DeepMind. Her past work includes Mixture-of-Experts (MoE) neural architectures, now commonly used in leading generative AI models; AlphaChip, a pioneering work on deep reinforcement learning for layout optimization used in the design of advanced chips like AI accelerators (TPUs) and data center CPUs; and research on inference-time scaling laws. Her research has been recognized through the MIT Technology Review 35 Under 35 Award, Okawa Foundation Research Award, Best ECE Thesis Award at Rice University, publications in flagship venues such as Nature, and coverage by various media outlets, including MIT Technology Review, IEEE Spectrum, The Verge, The Times, ZDNet, VentureBeat, and WIRED.</p>
 			</div>
         </div>
         <div class="speaker-bio">
-			<div class="img-holder" style="background-image: url(/assets/images/speakers/richard_ho.jpg)"></div>
+			<div class="img-holder" style="background-image: url(/assets/images/speakers/ion_stoica.png)"></div>
 			<div>
-				<h3 class="keynote-speaker">Richard Ho</h3>
-                <h5 class="keynote-speaker">Hardware</h5>
-                <h3>Navigating Scaling and Efficiency Challenges of ML Systems</h3>
-				<p>Richard is Head of Hardware at OpenAI working to co-optimize ML models and the massive compute hardware they run on. Richard was one of the early engineers working on Google TPUs and helped lead the team through TPUv5. Before Google, Richard was part of the D. E. Shaw Research team that built the Anton 1 and Anton 2 molecular dynamics simulation supercomputers, both of which won the Gordon Bell Prize. Richard started his career as co-founder and Chief Architect of 0-In Design Automation, a pioneer in formal verification tools for chip design which was acquired by Mentor Graphics/Siemens. Richard has a Ph.D. in Computer Science from Stanford University and M.Eng, B.Sc. from University of Manchester, UK.
+				<h3 class="keynote-speaker">Ion Stoica</h3>
+                <h5 class="keynote-speaker">Keynote</h5>
+                <h3> How AI is Disrupting Systems Research</h3>
+				<p> Ion Stoica is a Professor in the EECS Department and holds the Xu Bao Chancellor Chair at the University of California, Berkeley. He is the Director of the Sky Computing Lab and the Executive Chairman of Databricks and Anyscale. His current research focuses on AI systems and cloud computing, and his work includes numerous open-source projects such as vLLM, SGLang, Chatbot Arena, SkyPilot, Ray, and Apache Spark. He is a Member of the National Academy of Engineering, an Honorary Member of the Romanian Academy, and an ACM Fellow. He has also co-founded several companies, including LMArena (2025), Anyscale (2019), Databricks (2013), and Conviva (2006).
 				</p>
 			</div>
         </div>
         <div class="speaker-bio">
-			<div class="img-holder" style="background-image: url(/assets/images/speakers/kraska.jpg)"></div>
+			<div class="img-holder" style="background-image: url(/assets/images/speakers/hanson_wang.png)"></div>
 			<div>
-				<h3 class="keynote-speaker">Tim Kraska</h3>
-                <h5 class="keynote-speaker">Retrospective</h5>
-                <h3>ML and Generative AI for Data Systems</h3>
-				<p>Tim Kraska is a director of applied science at Amazon Web Services (AWS), a professor of Electrical Engineering and Computer Science (EECS) in MIT's Computer Science and Artificial Intelligence Laboratory (CSAIL), co-director of MIT's Data System and AI LAB (DSAIL@CSAIL), and was a co-founder of Instancio and of Einblick Analytics (both acquired). Currently, his research focuses on using ML/GAI for data systems. Before joining MIT, Tim was an Assistant Professor at Brown and spent time at Google Brain. Tim is a 2017 Alfred P. Sloan Research Fellow in computer science and received several awards including the VLDB Early Career Research Contribution Award, the Intel Outstanding Researcher Award,  the VMware Systems Research Award, the university-wide Early Career Research Achievement Award at Brown University, an NSF CAREER Award, as well as several best paper and demo awards at VLDB, SIGMOD, and ICDE.
+				<h3 class="keynote-speaker">Hanson Wang</h3>
+                <h5 class="keynote-speaker">Invited Talk</h5>
+                <h3>Coding Agents at Scale with OpenAI Codex</h3>
+				<p>Hanson Wang is a research engineer at OpenAI, where he focuses on the Codex models integrated into ChatGPT. With Codex, users can delegate coding tasks to parallel agents working autonomously in the cloud to analyze the codebase and generate pull requests. Hanson worked on training the first codex-1 model launched in May and has been continuously iterating on the model since then. Prior to joining OpenAI, he co-founded a startup building AI analyst agents, and worked on ML infrastructure at Meta. Hanson holds a degree in Computer Science from the University of Waterloo.
 				</p>
 			</div>
         </div>
         <div class="speaker-bio">
-				<div class="img-holder" style="background-image: url(/assets/images/speakers/jacques.jpg)"></div>
+				<div class="img-holder" style="background-image: url(/assets/images/speakers/vinod_grover.jpg)"></div>
 				<div>
-					<h3 class="keynote-speaker">Natasha Jaques</h3>
-          <h5 class="keynote-speaker">Special Topic: MARL </h5>
-                    <h3>Leveraging Deep Multi-agent Reinforcement Learning (MARL) for NP-hard Combinatorial Optimization</h3>
-					<p>Natasha Jaques is an Assistant Professor of Computer Science and Engineering at the University of Washington, and a Senior Research Scientist at Google DeepMind. Her research focuses on Social Reinforcement Learning in multi-agent and human-AI interactions. During her PhD at MIT, she developed techniques for learning from human feedback signals to train language models which were later built on by OpenAI’s series of work on Reinforcement Learning from Human Feedback (RLHF). In the multi-agent space, she has developed techniques for improving coordination through the optimization of social influence, and adversarial environment generation for improving the robustness of RL agents. Natasha’s work has received various awards, including Best Demo at NeurIPS, an honourable mention for Best Paper at ICML, and the Outstanding PhD Dissertation Award from the Association for the Advancement of Affective Computing. Her work has been featured in Science Magazine, MIT Technology Review, Quartz, IEEE Spectrum, Boston Magazine, and on CBC radio, among others. Natasha earned her Masters degree from the University of British Columbia, undergraduate degrees in Computer Science and Psychology from the University of Regina, and completed a postdoc at UC Berkeley.
+					<h3 class="keynote-speaker">Vinod Grover</h3>
+          <h5 class="keynote-speaker">Invited Talk</h5>
+                    <h3>The Essence of CUDA and AI for GPUs</h3>
+					<p>Vinod Grover is a Sr. Distinguished Engineer at NVIDIA, where he has worked since 2007. He led the team that created the CUDA C++ language and compiler, helping make GPU computing faster and easier across many fields. Since 2017, he has applied language and compiler ideas to accelerate deep-learning models, leading a small group focused on performance and developer productivity. He also continues to advance GPU architectures and the CUDA programming model. Previously, he held engineering, research, and management roles at Sun Microsystems and Microsoft. He holds a bachelor’s in physics from IIT Delhi and a master’s in computer science from Syracuse University.
 					</p>
 				</div>
         </div>
             <div class="speaker-bio">
-				<div class="img-holder" style="background-image: url(/assets/images/speakers/ahmed.jpeg)"></div>
+				<div class="img-holder" style="background-image: url(/assets/images/speakers/neeraja_yadwadkar.png)"></div>
 				<div>
-					<h3 class="keynote-speaker">Ahmed El-Kishky</h3>
-          <h5 class="keynote-speaker">Special Topic: CodeGen</h5>
-                    <h3>OpenAI o1 Competing in International Olympiad of Informatics</h3>
-					<p>Ahmed El-Kishky is a Research Lead at OpenAI, where he focuses on advancing language models and improving AI reasoning through reinforcement learning. He was instrumental in developing OpenAI o1, a model built for complex problem-solving, and led the creation of OpenAI o1-IOI, which competed in prestigious programming competitions such as the International Olympiad in Informatics. Ahmed earned his Ph.D. in Computer Science from the University of Illinois at Urbana-Champaign, where his research centered on scalable machine learning algorithms and natural language processing.
+					<h3 class="keynote-speaker">Neeraja Yadwakar </h3>
+          <h5 class="keynote-speaker">Invited Talk</h5>
+                    <h3>TBD</h3>
+					<p>Neeraja J. Yadwadkar is an assistant professor in the department of ECE at UT Austin. She is a Cloud Computing Systems researcher, with a strong background in Machine Learning (ML). Her works straddle the boundaries of Systems and ML. Specifically, advances in systems, machine learning, and hardware architectures are about to launch a new era in which we can use the entire cloud as a computer. On the other hand, new ML techniques are being developed for solving complex resource management problems in systems. Similarly, systems research is getting influenced by properties of emerging ML algorithms, and evolving hardware architectures.  Bridging these complementary fields, her research focuses on using and developing ML techniques for systems, and building systems for ML.
+					</p>
+				</div>
+        </div>
+		   <div class="speaker-bio">
+				<div class="img-holder" style="background-image: url(/assets/images/speakers/rahul_arya.png)"></div>
+				<div>
+					<h3 class="keynote-speaker">Rahul Arya</h3>
+          <h5 class="keynote-speaker">Invited Talk</h5>
+                    <h3>Advances in LLM Serving Efficiency at Scale</h3>
+					<p>Rahul Arya is a research engineer at Google DeepMind contributing to the training and inference performance of Gemini models. He previously worked on the XLA:TPU compiler.
 					</p>
 				</div>
         </div>
     </section>
 </div>
-</div> -->
+</div>
+
 <div class="inner clearfix">
 	<section class="main-content overview_section">
 		<h2>What To Expect</h2>
