@@ -23,15 +23,15 @@ site_title: ML For Systems
           </tr>
           <tr>
           <td style="text-align: right; white-space: nowrap; font-size: 15px;">8:40 AM</td>
-			    <td style="text-align: left"><a href="index.md#azalia_bio"><b>Keynote:</b> Azalia Mirhoseni</a> (<i>Google</i>)<br/> Self-improving AI and the Future of Computing Systems</td>
+			    <td style="text-align: left"><a href="/#azalia_bio"><b>Keynote:</b> Azalia Mirhoseni</a> (<i>Google</i>)<br/> Self-improving AI and the Future of Computing Systems</td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">9:20 AM</td>
-            <td style="text-align: left"><a href="#jaques_talk"><b>Invited:</b> Hanson Wang </a> (<i>Open AI</i>)<br>Coding Agents at Scale with OpenAI Codex</td>
+            <td style="text-align: left"><a href="/#wang_bio"><b>Invited:</b> Hanson Wang </a> (<i>Open AI</i>)<br>Coding Agents at Scale with OpenAI Codex</td>
           </tr>
 		  <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">9:45 AM</td>
-            <td style="text-align: left"><a href="#jaques_talk"><b>Invited:</b> Vinod Grover </a> (<i>Nvidia</i>)<br>The Essence of CUDA and AI for GPUs</td>
+            <td style="text-align: left"><a href="/#grover_bio"><b>Invited:</b> Vinod Grover </a> (<i>Nvidia</i>)<br>The Essence of CUDA and AI for GPUs</td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">10:10 AM</td>
@@ -39,7 +39,7 @@ site_title: ML For Systems
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">10:25 AM</td>
-			<td style="text-align: left"><a href="#richardho_talk"><b>Invited:</b> Neeraja Yadwakar</a> (<i>UT Austin</i>)<br>TBD</td>
+			<td style="text-align: left"><a href="/#yadwakar_bio"><b>Invited:</b> Neeraja Yadwakar</a> (<i>UT Austin</i>)<br>TBD</td>
           </tr>
 	      <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">10:50 AM </td>
@@ -59,7 +59,7 @@ site_title: ML For Systems
           </tr>
 		  <tr>
           <td style="text-align: right; white-space: nowrap; font-size: 15px;">1:30 PM</td>
-			    <td style="text-align: left"><a href="#dean_talk"><b>Keynote:</b> Ion Stoica</a> (<i>Berkeley</i>)<br/>How AI is Disrupting Systems Research</td>
+			    <td style="text-align: left"><a href="/#stoica_bio"><b>Keynote:</b> Ion Stoica</a> (<i>Berkeley</i>)<br/>How AI is Disrupting Systems Research</td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">2:15 PM</td>
@@ -71,7 +71,7 @@ site_title: ML For Systems
          </tr>
 		 <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">3:30 PM</td>
-            <td style="text-align: left"><a href="#jaques_talk"><b>Invited:</b> Rahul Arya  </a> (<i>Google</i>)<br>Advances in LLM Serving Efficiency at Scale</td>
+            <td style="text-align: left"><a href="/#arya_bio"><b>Invited:</b> Rahul Arya  </a> (<i>Google</i>)<br>Advances in LLM Serving Efficiency at Scale</td>
           </tr>
          <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">3:55 PM </td>
