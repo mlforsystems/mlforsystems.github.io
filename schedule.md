@@ -23,7 +23,7 @@ site_title: ML For Systems
           </tr>
           <tr>
           <td style="text-align: right; white-space: nowrap; font-size: 15px;">8:40 AM</td>
-			    <td style="text-align: left"><a href="/#azalia_bio"><b>Keynote:</b> Azalia Mirhoseni</a> (<i>Google</i>)<br/> Self-improving AI and the Future of Computing Systems</td>
+			    <td style="text-align: left"><a href="index.md#azalia_bio"><b>Keynote:</b> Azalia Mirhoseni</a> (<i>Google</i>)<br/> Self-improving AI and the Future of Computing Systems</td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">9:20 AM</td>
