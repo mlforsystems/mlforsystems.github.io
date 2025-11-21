@@ -8,7 +8,7 @@ site_title: ML For Systems
   <div class="inner clearfix">
     <section class="main-content">
       <h2 id="speakers">Speakers</h2>
-	    <div class="speaker-bio">
+	    <div class="speaker-bio" id="azalia_bio">
 			<div class="img-holder" style="background-image: url(/assets/images/speakers/azalia_mirhoseini.jpg)"></div>
 			<div>
 				<h3 class="keynote-speaker">Azalia Mirhoseini</h3>
@@ -17,7 +17,7 @@ site_title: ML For Systems
 				<p>Azalia Mirhoseini is an Assistant Professor of Computer Science and founder of Scaling Intelligence Lab at Stanford University. Her lab develops scalable and self-improving AI systems and methodologies towards the goal of advancing artificial general intelligence. She has spent several years in industry AI labs, including Google Brain, Anthropic, and Google DeepMind. Her past work includes Mixture-of-Experts (MoE) neural architectures, now commonly used in leading generative AI models; AlphaChip, a pioneering work on deep reinforcement learning for layout optimization used in the design of advanced chips like AI accelerators (TPUs) and data center CPUs; and research on inference-time scaling laws. Her research has been recognized through the MIT Technology Review 35 Under 35 Award, Okawa Foundation Research Award, Best ECE Thesis Award at Rice University, publications in flagship venues such as Nature, and coverage by various media outlets, including MIT Technology Review, IEEE Spectrum, The Verge, The Times, ZDNet, VentureBeat, and WIRED.</p>
 			</div>
         </div>
-        <div class="speaker-bio">
+        <div class="speaker-bio" id="stoica_bio">
 			<div class="img-holder" style="background-image: url(/assets/images/speakers/ion_stoica.png)"></div>
 			<div>
 				<h3 class="keynote-speaker">Ion Stoica</h3>
@@ -27,7 +27,7 @@ site_title: ML For Systems
 				</p>
 			</div>
         </div>
-        <div class="speaker-bio">
+        <div class="speaker-bio" id="wang_bio">
 			<div class="img-holder" style="background-image: url(/assets/images/speakers/hanson_wang.png)"></div>
 			<div>
 				<h3 class="keynote-speaker">Hanson Wang</h3>
@@ -37,7 +37,7 @@ site_title: ML For Systems
 				</p>
 			</div>
         </div>
-        <div class="speaker-bio">
+        <div class="speaker-bio" id="grover_bio">
 				<div class="img-holder" style="background-image: url(/assets/images/speakers/vinod_grover.jpg)"></div>
 				<div>
 					<h3 class="keynote-speaker">Vinod Grover</h3>
@@ -47,7 +47,7 @@ site_title: ML For Systems
 					</p>
 				</div>
         </div>
-            <div class="speaker-bio">
+            <div class="speaker-bio" id="yadwakar_bio">
 				<div class="img-holder" style="background-image: url(/assets/images/speakers/neeraja_yadwadkar.png)"></div>
 				<div>
 					<h3 class="keynote-speaker">Neeraja Yadwakar </h3>
@@ -57,7 +57,7 @@ site_title: ML For Systems
 					</p>
 				</div>
         </div>
-		   <div class="speaker-bio">
+		   <div class="speaker-bio" id="arya_bio">
 				<div class="img-holder" style="background-image: url(/assets/images/speakers/rahul_arya.png)"></div>
 				<div>
 					<h3 class="keynote-speaker">Rahul Arya</h3>
