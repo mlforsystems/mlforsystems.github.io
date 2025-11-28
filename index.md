@@ -67,6 +67,26 @@ site_title: ML For Systems
 					</p>
 				</div>
         </div>
+		 <div class="speaker-bio" id="patel_bio">
+				<div class="img-holder" style="background-image: url(/assets/images/speakers/jason_ansel.png)"></div>
+				<div>
+					<h3 class="keynote-speaker">Jason Ansel</h3>
+          <h5 class="keynote-speaker">Invited Panelist</h5>
+                    <h3>Will Agentic AI Systems Replace System Developers?</h3>
+					<p>Jason Ansel is a Research Scientist at Meta AI and a technical lead for PyTorch compilers. He started the TorchDynamo and TorchInductor projects, which bring flexible graph capture and a high performance compiler to PyTorch 2. He received a Ph.D. from MIT and has over 15 years of experience in machine learning, compilers, and programming languages.
+					</p>
+				</div>
+        </div>
+		<div class="speaker-bio" id="patel_bio">
+				<div class="img-holder" style="background-image: url(/assets/images/speakers/dylan_patel.png)"></div>
+				<div>
+					<h3 class="keynote-speaker">Dylan Patel</h3>
+          <h5 class="keynote-speaker">Invited Panelist</h5>
+                    <h3>Will Agentic AI Systems Replace System Developers?</h3>
+					<p>Dylan is the Founder, CEO, and Chief Analyst of SemiAnalysis – the preeminent authority on all things AI and semiconductors. Through Dylan’s unwavering commitment to excellence, he has built the firm from the ground up as the recognized authority on the semiconductor supply chain to the cloud ecosystem, machine learning models, and all things in between. Since 2020, SemiAnalysis has transformed its business from a solo venture into a cohesive and focused team to provide breaking news and in-depth analysis for the most strategic, complex, and escalating challenges in the semiconductor industry.
+					</p>
+				</div>
+        </div>
     </section>
 </div>
 </div>
