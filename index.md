@@ -50,9 +50,9 @@ site_title: ML For Systems
             <div class="speaker-bio" id="yadwakar_bio">
 				<div class="img-holder" style="background-image: url(/assets/images/speakers/neeraja_yadwadkar.png)"></div>
 				<div>
-					<h3 class="keynote-speaker">Neeraja Yadwakar </h3>
+					<h3 class="keynote-speaker">Neeraja Yadwadkar </h3>
           <h5 class="keynote-speaker">Invited Talk</h5>
-                    <h3>TBD</h3>
+                    <h3>Systematic Implications of AI/ML for Systems</h3>
 					<p>Neeraja J. Yadwadkar is an assistant professor in the department of ECE at UT Austin. She is a Cloud Computing Systems researcher, with a strong background in Machine Learning (ML). Her works straddle the boundaries of Systems and ML. Specifically, advances in systems, machine learning, and hardware architectures are about to launch a new era in which we can use the entire cloud as a computer. On the other hand, new ML techniques are being developed for solving complex resource management problems in systems. Similarly, systems research is getting influenced by properties of emerging ML algorithms, and evolving hardware architectures.  Bridging these complementary fields, her research focuses on using and developing ML techniques for systems, and building systems for ML.
 					</p>
 				</div>
