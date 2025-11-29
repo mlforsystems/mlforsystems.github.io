@@ -23,7 +23,7 @@ site_title: ML For Systems
           </tr>
           <tr>
           <td style="text-align: right; white-space: nowrap; font-size: 15px;">8:40 AM</td>
-			    <td style="text-align: left"><a href="index.html#azalia_bio"><b>Keynote:</b> Azalia Mirhoseni</a> (<i>Google</i>)<br/> Self-improving AI and the Future of Computing Systems</td>
+			    <td style="text-align: left"><a href="index.html#azalia_bio"><b>Keynote:</b> Azalia Mirhoseni</a> (<i>Stanford</i>)<br/> Self-improving AI and the Future of Computing Systems</td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">9:20 AM</td>
@@ -39,7 +39,7 @@ site_title: ML For Systems
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">10:25 AM</td>
-			<td style="text-align: left"><a href="index.html#yadwakar_bio"><b>Invited:</b> Neeraja Yadwakar</a> (<i>UT Austin</i>)<br>TBD</td>
+			<td style="text-align: left"><a href="index.html#yadwakar_bio"><b>Invited:</b> Neeraja Yadwadkar</a> (<i>UT Austin</i>)<br>Systematic Implications of AI/ML for Systems</td>
           </tr>
 	      <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">10:50 AM </td>
