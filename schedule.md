@@ -63,7 +63,7 @@ site_title: ML For Systems
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">2:15 PM</td>
-            <td style="text-align: left">Debate: Jason Ansel, Dylan Patel, Neeraja Yadwakar, Hanson Wang.<br/>"Will Agentic AI Systems Replace System Developers?"</td>
+            <td style="text-align: left">Debate: Jason Ansel, Dylan Patel, Neeraja Yadwadkar, Hanson Wang.<br/>"Will Agentic AI Systems Replace System Developers?"</td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">3:15 PM</td>
