@@ -39,7 +39,7 @@ site_title: ML For Systems
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">10:25 AM</td>
-			<td style="text-align: left"><a href="index.html#yadwakar_bio"><b>Invited:</b> Neeraja Yadwadkar</a> (<i>UT Austin</i>)<br>Systematic Implications of AI/ML for Systems</td>
+			<td style="text-align: left"><a href="index.html#yadwakar_bio"><b>Invited:</b> Neeraja Yadwadkar</a> (<i>UT Austin</i>)<br>Systemic Implications of AI/ML for Systems</td>
           </tr>
 	      <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">10:50 AM </td>
@@ -63,7 +63,7 @@ site_title: ML For Systems
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">2:15 PM</td>
-            <td style="text-align: left">Debate: Jason Ansel, Dylan Patel, Neeraja Yadwakar, Hanson Wang.<br/>"Will Agentic AI Systems Replace System Developers?"</td>
+            <td style="text-align: left">Debate: Jason Ansel, Dylan Patel, Neeraja Yadwadkar, Hanson Wang.<br/>"Will Agentic AI Systems Replace System Developers?"</td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">3:15 PM</td>
