@@ -76,7 +76,7 @@ site_title: ML For Systems
                 We welcome submissions of up to 4 pages, not including references or Appendices. This year, this is a strict limit. Authors are welcome to put additional material in the optional Appendix section, but reviewers are not required to read the Appendix.
             </p>
             <p>
-                All submissions must be in PDF format and should follow the <a href="https://media.neurips.cc/Conferences/NeurIPS2026/Styles.zip">NeurIPS 2026 format</a>.
+                All submissions must be in PDF format and should follow the <a href="https://media.neurips.cc/Conferences/NeurIPS2026/Formatting_Instructions_For_NeurIPS_2026.zip">NeurIPS 2026 format</a>.
             </p>
             <ul>
                 <li>Submissions do not have to be anonymized.</li>
