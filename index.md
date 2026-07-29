@@ -1,10 +1,10 @@
 ---
 title: Announcement
-site_description: Workshop on ML for Systems at NeurIPS 2025, December 6, San Diego Convention Center, Upper Level Room 5AB
-mini_site_description: Workshop on ML for Systems at NeurIPS '25, Dec 6, Upper Level Room 5AB
+site_description: Workshop on ML for Systems at NeurIPS 2026, TBA (will be December 11 or 12, 2026)
+mini_site_description: Workshop on ML for Systems at NeurIPS '26, TBA (will be December 11 or 12, 2026)
 site_title: ML For Systems
 ---
-<div class="speaker_section">
+<!-- <div class="speaker_section">
   <div class="inner clearfix">
     <section class="main-content">
       <h2 id="speakers">Speakers</h2>
@@ -89,7 +89,7 @@ site_title: ML For Systems
         </div>
     </section>
 </div>
-</div>
+</div> -->
 
 <div class="inner clearfix">
 	<section class="main-content overview_section">
@@ -100,9 +100,9 @@ site_title: ML For Systems
         </p>
         <h3>Workshop Direction</h3>
         <p>
-        In previous 6 editions, we showcased specific approaches and frameworks to solve problems, bringing together researchers and practitioners at NeurIPS from both the ML and systems communities. While breaking new grounds, we encouraged collaborations and development in a broad range of ML for Systems works, many later published in top-tier conferences <sup><a href="https://arxiv.org/abs/1906.08879">11</a>, <a href="https://arxiv.org/abs/1805.08166">13</a>, <a href="https://arxiv.org/abs/1810.01963">14</a>, <a href="https://arxiv.org/abs/1811.01704">15</a>, <a href="https://arxiv.org/abs/1808.07412">16</a>, <a href="https://arxiv.org/abs/2104.04955">17</a>, <a href="https://dl.acm.org/doi/10.1145/3439706.3447045">18</a></sup>. This year, we plan to continue this path while encouraging work in key emerging areas such as Large Language Model (LLM) training and serving, and unifying benchmarks on key problems such as scheduling and compiling through a competition.
+        In previous 9 editions, we showcased specific approaches and frameworks to solve problems, bringing together researchers and practitioners at NeurIPS from both the ML and systems communities. While breaking new grounds, we encouraged collaborations and development in a broad range of ML for Systems works, many later published in top-tier conferences <sup><a href="https://arxiv.org/abs/1906.08879">11</a>, <a href="https://arxiv.org/abs/1805.08166">13</a>, <a href="https://arxiv.org/abs/1810.01963">14</a>, <a href="https://arxiv.org/abs/1811.01704">15</a>, <a href="https://arxiv.org/abs/1808.07412">16</a>, <a href="https://arxiv.org/abs/2104.04955">17</a>, <a href="https://dl.acm.org/doi/10.1145/3439706.3447045">18</a></sup>. This year, we plan to continue this path while exploring how emerging ML paradigms—including large language models (LLMs), multimodal foundation models, and agentic workflows—can be leveraged to address systems challenges and improve the efficiency, reliability, and scalability of ML infrastructure itself.
         </p>
-        <p>Recently, the rise of Large Language Models (LLMs) has presented new opportunities and challenges within the domain of computer systems. Our community is well-positioned to produce science and stimulate discussion for adapting to the new paradigm, especially how LLMs can be used to solve systems problems, and using ML to address systems issues that emerge from LLM training and serving. Additionally, as the field matures, we emphasize on keeping the research open, and the science reproducible. To that end, we are supplementing our main program with a competition track to crystallize the field’s progress.
+        <p>Recently, the rise of LLMs, multimodal foundation models, and agentic workflows has presented new opportunities and challenges within the domain of computer systems. Our community is well-positioned to produce science and stimulate discussion for adapting to this new paradigm. We seek to explore both how these models can be used to solve systems problems, and how to address systems issues that emerge from large-scale training and serving of such models. Additionally, we place emphasis on developing best practices, methodologies, benchmarks, datasets, simulators, and evaluation frameworks that improve rigor, reproducibility, reliability, and trustworthiness in ML for Systems research.
         </p>
         <h3>Workshop Goals </h3>
         <p>NeurIPS provides a unique opportunity to bring together systems researchers and researchers from other sub-areas of ML who had not previously considered applying their techniques in a computer systems context. We see the goal of our workshop as solving the following two objectives:
@@ -110,8 +110,6 @@ site_title: ML For Systems
             <li>Opening up connections between research areas that were not previously considered, connecting the ML and Systems communities, growing the scope of ML for Systems work and unlocking new research opportunities.</li>
             <li>Developing best practices, methodologies and benchmarks for the ML for Systems field.</li>
         </ul>
-        </p>
-        <p>To build commonalities on the topic of LLMs interacting with computational systems, we specifically include seminal talks on emerging trends on training and serving LLMs from seasoned researchers and practitioners as a part of our invited speakers. Our call for papers also includes topics at the intersection of Systems and LLMs.
         </p>
         <p>Our program will include a variety of speakers and poster sessions from selected papers. We invite researchers to submit relevant papers through our <a href="/call_for_papers.html">call for papers</a>.</p>
 	</section>
@@ -121,12 +119,12 @@ site_title: ML For Systems
 		<section class="main-content">
 			<h2>Organizing Committee</h2>
 			<ul>
-				<li><b>Mimee Xu</b>, NYU Law/Berkeley LBL, <a href="https://twitter.com/MimeeXu">@MimeeXu</a></li>
-                <li><b>Dan Zhang</b>, Google DeepMind, <a href="https://www.linkedin.com/in/danzhang3">LinkedIn</a></li>
-                <li><b>Phitchaya Mangpo Phothilimthana</b>, OpenAI, <a href="https://www.linkedin.com/in/phitchaya-mangpo-phothilimthana">LinkedIn</a></li>
-                <li><b>Divya Mahajan</b>, Georgia Tech, <a href="https://twitter.com/divyamahajn">@DivyaMahajn</a></li>
-                <li><b>Haoran Qiu</b>, Microsoft Azure Research, <a href="https://www.linkedin.com/in/jamesqhr/">LinkedIn</a></li>
-                <li><b>Patrick Musau</b>, Google, <a href="https://www.linkedin.com/in/musaup/">LinkedIn</a></li>
+				<li><b>Divya Mahajan</b>, Georgia Tech, <a href="https://twitter.com/divyamahajn">@DivyaMahajn</a></li>
+				<li><b>Patrick Musau</b>, Google, <a href="https://www.linkedin.com/in/musaup/">LinkedIn</a></li>
+				<li><b>Phitchaya Mangpo Phothilimthana</b>, OpenAI, <a href="https://www.linkedin.com/in/phitchaya-mangpo-phothilimthana">LinkedIn</a></li>
+				<li><b>Haoran Qiu</b>, Microsoft Azure Research, <a href="https://www.linkedin.com/in/jamesqhr/">LinkedIn</a></li>
+				<li><b>Mimee Xu</b>, NYU, <a href="https://twitter.com/MimeeXu">@MimeeXu</a></li>
+				<li><b>Dan Zhang</b>, Recursive Intelligence, <a href="https://www.linkedin.com/in/danzhang3">LinkedIn</a></li>
 			</ul>
             <!-- <h2>Steering Committee</h2>
 			<ul>
@@ -142,4 +140,5 @@ site_title: ML For Systems
                 Contact us at <a href="mailto:mlforsystems@googlegroups.com">mlforsystems@googlegroups.com</a>.
             </p>
 		</section>
+</div>
 </div>

@@ -1,6 +1,6 @@
 ---
 title: Schedule
-# workshop_name: neurips2024
+workshop_name: neurips2025
 site_description: Workshop on ML for Systems at NeurIPS 2025, December 6, San Diego Convention Center, Upper Level Room 5AB
 mini_site_description: Workshop on ML for Systems at NeurIPS '25, Dec 6, Upper Level Room 5AB
 site_title: ML For Systems
