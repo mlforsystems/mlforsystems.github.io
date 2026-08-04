@@ -1,8 +1,8 @@
 ---
 title: Call for Papers
 # workshop_name: neurips2026
-site_description: Workshop on ML for Systems at NeurIPS 2026, TBA (will be December 11 or 12, 2026)
-mini_site_description: Workshop on ML for Systems at NeurIPS '26, TBA (will be December 11 or 12, 2026)
+site_description: Workshop on ML for Systems at NeurIPS 2026, December 11 or 12 (TBA), International Convention Center Sydney
+mini_site_description: Workshop on ML for Systems at NeurIPS '26, Sydney, Australia
 site_title: ML For Systems
 ---
 <div class="inner clearfix">
