@@ -80,7 +80,7 @@ site_title: ML For Systems
             </p>
             <ul>
                 <li>Submissions do not have to be anonymized.</li>
-                <li>Please note that NeurIPS has changed their <a href="https://neurips.cc/Conferences/2026/Dates">workshop submission date guidelines</a> this year. Please submit your paper no later than <b>Saturday August 29th, 2026 midnight anywhere on earth</b> to our <a href="https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/MLForSys">OpenReview submission site</a>.</li>
+                <li>Please note that NeurIPS has changed their <a href="https://neurips.cc/Conferences/2026/Dates">workshop submission date guidelines</a> this year. Please submit your paper no later than <b><s>Saturday August 29th</s>s Monday August 31th, 2026 midnight anywhere on earth</b> to our <a href="https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/MLForSys">OpenReview submission site</a>.</li>
             </ul>
         </section>
     </div>
