@@ -1,8 +1,8 @@
 ---
 title: Call for Papers
 # workshop_name: neurips2026
-site_description: Workshop on ML for Systems at NeurIPS 2026, December 11 or 12 (TBA), International Convention Center Sydney
-mini_site_description: Workshop on ML for Systems at NeurIPS '26, Sydney, Australia
+site_description: Workshop on ML for Systems at NeurIPS 2026, December 12, International Convention Center Sydney, MR C4.5
+mini_site_description: Workshop on ML for Systems at NeurIPS '26, Dec 12, MR C4.5
 site_title: ML For Systems
 ---
 <div class="inner clearfix">
@@ -13,7 +13,7 @@ site_title: ML For Systems
             <ul>
                 <li>Paper Submission Deadline: <b>August 29, 2026 by midnight (Anywhere on Earth)</b>.</li>
                 <li>Paper Acceptance Notifications: September 29, 2026</li>
-                <li>Workshop: December 11 or 12, 2026 (To be announced)</li></ul>
+                <li>Workshop: December 12, 2026 (International Convention Center Sydney, MR C4.5)</li></ul>
         <h2>Call for Papers</h2>
         <p>We invite submissions of up to <b>4-page</b> extended abstracts describing novel research, systems, datasets, simulators, benchmarks, and methodologies in the broad area of ML for Systems. We are particularly interested in work that advances the state of the art beyond replacing hand-crafted heuristics with learned models, and instead develops principled approaches for designing, optimizing, operating, and evaluating complex systems.</p>
         <p>This year, we particularly encourage submissions on:

@@ -1,7 +1,7 @@
 ---
 title: Announcement
-site_description: Workshop on ML for Systems at NeurIPS 2026, December 11 or 12 (TBA), International Convention Center Sydney
-mini_site_description: Workshop on ML for Systems at NeurIPS '26, Sydney, Australia
+site_description: Workshop on ML for Systems at NeurIPS 2026, December 12, International Convention Center Sydney, MR C4.5
+mini_site_description: Workshop on ML for Systems at NeurIPS '26, Dec 12, MR C4.5
 site_title: ML For Systems
 ---
 <!-- <div class="speaker_section">
