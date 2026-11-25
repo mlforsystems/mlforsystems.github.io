@@ -63,19 +63,19 @@ site_title: ML For Systems
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">3:30–3:40 PM</td>
-            <td style="text-align: left"><b>Spotlight 1:</b> Samuel Kushnir &amp; Kavya Sreedhar (<i>Google DeepMind</i>)<br/>Agent for HW-SW co-design</td>
+            <td style="text-align: left"><b>Spotlight 1:</b> Samuel Kushnir &amp; Kavya Sreedhar (<i>Google DeepMind</i>)<br/>Coco: An Agentic Copilot for the Hardware–Software Co-Design Lifecycle</td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">3:40–3:50 PM</td>
-            <td style="text-align: left"><b>Spotlight 2:</b> Sethu Sankaran (<i>Google</i>)<br/>Agent for kernel optimization</td>
+            <td style="text-align: left"><b>Spotlight 2:</b> Sethu Sankaran (<i>Google</i>)<br/>MaxKernel: Agentic Kernel Generation for TPUs</td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">3:50–4:00 PM</td>
-            <td style="text-align: left"><b>Spotlight 3:</b> Jennifer Zhu (<i>Microsoft</i>)<br/>SpecRouter</td>
+            <td style="text-align: left"><b>Spotlight 3:</b> Jennifer Zhu (<i>Microsoft</i>)<br/>SpecRouter: Learned Cost-Aware Selection Among Heterogeneous Speculative Drafters</td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">4:00–4:10 PM</td>
-            <td style="text-align: left"><b>Spotlight 4:</b> Ishani Janveja (<i>UIUC</i>)<br/>Efficient VLM inference on edge</td>
+            <td style="text-align: left"><b>Spotlight 4:</b> Ishani Janveja (<i>UIUC</i>)<br/>Exploiting answer-invariant redundancies in satellite imagery for efficient VLM inference on edge</td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">4:10–5:00 PM</td>
