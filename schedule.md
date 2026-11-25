@@ -23,7 +23,7 @@ site_title: ML For Systems
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">9:10–9:55 AM</td>
-            <td style="text-align: left"><b>Keynote:</b> Partha (<i>Google</i>)<br/>Title TBD</td>
+            <td style="text-align: left"><b>Keynote:</b> Partha (<i>Google</i>)</td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">9:55–10:25 AM</td>
@@ -35,7 +35,7 @@ site_title: ML For Systems
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">10:40–11:40 AM</td>
-            <td style="text-align: left"><b>Panel:</b> Partha, Saibal, ??</td>
+            <td style="text-align: left"><b>Panel:</b> Partha, Saibal, and more</td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">11:40 AM–12:30 PM</td>
@@ -47,7 +47,7 @@ site_title: ML For Systems
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">1:30–2:15 PM</td>
-            <td style="text-align: left"><b>Keynote or Fireside Chat:</b> Behnam Neyshabur (<i>Mirendil</i>)<br/>Title TBD</td>
+            <td style="text-align: left"><b>Keynote or Fireside Chat:</b> Behnam Neyshabur (<i>Mirendil</i>)</td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">2:15–2:45 PM</td>
@@ -63,19 +63,19 @@ site_title: ML For Systems
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">3:30–3:40 PM</td>
-            <td style="text-align: left"><b>Spotlight 1:</b> Samuel Kushnir &amp; Kavya Sreedhar (<i>Google DeepMind</i>)<br/>Agent for HW-SW co-design</td>
+            <td style="text-align: left"><b>Spotlight 1:</b> Samuel Kushnir &amp; Kavya Sreedhar (<i>Google DeepMind</i>)<br/>Coco: An Agentic Copilot for the Hardware–Software Co-Design Lifecycle</td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">3:40–3:50 PM</td>
-            <td style="text-align: left"><b>Spotlight 2:</b> Sethu Sankaran (<i>Google</i>)<br/>Agent for kernel optimization</td>
+            <td style="text-align: left"><b>Spotlight 2:</b> Sethu Sankaran (<i>Google</i>)<br/>MaxKernel: Agentic Kernel Generation for TPUs</td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">3:50–4:00 PM</td>
-            <td style="text-align: left"><b>Spotlight 3:</b> Jennifer Zhu (<i>Microsoft</i>)<br/>SpecRouter</td>
+            <td style="text-align: left"><b>Spotlight 3:</b> Jennifer Zhu (<i>Microsoft</i>)<br/>SpecRouter: Learned Cost-Aware Selection Among Heterogeneous Speculative Drafters</td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">4:00–4:10 PM</td>
-            <td style="text-align: left"><b>Spotlight 4:</b> Ishani Janveja (<i>UIUC</i>)<br/>Efficient VLM inference on edge</td>
+            <td style="text-align: left"><b>Spotlight 4:</b> Ishani Janveja (<i>UIUC</i>)<br/>Exploiting answer-invariant redundancies in satellite imagery for efficient VLM inference on edge</td>
           </tr>
           <tr>
             <td style="text-align: right; white-space: nowrap; font-size: 15px;">4:10–5:00 PM</td>
